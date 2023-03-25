@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pars 12</title>
+            <author ref="#HughOfStVictor">Hugh of St. Victor</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Pars 12</title>
+               <date when="2023-03-25">March 25, 2023</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-bnhupl">Patrologia Latina, v. 176</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2023-03-25" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="260"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="hsvhsv-g50418"><!-- l2-p12 -->
+            <head xml:id="hsvhsv-g50418-Hd1e101">Pars 12</head>
+            <head xml:id="hsvhsv-g50418-Hd1e103" type="question-title">
+De votis
+</head>
+            <p xml:id="hsvhsv-g50418-d1e106">
+               <cb ed="#P" n="c"/>
+               <lb ed="#P" n="76"/>PARS DUODECIMA.
+<lb ed="#P" n="77"/>DE VOTIS.
+</p>
+            <div xml:id="hsvhsv-g50418-Dd1e115">
+               <head xml:id="hsvhsv-g50418-Hd1e117">Capitulum 1</head>
+               <head xml:id="hsvhsv-g50418-Hd1e119" type="question-title"/>
+               <p xml:id="hsvhsv-g50418-d1e121">
+                  <lb ed="#P" n="78"/>Cap. I. De votis, an sint diversa.
+</p>
+               <p xml:id="hsvhsv-g50418-d1e126">
+                  <lb ed="#P" n="79"/>De votis, votum non solvo; tu postulasti, et ego
+<lb ed="#P" n="80"/>quidem quod spopondi solvere cogor. Modicum
+<lb ed="#P" n="81"/>inter frequentes occupationes furatus otium 
+sum<lb ed="#P" break="no" n="82"/>matim perstrinxi, sed non plene prosecutus sum
+<lb ed="#P" n="83"/>quod quaesisti. Quieris de votis vtrum pari debito
+<lb ed="#P" n="84"/>et eadem necesaitate astringant promissores suos;
+<lb ed="#P" n="85"/>si interrogationi tuc tantum et non etinm 
+zedifi<lb ed="#P" break="no" n="86"/>cationi, responsum dare vellem, breviter 
+respon<lb ed="#P" break="no" n="87"/>dere potuissem, quod non unum in votis omnibus
+<lb ed="#P" n="88"/>debitum constat. Verum quia te non quiestionem
+<lb ed="#P" n="89"/>movisse, sed sdiflcationem magis quzesisse non
+<lb ed="#P" n="90"/>dubito, quantum interim pro tempore 
+possibili<lb ed="#P" break="no" n="91"/>tas se suggessit et ratio, devotioni tue satisfacere
+<lb ed="#P" n="92"/>conatus sum.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g50418-Dd1e160">
+               <head xml:id="hsvhsv-g50418-Hd1e162">Capitulum 2</head>
+               <head xml:id="hsvhsv-g50418-Hd1e164" type="question-title"/>
+               <p xml:id="hsvhsv-g50418-d1e166">
+                  <cb ed="#P" n="d"/>
+                  <lb ed="#P" n="93"/>Cap. II. De quinque modis quibus mens agenda
+<lb ed="#P" n="94"/>tractat.
+</p>
+               <p xml:id="hsvhsv-g50418-d1e175">
+                  <lb ed="#P" n="95"/>Quinque modisunt quibus humana mens agenda.
+<lb ed="#P" n="96"/>iractare consuevit : cogitatione, voluntate, 
+deli<lb ed="#P" break="no" n="97"/>beratione, promissione et voto. Aliud est cogitare
+<lb ed="#P" n="98"/>aliquid, atque aliud velle quod cogitaveris. Nam
+<lb ed="#P" n="99"/>et cogitare potes quod non vis, velle autem non
+<lb ed="#P" n="100"/>potes nisi cum placet id quod cogitaveris. Verum
+<lb ed="#P" n="101"/>aliquoties contingit ut id quod secundum 
+delec<lb ed="#P" break="no" n="102"/>tationem placet, secundum rationem non placeat,
+<lb ed="#P" n="103"/>et ut nondum ipsa rationis acquiescat ad illud ut
+<lb ed="#P" n="104"/>faciat ipsum quod delectat. Et est quidem in ipsa
+<lb ed="#P" n="105"/>delectatione quasi quaedam voluntas facti, sed in
+<lb ed="#P" n="106"/>ipsa ratione necdum tamen est propositum 
+fa<lb ed="#P" break="no" n="107"/>ciendi. Si autem secutum fuerit post. voluntatem
+<!-- 179.png.txt -->
+<pb ed="#P" n="261"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>propositum, ut mens in id quod delectat assensum 
+<lb ed="#P" n="2"/>confirmet, jam tenetur, sive ad culpam si malum
+<lb ed="#P" n="3"/>est, sivead meritum si bonum est. Hocautem totum
+<lb ed="#P" n="4"/>quod cogitationis est, et voluntatis est, et propositi
+<lb ed="#P" n="5"/>est, totuminipsa estet adipsam sivebonur sitsive
+<lb ed="#P" n="6"/>malum, et non teneturnisi inseet quantumin seest
+<lb ed="#P" n="7"/>tantumtenetur. Cumautem et promissio secuta 
+fue<lb ed="#P" break="no" n="8"/>rit post propositum, jam obligari incipit adversus
+<lb ed="#P" n="9"/>alium sponsor, et debitor fit promissionis sus pro
+<lb ed="#P" n="10"/>veritate servanda ad proximum. Siquidem bonum
+<lb ed="#P" n="11"/>est quod promisit, debitor est quia bonum est, et
+<lb ed="#P" n="12"/>quia promisit. Si autem malum est quod 
+promi<lb ed="#P" break="no" n="13"/>sit, debitor non est in eo quod malum est, quod
+<lb ed="#P" n="14"/>promisit. Reus tamen est quia promittere 
+prz<lb ed="#P" break="no" n="15"/>sumpsit, quod sine culpa implere non potuit.
+<lb ed="#P" n="16"/>Novissime sequitur votum in quo ampliusaliquid 
+<lb ed="#P" n="17"/>a promissione contineri videtur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g50418-Dd1e251">
+               <head xml:id="hsvhsv-g50418-Hd1e253">Capitulum 3</head>
+               <head xml:id="hsvhsv-g50418-Hd1e255" type="question-title"/>
+               <p xml:id="hsvhsv-g50418-d1e257">
+                  <lb ed="#P" n="18"/>Cap. III. Quid sit votum et quid. vovere.
+</p>
+               <p xml:id="hsvhsv-g50418-d1e262">
+                  <lb ed="#P" n="19"/>Votum enim est testificatio quaedam 
+promissio<lb ed="#P" break="no" n="20"/>nis spontaneae quae ad solum Deum et ad ea qua
+<lb ed="#P" n="21"/>Dei sunt magis proprie refertur. Vovere siquidem
+<lb ed="#P" n="22"/>est testificatione promissionis spontanee Deo se
+<lb ed="#P" n="23"/>obligare ac debitorem statuere. Nam qui 
+promit<lb ed="#P" break="no" n="24"/>tit simpliciter spondet se facturum aliquid; qui
+<lb ed="#P" n="25"/>vero vovet, contestatur promissioni suae et 
+affir<lb ed="#P" break="no" n="26"/>mat ipsam promissionem. Ubi inquantum est 
+pro<lb ed="#P" break="no" n="27"/>missio, tenetur, inquantum est contestatio, 
+obli<lb ed="#P" break="no" n="28"/>gatur. Votorum autem aliud occultum estad Deum
+<lb ed="#P" n="29"/>et coram Deo, aliud manifestum ad Deum coram
+<lb ed="#P" n="30"/>homine. Occultum votum fractum, peccatum est. 
+<lb ed="#P" n="31"/>Manifestum autem votum fractum, peccatum et
+<lb ed="#P" n="32"/>scandalum. In illo Deus offenditur, in isto vero
+<lb ed="#P" n="33"/>etiam in proximum peccatur. Quod si quiris quae
+<lb ed="#P" n="34"/>vota omnino tenenda sint, et quae item sine culpa
+<lb ed="#P" n="35"/>praetermitti sive etiam commutari possint, hanc
+<lb ed="#P" n="36"/>primam discretionem accipio.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g50418-Dd1e305">
+               <head xml:id="hsvhsv-g50418-Hd1e307">Capitulum 4</head>
+               <head xml:id="hsvhsv-g50418-Hd1e309" type="question-title"/>
+               <p xml:id="hsvhsv-g50418-d1e311">
+                  <lb ed="#P" n="37"/>Cap. IV. Qua vota tenenda non sint.
+</p>
+               <p xml:id="hsvhsv-g50418-d1e316">
+                  <lb ed="#P" n="38"/>Scriptura dicit: Vota stultorum frangenda
+<lb ed="#P" n="39"/>sunt (Eccle. v.). Vota quippe stultorum 
+intelligi<lb ed="#P" break="no" n="40"/>mus ea quae vel de malo fiunt, vel de bono male.
+<lb ed="#P" n="41"/>Verbi gratia: Si quis voveret quempiam 
+interfi<lb ed="#P" break="no" n="42"/>cere, sive quodlibet aliud in quo culpa constaret
+<lb ed="#P" n="43"/>se facturum, votum de malo esset, et malum 
+es<lb ed="#P" break="no" n="44"/>set, et idcirco faciendum non esset. In quo prima
+<lb ed="#P" n="45"/>culpa fuit vovere, secunda foret si impleretur 
+per<lb ed="#P" break="no" n="46"/>ficere. Similiter et votum de bono factum si bene
+<lb ed="#P" n="47"/>non fiat, inter votastultorum quzfrangenda sunt,
+<lb ed="#P" n="48"/>deputatur. Bene autem non fit etiam si debono sit
+<lb ed="#P" n="49"/>illud votum, in quovovetur vel quod nonlicet, vel
+<lb ed="#P" n="50"/>quod nonexpedit. Nonlicet, utsi mulier non 
+consen<lb ed="#P" break="no" n="51"/>tiente vel potius contradicente viro suo 
+continen<lb ed="#P" break="no" n="52"/>tiam voveat. Non expedit, ut si quispiam in jejunio
+<lb ed="#P" n="53"/>vel alio quolibet opere supra vires suas ac 
+possi<lb ed="#P" break="no" n="54"/>bilitatem suam aliquid se facturum esseproponat.
+<lb ed="#P" n="55"/>Hzc igitur omnia inter vota stultorum 
+deputan<lb ed="#P" break="no" n="56"/>tur, quae vel perversa sunt, vel illicita, vel 
+indis<lb ed="#P" break="no" n="57"/>creta. Ubi autem bonum vovetur, et bene 
+vove<lb ed="#P" break="no" n="58"/>tur, quaedam ejusmodi sunt ut commutationem
+<lb ed="#P" n="59"/>ex dispensatione suscipiant, quaedam vero talia
+<lb ed="#P" n="60"/>ut recompensationem omnino admittant.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g50418-Dd1e369">
+               <head xml:id="hsvhsv-g50418-Hd1e371">Capitulum 5</head>
+               <head xml:id="hsvhsv-g50418-Hd1e373" type="question-title"/>
+               <p xml:id="hsvhsv-g50418-d1e375">
+                  <cb ed="#P" n="b"/>
+                  <lb ed="#P" n="61"/>Cap. V. Quod. votum nullam commutationem
+<lb ed="#P" n="62"/>admittat.
+</p>
+               <p xml:id="hsvhsv-g50418-d1e384">
+                  <lb ed="#P" n="63"/>Vis scire quae sunt illa quae commutationem 
+ul<lb ed="#P" break="no" n="64"/>lam non patiuntur ? Fortassis mihi non credis, qui
+<lb ed="#P" n="65"/>auctoritatem quaeris, si quid ex universis unum
+<lb ed="#P" n="66"/>ego proferre voluero. Est tamen quoddam quod
+<lb ed="#P" n="67"/>commutationem nullam admittit. Nam dispensatio
+<lb ed="#P" n="68"/>esse non potest, ubi recompensatio esse non 
+po<lb ed="#P" break="no" n="69"/>potest. Dispensatio quippe nomen dispendii est,
+<lb ed="#P" n="70"/>detrimentum sonat quantum in ipso est. Stultum
+<lb ed="#P" n="71"/>vero est voluntarie damnum sustinere, ubi 
+nul<lb ed="#P" break="no" n="72"/>lum lucrum consequitur. Ubi autem in parvo 
+de<lb ed="#P" break="no" n="73"/>trimentum voluntarie toleratur ut in majori 
+Iu<lb ed="#P" break="no" n="74"/>crum proveniat, haec dispensatio vocatur, et bona
+<lb ed="#P" n="75"/>est dispensatio ista. Ecce ergo quomodo bene in
+<lb ed="#P" n="76"/>illo voluntarie damnum sustineri potest quo
+<lb ed="#P" n="77"/>majus nihil acquiri potest? Unum est, si aucto-.
+<lb ed="#P" n="78"/>ritate vis quod commutationem non recipit, non
+<lb ed="#P" n="79"/>ego dico, sed veritas dicit, et si egodico post 
+veri<lb ed="#P" break="no" n="80"/>tatem dico, et secundum veritatem dico ;quia non
+<lb ed="#P" n="81"/>dabit homo commutationem pro anima sua.
+<lb ed="#P" n="82"/>(Matth. xvi). Sed forte respondebis et dices quod
+<lb ed="#P" n="83"/>non dixit veritas non dabit, sed quam dabit homo
+<lb ed="#P" n="84"/>commutationem pro anima sua ? Ecce igitur non
+<lb ed="#P" n="85"/>affirmavit, sed interrogavit, tu responde, ai potes,
+<lb ed="#P" n="86"/>quam dabit homo commutationem pro anima sua?
+<lb ed="#P" n="87"/>Vides manifeste quod unum est quod 
+commuta<lb ed="#P" break="no" n="88"/>tionem non recipit, neque dispensationem admit»
+<lb ed="#P" n="89"/>tit. Hoc si voves, imo quia voves (non enim bonus
+<lb ed="#P" n="90"/>esse potes si hoc non voveris) redde quod vovisti
+<lb ed="#P" n="91"/>et ipsum quod vovisti redde, quia si aliud red-,
+<lb ed="#P" n="92"/>dere volueris, non accipitur pro isto quodcunque
+<lb ed="#P" n="93"/>illud fuerit: Vovete, inquit Psalmista, et reddite
+<lb ed="#P" n="94"/>Domino Deo vestro, omnes qui in circuitu ejus
+<lb ed="#P" n="95"/>ajfertis munera (Psal. Lxxv). Quae munera?
+<lb ed="#P" n="96"/>Afferte Domino filii Dei, aferte Domino filios
+<lb ed="#P" n="97"/>arietum (Psal. xxvn). Forte ista sunt munera
+<lb ed="#P" n="98"/>que vovere nos jubet et reddere Psalmista: 
+arie<lb ed="#P" break="no" n="99"/>tes et filii arietum cum dicit: Vovete, etc. Cui
+<lb ed="#P" n="100"/>munera ? Audi quid sequitur: Terribili et eiqui
+<lb ed="#P" n="101"/>anfert spiritum principum apud reges terra
+<lb ed="#P" n="102"/>(Psal. ixxv). Quid hoc pertinuit ut postquam
+<lb ed="#P" n="103"/>dixerat : Reddite Domino Deo vestro munera, stá-
+<lb ed="#P" n="104"/>tim subjungeret : Qui aufert spiritum principum ;
+<lb ed="#P" n="105"/>nisi quia ipsa munera ipsum spiritum significa,"
+<lb ed="#P" n="106"/>re voluit ? Sed si spiritum principum aufert, 
+au<lb ed="#P" break="no" n="107"/>ferre non poterit spiritum tuum ? Redde ergo 
+vo<lb ed="#P" break="no" n="108"/>luntarius ne amittas invitus. Vovete et reddite
+<lb ed="#P" n="109"/>Domino Deo vestro, omnes qui in circuitu ejus 
+af<lb ed="#P" break="no" n="110"/>fertis munera. Terribili et ei qui aufert spiritum
+<lb ed="#P" n="111"/>principum, terribili apud reges terrae. Videergo,
+<lb ed="#P" n="112"/>frater, quid est quod vovere et reddere nos 
+opor<lb ed="#P" break="no" n="113"/>tet Domino Deo nostro. Quod si post vovere vel
+<lb ed="#P" n="114"/>post votum reddere nolumus, tamen retinere non
+<lb ed="#P" n="115"/>valemus. Si reddimus, accipiet, si non reddimus,
+<lb ed="#P" n="116"/>tollet. Si reddimus, pro dato remunerabit, si non
+<lb ed="#P" n="117"/>reddimus, pro non datocondemnabit. Sienim 
+red<lb ed="#P" break="no" n="118"/>dimus, quod nostrum est damus, et reputatur ad
+<lb ed="#P" n="119"/>justitiam, si autem non reddimus, quod alienum
+<lb ed="#P" n="120"/>est retinemus, et imputatur ad culpam. Qui amat,
+<lb ed="#P" n="121"/>inquit, a«iémam suam perdet eam (Joan. xn).
+<lb ed="#P" n="122"/>et qui perdiderit animam. suam propter me
+<!-- 180.png.txt -->
+<pb ed="#P" n="262"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>inveniet eam. (Matth. x). Servat sibi qui mihi
+<lb ed="#P" n="2"/>tribuit, et qui sibi retinet amittit. Vovete ergo et
+<lb ed="#P" n="3"/>reddite. Si voves animam tuam, redde animam
+<lb ed="#P" n="4"/>tuam. Noli putare quod reddere possis pro anima
+<lb ed="#P" n="5"/>tua pecuniam tuam. Hocenim esset plus vovere
+<lb ed="#P" n="6"/>et minus reddere, et non esset aequa 
+recompensa<lb ed="#P" break="no" n="7"/>tio. Si tua das Deo, teipsum diabolo, non est equa
+<lb ed="#P" n="8"/>partitio. Nonne si recte offeras et non recte 
+divi<lb ed="#P" break="no" n="9"/>das, peccasti? Plus enim valet anima, et minus
+<lb ed="#P" n="10"/>peccunia. Nonne anima plus est quam esca, et
+<lb ed="#P" n="11"/>corpus plus quam vestimentum? (Matth. vi;
+<lb ed="#P" n="12"/>Luc. xit.) Si plus est anima quam esca, plus 
+uti<lb ed="#P" break="no" n="13"/>que est quam pecunia, quia et esca plus est quam.
+<lb ed="#P" n="14"/>pecunia. Propter escam enim datur pecunia, et si
+<lb ed="#P" n="15"/>non estesca, pecunia, quid esset? Nam quod
+<lb ed="#P" n="16"/>plus confert et prodest, ipsum plus esse 
+ne<lb ed="#P" break="no" n="17"/>cesse est. Si ergo. voves animam. noli pro 
+ani<lb ed="#P" break="no" n="18"/>ma dare pecuniam, quia si hoc facis, fraudem
+<lb ed="#P" n="19"/>facis ; plus vovenset minus reddens. Cum anima
+<lb ed="#P" n="20"/>tua dare potes pecuniam tuam, pro anima non
+<lb ed="#P" n="21"/>potes, nisi forte pro anima tua ita pecuniam tuam.
+<lb ed="#P" n="22"/>dare votueris, ut anima tua data acceptabilior
+<lb ed="#P" n="23"/>flat. Pro illa, cum illa amatur, pro illa sine illa
+<lb ed="#P" n="24"/>non accipitur. Noli ergo putare quod pro anima
+<lb ed="#P" n="25"/>tua, id est pro commutatione anime tus 
+pecu<lb ed="#P" break="no" n="26"/>niam tuam dare possis, quia et ipsam pecuniam
+<lb ed="#P" n="27"/>8ic dakam non aeciperet, et tu animam tuam 
+ser<lb ed="#P" break="no" n="28"/>vare non posses sic retentam. Itaque et pecunia
+<lb ed="#P" n="29"/>amitteretur, et anima non servaretur. Hoc igitur
+<lb ed="#P" n="30"/>unum est quod recompensationem non accipit.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g50418-Dd1e589">
+               <head xml:id="hsvhsv-g50418-Hd1e591">Capitulum 6</head>
+               <head xml:id="hsvhsv-g50418-Hd1e593" type="question-title"/>
+               <p xml:id="hsvhsv-g50418-d1e595">
+                  <lb ed="#P" n="31"/>Cap. VI. Quae vota commutationem patiuntur.
+</p>
+               <p xml:id="hsvhsv-g50418-d1e600">
+                  <lb ed="#P" n="32"/>Cetera omnia proloco et tempore et causa 
+com<lb ed="#P" break="no" n="33"/>mutationem admittunt. Vovisti aurum, argentum
+<lb ed="#P" n="34"/>reddere potes, quia quod pretio minus est, in 
+pon<lb ed="#P" break="no" n="35"/>dere majus esse potest. Vovisti peregrinationem
+<lb ed="#P" n="36"/>tuam Domino, commutationem admittit, si forte
+<lb ed="#P" n="37"/>expediat magis quod contingere potest, ut 
+perma<lb ed="#P" break="no" n="38"/>neas in patria tua et in domo tua. Nam si illic
+<lb ed="#P" n="39"/>persolvere potes aliud tantum valens. sive ad 
+la<lb ed="#P" break="no" n="40"/>borem operis sive ad devotionem virtutis, sive ad
+<lb ed="#P" n="41"/>utilitatem administrationis, commutationem dare
+<lb ed="#P" n="42"/>potes. Vovisti jejunium et hic commutatio esse
+<lb ed="#P" n="43"/>potest, si forte hoc non expediat quod contingere
+<lb ed="#P" n="44"/>potest. Aliud adhuc dico: Vovisti Deo servire in
+<lb ed="#P" n="45"/>aliquo loco, vel in habitu, vel in societate aliqua,
+<lb ed="#P" n="46"/>dico quod et hoc totum commutationem habere
+<lb ed="#P" n="47"/>potest, quia potest et locus destrui et homines
+<lb ed="#P" n="48"/>nori, et habitus mutari. Nunquid putas ideo 
+per<lb ed="#P" break="no" n="49"/>dis animam tuam si locus aliquis vastatur aut si
+<lb ed="#P" n="50"/>homines moriuntur ? Tantummodo ex te non fiat
+<lb ed="#P" n="51"/>quod in illis fit, neque in te remaneat quod a te
+<lb ed="#P" n="52"/>fleri debuit. Non est periculum tuum ubi non est.
+<lb ed="#P" n="53"/>culpa tua. Fac quod poteset quantum potes, et
+<lb ed="#P" n="54"/>sufficit tibi. À bona voluntate non amplius 
+exigi<lb ed="#P" break="no" n="55"/>tur nisi quantum potest. Si autem aliquid horum
+<lb ed="#P" n="56"/>voveris vel similium aliquid, quae invitis vel auferri
+<lb ed="#P" n="57"/>possunt, vel volentibus commutari, et implere 
+qui<lb ed="#P" break="no" n="58"/>dem vales quod vovisti, non est in tuo arbitrio
+<lb ed="#P" n="59"/>commutatio voti tui, etiamsi majus aliquid 
+vide<lb ed="#P" break="no" n="60"/>ris, vel melius faciendum quodfacias. Potest 
+qui<lb ed="#P" break="no" n="61"/>dem dispensatio fleri circa te, sed non debet fleri
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="62"/>a te. Nam tu quidem quantum in te est hoc debes
+<lb ed="#P" n="63"/>quod vovisti ipsum et non aliud. Non tibi licet
+<lb ed="#P" n="64"/>pro alio aliud commutare, sed dispensatori et 
+ma<lb ed="#P" break="no" n="65"/>gistro tuo; si voluerit et expedire noverit licet
+<lb ed="#P" n="66"/>aliud accipere. Si idem a te datur debitum est ;si
+<lb ed="#P" n="67"/>aliud ab illo accipitur, indulgentia est. Nam 
+idcir<lb ed="#P" break="no" n="68"/>co dispensator dicitur ille qui a subjectis omnibus
+<lb ed="#P" n="69"/>secundum utilitatem et fructum recompensationis
+<lb ed="#P" n="70"/>diversa quaedam a primis et alia ab iis quae 
+pro<lb ed="#P" break="no" n="71"/>posita fuerant salubri ac rationabili 
+commutatio<lb ed="#P" break="no" n="72"/>ne impendere potest. Sicut ergo votum tuum in
+<lb ed="#P" n="73"/>tua constat voluntate ; sic commutatio voti tuiin
+<lb ed="#P" n="74"/>illius constat potestate. Illic per te operari potest
+<lb ed="#P" n="75"/>bonum quod delectat, hic autem consulere debes
+<lb ed="#P" n="76"/>illum quod magis expediat. Est autem adhuc 
+am<lb ed="#P" break="no" n="77"/>plius aliquid quod dictis adjiciendum videtur.
+<lb ed="#P" n="78"/>Ecce vovisti virginitatem carnis tuse Domino Deo
+<lb ed="#P" n="79"/>tuo, dico quod reddere debes quod vovisti. Non
+<lb ed="#P" n="80"/>licet tibi retrospiscere, ut deinceps ad 
+experien<lb ed="#P" break="no" n="81"/>tiam carnis descendas. Dico ergo tibi, redde quod
+<lb ed="#P" n="82"/>debes. Non licet tibi aliud pro isto reddere,
+<lb ed="#P" n="83"/>8i istud potest reddere. Sed quid facimus? Ecce
+<lb ed="#P" n="84"/>vovisti et votum non tenuisti, quia 
+virgini<lb ed="#P" break="no" n="85"/>tatem, amisisti. Non potes amplius reddere 
+vir<lb ed="#P" break="no" n="86"/>ginitatem, non potes dare quod non habes. 
+Se<lb ed="#P" break="no" n="87"/>melamissa est virginitas, amplius reparari aut
+<lb ed="#P" n="88"/>recuperari non potest. Quid autem facies? Quid
+<lb ed="#P" n="89"/>reddes Domino Deo tuo pro virginitate tua quam
+<lb ed="#P" n="90"/>vovisti et post votum amisisti? Est ne aliquid
+<lb ed="#P" n="91"/>aliud quod pro ista reddi possit, ut debitum 
+red<lb ed="#P" break="no" n="92"/>datur et tantum votum impleatur? Si nihil est
+<lb ed="#P" n="93"/>aliud quod pro ista reddatur, salus non est iisqui
+<lb ed="#P" n="94"/>hanc voverunt, et amissam jam reddere non 
+pos<lb ed="#P" break="no" n="95"/>sunt. Nunquid igitur pontem misericordiw 
+przs<lb ed="#P" break="no" n="96"/>cindere audebimus ejusmodi ? Dicat hoc qui 
+au<lb ed="#P" break="no" n="97"/>det. Ego nec presumo nec volo. Videat qui hoc
+<lb ed="#P" n="98"/>dicere voluerit ne forte sibi ipsi periculum struat;
+<lb ed="#P" n="99"/>ergoaliud est quod reddere possis pro virginitatetua.
+<lb ed="#P" n="100"/>sieam perdidisti. Quid aliud ? Redde poenitentiam.
+<lb ed="#P" n="101"/>tuam? reddecontritionenm tuam ; redde 
+humilita<lb ed="#P" break="no" n="102"/>tem tuam. Pro virginitatecarnís redde humilitatem,
+<lb ed="#P" n="103"/>cordis;pro carne fracta frange cor;humilitatem per
+<lb ed="#P" n="104"/>8e debuisti etiamsi virginitatem habueras; et 
+ta<lb ed="#P" break="no" n="105"/>men si virginitatem reddere non potes, redde pro
+<lb ed="#P" n="106"/>illa humilitatem, et satisfaciet tam pro se quam
+<lb ed="#P" n="107"/>pro illa. Vide quanta est virtus humilitatis. Socia.
+<lb ed="#P" n="108"/>est virginitas, humilitatis, et socia humilitas 
+vir<lb ed="#P" break="no" n="109"/>ginitatis, et non potest, si abest humilitas, 
+satis<lb ed="#P" break="no" n="110"/>fere Deo virginitas; potest autem etiam, si habes,
+<lb ed="#P" n="111"/>virginitas satisfacere Deo, humilitas si habeatur.
+<lb ed="#P" n="112"/>Est igitur aliquid quod reddas pro virginitate
+<lb ed="#P" n="113"/>tua, si illam reddere non potes. Et unde 
+satisfa<lb ed="#P" break="no" n="114"/>cias Deo, etiam si istam non offeras, nunquid
+<lb ed="#P" n="115"/>sic dico de anima tua? Perde animam tuam ita
+<lb ed="#P" n="116"/>ut amplius eam reddere non possis ; ei vide si 
+ali<lb ed="#P" break="no" n="117"/>quid tibi su] quod pro illa reddere possis.
+<lb ed="#P" n="118"/>Propterea di i: Quia hoc unum est pro quo
+<lb ed="#P" n="119"/>commutatio nulla dari potest. Si hoc solum dari
+<lb ed="#P" n="120"/>non potest, hoc nisi reddideris quidquid dederis
+<lb ed="#P" n="121"/>non satisfacis. Hoc si reddis quidquid non 
+dede<lb ed="#P" break="no" n="122"/>ris, non offendis.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

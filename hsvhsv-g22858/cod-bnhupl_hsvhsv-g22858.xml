@@ -1,0 +1,1124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pars 10</title>
+            <author ref="#HughOfStVictor">Hugh of St. Victor</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Pars 10</title>
+               <date when="2023-03-25">March 25, 2023</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-bnhupl">Patrologia Latina, v. 176</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2023-03-25" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="164"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="hsvhsv-g22858"><!-- l1-p10 -->
+            <head xml:id="hsvhsv-g22858-Hd1e101">Pars 10</head>
+            <head xml:id="hsvhsv-g22858-Hd1e103" type="question-title">
+De fide
+</head>
+            <p xml:id="hsvhsv-g22858-d1e106">
+               <cb ed="#P" n="c"/>
+               <lb ed="#P" n="53"/>PARS DECIMA.
+<lb ed="#P" n="54"/>DE FIDE.
+</p>
+            <div xml:id="hsvhsv-g22858-Dd1e115">
+               <head xml:id="hsvhsv-g22858-Hd1e117">Capitulum 1</head>
+               <head xml:id="hsvhsv-g22858-Hd1e119" type="question-title"/>
+               <p xml:id="hsvhsv-g22858-d1e121">
+                  <cb ed="#P" n="d"/>
+                  <lb ed="#P" n="55"/>Cap. PRIMUM. De fide septem esse inquirenda. 
+</p>
+               <p xml:id="hsvhsv-g22858-d1e128">
+                  <lb ed="#P" n="56"/>De tractare volentibus, septem inquirenda 
+pro<lb ed="#P" break="no" n="57"/>ponimus. Quid sit fides. In quo constat fides. De i;
+<lb ed="#P" n="58"/>cremento fidei. De his quae pertinent ad fidem. An
+<lb ed="#P" n="59"/>abinitiosecundum mutationem temporum, mutata
+<lb ed="#P" n="60"/>sit fides credentium. Quid sit quo nihil minus vera
+<lb ed="#P" n="61"/>fides unquam hahere potuit. De sacramento fidei
+<lb ed="#P" n="62"/>et virtute ipsius. Singula suo ordine prosequamur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g22858-Dd1e147">
+               <head xml:id="hsvhsv-g22858-Hd1e149">Capitulum 2</head>
+               <head xml:id="hsvhsv-g22858-Hd1e151" type="question-title"/>
+               <p xml:id="hsvhsv-g22858-d1e153">
+                  <lb ed="#P" n="63"/>Cap. II. Quid sit fides.
+</p>
+               <p xml:id="hsvhsv-g22858-d1e158">
+                  <quote xml:id="hsvhsv-g22858-Qd1e160">Fides est, ut ait Apostolus, substantia rerum
+<lb ed="#P" n="64"/>sperandarum, argumentum non apparentium</quote>
+                  <lb ed="#P" n="65"/>(Hebr. xiu). Si per fidem ea quae creduntur fide,
+<lb ed="#P" n="66"/>significata intelligimus (sicut per visionem 
+non<lb ed="#P" break="no" n="67"/>numquam non eam qua videmus, sed quod 
+vide<lb ed="#P" break="no" n="68"/>mus accipimus) convenienter fides substantia 
+re<lb ed="#P" break="no" n="69"/>rum sperandarum dicitur, quia fide ea qux vere p) 
+<lb ed="#P" n="70"/>subsistunt bona sperantibuset exspectantibus illa
+<lb ed="#P" n="71"/>ventura creduntur. Secundum quam acceptionem
+<lb ed="#P" n="72"/>non irretionabiliter etiam argumentum non 
+appa<lb ed="#P" break="no" n="73"/>rentium dicitur; quia quc ratione humana non
+<lb ed="#P" n="74"/>comprehendimus, sola fide nobis credibilia esse
+<lb ed="#P" n="75"/>et vera persuademus. Quod si hanc diffinitionem
+<lb ed="#P" n="76"/>alio modo exponimus possumus dicere quod fides
+<lb ed="#P" n="77"/>non in eo quod sit, sed quod faciat diffinitur, ut
+<lb ed="#P" n="78"/>sit sensus. Fides est substantia, id est 
+subsisten<lb ed="#P" break="no" n="79"/>tia, rerum sperandarum, id est futurorum 
+bono<lb ed="#P" break="no" n="80"/>rum, qusÓ ventura sperantur a nobis, et qua sola
+<cb ed="#P" n="e"/>
+                  <!-- right side clipped -->
+                  <lb ed="#P" n="81"/>digna sunt spe et exspectatione nostra, qu
+<lb ed="#P" n="82"/>in ipsis constat bonum nostrum. Est erg
+<lb ed="#P" n="83"/>Substantia rerum sperandarum; quia bon
+<lb ed="#P" n="84"/>sibilia quae per actum nondum praesentit
+<lb ed="#P" n="85"/>jam per fidem in cordibus nostris subsistt
+<lb ed="#P" n="86"/>ipsa fides eorum in nobis subsistentia eoru
+<lb ed="#P" n="87"/>Cum enim res qualibet apud nos subsista:
+<lb ed="#P" n="88"/>per actum, quando videlicet prxsentes
+<lb ed="#P" n="89"/>comprehenduntur, vel per intellectum, q
+<lb ed="#P" n="90"/>nbsentes; vel etiam non existentes in simili
+<lb ed="#P" n="91"/>sua et in imagine per intellectum capiuntt
+<lb ed="#P" n="92"/>etiam per experientiam, quando ea quae in
+<lb ed="#P" n="93"/>sunt sentiuntur a nobis, utest gaudium, tr
+<lb ed="#P" n="94"/>timor et amor, quae subsistunt in nobis et
+<lb ed="#P" n="95"/>tur a nobis: nullo horum modorum inv.
+<lb ed="#P" n="96"/>Dei comprehenduntur a nobis qua credi
+<lb ed="#P" n="97"/>possunt comprehendi omnino non possunt.
+<lb ed="#P" n="98"/>enim actu praesentia sunt ut sensu comp
+<lb ed="#P" n="99"/>dantur, quia nec corpora sunt nec in corpoi
+<lb ed="#P" n="100"/>subsistunt. Neque insimilitudine aliqua im
+<lb ed="#P" n="101"/>biliter ab animo comprehendi possent, quit
+<lb ed="#P" n="102"/>omnem similitudinem etcorporum et corpo
+<lb ed="#P" n="103"/>sug divinatitatis et puritatis excellentia tra
+<lb ed="#P" n="104"/>dunt. Neque quemadmodum illa quae ir
+<lb ed="#P" n="105"/>suntet sentiuntur a nobis; quoniam ne
+<lb ed="#P" n="106"/>substantia animi sunt, neque de his quae in
+<lb ed="#P" n="107"/>subsistunt. Ergo fide sola subsistunt in no
+<!-- 083.png.txt -->
+<pb ed="#P" n="165"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>subsistentia eorum est fides eorum, qua creduntur 
+<lb ed="#P" n="2"/>quia sunt, sed non qualia sunt comprehenduntur.
+<lb ed="#P" n="3"/>Ergo Deus credi potest, comprehendi omnino non
+<lb ed="#P" n="4"/>potest. Dicis mihi : Quid dicam f Quid est Deus ?
+<lb ed="#P" n="5"/>Ergo tibi respondeo quod indicibile omnino est
+<lb ed="#P" n="6"/>quid est Deus. Saltem, inquis, quid cogitabo
+<lb ed="#P" n="7"/>quando cogitare volo quid est Deus? Amplius dico
+<lb ed="#P" n="8"/>quia incogitabilis est Deus. Quidquid dicitur vel
+<lb ed="#P" n="9"/>cogitatur, secundum aliquid dicitur vel secundum
+<lb ed="#P" n="10"/>aliquid cogitatur. Quod enim secundum aliquid
+<lb ed="#P" n="11"/>dici vel cogitari non potest, dici omnino et 
+cogi<lb ed="#P" break="no" n="12"/>tari non potest. Quid ergo dices vel cogitabis, cum
+<lb ed="#P" n="13"/>id quod Deus est dicere vel cogitare volueris : Si
+<lb ed="#P" n="14"/>terram cogitas, si collum cogitas, si omnia qua
+<lb ed="#P" n="15"/>in coelo sunt et in terra cogitas, nihil horum est
+<lb ed="#P" n="16"/>Deus. Denique si spiritum cogitas, si animam 
+co<lb ed="#P" break="no" n="17"/>itas : non est hoc. Deus. Scio, inquis, quod hoc
+<lb ed="#P" n="18"/>non est Deus, tamen hoc simile Deo est, et 
+simi<lb ed="#P" break="no" n="19"/>litudine sua Deus demonstrari potest. Vide quale
+<lb ed="#P" n="20"/>simile si spiritum demonstrare velles et corpus
+<lb ed="#P" n="21"/>ostenderes, qualis similitudo haec esset, et tamen
+<lb ed="#P" n="22"/>plus longe est Deus et. spiritus quam spiritus et
+<lb ed="#P" n="23"/>corpus. Omne enim quod creatum est minus ab
+<lb ed="#P" n="24"/>invicem distat, quam ille qui fecit ab eo quod 
+fe<lb ed="#P" break="no" n="25"/>cit. Non potest cogitari Deus quid est, etiam si
+<lb ed="#P" n="26"/>credi potest quia est, non qualis est comprehendi.
+<lb ed="#P" n="27"/>Quod, inquit Apostolus, nec oculus vidit, nec
+<lb ed="#P" n="28"/>auris audivit, nec in cor hominis ascendit (I
+<lb ed="#P" n="29"/>Cor. 11); hoc est illud quod dicere volumus, si 
+ta<lb ed="#P" break="no" n="30"/>men dicere possumus quod cogitare non possumus,
+<lb ed="#P" n="31"/>Quod nec oculus vidit, nec auris audivit, quia c
+<lb ed="#P" n="32"/>sensu non percipitur. Nec in cor hominis 
+ascen<lb ed="#P" break="no" n="33"/>dit ; quia congitatione non comprehenditur.
+</p>
+               <p xml:id="hsvhsv-g22858-d1e341">
+                  <lb ed="#P" n="34"/>Erant enim tria quaedam : corpus et spiritus et.
+<lb ed="#P" n="35"/>Deus : corpus quidem mundus erat, anima 
+spiri<lb ed="#P" break="no" n="36"/>tus. Et ipsa anima, quasi in medio quodam erat
+<lb ed="#P" n="37"/>habens extra se mundum, intra se Deum, et 
+acce<lb ed="#P" break="no" n="38"/>perat oculum quo extra se mundum videret et ea
+<lb ed="#P" n="39"/>quae in mundo erant : et hic erat. oculus carnis.
+<lb ed="#P" n="40"/>Alium oculum acceperat quo seipsam videret et
+<lb ed="#P" n="41"/>ea qui in ipsa erant, hic est oculus rationalis.
+<lb ed="#P" n="42"/>Alium rursum oculum acceperat quo intra se
+<lb ed="#P" n="43"/>Deum videret et ea quae in Deo erant, et hic est
+<lb ed="#P" n="44"/>oculus comtemplationis. Hos igitur oculos 
+quan<lb ed="#P" break="no" n="45"/>diu anima apertos et revelatos habebat, clare 
+vi<lb ed="#P" break="no" n="46"/>debat et recte discernebat; postquam autem
+<lb ed="#P" n="47"/>tenebre peccati in illam intraverunt, oculus
+<lb ed="#P" n="48"/>quidem contemplationis exstinctus est, ut nihil
+<lb ed="#P" n="49"/>videret; oculus autem rationis lippus effectus ut
+<lb ed="#P" n="50"/>dubie videret. Solus ille oculus qui extinctus non
+<lb ed="#P" n="51"/>fuit in sua claritate permansit, qui quandiu lumen
+<lb ed="#P" n="52"/>habet clarum, judicium dubium non habet. Oculus
+<lb ed="#P" n="53"/>vero rationalis quandiu lumen ejus est nubilum,
+<lb ed="#P" n="54"/>judicium certum habere non potest ; quia quod
+<lb ed="#P" n="55"/>clare non videt discernit ambigue. Hinc est quod
+<lb ed="#P" n="56"/>corda hominum facilius sibi consentiunt in his
+<lb ed="#P" n="57"/>quae oculo carnis percipiunt, quam in his quae acie
+<lb ed="#P" n="58"/>mentis et sensu rationis attingunt, quia ubi in
+<lb ed="#P" n="59"/>videndo noncaligant, in judicando non discrepant.
+<lb ed="#P" n="60"/>Homo ergo quia oculum carnis habet mundum
+<lb ed="#P" n="61"/>videre potest, et ea quiin mundo sunt. Item quia.
+<lb ed="#P" n="62"/>oculum rationis ex parte habet, animum similiter
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>ex parte videt et ea quae in animo sunt. Quia vero
+<lb ed="#P" n="64"/>oculum contemplationis non habet, Deum et quae
+<lb ed="#P" n="65"/>in Deo sunt videre non valet. Fides ergo 
+neces<lb ed="#P" break="no" n="66"/>saria est qua credantur qua non videntur, et 
+sub<lb ed="#P" break="no" n="67"/>sistant in nobis per fidem, quae nondum praesentia
+<lb ed="#P" n="68"/>nobis sunt per speciem. Sic itaque substantia 
+illo<lb ed="#P" break="no" n="69"/>rum est fides, quia per solam fidem subsistunt
+<lb ed="#P" n="70"/>nunc in nobis : et argumentum similiter illorum
+<lb ed="#P" n="71"/>est fides, quia per solam fidem probantur a nobis.
+<lb ed="#P" n="72"/>Non enim aliud argumentum majus de illis 
+dubi<lb ed="#P" break="no" n="73"/>tantibus profere possumus, quam quod illa quae
+<lb ed="#P" n="74"/>creduntur fide, ratione non comprehenduntur.
+<lb ed="#P" n="75"/>Quod enim aliud argumentum ad illa esse potest,
+<lb ed="#P" n="76"/>quibus simile et comparabile nihil esse potest?
+<lb ed="#P" n="77"/>Cum utique argumentum nullatenus esse posset,
+<lb ed="#P" n="78"/>nisi aliquam cum illo ad quod argumentum esset.
+<lb ed="#P" n="79"/>similitudinem etiam haberet. Quae igitur omnem
+<lb ed="#P" n="80"/>similitudinem et comparationem transcendunt,
+<lb ed="#P" n="81"/>qua similitudine argui et comprobari possunt?
+<lb ed="#P" n="82"/>nisi quia ex fide et devotione prwcedentiur 
+san<lb ed="#P" break="no" n="83"/>ctorum colligimus, quoniam ad illa quae futura
+<lb ed="#P" n="84"/>predicantur bona increduli esse non debemus.
+<lb ed="#P" n="85"/>Magna enim est ratio haec et omnino fide digna ;
+<lb ed="#P" n="86"/>quia nequaquam sancti et justi omnes pro stern;
+<lb ed="#P" n="87"/>vite» desiderio tanta constantia presentem vitam
+<lb ed="#P" n="88"/>despicerent, si non amplius aliquid et ultra 
+nos<lb ed="#P" break="no" n="89"/>iram intelligentiam de illius veritate 
+praesensis<lb ed="#P" break="no" n="90"/>sent. Sic itaque fides est substantia rerum 
+spe<lb ed="#P" break="no" n="91"/>randarum; quia per eam jam quodammodo quie
+<lb ed="#P" n="92"/>futura sunt subsistunt in nobis, et argumentum
+<lb ed="#P" n="93"/>non apparentium; quoniam per ea qua oculta
+<lb ed="#P" n="94"/>sunt approbantur a nobis. Sed quia in hac 
+descri<lb ed="#P" break="no" n="95"/>ptione non quid sit fides, sed quid faciat fides 
+os<lb ed="#P" break="no" n="96"/>tenditur; nec ea quae de praeteritis vel de 
+praesen<lb ed="#P" break="no" n="97"/>tibus habetur fides diffinitur, si quis plenam ac
+<lb ed="#P" n="98"/>generalem diffinitionem fidei signare voluerit 
+di<lb ed="#P" break="no" n="99"/>cere potest: « Fidem esse certitudinem quamdam
+<lb ed="#P" n="100"/>animi de rebus absentibus, supra opinionem et
+<lb ed="#P" n="101"/>infra scientiam constitutam. » Sunt enim quidam
+<lb ed="#P" n="102"/>qui audita statim animo repellunt et contradicunt
+<lb ed="#P" n="103"/>his quz: dicuntur : et hi sunt negantes. Alii in iis
+<lb ed="#P" n="104"/>quas audiunt alteram quamcunque partem eligunt
+<lb ed="#P" n="105"/>ad existimationem, sed non approbant ad 
+affirma<lb ed="#P" break="no" n="106"/>tionem. Quamvis enim unum ex duobus magis
+<lb ed="#P" n="107"/>probabile intelligunt, utrum tamen adhucidipsum
+<lb ed="#P" n="108"/>verum sit asserere non presumunt : hi sunt 
+opi<lb ed="#P" break="no" n="109"/>nantes. Alii sic alteram partem approbant, ut ejus
+<lb ed="#P" n="110"/>approbationem etiam in assertionem assumant :
+<lb ed="#P" n="111"/>hisunt credentes. Post ista genera cognitionis illud
+<lb ed="#P" n="112"/>perfectius sequitur cum res non ex auditu solo,
+<lb ed="#P" n="113"/>sed per suam. praesentiam notificatur. Perfectius
+<lb ed="#P" n="114"/>enim agnoscunt qui ipsam rem ut est in sua pra
+<lb ed="#P" n="115"/>sentia comprehendunt, hi sunt scientes. Primi
+<lb ed="#P" n="116"/>ergo sunt negantes, secundi dubitantes, tertii 
+opi<lb ed="#P" break="no" n="117"/>nantes, quarti credentes, quinti scientes.
+</p>
+               <p xml:id="hsvhsv-g22858-d1e529">
+                  <lb ed="#P" n="118"/>Ex hic ergo conjici potest quare fidem 
+certitudi<lb ed="#P" break="no" n="119"/>nem appellamus, quoniam ubi adhuc dubitatio
+<lb ed="#P" n="120"/>est fides non est. Patet etiam quare ipsam 
+certitu<lb ed="#P" break="no" n="121"/>dinem quam fidem appellamus supra opinionem
+<lb ed="#P" n="122"/>vel sstimationem, et infra scientiam dicimus esse
+<lb ed="#P" n="123"/>constitutam. Quia nimirum aliquid credere sicut
+<lb ed="#P" n="124"/>Tninus est quam scire; sic plus eek awsxe exos
+<!-- 084.png.txt -->
+<pb ed="#P" n="166"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>et aestimare. Minus dico non quantum ad meri- A 
+<lb ed="#P" n="2"/>tum, sed quantum ad cognitionem. Nisi enim 
+cre<lb ed="#P" break="no" n="3"/>dere aliquando quantum sd meritum plus esset
+<lb ed="#P" n="4"/>quam vera videre, nequaquam visio subtraheretur
+<lb ed="#P" n="5"/>ut fides mereretur. Nec dictum fuisset : Beati
+<lb ed="#P" n="6"/>qui non viderunt et crediderunt (Joan. xx).
+<lb ed="#P" n="7"/>Propterea dixi credere aliquando plus esse quam
+<lb ed="#P" n="8"/>videre, sed quantum ad meritum non quantum
+<lb ed="#P" n="9"/>ad gaudium. Alioquin quantum ad cumulum 
+feli<lb ed="#P" break="no" n="10"/>citatis et perfectionem veritatis plus est 
+prosen<lb ed="#P" break="no" n="11"/>tem videre quam absentem credere, sicut et plus
+<lb ed="#P" n="12"/>est fide stare quam opinione nutare. Recte igitur
+<lb ed="#P" n="13"/>dictum est : « Fides est certitudo rerum 
+absen<lb ed="#P" break="no" n="14"/>tium supra opinionem et infra scientiam 
+consti<lb ed="#P" break="no" n="15"/>tuta. » Quamvis etiam nonunquam ipsa qui ex
+<lb ed="#P" n="16"/>praesenti contemplatione nascitur certitudo, 
+abu<lb ed="#P" break="no" n="17"/>sive fides appelletur. De illa autem quae proprie
+<lb ed="#P" n="18"/>appellatur fides, dictum est : « Nam si vides,
+<lb ed="#P" n="19"/>non est fides. »
+</p>
+            </div>
+            <div xml:id="hsvhsv-g22858-Dd1e596">
+               <head xml:id="hsvhsv-g22858-Hd1e598">Capitulum 3</head>
+               <head xml:id="hsvhsv-g22858-Hd1e600" type="question-title"/>
+               <p xml:id="hsvhsv-g22858-d1e602">
+                  <lb ed="#P" n="20"/>Cap. III. Quae sint illa in quibus fides constat.
+</p>
+               <p xml:id="hsvhsv-g22858-d1e607">
+                  <lb ed="#P" n="21"/>Duo eunt in quibus fides constat : cognitio et 
+af<lb ed="#P" break="no" n="22"/>fectus, id est constantia vel-firmitas credendi. In
+<lb ed="#P" n="23"/>altero constat quia ipsa illud est; in altero 
+con<lb ed="#P" break="no" n="24"/>8tat quia ipsa inillo est. In affectu enim 
+substan<lb ed="#P" break="no" n="25"/>tia fidei invenitur; in cognitione, materia. Aliud
+<lb ed="#P" n="26"/>enim est fides qua oreditur;et aliud quod fide 
+cre<lb ed="#P" break="no" n="27"/>ditur. In affectu invenitur fides; in cognitione id
+<lb ed="#P" n="28"/>quod fide creditur. Propterea fides in affectu 
+ha<lb ed="#P" break="no" n="29"/>bet substantiam, quia affectus ipse fides est; in
+<lb ed="#P" n="30"/>cognitione habet materiam, quia de illo et ad 
+il<lb ed="#P" break="no" n="31"/>lud quod in cognitione est, fides est. Credere igitur
+<lb ed="#P" n="32"/>in affectu est, quod vero creditur in cognitione
+<lb ed="#P" n="33"/>est. Cognitionem autem hic intelligimus scientiam
+<lb ed="#P" n="34"/>rerum non illam quae ex praesentia ipsarum 
+com<lb ed="#P" break="no" n="35"/>prehenditur, sed illam quae auditu solo percipitur,
+<lb ed="#P" n="36"/>et ex verborum significatione manifestatur. Cum
+<lb ed="#P" n="37"/>illud quod dicitur et ab illo qui audit, intelligitur,
+<lb ed="#P" n="38"/>quod dicitur, etiam sinesciat utrum sitan non sit
+<lb ed="#P" n="39"/>ita ut dicitur; scientia tamen est inquantum 
+intel<lb ed="#P" break="no" n="40"/>ligitetscit quid est quod dicitur. Hzc autem 
+scien<lb ed="#P" break="no" n="41"/>tiacognitioest, qua sicut sineilla scientia esse non
+<lb ed="#P" n="42"/>potest qua res esse vel non esse scitur, ita sine
+<lb ed="#P" n="43"/>flde esse potest qua res esse vel non esse creditur.
+<lb ed="#P" n="44"/>Ad hanc cognitionem si fides acceda ut. credatur
+<lb ed="#P" n="45"/>quod audiebatur et intelligebatur, est credulitas
+<lb ed="#P" n="46"/>in cognitione, et invenitur in credulitate fidei 
+sub<lb ed="#P" break="no" n="47"/>stantia, in cognitionne materia. Potest autem
+<lb ed="#P" n="48"/>cognitio hujus sine omni fide esse; fides autem
+<lb ed="#P" n="49"/>Sine omni cognitione esse non potest, quoniam
+<lb ed="#P" n="50"/>qui audit aliquid et intelligit, non semper credit;
+<lb ed="#P" n="51"/>qui autem nihil intelligit nihil credit, quamvis
+<lb ed="#P" n="52"/>aliquando credere possit quod non intelligit. Nam.
+<lb ed="#P" n="53"/>et fides etiam est de fide qua creditur quod 
+nesci<lb ed="#P" break="no" n="54"/>tur, quià scienti et credendi creditur. Ille enim.
+<lb ed="#P" n="55"/>qui creduntur credit, non inconvenienter credere
+<lb ed="#P" n="56"/>dicitur quod ille credit cui credit; et si nesciat 
+il<lb ed="#P" break="no" n="57"/>lud quid scit quod credit, et scit cui credit. Tales
+<lb ed="#P" n="58"/>sunt simplices in sancta Ecclesia qui 
+perfectiori<lb ed="#P" break="no" n="59"/>bus credentibus et cognoscentibus credunt, qui
+<lb ed="#P" n="60"/>nimirum in sua simplicitate salvantur, nec ab 
+il<lb ed="#P" break="no" n="61"/>lorum merito alieni sunt, quamvis ad cognitionem
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="62"/>illorum non pertingunt. Scriptum est : Boves 
+ara<lb ed="#P" break="no" n="63"/>bant et asing pascebantur juxta eos (Job. 1).
+<lb ed="#P" n="64"/>Simplices quippe in saneta Eeclesia quamvis cum.
+<lb ed="#P" n="65"/>perfectis occulta sacramentorum Dei rimari non
+<lb ed="#P" n="66"/>valeant; quia tamen se ab illorum societate non
+<lb ed="#P" n="67"/>dividunt quasi juxta eos positi in eadem fide et
+<lb ed="#P" n="68"/>spe bene operando se pascunt. Sic ergo fides 
+ali<lb ed="#P" break="no" n="69"/>quando cum cognitione est, quando scitur quod
+<lb ed="#P" n="70"/>ereditur; aliquando sinecognitione, quando scienti
+<lb ed="#P" n="71"/>tantum et credendi creditur. Necesse est tamen
+<lb ed="#P" n="72"/>semper aliquam cognitionem esse cum fide quie
+<lb ed="#P" n="73"/>ipsam fidem per intentionem dirigat; quia si nihil
+<lb ed="#P" n="74"/>ex his quae credenda sunt cognosceretur, non 
+ha<lb ed="#P" break="no" n="75"/>beret fides quo se per intentionem in bono opere
+<lb ed="#P" n="76"/>dirigeret, neque ad quid bene operando spem
+<lb ed="#P" n="77"/>suam excitaret. Sed aliud est in quibusdam 
+co<lb ed="#P" break="no" n="78"/>gnitionem flde transcendere; aliud illa quae 
+nun<lb ed="#P" break="no" n="79"/>quam ignoranda sunt credenda nescire. Illic 
+me<lb ed="#P" break="no" n="80"/>ritum fides habet ubi etiam cognitione non
+<lb ed="#P" n="81"/>discernit; hic quia a cognitione omnino 
+destitui<lb ed="#P" break="no" n="82"/>tur cadit ipsa, et fides ejus desistit.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g22858-Dd1e747">
+               <head xml:id="hsvhsv-g22858-Hd1e749">Capitulum 4</head>
+               <head xml:id="hsvhsv-g22858-Hd1e751" type="question-title"/>
+               <p xml:id="hsvhsv-g22858-d1e753">
+                  <lb ed="#P" n="83"/>Cap. IV. De incremendo fidei.
+</p>
+               <p xml:id="hsvhsv-g22858-d1e758">
+                  <lb ed="#P" n="84"/>Duo sunt secundum qua fides crescere dicitur:
+<lb ed="#P" n="85"/>cognitio et affectus, id est constantia vel firmitas
+<lb ed="#P" n="86"/>credendi. Secundum cognitionem fides crescit,
+<lb ed="#P" n="87"/>quando eruditur adscientiam. Secundum affectum.
+<lb ed="#P" n="88"/>crescit, quando ad devotionem excitatur et 
+robo<lb ed="#P" break="no" n="89"/>raturadconstantiam. Quorumdam fides cognitione
+<lb ed="#P" n="90"/>magna est; affectu parva. Quorumdam vero affectu
+<lb ed="#P" n="91"/>magna cognitione parva. Alii fidem et cognitione
+<lb ed="#P" n="92"/>etaffectu magnam habent. Alii et cognitione et
+<lb ed="#P" n="93"/>affectu parvam. Verumtamen affectum magnum
+<lb ed="#P" n="94"/>in fide magis laudabilem esse quam cognitionem
+<lb ed="#P" n="95"/>magnam Dominus manifeste ostendit ubi fidem
+<lb ed="#P" n="96"/>grano sinapis comparavit, quodquantitate quidem
+<lb ed="#P" n="97"/>parvum est sed non fervore. Hunc mulieri 
+Chana<lb ed="#P" break="no" n="98"/>nee parum quidem adhuc scienti sed multum
+<lb ed="#P" n="99"/>confidenti, dictum est : Mulier magna est fides
+<lb ed="#P" n="100"/>tua (Matth. xv). Illa namque apud Deum fides
+<lb ed="#P" n="101"/>magna repudatur, quae etsi minus vigeat scientia,
+<lb ed="#P" n="102"/>per constantiam tamen foris ostenditur. Cum ergo
+<lb ed="#P" n="103"/>fides cognitione crescit, adjuvatur, cum vero 
+af<lb ed="#P" break="no" n="104"/>fectu crescit promeretur. Item secundum 
+incremen<lb ed="#P" break="no" n="105"/>tum fidei, tria genera credentium inveniuntur.
+<lb ed="#P" n="106"/>Quidam enim fideles sunt qui sola pietate credere
+<lb ed="#P" n="107"/>eligunt, quod tamen utrum sit credendum an non
+<lb ed="#P" n="108"/>credendum sit ratione non comprehendunt. Alii
+<lb ed="#P" n="109"/>ratione approbant quod fide credunt. Alii puritate
+<lb ed="#P" n="110"/>cordis et munda conscientia interius jam gustare
+<lb ed="#P" n="111"/>incipiunt quod fide credunt. In primis, sola pietas
+<lb ed="#P" n="112"/>facit electionem ; in secundis, ratio adjungit 
+ap<lb ed="#P" break="no" n="113"/>probationem; in tertiis, puritas intelligenti: 
+ap<lb ed="#P" break="no" n="114"/>prehendit certudinem. Quartum genus hominum
+<lb ed="#P" n="115"/>est quibus credere est, solum fidei non 
+contradi<lb ed="#P" break="no" n="116"/>cere, qui consuetudine vivendi magis quam 
+vir<lb ed="#P" break="no" n="117"/>tute credendi fideles nominantur. Solis enim 
+tran<lb ed="#P" break="no" n="118"/>secuntibus intenti nunquam mentem ad futura
+<lb ed="#P" n="119"/>Cogitanda sublevant; et quamvis fidei Christiane
+<lb ed="#P" n="120"/>sacramenta cum caeteris fidelibus usu percipiunt,
+<lb ed="#P" n="121"/>quare tamen Christianus sit homo vel quae spes
+<lb ed="#P" n="122"/>Chistiano sitin exspectatione bonorum futurorum
+<!-- 085.png.txt -->
+<pb ed="#P" n="167"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>non attendunt. Hi, quamvis nomine fldeles 
+dican<lb ed="#P" break="no" n="2"/>tur, retamen et veritate longe sunt a fide. Tamen
+<lb ed="#P" n="3"/>hujusmodi aliquando divina gratia visitantur; et
+<lb ed="#P" n="4"/>adsuiconsiderationem excitantur, ut quare homo
+<lb ed="#P" n="5"/>natus sit, an alia post hanc vitam sequatur 
+in<lb ed="#P" break="no" n="6"/>quirant; an premia justis et peccatoribus 
+tormen<lb ed="#P" break="no" n="7"/>ta reposita sint; et an post finem operis sequatur
+<lb ed="#P" n="8"/>premium juste retributionis. Tali consideratione
+<lb ed="#P" n="9"/>corde oborta, magno mox trepidationis motu de
+<lb ed="#P" n="10"/>dubio vites mortalis conscientia ipsa concutitur;
+<lb ed="#P" n="11"/>et quanto magis sibi erranti periculum imminere
+<lb ed="#P" n="12"/>cernit, tanto magis ad cognitionem veritatis 
+per<lb ed="#P" break="no" n="13"/>venire satagit. Considerat in hoc mundo tam 
+di<lb ed="#P" break="no" n="14"/>versas esse hominum existimationes, super hisin
+<lb ed="#P" n="15"/>quibus salus hominis constat. Pagani in plures
+<lb ed="#P" n="16"/>unitatem divinitatis scindunt. Judsmi creatorem
+<lb ed="#P" n="17"/>€onfitentur, salvatorem non agnoscunt. Ef in his
+<lb ed="#P" n="18"/>omnibus mens fluctuat; et nisi pietate in suo 
+te<lb ed="#P" break="no" n="19"/>neretur, fortasis abjecta veritate falsitatem 
+se<lb ed="#P" break="no" n="20"/>queretur. Accedit ad haec (Spiritu sancto 
+sugge<lb ed="#P" break="no" n="21"/>rente) ratio, quoniam in multis dubilis si unum
+<lb ed="#P" n="22"/>aliquid relinquitur ut unum aliud eligatur 
+dubie<lb ed="#P" break="no" n="23"/>tas non tollitur, sed mutatur. Accedit ad hanc
+<lb ed="#P" n="24"/>alia ratio major, melius est confiteri unum 
+princi<lb ed="#P" break="no" n="25"/>pium quam multa; quia ubi multitudo est, aut
+<lb ed="#P" n="26"/>pluralitas superflua est, aut unitas imperfecta.
+<lb ed="#P" n="27"/>Adhuc amplius, melius est creatorem confiteri
+<lb ed="#P" n="28"/>pariter et salvatorem quam creatorem solum, qui
+<lb ed="#P" n="29"/>creatorem dicit majestatem confitetur; qui 
+Salva<lb ed="#P" break="no" n="30"/>torem intelligit, pietatem veneratur. Et maximum
+<lb ed="#P" n="31"/>bonum hominis est ut in Deo auo et majestatem
+<lb ed="#P" n="32"/>inveniat quam oculo cordis contempletur; et 
+hu<lb ed="#P" break="no" n="33"/>manitatem quam oculo carnis speculetur, ut totus
+<lb ed="#P" n="34"/>homo in Deo beatificetur. His rationibus animus
+<lb ed="#P" n="35"/>confortatus, ad ampliorem religionis divinse 
+devo<lb ed="#P" break="no" n="36"/>tionem excitatur; devotione autem mundatur et
+<lb ed="#P" n="37"/>purificatur ut mundo corde jam quodammodo
+<lb ed="#P" n="38"/>przgustare incipiat, id ad quod fide et devotione
+<lb ed="#P" n="39"/>cognoscendum festinat. Ita munda conscientia 
+in<lb ed="#P" break="no" n="40"/>visibilibus documentis, et secreta et familiari 
+vi<lb ed="#P" break="no" n="41"/>sitatione de Deo suo quotidie eruditur et 
+certifica<lb ed="#P" break="no" n="42"/>tur; in tantum ut jam quodammodo eum per 
+con<lb ed="#P" break="no" n="43"/>templationem praesentem habere incipiat; et nulla
+<lb ed="#P" n="44"/>jam ratione ab ejus fide et dilectione (etiam si 
+to<lb ed="#P" break="no" n="45"/>tus mundus in miracula vertatur) avelli queat. Isti
+<lb ed="#P" n="46"/>ergo sunt tres gradus promotionis fidei, quibus
+<lb ed="#P" n="47"/>fidea crescens ad perfectum concendit. Primus per
+<lb ed="#P" n="48"/>pietatem eligere; secundus per rationem 
+appro<lb ed="#P" break="no" n="49"/>bare; tertius per veritatem apprehendere.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g22858-Dd1e959">
+               <head xml:id="hsvhsv-g22858-Hd1e961">Capitulum 5</head>
+               <head xml:id="hsvhsv-g22858-Hd1e963" type="question-title"/>
+               <p xml:id="hsvhsv-g22858-d1e965">
+                  <lb ed="#P" n="50"/>Cap. V. De iis. quc ad fidem pertinent.
+</p>
+               <p xml:id="hsvhsv-g22858-d1e970">
+                  <lb ed="#P" n="51"/>Quaeritur etiam qua» res ad fidem pertineant,
+<lb ed="#P" n="52"/>quas credere oportet eum qui fidelis jure 
+nomina<lb ed="#P" break="no" n="53"/>tur. Nam fides illa qua aliquid creditur hoc modo
+<lb ed="#P" n="54"/>ut qui credit fide illa, fidelis non dicatur; 
+pre<lb ed="#P" break="no" n="55"/>sentis propositi non est. Sine enim etiam 
+infide<lb ed="#P" break="no" n="56"/>les non vivere manifestum est, ex hoc quod 
+om<lb ed="#P" break="no" n="57"/>nis homo in hac vita vivens, sieut habet quedam
+<lb ed="#P" n="58"/>quae per experientiam sentiat, ita quaedam etiam
+<lb ed="#P" n="59"/>habet quae nec visa nec experta, sola fide credat.
+<lb ed="#P" n="60"/>Fidem tamen quae; in Deum est nequaquam ha-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="61"/>bere dicitur, nisi qui illa credit quae credendo et
+<lb ed="#P" n="62"/>amando homo Deum promeretur. Haec sunt ergo
+<lb ed="#P" n="63"/>quae ad fidem pertinere dicuntur quae credendo
+<lb ed="#P" n="64"/>homo fidelis nominatur. Que» vero ista sint si 
+di<lb ed="#P" break="no" n="65"/>ligenter inquirimus, in duobus haec principaliter
+<lb ed="#P" n="66"/>constare invenimus. Sunt enim quaedam duo, et
+<lb ed="#P" n="67"/>haec duo in uno sunt ; et unum sunt haec duo.
+<lb ed="#P" n="68"/>Creator et salvator duo nomina sunt et res una ;
+<lb ed="#P" n="69"/>tamen aliud notat creator, aliud salvator. 
+Crea<lb ed="#P" break="no" n="70"/>tor quia fecit nos, salvator quia redemit nos. 
+Pri<lb ed="#P" break="no" n="71"/>mum non eramus et facti sumus; postea 
+periera<lb ed="#P" break="no" n="72"/>mus et redempti sumus, et ab uno utrumque 
+fac<lb ed="#P" break="no" n="73"/>tum est, ut bonum nostrum totum esset ab uno,
+<lb ed="#P" n="74"/>ettotum in uno, et unum. Creatori debemus quod
+<lb ed="#P" n="75"/>sumus, salvatori quod reparati sumus. Haec ergo
+<lb ed="#P" n="76"/>sunt duo quae fidei proposita sunt credenda, 
+crea<lb ed="#P" break="no" n="77"/>tor ei salvator, et quae pertinent ad creatorem et
+<lb ed="#P" n="78"/>quae pertinent ad salvatorem similiter. Creator et
+<lb ed="#P" n="79"/>quie pertinent ad creatorem : hic est una pars 
+fi<lb ed="#P" break="no" n="80"/>dei. Salvator et quae pertinent ad salvatorem : hic
+<lb ed="#P" n="81"/>est altera. In prima parte discernit fides inter 
+Crea<lb ed="#P" break="no" n="82"/>torem etopera sua; in secunda parte discernit fides
+<lb ed="#P" n="83"/>interSalvatorem et sacramenta sua. Ad Creatorem
+<lb ed="#P" n="84"/>pertinent opera conditionis qua sex diebus facta
+<lb ed="#P" n="85"/>sunt. Ad Salvatorem pertinent opera 
+restauratio<lb ed="#P" break="no" n="86"/>nis quae complentur sex statibus. In prima parte
+<lb ed="#P" n="87"/>ad fidem pertinet confiteri unum creatorem, et ab
+<lb ed="#P" n="88"/>eo facta essse omnia quae habent ease. In 
+secun<lb ed="#P" break="no" n="89"/>da parte ad fidem pertinet venerari unum 
+salva<lb ed="#P" break="no" n="90"/>torem, et credere ab eo reparata esse perdita, 
+qui<lb ed="#P" break="no" n="91"/>bus datum est vel dandum beatum esse. In prima
+<lb ed="#P" n="92"/>parte recta fides inter creatorem et creaturam ita
+<lb ed="#P" n="93"/>discernere debet ut unicuique horum quod suum
+<lb ed="#P" n="94"/>est tribuat; et vicissim alterius proprietatem in
+<lb ed="#P" n="95"/>alterum non transfundat, id est nec creature 
+at<lb ed="#P" break="no" n="96"/>tribuat Creatoris majestatem ; nec Creatori 
+as<lb ed="#P" break="no" n="97"/>eribat creaturae infirmitatem, nec Deum 
+conclu<lb ed="#P" break="no" n="98"/>dat tempore, nec creaturam extendat eeternitate.
+<lb ed="#P" n="99"/>Ita fides si unicuique quod suum eat tribuit, 
+rec<lb ed="#P" break="no" n="100"/>te offert; si inter utrumque bene discernit recte
+<lb ed="#P" n="101"/>dividit, et non peccat. Si vero in quolibet horum
+<lb ed="#P" n="102"/>delinquitur, fides sane necesse est ut detrimentum
+<lb ed="#P" n="103"/>patiatur. Nam illi qui creaturam pro Deo 
+colue<lb ed="#P" break="no" n="104"/>runt gemino errore decepti, vel creaturam 
+seter<lb ed="#P" break="no" n="105"/>nam, vel Deum temporalem esse crediderunt ; quid
+<lb ed="#P" n="106"/>isti aliud dicendi sunt fecisse quam excellentiam
+<lb ed="#P" n="107"/>factoris operi et infirmitatem facturw tribuisse
+<lb ed="#P" n="108"/>Creatori? Rursus philosophi gentilium quamvis
+<lb ed="#P" n="109"/>inter Creatorem et opus ejus recte discernerent ;
+<lb ed="#P" n="110"/>nequaquam tamen fideles appellandi sunt, quia
+<lb ed="#P" n="111"/>fidem de Salvatore non habuerunt. Sequuntur 
+er<lb ed="#P" break="no" n="112"/>go deinde ea quae in secunda parte posuimus, ubi
+<lb ed="#P" n="113"/>primum in Salvatore agnoscimus redemptionem ;
+<lb ed="#P" n="114"/>in sacramentis ejus redemptionis praeparationem.
+<lb ed="#P" n="115"/>Prima pars fidei spectat ad debitum nature ; 
+se<lb ed="#P" break="no" n="116"/>cunda pars fidei spectat ad debitum gratis. Illa
+<lb ed="#P" n="117"/>credere debemus, quia per naturam conditi 
+su<lb ed="#P" break="no" n="118"/>mus. Ista credere debemus, quia per gratiam 
+re<lb ed="#P" break="no" n="119"/>parati sumus.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g22858-Dd1e1125">
+               <head xml:id="hsvhsv-g22858-Hd1e1127">Capitulum 6</head>
+               <head xml:id="hsvhsv-g22858-Hd1e1129" type="question-title"/>
+               <p xml:id="hsvhsv-g22858-d1e1131">
+<!-- 086.png.txt -->
+                  <pb ed="#P" n="168"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>Cap. VI. An secundum mutationes temporum
+<lb ed="#P" n="2"/>mutata sit fides.
+</p>
+               <p xml:id="hsvhsv-g22858-d1e1144">
+                  <lb ed="#P" n="3"/>Sequuntur de hinc duo illa quae in prima 
+dis<lb ed="#P" break="no" n="4"/>tinctione hujus tractationis proposuimus quinto
+<lb ed="#P" n="5"/>et sexto loco post quatuor ista- de quibus 
+hacte<lb ed="#P" break="no" n="6"/>nus tractatum est prosequenda. Quorum unum
+<lb ed="#P" n="7"/>est an secundum mutationem temporum ab 
+ini<lb ed="#P" break="no" n="8"/>tio fides credentium mutata sit ; sive una 
+endem<lb ed="#P" break="no" n="9"/>que fidei forma et in iis qui ab initio fuerunt et
+<lb ed="#P" n="10"/>qui usque in finem credentes futuri sunt sanctis
+<lb ed="#P" n="11"/>consistat. Alterum vero quid sit quod ab initio
+<lb ed="#P" n="12"/>nihil minus unquam fides recta habere potuit, id
+<lb ed="#P" n="13"/>est quid sit illud cui nihil unquam demi potuit,
+<lb ed="#P" n="14"/>ut fides recta constaret, etiam si aliquid adjici 
+po<lb ed="#P" break="no" n="15"/>tuit ut cresceret. Hxc duo ratione coh:rent, et
+<lb ed="#P" n="16"/>ideo indivise pertractari exposcunt. Nec levi 
+con<lb ed="#P" break="no" n="17"/>Sideratione in hujusmodi opus esse putemus, ubi
+<lb ed="#P" n="18"/>tam mulie sunt existimationes et opiniones 
+ho<lb ed="#P" break="no" n="19"/>minum et tam diversa fide de recta fide 
+disputa<lb ed="#P" break="no" n="20"/>iur, nec parvum hoc esse periculum putandum
+<lb ed="#P" n="21"/>est. Quomodo enim de iis qua credenda sunt fide
+<lb ed="#P" n="22"/>bene sentire possumus, si de ipsa fide male 
+sen<lb ed="#P" break="no" n="23"/>limus? Propterea consideranda sunt diligenter
+<lb ed="#P" n="24"/>singula quae dicuntur, ut ea dicamus et senti:
+<lb ed="#P" n="25"/>musin quibus dum fidem rectam asserere 
+niti<lb ed="#P" break="no" n="26"/>mur sane fidei obviare non convincamur. Sunt
+<lb ed="#P" n="27"/>homines qui quasi quadam pietate impii in Deum
+<lb ed="#P" n="28"/>efüciuntur, et dum ultra id quod in veritate est
+<lb ed="#P" n="29"/>sentiunt in ipsam veritatem offendunt. Hzc 
+au<lb ed="#P" break="no" n="30"/>tem ignorantia multos parit errores , tam de 
+bo<lb ed="#P" break="no" n="31"/>nitate quam de veritate. Dicunt alii bonitati 
+di<lb ed="#P" break="no" n="32"/>vins non esse conveniens ut in oper2 sua 
+crude<lb ed="#P" break="no" n="33"/>lis esse dicatur, et ut aliquid ex his qui fecit 
+pe<lb ed="#P" break="no" n="34"/>rire permittat qui nihilad hoc fecit ut pereat. Ita
+<lb ed="#P" n="35"/>dum se honorare putant bonitatem, offendunt 
+ve<lb ed="#P" break="no" n="36"/>ritatem. Qui enim pius fuit ut non existentia 
+crea<lb ed="#P" break="no" n="37"/>ret, justus eat ut errantia et delinquentia judicet.
+</p>
+               <p xml:id="hsvhsv-g22858-d1e1222">
+                  <lb ed="#P" n="38"/>Alii dicunt ad justitiam hominis pertinere ut
+<lb ed="#P" n="39"/>in hac vita sine pugna vivat, cum potius justus
+<lb ed="#P" n="40"/>esse non possit si non pugnet. Neque enim ad
+<lb ed="#P" n="41"/>justitiam hujus vite pertinet non tentari, sed a
+<lb ed="#P" n="42"/>tentatione non superari, nec ut qui bonus est
+<lb ed="#P" n="43"/>nunquam cadat ; sed, cum ceciderit ut resurgat.
+<lb ed="#P" n="44"/>Similiter sunt qui dicunt fidelem non esse qui vel
+<lb ed="#P" n="45"/>aliter credit quiedam, quia per infirmitatem 
+com<lb ed="#P" break="no" n="46"/>prehendere non valet qualiter in ipsa veritate est,
+<lb ed="#P" n="47"/>vel non omnia credit, quia per ignorantiam 
+cape<lb ed="#P" break="no" n="48"/>re non potest quantum est. Et beatificandam 
+pu<lb ed="#P" break="no" n="49"/>tant hi fidem veram id multitudine cognitionis
+<lb ed="#P" n="50"/>potius quam in magnitudine devotionis, cum 
+pie<lb ed="#P" break="no" n="51"/>tas divina non attendat quanta cognitione 
+creda<lb ed="#P" break="no" n="52"/>tur, sed magis quanta devotione id quod 
+credi<lb ed="#P" break="no" n="53"/>tur, diligatur.
+</p>
+               <p xml:id="hsvhsv-g22858-d1e1260">
+                  <lb ed="#P" n="54"/>Hoc idcirco commemoramus, quia agnovimus
+<lb ed="#P" n="55"/>quosdam esse minus discretos, qui humana 
+pos<lb ed="#P" break="no" n="56"/>sibilitatis mensuram nesciunt ; quia suam 
+passi<lb ed="#P" break="no" n="57"/>bilitatem non attendunt, et si attendunt, majori
+<lb ed="#P" n="58"/>stultitia existimant hoc omnes esse debere, quo
+<lb ed="#P" n="59"/>8e pr; cgeteris vident amplius aliquid accepisse.
+<lb ed="#P" n="60"/>Affirmant fidelem nulla ratione esse dicendum,
+<lb ed="#P" n="61"/>qui non magna quaedam et multa et sublimia 
+fi<lb ed="#P" break="no" n="62"/>dei sacramenta agnoverit; et de majestate crea-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>toris, et de humilitate Salvatoris quorumdam 
+dis<lb ed="#P" break="no" n="64"/>putationem, profunditatem, rerum gestarum 
+se<lb ed="#P" break="no" n="65"/>riem memoria comprehenderit. Ipsam quoque 
+di<lb ed="#P" break="no" n="66"/>vinitatis naturam rudibus animis, et vix ad ea
+<lb ed="#P" n="67"/>quae vident sufficientibus explicandam, et 
+corpo<lb ed="#P" break="no" n="68"/>ream ab incorporea natura subtili quadam 
+conai<lb ed="#P" break="no" n="69"/>deratione proponunt discernendam.
+</p>
+               <p xml:id="hsvhsv-g22858-d1e1299">
+                  <lb ed="#P" n="70"/>Sed illa quoque quae de sacramentis 
+redemptio<lb ed="#P" break="no" n="71"/>nis nostra in nativitate, et passione, et 
+resurrec<lb ed="#P" break="no" n="72"/>tione et ascensione Salvatoris nostri mundo jam
+<lb ed="#P" n="73"/>manifestata sunt, omnibus ab initio mundi justis
+<lb ed="#P" n="74"/>et fidelibus, tam majoribus quam minoribus, 
+ea<lb ed="#P" break="no" n="75"/>dem cognitione patuisse ventura; qua a nobis
+<lb ed="#P" n="76"/>nunc cognoscuntur praeterita. Alioquin non vere
+<lb ed="#P" n="77"/>dicendum fidem horum omnium habuisse qui 
+is<lb ed="#P" break="no" n="78"/>ta non agnoverunt. Ista autem omnia quae in 
+sa<lb ed="#P" break="no" n="79"/>cramento nostre redemptionis completa sunt eos
+<lb ed="#P" n="80"/>et credidisse et agnovisse non solum hac ratione
+<lb ed="#P" n="81"/>probare se putat, quod quemadmodum nos modo
+<lb ed="#P" n="82"/>ad illam redemptionem non pertineremus nisi hac
+<lb ed="#P" n="83"/>omnia jam et facta agnosceremus, et agnita 
+cre<lb ed="#P" break="no" n="84"/>deremus ; sic quidem illi per hzecsalvati non 
+fuis<lb ed="#P" break="no" n="85"/>sent, nisi haec omnia facienda agnovissent et 
+agni<lb ed="#P" break="no" n="86"/>tacredidissent. Verum etiam quia aliquoties 
+Serip<lb ed="#P" break="no" n="87"/>ture testantur, nullum ab initio sine fide Christi
+<lb ed="#P" n="88"/>esse salvatum ; et beatus Augustinus de hoc ipso
+<lb ed="#P" n="89"/>loquens sic ait: Eadem fides mediatoris salvos
+<lb ed="#P" n="90"/>justos faciebat antiquos pusillos cum magnis :
+<lb ed="#P" n="91"/>non Vetus testamentum quod in servitutem 
+ge<lb ed="#P" break="no" n="92"/>nerat ; non lex quae non sic est data ut possit 
+vi<lb ed="#P" break="no" n="93"/>vificare, sed gratia Dei per Jesum Christum, Quia
+<lb ed="#P" n="94"/>Sicut non credimus Christum in carne venisse,
+<lb ed="#P" n="95"/>sic illi venturum ; sicut nos mortuum, ita illi 
+mo<lb ed="#P" break="no" n="96"/>riturum ; sicut nos resurrexisse, ita illi 
+resurec<lb ed="#P" break="no" n="97"/>turum ; ei nos et illi venturum ad judicium 
+vivo<lb ed="#P" break="no" n="98"/>rum et mortuorum.
+</p>
+               <p xml:id="hsvhsv-g22858-d1e1364">
+                  <lb ed="#P" n="99"/>Haec si vera sunt (sicut ab illis existimantur,
+<lb ed="#P" n="100"/>et sicut a propositis auctoritatibus affirmari 
+vi<lb ed="#P" break="no" n="101"/>dentur) aut in antiquis temporibus fuit perrara
+<lb ed="#P" n="102"/>salus; aut nimium numerosa perfectio, quorum
+<lb ed="#P" n="103"/>quidem quodlibet sapere, discretionis terminos
+<lb ed="#P" n="104"/>excedere est. Quod si videtur tolerabilius, imo
+<lb ed="#P" n="105"/>etiam Deo dignius judicatur, ipsum replesse 
+po<lb ed="#P" break="no" n="106"/>tius et ditasse secula illa multitudine 
+perfecto<lb ed="#P" break="no" n="107"/>rum quam salvadorum tanta fuisse paucitate 
+con<lb ed="#P" break="no" n="108"/>p tentum, quatenus et salvi non pauci tunc fierent,
+<lb ed="#P" n="109"/>et omnes nihilominus repleti Spiritu prophetico
+<lb ed="#P" n="110"/>necdum revelata mysteria jam tunc penetrarent ;
+<lb ed="#P" n="111"/>si, inquam, hoc recipitur benedicimus quidem
+<lb ed="#P" n="112"/>Deum in donis suis, sed quid tempori gratiae 
+re<lb ed="#P" break="no" n="113"/>servatum sit non videmus, nisi quod tempus 
+gra<lb ed="#P" break="no" n="114"/>tie illud potius juxta scientiam hanc fuerit 
+ap<lb ed="#P" break="no" n="115"/>pellandum ; in quo tot et tante Dei populo 
+divi<lb ed="#P" break="no" n="116"/>tite spiritus aflluebant, ut illud prorsus 
+incredi<lb ed="#P" break="no" n="117"/>bile felicitate cerneretur impletum, quod Moyses
+<lb ed="#P" n="118"/>optabat cum diceret : Quis dabit wt omnes 
+pro<lb ed="#P" break="no" n="119"/>phetent ? (Num. 11.) Queso, quid simile attulit
+<lb ed="#P" n="120"/>Evangelium ? Frustra gloriatur Paulus de 
+pri<lb ed="#P" break="no" n="121"/>mitiis spiritusquas putat cum suis coapostolis 
+ac<lb ed="#P" break="no" n="122"/>cepisse, cum nihil tale in diebus suis potuerit 
+ex<lb ed="#P" break="no" n="123"/>periri. Denique aiebat: Nunquid omnes 
+pro<lb ed="#P" break="no" n="124"/>pheta? (I Cor. xii) Frustra, inquam, gloriatur
+<!-- 087.png.txt -->
+<pb ed="#P" n="169"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>de Evangelio suo, quia non ab homine, neque per A.
+<lb ed="#P" n="2"/>hominem illud acceperit ; sed quasi speciali 
+qua<lb ed="#P" break="no" n="3"/>dam prerogativa per revelationem Jesu Christi,
+<lb ed="#P" n="4"/>cum et ante ipsum fuerit per spiritum etiam 
+po<lb ed="#P" break="no" n="5"/>pulis revelatum. Sed nec apostolus Petrus illud
+<lb ed="#P" n="6"/>propheticum ad sua tempora retorqueret : E/
+fun<lb ed="#P" break="no" n="7"/>dam de Spiritu meo super filios et filias 
+ves<lb ed="#P" break="no" n="8"/>tras : et praphetabunt filii vestri, et filie vestrae
+<lb ed="#P" n="9"/>(Joel. 11 ; Act. 11); si abundantior jam 
+pracesse<lb ed="#P" break="no" n="10"/>rat transactis szculis effusio spiritus. Aut certe
+<lb ed="#P" n="11"/>propheta, vel potius in propheta Deus, si vere
+<lb ed="#P" n="12"/>tempora illa apostolica cum hic diceret 
+intueba<lb ed="#P" break="no" n="13"/>tur, non plane effundam ; sed subtraham magis
+<lb ed="#P" n="14"/>de Spiritu meo dixisse debuerat. Quid enim ? Si
+<lb ed="#P" n="15"/>filiis Evangelii omnes veteres justos pares facimus
+<lb ed="#P" n="16"/>in scientia, nunquid non et superiores omnes in B.
+<lb ed="#P" n="17"/>gratia, consequenter fateri necesse est ? Utpote
+<lb ed="#P" n="18"/>quos non lectio sicut nos aut praedicatio,
+<lb ed="#P" n="19"/>sed ipsa unctio docuerit omnes de omnibus ? 
+Es<lb ed="#P" break="no" n="20"/>to tamen, toleremus nos nostram injuriam, et
+<lb ed="#P" n="21"/>apostoli quoque suam, ut et ipsi quoque minimi
+<lb ed="#P" n="22"/>antiquorum justorum comparent in scientia, 
+pro<lb ed="#P" break="no" n="23"/>ferantur minores in gratia. Sed est sane quod ul*
+<lb ed="#P" n="24"/>loomnino pacto merito non ferimus, ut Dominus
+<lb ed="#P" n="25"/>videlicet gloris sentiatur, vel falli unquam 
+po<lb ed="#P" break="no" n="26"/>tuisse, vel fallere voluisse, et quidem ipse 
+protes<lb ed="#P" break="no" n="27"/>tatus est: Inter natos mMWerum non 
+surrexis<lb ed="#P" break="no" n="28"/>se majorem Joanne Baptista (Matth. n). Vide
+<lb ed="#P" n="29"/>autem si non vere falsum fateri cogimur 
+verita<lb ed="#P" break="no" n="30"/>tis hoc testimonium ; si tantum tribuamus 
+veteri<lb ed="#P" break="no" n="31"/>bus, quantum nec Joanni vindicare valemus. Non (;
+<lb ed="#P" n="32"/>utique fit injuria Joanni si quis ignorasse 
+credi<lb ed="#P" break="no" n="33"/>tur, aut dicitur: nimirum quod et ipse non 
+diffi<lb ed="#P" break="no" n="34"/>tetur.:Sed si quod preconi veritatis negamus,
+<lb ed="#P" n="35"/>contra preconium veritatis alteri damus;
+<lb ed="#P" n="36"/>non tantum injuria, sed blásphemia est, et plane
+<lb ed="#P" n="37"/>contradicere non Joanni, sed veritati. Quid ergo?
+<lb ed="#P" n="38"/>Amicus Sponsi dubitat et quaerit: Tw es 
+quiven<lb ed="#P" break="no" n="39"/>turus es, an. alium. exspectumus? (Ibid) Et
+<lb ed="#P" n="40"/>nos millibus hominum certitudinem de omnibus
+<lb ed="#P" n="41"/>nostro mendacio confirmamus. Nec ipaos de se ita
+<lb ed="#P" n="42"/>. veteres sensisse, paucis advertere possumus. 
+Moy<lb ed="#P" break="no" n="43"/>ses scribit Deum ad se loquentem dixisse sic:
+<lb ed="#P" n="44"/>Ego sum Deus Abraham, et Deus Isaac, et Deus
+<lb ed="#P" n="45"/>Jacob, et nomen meum Adonai non indicavi
+<lb ed="#P" n="46"/>eis (Ezod. v1), subaudi sicut tibi. Ostendit ergo
+<lb ed="#P" n="47"/>3e de Dei notitia plus aliquid precedentibus 
+pa<lb ed="#P" break="no" n="48"/>tribus accepisse. David quoque supra doctores
+<lb ed="#P" n="49"/>suos et seniores donum intelligenti? sibi 
+audac<lb ed="#P" break="no" n="50"/>ler praesumit ita dicens : Super omnes docentes
+<lb ed="#P" n="51"/>me intellexi, quia testimonia tua meditatio
+<lb ed="#P" n="52"/>mea est (Psal. cxviri). Et rursum : Supra senes
+<lb ed="#P" n="53"/>intellezi (ibid.). Sed et propheta Daniel: 
+Per<lb ed="#P" break="no" n="54"/>transibunt, ait, plurimi, et multipleae erit
+<lb ed="#P" n="55"/>1eientia (Dan. xi) ; ampliorem, scilicet notitiam
+<lb ed="#P" n="56"/>promittens, et ipse posteris. Sed, ut ait etiam.
+<lb ed="#P" n="57"/>sanctus Gregorius, secundum incrementa 
+tempo<lb ed="#P" break="no" n="58"/>rum, crevit et scientia spiritualium Patrum; et
+<lb ed="#P" n="59"/>quando viciniores adventui Salvatoris extiterunt,
+<lb ed="#P" n="60"/>tantomysterium salutis plenius perceperunt. Non
+<lb ed="#P" n="61"/>est dubium quin his etiam qui presentes fuerunt.
+<lb ed="#P" n="62"/>multo amplius contulerit rerum ipsarum exhibi-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>tio, atque praesentia exhibentis. Denique et 
+au<lb ed="#P" break="no" n="64"/>diunt : Beati oculi qui vident quae vos videtis
+<lb ed="#P" n="65"/>(Luc. x). Item: Vos autem dizi amicos, quia
+<lb ed="#P" n="66"/>omnia qua audivi a Patre meo nota feci vobis
+<lb ed="#P" n="67"/>(Joan. xv). Multi, inquit, reges et propheta 
+vo<lb ed="#P" break="no" n="68"/>luerunt videve qua vos videtis, et. non 
+vide<lb ed="#P" break="no" n="69"/>runt ; et audire quae auditis et non audierunt
+<lb ed="#P" n="70"/>(Luc. x). Quare? ut videlicet clarius largiusque
+<lb ed="#P" n="71"/>perciperent quod vix tenuiter obscureque 
+praesen<lb ed="#P" break="no" n="72"/>serant. Alioqui quid opus erat foris videre 
+car<lb ed="#P" break="no" n="73"/>nem, et carnis audire sermones, si jam a Spiritu
+<lb ed="#P" n="74"/>intus fuerant perfecte instructi de omnibus ; 
+prae<lb ed="#P" break="no" n="75"/>sertim cum Dominus dicat: Caro non prodest
+<lb ed="#P" n="76"/>quidquam; Spiritus est qui vivificat (Joan. vi)
+<lb ed="#P" n="77"/>Quod si prophete et qui illustriores videbantur
+<lb ed="#P" n="78"/>in illo populo non omnes omnia aliquando 
+szqua<lb ed="#P" break="no" n="79"/>liter cognoscere valuerunt ; sed alii plus, alii 
+mi<lb ed="#P" break="no" n="80"/>nus, prout spiritus dabat, dividens singulis prout
+<lb ed="#P" n="81"/>volebat ; idque absque presjudicio suce sanctitatis
+<lb ed="#P" n="82"/>atque per'ectionis, quanto magis simpliciores
+<lb ed="#P" n="83"/>quique justi sine detrimento salutis, salvationis
+<lb ed="#P" n="84"/>tempus modum et ordinem nescire potuerunt,
+<lb ed="#P" n="85"/>quam tamen certa spe et fide uti promissa fuerat
+<lb ed="#P" n="86"/>firmissime tenuerunt. Quanti hodieque in 
+popu<lb ed="#P" break="no" n="87"/>lo Christiano vitae sterne sseculique futuri, quod
+<lb ed="#P" n="88"/>indubitanter credunt et sperant, et ardenter 
+desi<lb ed="#P" break="no" n="89"/>derant ; formam tamen acstatum ne cogitare 
+qui<lb ed="#P" break="no" n="90"/>dem vel tenuiter norunt ; ita ergo multi ante 
+Sal<lb ed="#P" break="no" n="91"/>vatoris adventum, Deum omnipotentem tenentes
+<lb ed="#P" n="92"/>et diligentes, suc salutis gratuitum promissorem
+<lb ed="#P" n="93"/>credentes in promissione fidelem, sperantes 
+cer<lb ed="#P" break="no" n="94"/>tissimum redditorem, in hac fide et exspectatione
+<lb ed="#P" n="95"/>salvati sunt ; licet quando et qualiter et quo 
+or<lb ed="#P" break="no" n="96"/>dine salus repromissa fieret, ignorarent. Nam et
+<lb ed="#P" n="97"/>ipsis apostolis quos justos fuisse nemo est qui
+<lb ed="#P" n="98"/>ambigat ; praesente salvatore et regnum colorum
+<lb ed="#P" n="99"/>manifesta jam luce predicante, mysterium 
+pas<lb ed="#P" break="no" n="100"/>sionis in tantum adhuc ignotum fuisse atque 
+oc<lb ed="#P" break="no" n="101"/>cultum legitur, ut ipso Domino hoc aperte 
+pre<lb ed="#P" break="no" n="102"/>dicante et praedicente, illi nec intelligere possent
+<lb ed="#P" n="103"/>que dicebantur. Duo quoque illi discipuli quibus
+<lb ed="#P" n="104"/>euntibus et dubitantibus in via Jesus apparuit ;
+<lb ed="#P" n="105"/>adipsius interrogationem pulsati, inter cetera
+<lb ed="#P" n="106"/>dixisse referuntur: Nos sperabamus quod ipse
+<lb ed="#P" n="107"/>erat redemplurus Israel (Luc. xxiv). In quo
+<lb ed="#P" n="108"/>aperte ostendunt quod redemptionem Israel per.
+<lb ed="#P" n="109"/>passionem Chrieti venturam non crediderant, qui
+<lb ed="#P" n="110"/>in ipsa passione de redemptione desperabant.
+<lb ed="#P" n="111"/>Propter quod et illis ibidem dicitur: O stulti et
+<lb ed="#P" n="112"/>tardi corde ad credendum. Nonwe oportuit
+<lb ed="#P" n="113"/>Christum pati et resurgere a. mortuis, et ita
+<lb ed="#P" n="114"/>intrare in gloriam suam (Ibid.) Postremo
+<lb ed="#P" n="115"/>quod est mysterium a seculis absconditum ; et
+<lb ed="#P" n="116"/>ne forte putetur solis malis absconditum, 
+subje<lb ed="#P" break="no" n="117"/>cit novissimis temporibus sanctis revelatum. Si
+<lb ed="#P" n="118"/>omnes hoc ab initio boni cognoverunt, quomodo
+<lb ed="#P" n="119"/>vel mali boc ignorare potuerunt, maxime cum
+<lb ed="#P" n="120"/>ab ipsis bonis qui hoc percepissent, qui vere boni
+<lb ed="#P" n="121"/>vol mali essent ; quibus hoc revelandnm 
+velcelan<lb ed="#P" break="no" n="122"/>dum foret discerni non potuisset. Atque in hunc
+<lb ed="#P" n="123"/>modum consequens esse manifeste agnoscimus,
+<lb ed="#P" n="124"/>ut ei bonis omnibus haec teveleNa, cy et aes
+<!-- 088.png.txt -->
+<pb ed="#P" n="170"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>lis quoque non ignota fuisse non dubitemus. 
+Por<lb ed="#P" break="no" n="2"/>ro si hoc-stare debebit, quis non videat quam inef
+<lb ed="#P" n="3"/>fabiliter priora illa tempora posterioribus 
+secu<lb ed="#P" break="no" n="4"/>lis praeferenda sint, cum fides quae hic foris solo
+<lb ed="#P" n="5"/>auditu verborum percipitur, illic per 
+contempla<lb ed="#P" break="no" n="6"/>tionem prophetice aspirationis, intus ab omnibus
+<lb ed="#P" n="7"/>plena et manifesta veritatis luce legeretur ? Quid
+<lb ed="#P" n="8"/>fides nostra comparatione fidei illorum, nisi, ut
+<lb ed="#P" n="9"/>ita dicam, non fides, sed opinio quaedam dicenda
+<lb ed="#P" n="10"/>est ? quos in tantum certiores agnoscimus fuisse
+<lb ed="#P" n="11"/>de futuro quam nos de praeterito; quoniam illi
+<lb ed="#P" n="12"/>quod in re non viderunt, agnoverunt per 
+spiri<lb ed="#P" break="no" n="13"/>tum ; nos quod non videmus, auditu solo 
+percipi<lb ed="#P" break="no" n="14"/>mus per verbum. Quod si verum est, quis non 
+vi<lb ed="#P" break="no" n="15"/>deat quod adventus Christi non solum 
+illumi<lb ed="#P" break="no" n="16"/>nationem fidelibus non attulit, sed 
+certio<lb ed="#P" break="no" n="17"/>rem et meliorem agnitionem abstulit? Quocirca
+<lb ed="#P" n="18"/>rectam fidem consulentes, commodiora saluti et
+<lb ed="#P" n="19"/>propinquiora veritati confiteamur : et. cognitionem
+<lb ed="#P" n="20"/>eorum quae ad fidem pertinent, sicut in uno 
+eo<lb ed="#P" break="no" n="21"/>demque tempore secundum capacitatem 
+diverso<lb ed="#P" break="no" n="22"/>rum differentem agnoscimus, ita quoque per 
+suc<lb ed="#P" break="no" n="23"/>cessionem temporum ab initio incrementis 
+qui<lb ed="#P" break="no" n="24"/>busdam auctam im ipsis fidelibus non dubitemus.
+<lb ed="#P" n="25"/>Unam tamen et eamdem fuisse fidem 
+preceden<lb ed="#P" break="no" n="26"/>tium et subsequentium : in quibus tamen eadem
+<lb ed="#P" n="27"/>cognitio non fuit, eic indubitanter confitemur,
+<lb ed="#P" n="28"/>quemadmodum in his quos innostris temporibus
+<lb ed="#P" n="29"/>fideles cernimus eamdem fidem, et tamen non
+<lb ed="#P" n="30"/>eamdem fidei cognitionem invenimus. Crevit 
+ita<lb ed="#P" break="no" n="31"/>que per tempora fides in omnibus, ut major 
+es<lb ed="#P" break="no" n="32"/>set, sed mutata non est, ut alia esset. Ante legem,
+<lb ed="#P" n="33"/>Deus creator credebatur; et ab eo salus et 
+re<lb ed="#P" break="no" n="34"/>demptioexspectabatur, per quem vero et quomodo
+<lb ed="#P" n="35"/>eadem salus implenda ac perficienda foret, 
+excep<lb ed="#P" break="no" n="36"/>tis paucis quibus hoc scire singalariter in 
+mune<lb ed="#P" break="no" n="37"/>re datum erat; a ceteris etiam fidelibus non 
+co<lb ed="#P" break="no" n="38"/>gnoscebatur. Sub lege autem persona 
+redempto<lb ed="#P" break="no" n="39"/>ris mittenda predicebatur, et ventura 
+exspecta<lb ed="#P" break="no" n="40"/>batur. Qut autem ipsa persona haec foret homo,
+<lb ed="#P" n="41"/>an angelus, an Deus nondum manifestabatur.
+<lb ed="#P" n="42"/>Soli hoc cognoverunt, qui per spiritum 
+singulari<lb ed="#P" break="no" n="43"/>ter ad hoc illuminati fuerunt. Sub gratia autem
+<lb ed="#P" n="44"/>manifeste omnibus jam et praedicatur et creditur,
+<lb ed="#P" n="45"/>etmodus redemptionis et qualitas persons 
+re<lb ed="#P" break="no" n="46"/>demptoris: Semper tamen in Ecclesia Dei ab 
+ini<lb ed="#P" break="no" n="47"/>tio fidem et cognitionem fuisse credimus 
+incar<lb ed="#P" break="no" n="48"/>nationis et passionis Christi; quia ab initio 
+nun<lb ed="#P" break="no" n="49"/>quam defuerunt, qui hoc cognoverunt. Alii 
+sal<lb ed="#P" break="no" n="50"/>vabantur, quia horum perfectioni fide simplici
+<lb ed="#P" n="51"/>jungebantur; et eos bene operando sequebantur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g22858-Dd1e1818">
+               <head xml:id="hsvhsv-g22858-Hd1e1820">Capitulum 7</head>
+               <head xml:id="hsvhsv-g22858-Hd1e1822" type="question-title"/>
+               <p xml:id="hsvhsv-g22858-d1e1824">
+                  <lb ed="#P" n="52"/>Cap. VII. Quid sit quo nihil minus unquam
+<lb ed="#P" n="53"/>fides vera habere potuit.
+</p>
+               <p xml:id="hsvhsv-g22858-d1e1831">
+                  <lb ed="#P" n="54"/>Haec eunt quibus ab initio nihil minus unquam
+<lb ed="#P" n="55"/>recta fides habere potuit. Credere videlicet unum
+<lb ed="#P" n="56"/>esse Deum creatorem omnium, Dominum et 
+rec<lb ed="#P" break="no" n="57"/>torem universorum ; ipsum quidem non esse 
+ma<lb ed="#P" break="no" n="58"/>li auctorem, eorum tamen qui in malis suis ejus
+<lb ed="#P" n="59"/>misericordiam quiererent vel exspectarent 
+futu<lb ed="#P" break="no" n="60"/>rum redemptorem. Haec simplicium fidei in initio
+<lb ed="#P" n="61"/>guffecisse credimus, quibus, etsi nihil amplius 
+ad<lb ed="#P" break="no" n="62"/>ditum est ad cognitionem, multum tamen colla-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>tum est ad devotionem. Isti quidem venturum in
+<lb ed="#P" n="64"/>carne redemptorem, et in eadem carne 
+moritu<lb ed="#P" break="no" n="65"/>rum, resurrecturum, et ascensurum ; sive alia
+<lb ed="#P" n="66"/>quedam quae illis temporibus abscondita 
+fue<lb ed="#P" break="no" n="67"/>runt, manifeste non cognoverunt. Et tamen fidem
+<lb ed="#P" n="68"/>nativitatis et passionis, sive resurrectionis et 
+as<lb ed="#P" break="no" n="69"/>censionis ejus, in hoc eos verissime habuisse 
+di<lb ed="#P" break="no" n="70"/>cimus ; quia credentibus et scientibus haec fide et
+<lb ed="#P" n="71"/>devotione sub spe et exspectatione ejusdem 
+re<lb ed="#P" break="no" n="72"/>demptionis adhaeserunt, quamvis modum 
+ejus<lb ed="#P" break="no" n="73"/>dem redemptionis sus similiter non cognoverunt.
+<lb ed="#P" n="74"/>Sic ergo intelligendum putamus quod dicit beatus
+<lb ed="#P" n="75"/>Augustinus, quod eadem fides mediatoris salvos
+<lb ed="#P" n="76"/>justos faciebat antiquos, pusillos cum magnis ;
+<lb ed="#P" n="77"/>quia eamdem fidem mediatoris justi antiqui 
+ha<lb ed="#P" break="no" n="78"/>p buerunt pusilli cum magnis. Alii quidem que
+<lb ed="#P" n="79"/>ventura erant, sicut ventura credentes et 
+cognos<lb ed="#P" break="no" n="80"/>centes; alii vero non quidem cognoscentes, sed
+<lb ed="#P" n="81"/>credendo et desiderando, cognoseentibus et 
+cre<lb ed="#P" break="no" n="82"/>dentibus adhzrentes. Quod vero subjungit, quia
+<lb ed="#P" n="83"/>aicut nos credimus in carne venisse, sic illi 
+ven<lb ed="#P" break="no" n="84"/>turum, sicut nos mortuum, gic illi moriturum, etc..
+<lb ed="#P" n="85"/>vel non ad omnes referendum est, sed ad eos 
+tan<lb ed="#P" break="no" n="86"/>tum quibus ventura haec prescire singulariter
+<lb ed="#P" n="87"/>datum est, ut omnes quidem eamdem fidem sed
+<lb ed="#P" n="88"/>non eamdem fidei cognitionem habuisse 
+diean<lb ed="#P" break="no" n="89"/>tur; aut si de omnibut hoc dictum intelligitur,
+<lb ed="#P" n="90"/>omnes qui futuram redemptionem crediderunt,
+<lb ed="#P" n="91"/>hsc etiam in. quibus redemptio constabat 
+credi<lb ed="#P" break="no" n="92"/>disse, non inconvenienter affirmantur. 
+Inquan<lb ed="#P" break="no" n="93"/>Q, tum enim ipsam quae omnia hiec continebat 
+re<lb ed="#P" break="no" n="94"/>demptionem venturam crediderunt, h;e 
+credide<lb ed="#P" break="no" n="95"/>runt, quamvis eamdem de ipsis omnes 1n 
+creden<lb ed="#P" break="no" n="96"/>do cognitionem non habuerunt. Hoc modo igitur
+<lb ed="#P" n="97"/>sano intellectu dici potest omnes ab initio justos
+<lb ed="#P" n="98"/>fidem Salvatoris habuisse, et omnes in fide 
+re<lb ed="#P" break="no" n="99"/>demptionis venture justificatos fuisse, quia eam -
+<lb ed="#P" n="100"/>dem redemptionem vel venturam crediderunt, vel
+<lb ed="#P" n="101"/>credentibus et cognoscentibus crediderunt ; et cum
+<lb ed="#P" n="102"/>fide sacramenta ipsius redemptionis, quae ab 
+ini<lb ed="#P" break="no" n="103"/>tio instituta sunt, ad sanctificationem susceperunt ;
+<lb ed="#P" n="104"/>et in ipsis eamdem redemptionem suam, quasi in
+<lb ed="#P" n="105"/>umbra ct figura portaverunt. Quod bene illi duo
+<lb ed="#P" n="106"/>viri signaverunt, qui botrum in vecte suspensum,
+<lb ed="#P" n="107"/>de terra promissionis ad filios Israel in desertum
+<lb ed="#P" n="108"/>p Portaverunt. Botrus siquidem in vecte Christus
+<lb ed="#P" n="109"/>in cruce est, cujus mysterium in sacramento duo
+<lb ed="#P" n="110"/>populi portant. Qui precesserunt, portaverunt
+<lb ed="#P" n="111"/>quidem .: sed non viderunt, quia praecedentes 
+ad<lb ed="#P" break="no" n="112"/>ventum ejus ; sacramenta passionis ejus, omnes
+<lb ed="#P" n="113"/>quidem per fidem portaverunt, sed non omnes per
+<lb ed="#P" n="114"/>cognitionem, quod portaverunt intelligere 
+merue<lb ed="#P" break="no" n="115"/>runt. Sequentes autem et portant et vident : quia
+<lb ed="#P" n="116"/>fideles qui post adventum ejus in carne sub
+sequun<lb ed="#P" break="no" n="117"/>tur;sacramentum passionis ejus, et per fidem
+<lb ed="#P" n="118"/>suscipiunt, et per revelatam jam cognitionem
+<lb ed="#P" n="119"/>agnoscunt. Unde <ref xml:id="hsvhsv-g22858-Rd1e1978">
+                     <name xml:id="hsvhsv-g22858-Nd1e1980">Beda</name> in eamdem quaestionem</ref> :
+<lb ed="#P" n="120"/>Unum, inquit, idemqueDominicscrucistrophaeum
+<lb ed="#P" n="121"/>prius prophete et Moyses, quam apostoli 
+nove<lb ed="#P" break="no" n="122"/>rant et predicabant, sed prcphetae hoc aliquoties
+<lb ed="#P" n="123"/>figuratis velatisque sermonibus ; apostoli autem
+<lb ed="#P" n="124"/>apostolorumque successores patefacta luce Kvan-
+<!-- 089.png.txt -->
+<pb ed="#P" n="171"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>gelii semper aperte predicabant ; ita ut nunc 
+om<lb ed="#P" break="no" n="2"/>nis populus Christianus scire et confiteri fidem,
+<lb ed="#P" n="3"/>quam eo tempore pauci admodum, et perfectiores
+<lb ed="#P" n="4"/>quique noverunt, quamvis omnis Dei populus
+<lb ed="#P" n="5"/>etiam tuncejusdem mysteria fidei in legalibus 
+cz<lb ed="#P" break="no" n="6"/>remoniis typice portaret.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g22858-Dd1e2015">
+               <head xml:id="hsvhsv-g22858-Hd1e2017">Capitulum 8</head>
+               <head xml:id="hsvhsv-g22858-Hd1e2019" type="question-title"/>
+               <p xml:id="hsvhsv-g22858-d1e2021">
+                  <lb ed="#P" n="7"/>Cap. VIII. Recapitulatio supradictorum.
+</p>
+               <p xml:id="hsvhsv-g22858-d1e2026">
+                  <lb ed="#P" n="8"/>Duo igitur sunt in quibus constat vera fides.
+<lb ed="#P" n="9"/>Creator et redemptor. Unum tibi sine altero non
+<lb ed="#P" n="10"/>sufficit. Utrumque agnosce, utrumque confitere.
+<lb ed="#P" n="11"/>Si Creatorem credis agnocisque quod factus es;
+<lb ed="#P" n="12"/>8i redemptorem confiteris, agnoscis quod 
+repara<lb ed="#P" break="no" n="13"/>tus es. Unus est creator et redemptor. In suo te
+<lb ed="#P" n="14"/>fecit, in tuo te refecit ; et utrumque unus fecit. Si
+<lb ed="#P" n="15"/>ipse te fecisset, et alter te refecisset; deberes illi
+<lb ed="#P" n="16"/>quod factus es, et deberes alteri quod refectus es.
+<lb ed="#P" n="17"/>Et sic esset divisa intentio tua et dilgctio et 
+obe<lb ed="#P" break="no" n="18"/>dientia tua ; et non esses unius totus. Et de 
+duo<lb ed="#P" break="no" n="19"/>bus illum plus diligeres, a quo plus haberes. Qui
+<lb ed="#P" n="20"/>creavit te, dedit tibi esse ; qui redemit te, dedit
+<lb ed="#P" n="21"/>tibi beatur esse. Propterea ne plus a te 
+diligere<lb ed="#P" break="no" n="22"/>tur alter quidam redemptor, quam ipse creator,
+<lb ed="#P" n="23"/>voluit ipse creator esse redemptor, et sustinuit
+<lb ed="#P" n="24"/>tuam passionem ut emeret tuam dilectionem. 
+Mig<lb ed="#P" break="no" n="25"/>sus est naturalis filius pro adoptandis, quia sine
+<lb ed="#P" n="26"/>ipso alieni introducendi non fuerant in 
+heeredita<lb ed="#P" break="no" n="27"/>tem. Venit sapientia, ut hostis non potestate, sed 
+ra<lb ed="#P" break="no" n="28"/>tione vinceretur; et in his omnibus fides tua in
+<lb ed="#P" n="29"/>uno constat, et ad unum et una, quia cum
+<lb ed="#P" n="30"/>duo nominantur, unus significatur ; quoniam 
+u<lb ed="#P" break="no" n="31"/>nus creator est et. redemptor. Creator ad 
+natu<lb ed="#P" break="no" n="32"/>ram, salvator ad gratiam. In his duobus totum
+<lb ed="#P" n="33"/>est et unum, hocest in quoab initio fides 
+creden<lb ed="#P" break="no" n="34"/>tium una est, quamvis in eadem fide in aliis 
+ma<lb ed="#P" break="no" n="35"/>jor, in aliis minor de istis cognitio fuerit, 
+secun<lb ed="#P" break="no" n="36"/>dum diversitatem temporum, sicut uno et eodem
+<lb ed="#P" n="37"/>tempore, in aliis major in aliis minor invenitur
+<lb ed="#P" n="38"/>cognitio de hisipsis secundum capacitatem 
+perso<lb ed="#P" break="no" n="39"/>narum. Quamvis ergo fides creverit, ut aliquando
+<lb ed="#P" n="40"/>et in aliquibus major esset ; non tamen mutata
+<lb ed="#P" n="41"/>est, ut alia esset. Sed omnes fide una crediderunt
+<lb ed="#P" n="42"/>unum, et omnes una fide justificati sunt, qui 
+jus<lb ed="#P" break="no" n="43"/>tificari meruerunt. Sine fide enim, ut ait 
+Apos<lb ed="#P" break="no" n="44"/>lus, impossibile est placere Deo (Hebr. ri). 
+Etsi<lb ed="#P" break="no" n="45"/>eut dicit beatus Augustinus : Ubi fides non erat,
+<lb ed="#P" n="46"/>bonum opus non erat.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g22858-Dd1e2115">
+               <head xml:id="hsvhsv-g22858-Hd1e2117">Capitulum 9</head>
+               <head xml:id="hsvhsv-g22858-Hd1e2119" type="question-title"/>
+               <p xml:id="hsvhsv-g22858-d1e2121">
+                  <lb ed="#P" n="47"/>Cap. IX. De sacramento fidei et virtute.
+</p>
+               <p xml:id="hsvhsv-g22858-d1e2126">
+                  <lb ed="#P" n="48"/>Sacramentum fidei dupliciter potest intelligi. 
+Sa<lb ed="#P" break="no" n="49"/>cramentum enim fidei vel ipsa fides intelligitur
+<lb ed="#P" n="50"/>quee sacramentumeest, vel sacramenta fidei 
+intel<lb ed="#P" break="no" n="51"/>liguntur qui cum fide percipienda sunt, et 
+adsan<lb ed="#P" break="no" n="52"/>etificationem fldelium preparata sunt. Nam et
+<lb ed="#P" n="53"/>quadam sacramenta militaria dicuntur, quibus
+<lb ed="#P" n="54"/>Tuilites in sua conditione imperatori suo ad fidem
+<lb ed="#P" n="55"/>conservandam obligantur ; etinfideles quoque 
+sa<lb ed="#P" break="no" n="56"/>cramenta quaedam habent, quae sacramenta 
+di<lb ed="#P" break="no" n="57"/>cuntur, quamvis nec sacra sint, nec sacre rei 
+aig<lb ed="#P" break="no" n="58"/>na. Sed exsecrationes potius et abominationes :
+<lb ed="#P" n="59"/>quibus non sacrantur homines, sed polluuntur.
+<lb ed="#P" n="60"/>"Tamen ad horum differentiam sacramenta fldei
+<lb ed="#P" n="61"/>dicta intelligi possunt quae a fidelibustractantur,
+<lb ed="#P" n="62"/>et cum fide adsanctificationem suscipiuntur. Pri-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>mum ergo consideramus qua ratione ipsa fides
+<lb ed="#P" n="64"/>sacramentum dicatur, velcujus rei sacramentum
+<lb ed="#P" n="65"/>esse intelligatur. Apostolus dicit: Videmus nunc
+<lb ed="#P" n="66"/>per speculum in anigmate, tunc autem facie
+<lb ed="#P" n="67"/>ad faciem (1 Cor. xun). Nunc scilicet. quando per
+<lb ed="#P" n="68"/>fidem videmus, videmus per speculum in 
+tegnig<lb ed="#P" break="no" n="69"/>mate ; tunc autem quando videbimus 
+percontem<lb ed="#P" break="no" n="70"/>plationem videbimus facie ad faciem. Quid est
+<lb ed="#P" n="71"/>per speculum videre? Imaginem videre. Quid est.
+<lb ed="#P" n="72"/>facie ad faciem videre ? Rem videre. Puta 
+aliquem<lb ed="#P" break="no" n="73"/>esse post te, vel supra te, avereus es ab illo, nec
+<lb ed="#P" n="74"/>vides facie ad faciem, facie tua. ad faciem illius.
+<lb ed="#P" n="75"/>Aversa est enim facies tua ab illo : et si forte ille
+<lb ed="#P" n="76"/>respicit ad te, non tamen tu similiter ad illum.
+<lb ed="#P" n="77"/>Quandiu igitur sic eris, non poteris illum videre
+<lb ed="#P" n="78"/>facie ad facium. Exhibe speculum et pone ante te,
+<lb ed="#P" n="79"/>statim videbis in eo imaginem illius, qui est ad
+<lb ed="#P" n="80"/>dorsum tuum, velsupra verticem tuum, et dices:
+<lb ed="#P" n="81"/>Video te. Quid vides? Jam aliquid vides sed 
+ima<lb ed="#P" break="no" n="82"/>ginem solam. Vides illum sed in imaginesua 
+non<lb ed="#P" break="no" n="83"/>dum in facie sua. Nondum cognoscis sicut 
+cognos<lb ed="#P" break="no" n="84"/>ceris ; nondum vides, sicut videris. Videris in te,
+<lb ed="#P" n="85"/>vides in imagine. Ille ad te respicit qui te videl ;
+<lb ed="#P" n="86"/>tu autem aversus es ab illo. Converte te ad illum,
+<lb ed="#P" n="87"/>et pone faciem ad faciem ;et videbis jam non 
+ima<lb ed="#P" break="no" n="88"/>ginem, sed ipsam rem. Prius vidisti illum, sed in
+<lb ed="#P" n="89"/>imagine sua : modo vides illum in facie sua. 
+Ta<lb ed="#P" break="no" n="90"/>men cum ipsam rem videre incipis, agnoscis quia
+<lb ed="#P" n="91"/>aliquid similitudinis fuit illi quod visum est in
+<lb ed="#P" n="92"/>imagine, ad id quod videtur in re. Quod videtur
+<lb ed="#P" n="93"/>in imagine sacramentum est : quod videtur in re,
+<lb ed="#P" n="94"/>res sacramenti est. Quod ergo videmus nunc per
+<lb ed="#P" n="95"/>speculum in :nigmate, sacramentum est ad illud
+<lb ed="#P" n="96"/>quod videbimus faciead faciem in manifesta 
+con<lb ed="#P" break="no" n="97"/>templatione. Sed quod es snigma, et quod est
+<lb ed="#P" n="98"/>speculum in quo videtur imago donecipsa res 
+vi<lb ed="#P" break="no" n="99"/>deri possit ? AEnigma est Scriptura sacra. Quare?
+<lb ed="#P" n="100"/>quia obscuram habet significationem. Speculum
+<lb ed="#P" n="101"/>est cor tuum, si tamen mundum fuerit et 
+exter<lb ed="#P" break="no" n="102"/>sum et clarificetum. Imago in speculo fides in 
+cor<lb ed="#P" break="no" n="103"/>de tuo. Ipsa enim fides imago est, et 
+sacramen<lb ed="#P" break="no" n="104"/>tum. Contemplatio autem futura, res et virtus 
+sa<lb ed="#P" break="no" n="105"/>cramenti. Qui fidem non habent nihilvident ; qui
+<lb ed="#P" n="106"/>fidem habent jam aliquid videre incipiunt, sed
+<lb ed="#P" n="107"/>imaginem solam. Si enim fidelis nihil videret, ex
+<lb ed="#P" n="108"/>fide illuminatio non esset, nec dicerentur 
+illumi<lb ed="#P" break="no" n="109"/>nati fideles. Si autem jam ipsam rem viderent, et
+<lb ed="#P" n="110"/>non amplius videndum aliquid exspectarent, non
+<lb ed="#P" n="111"/>per speculum in aenigmate, sed facie ad faciem
+<lb ed="#P" n="112"/>viderent. Ergo qui per fidem vident, imaginem
+<lb ed="#P" n="113"/>vident ; qui per contemplationem vident, rem 
+vi<lb ed="#P" break="no" n="114"/>dent. Qui fidem habent, sacramentum habent; qui
+<lb ed="#P" n="115"/>contemplationem habent, rem habent. Fides ergo
+<lb ed="#P" n="116"/>Sacramentum est future contemplationis; et ipsa
+<lb ed="#P" n="117"/>contemplatio res et virtus sacramenti ; et 
+accipi<lb ed="#P" break="no" n="118"/>mus nunc interim sacramentum sanctificandi, ut
+<lb ed="#P" n="119"/>perfecte sanctificati, rem ipsam capere possimus.
+<lb ed="#P" n="120"/>Si ergo summum bonum hominis contemplatio
+<lb ed="#P" n="121"/>creatoris sui merito creditur, non inconvenienter
+<lb ed="#P" n="122"/>fides per quam absentem videre quodammodo
+<lb ed="#P" n="123"/>incipit, initium boni, et principium 
+restauratio<lb ed="#P" break="no" n="124"/>nis ejus memoratur. Qusa NiàeleaN x esNoxxe San vae
+<!-- 090.png.txt -->
+<pb ed="#P" n="172"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>cundum incrementa fidei crescit, dum homo per 
+<lb ed="#P" n="2"/>agnitionem amplius illuminatur, ut plenius 
+agnos<lb ed="#P" break="no" n="3"/>cat, etinflammatur per dilectionem, ut ardentius
+<lb ed="#P" n="4"/>diligat. Sic ergo justus, quandiu in hoc corpore
+<lb ed="#P" n="5"/>existens, peregrinatura Domino, vivere habet ex
+<lb ed="#P" n="6"/>fide, quemadmodum cum eductus de hoc 
+ergas<lb ed="#P" break="no" n="7"/>tulo fuerit, et introductus, in gaudium 
+Domi<lb ed="#P" break="no" n="8"/>ni sui vivere habebit ex contemplatione. Sed 
+mi<lb ed="#P" break="no" n="9"/>ra Dei dispensatione agitur quod nunc malitia
+<lb ed="#P" n="10"/>interim hostis antiqui ad persequendos et 
+impu<lb ed="#P" break="no" n="11"/>gnandos fideles relaxatur, quatenus videlicet hoc
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="12"/>homini reputetur pro merito ; si nunc per fidem
+<lb ed="#P" n="13"/>ambulans, viam veritatis etiam impugnatus non
+<lb ed="#P" n="14"/>deserat, qui prius visione praesentis Dei 
+robora<lb ed="#P" break="no" n="15"/>ius, sola persuatione prostratus erat. Ut autem in
+<lb ed="#P" n="16"/>hoc praelio invictus stare possit, et bonum suum
+<lb ed="#P" n="17"/>illesum custodire, dantur ei at dictum est in 
+8a<lb ed="#P" break="no" n="18"/>cramentis arma, quibus se muniat; in operibus
+<lb ed="#P" n="19"/>bonis tela quibus ostem posternat, ut scilicet 
+fi<lb ed="#P" break="no" n="20"/>dei charitate et spe adjuncta, interius pariter 
+ro<lb ed="#P" break="no" n="21"/>boretur et vivat.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,2796 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pars 11</title>
+            <author ref="#HughOfStVictor">Hugh of St. Victor</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Pars 11</title>
+               <date when="2023-03-25">March 25, 2023</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-bnhupl">Patrologia Latina, v. 176</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2023-03-25" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="240"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="hsvhsv-g44629"><!-- l2-p11 -->
+            <head xml:id="hsvhsv-g44629-Hd1e101">Pars 11</head>
+            <head xml:id="hsvhsv-g44629-Hd1e103" type="question-title">
+De sacramento coniugii
+</head>
+            <p xml:id="hsvhsv-g44629-d1e106">
+               <cb ed="#P" n="c"/>
+               <lb ed="#P" n="100"/>PARS UNDECIMA.
+<lb ed="#P" n="101"/>DE SACRAMENTO CONJUGII.
+</p>
+            <div xml:id="hsvhsv-g44629-Dd1e115">
+               <head xml:id="hsvhsv-g44629-Hd1e117">Capitulum 1</head>
+               <head xml:id="hsvhsv-g44629-Hd1e119" type="question-title"/>
+               <p xml:id="hsvhsv-g44629-d1e121">
+                  <lb ed="#P" n="102"/>Cap. I. De excellentia. hujus sacramenti, et
+<lb ed="#P" n="103"/>qua in eo consideranda sint,
+</p>
+               <p xml:id="hsvhsv-g44629-d1e128">
+                  <lb ed="#P" n="104"/>Cum omnia sacramenta post peccatum et 
+prop<lb ed="#P" break="no" n="105"/>ter peccatum sumpserint exordium, solum conjugii
+<cb ed="#P" n="d"/>
+                  <lb ed="#P" n="106"/>sacramentum etiam ante peccatum legitur 
+insti<lb ed="#P" break="no" n="107"/>tutum; non tamen ad remedium sed ad officium.
+<lb ed="#P" n="108"/>In conjugio autem hac primum consideranda
+<lb ed="#P" n="109"/>Sunt et discernenda, origo et institutio, cum modo
+<!-- 159.png.txt -->
+<pb ed="#P" n="241"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>et causis suis, et ejus secundum tempus et locum
+<lb ed="#P" n="2"/>et ritus variatio.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g44629-Dd1e158">
+               <head xml:id="hsvhsv-g44629-Hd1e160">Capitulum 2</head>
+               <head xml:id="hsvhsv-g44629-Hd1e162" type="question-title"/>
+               <p xml:id="hsvhsv-g44629-d1e164">
+                  <lb ed="#P" n="3"/>Cap. II. De origine conjugii.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e169">
+                  <lb ed="#P" n="4"/>Conjugii auctor Deus est. Ipse enim conjugium
+<lb ed="#P" n="5"/>esse descrevit, quando mulierem ad 
+propagatio<lb ed="#P" break="no" n="6"/>nem generis humani homini in adjutorium fecit.
+<lb ed="#P" n="7"/>Adam quoque in spiritum cognoscens ad quem
+<lb ed="#P" n="8"/>usum mulier facta esset, cum adducta fuisset ad
+<lb ed="#P" n="9"/>eum dixit : Hoc nunc os eae ossibus meis, et caro
+<lb ed="#P" n="10"/>de carne mea. Propter hoc relinquet homo 
+pa<lb ed="#P" break="no" n="11"/>trem suum et matrem suam et adhorebit
+<lb ed="#P" n="12"/>wzori suc, et erunt duo in carne una (Gen. n).
+<lb ed="#P" n="13"/>Christus etiam in Cana Galilex (Joan. m) non
+<lb ed="#P" n="14"/>solum praesentia corporali, sed exhibitione quoque
+<lb ed="#P" n="15"/>miraculi nuptias consecravit. In quibus omnibus
+<lb ed="#P" n="16"/>ostenditur conjugium eta Deo esse et bonum esse.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g44629-Dd1e202">
+               <head xml:id="hsvhsv-g44629-Hd1e204">Capitulum 3</head>
+               <head xml:id="hsvhsv-g44629-Hd1e206" type="question-title"/>
+               <p xml:id="hsvhsv-g44629-d1e208">
+                  <lb ed="#P" n="17"/>Cap. III De duplici institutione conjugii, et de
+<lb ed="#P" n="18"/>causa institutionis duplici
+</p>
+               <p xml:id="hsvhsv-g44629-d1e215">
+                  <lb ed="#P" n="19"/>Institutio conjugii duplex est : una ante 
+pecca<lb ed="#P" break="no" n="20"/>tum ad officium ; altera post peccatum ad 
+reme<lb ed="#P" break="no" n="21"/>dium. Prima ut natura multiplicaretur; secunda
+<lb ed="#P" n="22"/>ut natura exciperetur, et vitium cohibgretur.
+<lb ed="#P" n="23"/>Prima institutio conjugium proposuit in fcedere
+<lb ed="#P" n="24"/>dilectionis, ut in eo sacramentum esset societatis,
+<lb ed="#P" n="25"/>quae in spiritu constat inter Deum et animam.
+<lb ed="#P" n="26"/>Officium autem conjugii in carnis commistione
+<lb ed="#P" n="27"/>proposuit, ut in eo sacramentum esset societatis,
+<lb ed="#P" n="28"/>quie in carne futura erat inter Christum et 
+Eccle<lb ed="#P" break="no" n="29"/>siam. Secunda institutio conjugium in fcedere 
+di<lb ed="#P" break="no" n="30"/>lectionis sancivit, ut per ejus bona id quod in
+<lb ed="#P" n="31"/>carnis commistione infirmitatis erat et delicti,
+<lb ed="#P" n="32"/>excusaretur. Officiun autem conjugii in 
+commis<lb ed="#P" break="no" n="33"/>tione carnis, concessit ut in eo praeter generis
+<lb ed="#P" n="34"/>multiplicationem generantium infirmitas 
+excipe<lb ed="#P" break="no" n="35"/>retur. Quare autem institutum sit conjugii 
+sacra<lb ed="#P" break="no" n="36"/>mentum, Apostolus innuit (I Cor. 1), ubi virum
+<lb ed="#P" n="37"/>imaginem Dei esse, ac per hoc quodammodo 
+mu<lb ed="#P" break="no" n="38"/>lierem anim: rationalis typum portare ostendit.
+<lb ed="#P" n="39"/>Quareitem primo institutum sit conjugii officium,
+<lb ed="#P" n="40"/>ipse Deus institutor et ordinator ostendit, dicens:
+<lb ed="#P" n="41"/>Crescite et multiplicamini et replete terram
+<lb ed="#P" n="42"/>(Gen. 11). Officium autem conjugii hoc est, carnis
+<lb ed="#P" n="43"/>commistionem ante peccatum non ad remedium
+<lb ed="#P" n="44"/>infirmitatis, sed ad multiplicationem prolis 
+insti<lb ed="#P" break="no" n="45"/>tutum esse, post peccatum aut idem ipsum ad
+<lb ed="#P" n="46"/>remedium infirmitatis concessum beatus 
+Augus<lb ed="#P" break="no" n="47"/>tinus testatur his verbis, dicens: Utriusque sexus
+<lb ed="#P" n="48"/>infirmitas propendens in ruinam turpitudinis
+<lb ed="#P" n="49"/>recte honestate nuptiarum excipitur, ut quod sanis
+<lb ed="#P" n="50"/>esset officium, sit wgrotis remedium. Item in 
+con<lb ed="#P" break="no" n="51"/>jugio aliud esse et alterius rei sacramentum esse
+<lb ed="#P" n="52"/>ipsum conjugium, et aliud essé et alterius rei 
+sa<lb ed="#P" break="no" n="53"/>cramentum esse ipsum conjugii officium ; idem
+<lb ed="#P" n="54"/>ipse in libro De bono conjugali testatur, dicens :
+<lb ed="#P" n="55"/>In conjugio aliquid boni esse videtur; non solum
+<lb ed="#P" n="56"/>propter propagationem filiorum, sed etiam 
+prop<lb ed="#P" break="no" n="57"/>ter naturalem in diverso sexu societatem. Ali
+<lb ed="#P" n="58"/>quin jam non diceretur conjugium in senibus, si
+<lb ed="#P" n="59"/>vel amisissent filios vel non genuissent ; in quibus,
+<lb ed="#P" n="60"/>etsi emarcuerit ardor carnis, viget tamen ordo
+<lb ed="#P" n="61"/>charitatis. Item : Ia nuptiis plus valet sanctitas
+<lb ed="#P" n="62"/>sacramenti, quam fecunditas vent-is. Unde qui-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>dam non intelligentes hoc quod dictum est : illa
+<lb ed="#P" n="64"/>mulier non potest pertinere ad Christi et Ecclesizo
+<lb ed="#P" n="65"/>sacramentum cum qua noscitur non fuisse 
+car<lb ed="#P" break="no" n="66"/>nale commercium, existimant sacramentum 
+con<lb ed="#P" break="no" n="67"/>jugii esse non posse ubi commistio carnalis non
+<lb ed="#P" n="68"/>fuerit. Nesciunt enim quod officium conjugii in
+<lb ed="#P" n="69"/>carnis commistione, illam quae Inter Christum et
+<lb ed="#P" n="70"/>Ecclesiam per carnis susceptionem facta est
+<lb ed="#P" n="71"/>unionem figurat, proptereaque Christi et Ecclesize
+<lb ed="#P" n="72"/>sacramentum esse non possit, ubi. commercium
+<lb ed="#P" n="73"/>carnale non fuerit. Conjugium tamen verum, et
+<lb ed="#P" n="74"/>verum conjugii sacramentum esse, etiam si carnale
+<lb ed="#P" n="75"/>commercium non fuerit subsecutum, imo potius
+<lb ed="#P" n="76"/>tanto verius et sanctius esse, quanto in se nihil
+<lb ed="#P" n="77"/>habet unde castitas erubescat, sed unde charitas
+<lb ed="#P" n="78"/>glorietur. Nam et ipsum conjugium sacramentum
+<lb ed="#P" n="79"/>est, sicut et ipsum officium conjugii sacramentum
+<lb ed="#P" n="80"/>esse cognoscitur. Sed conjugium, ut dignum est,
+<lb ed="#P" n="81"/>sacramentum est illius societatis quae in spiritu
+<lb ed="#P" n="82"/>est inter Deum et animam. Officium vero conjugii
+<lb ed="#P" n="83"/>sacramentum est illius societatis quae in carne
+<lb ed="#P" n="84"/>est inter Christum et Ecclesigm. Scriptum est
+<lb ed="#P" n="85"/>enim : Erunt duo in carne una (Gen. 1) ; sed
+<lb ed="#P" n="86"/>si duo in carne una, jam non duo sed una caro.
+<lb ed="#P" n="87"/>Hoc est sacramentum quod ait. Apostolus 
+ma<lb ed="#P" break="no" n="88"/>gnum in Christo et Ecclesia (Ephes. v), ad quod
+<lb ed="#P" n="89"/>sacramentum pertinere non potest mulier cum.
+<lb ed="#P" n="90"/>qua noscitur non fuisse carnale commercium.
+<lb ed="#P" n="91"/>Potest tamen pertinere ad aliud sacramentum non
+<lb ed="#P" n="92"/>magnum in Christo et Ecclesia, sed majus in Deo
+<lb ed="#P" n="93"/>et anima. Quid enim ? Si magnum est quod in
+<lb ed="#P" n="94"/>carne, magnum non est : imo multo majus quod
+<lb ed="#P" n="95"/>in spiritu est ? Caro, inquit, nihil prodest, 
+spi<lb ed="#P" break="no" n="96"/>ritus est qui vivificat (Joan. vi). Siergo magnum
+<lb ed="#P" n="97"/>est quod in carne est, majus utique est quod in
+<lb ed="#P" n="98"/>spiritu est. Si recte per Scripturam sanctam Deus
+<lb ed="#P" n="99"/>sponsus dicitur, et anima rationalis sponsa 
+voca<lb ed="#P" break="no" n="100"/>tur, aliquid profecto inter Deum ct animam est,
+<lb ed="#P" n="101"/>cujus id quod in conjugio inter inasculum et 
+femi<lb ed="#P" break="no" n="102"/>nam constat, sacramentum et imago est. Et forte
+<lb ed="#P" n="103"/>ut expressius dicatur ipsa societas et quae exterius
+<lb ed="#P" n="104"/>in conjugio pacto fosderis servatur sacramentum
+<lb ed="#P" n="105"/>est, et ipsius sacramenti res est dilectio mutua
+<lb ed="#P" n="106"/>animorum, qua ad invicem in societatis et 
+fcede<lb ed="#P" break="no" n="107"/>ris conjugalis vinculo custoditur. Et haec ipsa
+<lb ed="#P" n="108"/>rursus dilectio, qua masculus et femina in 
+sanc<lb ed="#P" break="no" n="109"/>titate conjugii animis uniuntur, sacramentum
+<lb ed="#P" n="110"/>est ; et signum illius dilectionis una Deus 
+ratio<lb ed="#P" break="no" n="111"/>nali animae intus per infusionem gratim sus et
+<lb ed="#P" n="112"/>spiritus sui participationem conjungitur. Copula
+<lb ed="#P" n="113"/>igitur carnis qua ante peccatum in conjugio 
+offi<lb ed="#P" break="no" n="114"/>cium fuit, et post peccatum in eodem pro remedio
+<lb ed="#P" n="115"/>concessa est ; sic utrobique conjugio adjungitur,
+<lb ed="#P" n="116"/>ut cum conjugio ipsa sit, non conjugium ex ipsa.
+<lb ed="#P" n="117"/>Nam et ante ipsam conjugium verum est, et sine
+<lb ed="#P" n="118"/>ipsa sanctum esse potest ; tunc quidem si non
+<lb ed="#P" n="119"/>adesset illa infructiosius, nunc autem si illa non
+<lb ed="#P" n="120"/>adfuerit, sincerius. Quod enim post peccatum 
+co<lb ed="#P" break="no" n="121"/>pula carnis in conjugio admittitur, indulgentiae
+<lb ed="#P" n="122"/>magis est et compassionis, ne vitium 
+concupis<lb ed="#P" break="no" n="123"/>centia quod in humana carne ost yecesNoxa. 
+ta<lb ed="#P" break="no" n="124"/>dicavit ; turpius in omuera excessum yertastes,
+<!-- 160.png.txt -->
+<pb ed="#P" n="242"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>si nusquam licite excipi potuisset.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g44629-Dd1e459">
+               <head xml:id="hsvhsv-g44629-Hd1e461">Capitulum 4</head>
+               <head xml:id="hsvhsv-g44629-Hd1e463" type="question-title"/>
+               <p xml:id="hsvhsv-g44629-d1e465">
+                  <lb ed="#P" n="2"/>Cap. IV. Quid sit conjugium et qui illud legitime 
+con<lb ed="#P" break="no" n="3"/>trahere possint, et quis consensus sit legitimus.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e472">
+                  <lb ed="#P" n="4"/>Quidam hoc modo conjugium diffiniendum 
+pu<lb ed="#P" break="no" n="5"/>taverunt, ut dicerent « conjugium esse consensum
+<lb ed="#P" n="6"/>masculi et femine individualem vite 
+consuetudi<lb ed="#P" break="no" n="7"/>nem retinentem. » Cui diffinitioni « legitimum »
+<lb ed="#P" n="8"/>adjungere oporte$ ; quia si consensus masculi et
+<lb ed="#P" n="9"/>femine legitimus, hoc est legitime et inter 
+perso<lb ed="#P" break="no" n="10"/>nas legitimas factus, non fuerit, conjugium in eo
+<lb ed="#P" n="11"/>consecrari non potest. Legitimas autem illas 
+per<lb ed="#P" break="no" n="12"/>sonas dicimus in quibus illa rationabilis causa
+<lb ed="#P" n="13"/>demonstrari-non potest, quare conjugii pactum.
+<lb ed="#P" n="14"/>mutuo firmare non possint. Ideo autem dico in
+<lb ed="#P" n="15"/>quibus rationabilis causa demonstrari non potest,
+<lb ed="#P" n="16"/>quia etsi forte est, sed occulta et latens etnondum
+<lb ed="#P" n="17"/>judicio Ecclesie comprobata quantum ad judicium
+<lb ed="#P" n="18"/>Ecclesie spectat pactum conjugale neque 
+probi<lb ed="#P" break="no" n="19"/>beri potest ut non flat, neque cum factum fuerit
+<lb ed="#P" n="20"/>infirmari potest, ut non consistat. Quod enim
+<lb ed="#P" n="21"/>omnino occultum est, quantum ad judicium 
+Eccle<lb ed="#P" break="no" n="22"/>sie, non esse dicendum est, qui ad efficiendum
+<lb ed="#P" n="23"/>aliquid vel impediendum non differt ab eo quod
+<lb ed="#P" n="24"/>non est. Prima autem institutio, duas tantum
+<lb ed="#P" n="25"/>personas, id est patrem et matrem a contractu
+<lb ed="#P" n="26"/>matrimonii excepit, ubi hominem ut adhaerere
+<lb ed="#P" n="27"/>possit uxori sus patrem et matrem relicturum esse
+<lb ed="#P" n="28"/>asseruit, dicens : Propter hoc relinquet homo
+<lb ed="#P" n="29"/>patrem suum et matrem suam, et adherebit
+<lb ed="#P" n="30"/>uaori suc (Gen. 11). Manifestum est autem quod
+<lb ed="#P" n="31"/>non requiruntur ad hoc, qui relinquuntur propter
+<lb ed="#P" n="32"/>hoc. Has ergo duas personas solas prima institutio
+<lb ed="#P" n="33"/>excepit. In caeteris omnibus nullam ulli ad 
+sacra<lb ed="#P" break="no" n="34"/>mentum conjugii foederandum prohibuit. Venit
+<lb ed="#P" n="35"/>postea secunda institutio, quae per legem facta est;
+<lb ed="#P" n="36"/>etexcepit quasdam alias personas sive ad decorem
+<lb ed="#P" n="37"/>nature, sive ad pudicitie argumentum. Et extunc
+<lb ed="#P" n="38"/>coepit esse ex prohibitione ilhcitum quod fuerat
+<lb ed="#P" n="39"/>ex natura concessum. Ubi quidem si non 
+culpabi<lb ed="#P" break="no" n="40"/>liter prohibitio ignoratur in transgressione 
+igno<lb ed="#P" break="no" n="41"/>rantia excusatur. Nec prohibetur virtus 
+sacra<lb ed="#P" break="no" n="42"/>menti quandiu non patet transgressio praecepti.
+<lb ed="#P" n="43"/>Cum autem constans est ceperit quod prohibitum
+<lb ed="#P" n="44"/>est, constare deinceps aut ratum esse non potest;
+<lb ed="#P" n="45"/>quod factum est, quia quod manifeste contra 
+prae<lb ed="#P" break="no" n="46"/>ceptionem agitur, legitimum aut verum esse non
+<lb ed="#P" n="47"/>judicatur. Erunt fortassis qui existiment 
+ignoran<lb ed="#P" break="no" n="48"/>tiam facere tantum non posse, ut pro ea 
+conju<lb ed="#P" break="no" n="49"/>gium appellari debeat, inter ejusmodi personas,
+<lb ed="#P" n="50"/>quibus matrimonii copula juste prohiberetur, si
+<lb ed="#P" n="51"/>causa quae latet cognosceretur. Ego illos interrogo
+<lb ed="#P" n="52"/>quid sentiendum sit de filiis ex hujusmodi copula
+<lb ed="#P" n="53"/>procreatis, utrum legitimi an illogilimi sint 
+judi<lb ed="#P" break="no" n="54"/>candi. Quod si durum videtur, ut idcirco filii 
+ille<lb ed="#P" break="no" n="55"/>gitimi dicantur; quia parentes secundum causam
+<lb ed="#P" n="56"/>aliquam latentem illicite, secundum judicium
+<lb ed="#P" n="57"/>autem et concessionem Ecclesi: legitime fuerunt
+<lb ed="#P" n="58"/>copulati : concedant necesse est copulam illam ex
+<lb ed="#P" n="59"/>qua procreati sunt, quandiu quidem causa latuit,
+<lb ed="#P" n="60"/>legitimam fuisse, etiam si juste illicitum fuisse
+<lb ed="#P" n="61"/>causentur. Non enim omne quod illicite fit, ideo
+<lb ed="#P" n="62"/>non fit, quia illicite fit ; quoniam quod fit fieri
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>omnino dicendum est, quamvis in eo quod sic fit.
+<lb ed="#P" n="64"/>nale fieri recte dicatur. Si autem quod fit et quod
+<lb ed="#P" n="65"/>illicite fit fieri quidem sciatur, illicite autem fieri
+<lb ed="#P" n="66"/>nesciatur, potest quidem ignorantia culpam 
+tem<lb ed="#P" break="no" n="67"/>perare aut excusare, ut actum legitimum constet
+<lb ed="#P" n="68"/>in eo quod fit? quamvis facere non possit, ut 
+irre<lb ed="#P" break="no" n="69"/>prehensibiliter non fiat, jin eo quod sic fit. Si ergo
+<lb ed="#P" n="70"/>filii secundum aliquid legitimi sunt, secundum
+<lb ed="#P" n="71"/>aliquid legitima est et copula ex qua sunt. Quod
+<lb ed="#P" n="72"/>copula ipsa secundum aliquid legitima recte 
+di<lb ed="#P" break="no" n="73"/>citur, non mihi apparet quare non etiam 
+secun<lb ed="#P" break="no" n="74"/>dum idipsum conjugium merito nominetur. Non
+<lb ed="#P" n="75"/>estenim magna contentio de nomine, ubi idem
+<lb ed="#P" n="76"/>de veritate sentitur. Exceptis ergo ejusmodi 
+cau<lb ed="#P" break="no" n="77"/>sis, in quibus vel propter horrorem vel 
+turpitu<lb ed="#P" break="no" n="78"/>dinem, pudicitiae consulendum videtur ; in caeteris
+<lb ed="#P" n="79"/>omnibus hoc sentiendum puto quod si in aliqua
+<lb ed="#P" n="80"/>forte per ignorantiam offenditur, quandiu quidem
+<lb ed="#P" n="81"/>latet matrimonio secundum judicium Ecclesie
+<lb ed="#P" n="82"/>legitime facto, nequaquam tolere possit quin 
+le<lb ed="#P" break="no" n="83"/>gitimum appelletur. Non mihi ergo quis fratrem
+<lb ed="#P" n="84"/>et sororem opponat aut cestera hujusmodi, in 
+qui<lb ed="#P" break="no" n="85"/>bus ratio ignorantiae excusationem non admittit.
+<lb ed="#P" n="86"/>Non permittuntur in ejusmodi offendere, quod in
+<lb ed="#P" n="87"/>eo quod faciunt ignorantia debet excusare. 
+Hor<lb ed="#P" break="no" n="88"/>roris sunt hujusmodi facta non rationis, in quibus
+<lb ed="#P" n="89"/>et si ignorantia fuerit, verecundia tamen et 
+pu<lb ed="#P" break="no" n="90"/>dicitia confusionem non evadit. Aliud est de illis
+<lb ed="#P" n="91"/>loqui de quibus dicit Apostolus : Tentatio vos
+<lb ed="#P" n="92"/>non apprehendat nisi humana (I Cor. x). In
+<lb ed="#P" n="93"/>quibus enim humanum est errare in illis potest.
+<lb ed="#P" n="94"/>ignorantia erroris culpam excusare;sic ergo 
+legiti<lb ed="#P" break="no" n="95"/>mas personas secundum judicium Ecclesise 
+appel<lb ed="#P" break="no" n="96"/>landas putamus in quibus nulla causa exstat pro
+<lb ed="#P" n="97"/>qua aut juste prohiberi possit, quod faciendum
+<lb ed="#P" n="98"/>est, aut cum factum fuerit infirmari. Sed quandiu
+<lb ed="#P" n="99"/>quidem sic est, legitimum esse dicitur quod est.
+<lb ed="#P" n="100"/>Si quis autem interroget quomodo secundum 
+ju<lb ed="#P" break="no" n="101"/>dicium Ecclesise legitimum esse possit quod 
+se<lb ed="#P" break="no" n="102"/>cundum judiciura divinum legitimum non est ;
+<lb ed="#P" n="103"/>ego quidem utrumque legitimum esse puto. Idcirco
+<lb ed="#P" n="104"/>tamen secundum judicium Ecclesie specialiter
+<lb ed="#P" n="105"/>legitimum dici; quia secundum judicium Ecclesize
+<lb ed="#P" n="106"/>nihil in eo est pro quo legitimum dici non debeat,
+<lb ed="#P" n="107"/>sed secundum divinum judicium aliquid in eo est,
+<lb ed="#P" n="108"/>quod Ecclesi judicio manifestum esset, 
+conju<lb ed="#P" break="no" n="109"/>gium legitimum non esset. Hoc est quia aliquid
+<lb ed="#P" n="110"/>ineo est ; Ecclesio quidem occultum, sed Deo
+<lb ed="#P" n="111"/>notum. Quod si similiter Ecclesie manifestum
+<lb ed="#P" n="112"/>esset, conjugium legitimum non esset. Nunc 
+au<lb ed="#P" break="no" n="113"/>tem per ignorantiam excusatur, ut ex eo ipso tam
+<lb ed="#P" n="114"/>apud Deum quam apud homines legitimum sit,
+<lb ed="#P" n="115"/>quandiu ignoratur, quia apud homines quidem
+<lb ed="#P" n="116"/>nihil eo reprehenditur ; apud Deum autem quod
+<lb ed="#P" n="117"/>reprehensibile est et si culpam habeat, ad 
+confu<lb ed="#P" break="no" n="118"/>sionem tamen reprobationis non imputatur. Et
+<lb ed="#P" n="119"/>has quidem personas Ecclesiae legitimas, 
+secun<lb ed="#P" break="no" n="120"/>dum judicium Ecclesi: existimamus. Consensum
+<lb ed="#P" n="121"/>autem legitimum illum esse putamus qui ad hoc
+<lb ed="#P" n="122"/>fit ad quod fieri debet. Nam qui ad solam carnis
+<lb ed="#P" n="123"/>commistionem consentiunt, pro tali consensu
+<lb ed="#P" n="124"/>conjuges adhuc dici non possunt. Hoe enim et
+<!-- 161.png.txt -->
+<pb ed="#P" n="243"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>fornicantes et adulterantes faciunt, a quibus 
+con<lb ed="#P" break="no" n="2"/>jugalis castimonise nomen procul abesse 
+cognos<lb ed="#P" break="no" n="3"/>citur. Ergo aliud illud est, cujus consensus inter
+<lb ed="#P" n="4"/>masculum et feminam conjugium sacrat. « Hoc
+<lb ed="#P" n="5"/>autem quid esse dicendum est, nisi societas illa
+<lb ed="#P" n="6"/>quam Deus Creator a principio inter masculum
+<lb ed="#P" n="7"/>et feminam instituit quando mulierem de latere
+<lb ed="#P" n="8"/>viri formatam eidem sociavit? » Quia enim socia
+<lb ed="#P" n="9"/>data est, non ancilla, aut domina ; idcirco nec de
+<lb ed="#P" n="10"/>imo, sed de medio fuerat producenda. Si enim de
+<lb ed="#P" n="11"/>capite fleret, de summo fieret, et videretur ad
+<lb ed="#P" n="12"/>dominationem creata. Si autem de pedibus fleret,
+<lb ed="#P" n="13"/>de imo fieret ; et videretur ad servitutem 
+subji<lb ed="#P" break="no" n="14"/>cienda. Propterea de medio facta est, ut ad 
+szequa<lb ed="#P" break="no" n="15"/>litatem societatis facta probaretur. In hoc tamen
+<lb ed="#P" n="16"/>quodammodo inferior ipso quod facta est de ipso,
+<lb ed="#P" n="17"/>utad ipsum semper quasi ad principium suum
+<lb ed="#P" n="18"/>respiceret, et ei individue adhaerendo, ab ea se
+<lb ed="#P" n="19"/>(quae adinvicem constare debebat) societate non
+<lb ed="#P" n="20"/>separaret. Haec ergo societatis conjugium est, quae
+<lb ed="#P" n="21"/>federe sponsionis mutuae consecratur, quando
+<lb ed="#P" n="22"/>uterque voluntaria promissione debitorem se 
+fa<lb ed="#P" break="no" n="23"/>cit alteri. ut deinceps neque ad alienam altero
+<lb ed="#P" n="24"/>vivente societatem transeat, neque se ab illa qux
+<lb ed="#P" n="25"/>adinvicem constat societate disjungat. Ad cujus
+<lb ed="#P" n="26"/>quidem societatis consensum, si etiam carnalis
+<lb ed="#P" n="27"/>commistionis consensus in prima fcederatione
+<lb ed="#P" n="28"/>conjungitur, ejusdem commistionis debito 
+con<lb ed="#P" break="no" n="29"/>jugati, postmodum ad invicem constringuntur.
+<lb ed="#P" n="30"/>Quod si forte in federatione conjugii utrinque
+<lb ed="#P" n="31"/>pari voto consensus carnis remittitur, pro eodem
+<lb ed="#P" n="32"/>deinceps conjugati debitores adinvicem non 
+te<lb ed="#P" break="no" n="33"/>nentur. Quod enim ab utriusque pari consensu
+<lb ed="#P" n="34"/>dimissum et voto firmatum est;juste postmodum
+<lb ed="#P" n="35"/>ab altero exigi non potest ; et tamen firmum stat
+<lb ed="#P" n="36"/>etiam sic conjugii sacramentum cujus virtutem
+<lb ed="#P" n="37"/>copula carnis sicut non efficit cum adest, ita si
+<lb ed="#P" n="38"/>defuerit tollere non potest. Talis itaque consensus
+<lb ed="#P" n="39"/>individualem vitae consuetudinem retinere 
+credi<lb ed="#P" break="no" n="40"/>tur qui ad hoc factus est, ut mutua socielatis quae
+<lb ed="#P" n="41"/>adinvicem per ipsum initiata est utroque vivente
+<lb ed="#P" n="42"/>amplius dissidium non patiatur. Qui ergo diffinire
+<lb ed="#P" n="43"/>voluerit conjugium, dicere potest : « Conjugium
+<lb ed="#P" n="44"/>esse consensum legitimum, hoc est inter legitimas
+<lb ed="#P" n="45"/>personas et legitime factum masculi et feminc ad.
+<lb ed="#P" n="46"/>individualem vitae consuetudinem observandam.»
+<lb ed="#P" n="47"/>In quo quidem consensu copulae carnalis 
+commer<lb ed="#P" break="no" n="48"/>cium pari voto aut futurum non contradicitur,
+<lb ed="#P" n="49"/>aut non futurum laudatur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g44629-Dd1e853">
+               <head xml:id="hsvhsv-g44629-Hd1e855">Capitulum 5</head>
+               <head xml:id="hsvhsv-g44629-Hd1e857" type="question-title"/>
+               <p xml:id="hsvhsv-g44629-d1e859">
+                  <lb ed="#P" n="50"/>Cap. V. Quando conjugium esse incipiat.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e864">
+                  <lb ed="#P" n="51"/>Si quis autem quaerat quando conjugium esse
+<lb ed="#P" n="52"/>incipiat, dicimus quod ex quo talis consensus
+<lb ed="#P" n="53"/>qualem supra diffinivimus inter masculum et 
+fce<lb ed="#P" break="no" n="54"/>minam factus fuerit, ex eo statim conjugium est,
+<lb ed="#P" n="55"/>quem etsi postea copula carnis sequitur, nihil ta.
+<lb ed="#P" n="56"/>men conjugio amplius ad virtutem sacramenti
+<lb ed="#P" n="57"/>confertur. Unde constat quod si vir vel mulier
+<lb ed="#P" n="58"/>posttalem consensum, ad alienam societatem 
+tran<lb ed="#P" break="no" n="59"/>sierit, etiamsi commistio carnis illic sequatur ad
+<lb ed="#P" n="60"/>priorem tamen societatem in qua sacramentum
+<lb ed="#P" n="61"/>conjugii sancituin est et postquam secunda 
+popu<lb ed="#P" break="no" n="62"/>la illicita omnino judicatur, redire debebit. Sed
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>dicis mihi : Aliquis promisit sive forte juravit
+<lb ed="#P" n="64"/>alicui se, usque ad tempus complacitum illam
+<lb ed="#P" n="65"/>dueturum; et illa similiter promisit vel juravit se
+<lb ed="#P" n="66"/>ili nupturam. Interim mutato proposito, alter
+<lb ed="#P" n="67"/>sive uterque ad alienam societatem transit, et ille
+<lb ed="#P" n="68"/>aliam uxorem ducit : et illa marito alteri nubit.
+<lb ed="#P" n="69"/>Quid ergo faciendum est? Nunquid propter 
+prio<lb ed="#P" break="no" n="70"/>rem sponsionem secundae foederationis pactum
+<lb ed="#P" n="71"/>scindendum est? Sed considera quod longe aliud
+<lb ed="#P" n="72"/>est promittere atque aliud facere. Qui promittit
+<lb ed="#P" n="73"/>nondum facit; qui autem facit jam facit quod 
+fa<lb ed="#P" break="no" n="74"/>cit. In eo qui promittit si non facit quod 
+promit<lb ed="#P" break="no" n="75"/>tit, mendacium est. In eo autem qui facit, etiam
+<lb ed="#P" n="76"/>si post factum poenitet, tamen factum omnino est
+<lb ed="#P" n="77"/>quod factum est. Qui ergo se promisit uxorem
+<lb ed="#P" n="78"/>B ducturum, nondum tamen uxorem duxit; et quae
+<lb ed="#P" n="79"/>spopondit se nupturam nondum nupsit, nec 
+con<lb ed="#P" break="no" n="80"/>jugium adhuc fuit, sed futurum esse debuit. Cum
+<lb ed="#P" n="81"/>autem postea et ille uxorem duxit, et illa marito
+<lb ed="#P" n="82"/>nupsit, jam conjugium utrinque fuit; et non 
+po<lb ed="#P" break="no" n="83"/>terit dissolvi quod factum est, etiam si id quod
+<lb ed="#P" n="84"/>promissum fuit non est impletum. Prsecedens ergo
+<lb ed="#P" n="85"/>mendacium pcenitentia corrigendum est, sed 
+se<lb ed="#P" break="no" n="86"/>quens conjugium dissolvendum non est. Non 
+au<lb ed="#P" break="no" n="87"/>iem sic est quando sacramentum conjugii non
+<lb ed="#P" n="88"/>quidem, ut supra dictum est, mutua sponsione
+<lb ed="#P" n="89"/>futurum promittitur, sed praesentis assensus 
+at<lb ed="#P" break="no" n="90"/>testatione firmatur; quia post talem consensum
+<lb ed="#P" n="91"/>quidquid ip aliena societate etiam cum carnis
+<lb ed="#P" n="92"/>commistione, vel cum prolis procreatione 
+secu<lb ed="#P" break="no" n="93"/>C tum fuerit, irritum omnino esse debebit, Sed 
+pu<lb ed="#P" break="no" n="94"/>tant quidam posterius factum idcirco stare debere
+<lb ed="#P" n="95"/>quia in eo amplius esse videtur, ubi post 
+consen<lb ed="#P" break="no" n="96"/>sum etiam carnis commistio secuta est. Sed cur
+<lb ed="#P" n="97"/>ideo stare debet in quo plus factum est, si totum
+<lb ed="#P" n="98"/>id quod factum est, juste facium mon est? Si
+<lb ed="#P" n="99"/>posterius propterea conjugium judicatur; quia in
+<lb ed="#P" n="100"/>eo copula carnalis fuit, quae in priori non fuit,
+<lb ed="#P" n="101"/>ergo si tertium post hoc secutum fuerit, dicet 
+ali<lb ed="#P" break="no" n="102"/>quis quod melius judicandum est quam secundum;
+<lb ed="#P" n="103"/>quia in eo fortassis sepius copula carnalis fuit
+<lb ed="#P" n="104"/>quam in secundo fuit, quod ratio non admittit.
+<lb ed="#P" n="105"/>Quapropter quidquid post consensum conjugalem
+<lb ed="#P" n="106"/>qui matrimonium sacrat, cum alio vel alia sivein
+<lb ed="#P" n="107"/>consensu, sive in coitu admissum fuerit, ad 
+ince<lb ed="#P" break="no" n="108"/>p tus et adulterii maculam non ad conjugii 
+sacra<lb ed="#P" break="no" n="109"/>mentum pertinebit. Sed dicis : Si post primum
+<lb ed="#P" n="110"/>conjugalis fcederis consensum statim conjugium
+<lb ed="#P" n="111"/>est, quid ergo sibi vult quod dicit auctoritas : 
+ali<lb ed="#P" break="no" n="112"/>ter non fieri legitimum conjugium nisi ab his,
+<lb ed="#P" n="113"/>qui super eam feminam potestatem habere 
+viden<lb ed="#P" break="no" n="114"/>tur;et a quibus custoditur uxor, petatur; et a
+<lb ed="#P" n="115"/>parentibus propinquioribus sponsetur; et legibus
+<lb ed="#P" n="116"/>dotetur et suo tempore sacerdotaliter ut mos est
+<lb ed="#P" n="117"/>cum precibus et oblationibus a sacerdote 
+benedi<lb ed="#P" break="no" n="118"/>catur, et cetera quaedam quae in hunc modum
+<lb ed="#P" n="119"/>adjungit, dicons. Quoniam aliter praesumpta non
+<lb ed="#P" n="120"/>conjugia, sed adulterina contubernia, vel stupra
+<lb ed="#P" n="121"/>aut fornicationes potius quam legitima conjugia
+<lb ed="#P" n="122"/>esse dicenda sunt. Sed id in hoc loco intelligi
+<lb ed="#P" n="123"/>oportet legitima nonesse, id est non fleri secundum
+<lb ed="#P" n="124"/>institutionem legum, qua in hunc modum coeis-
+<!-- 162.png.txt -->
+<pb ed="#P" n="244"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>ges desponsari. instituunt. Nam quod postea 
+ad<lb ed="#P" break="no" n="2"/>jungit, aliter presumpta adulterina contubernia
+<lb ed="#P" n="3"/>potius, vel stupra esse, quam legitima conjugia,
+<lb ed="#P" n="4"/>confestim subsequenti sermone temperat, dicens :
+<lb ed="#P" n="5"/>Nisi forte voluntas propria suffragata fuerit, et
+<lb ed="#P" n="6"/>vota succurrerint legitima. Illic ergo, ubi voluntas
+<lb ed="#P" n="7"/>propria et votum legitimum succurrit, etiam sine
+<lb ed="#P" n="8"/>his omnibus legitimum conjugium esse potest. Si
+<lb ed="#P" n="9"/>enim conjugium esse non potest ubi ista non sunt,
+<lb ed="#P" n="10"/>nec baptismus esse potest, ubi non praecedit 
+fon<lb ed="#P" break="no" n="11"/>tis consecratio, baptizandi exorcizatio, et uhi non
+<lb ed="#P" n="12"/>sequitur olei et chrismatis unctio. Sed sicut 
+bap<lb ed="#P" break="no" n="13"/>tismus esse potest sine istis, quamvis ista debeant
+<lb ed="#P" n="14"/>esse cum baptismo, ita et sine illis conjugium esse
+<lb ed="#P" n="15"/>potest, etiam ibi ubi illa in conjugio et cum 
+con<lb ed="#P" break="no" n="16"/>jugio ease debent. Nam quod conjugium non in 
+<lb ed="#P" n="17"/>coitu constet, sed in consensu, nec in consensu
+<lb ed="#P" n="18"/>coitus; quia sicut sine coitu consensus, ita etiam
+<lb ed="#P" n="19"/>8ine consensu coitus esse potest, si forte utrinque
+<lb ed="#P" n="20"/>castitatis et continentie propositum placitum
+<lb ed="#P" n="21"/>fuerit, beatus Ambrosius testatur, dicens : Non
+<lb ed="#P" n="22"/>defloratio virginatis, sed pactio conjugalis 
+conju<lb ed="#P" break="no" n="23"/>gium facit. Item : Conjugium non facit coitus, sed
+<lb ed="#P" n="24"/>consensus, qui si defuerit omnia etiam cum ipso
+<lb ed="#P" n="25"/>coitu frustrantur. Isidorus etiam dicit, quod 
+con<lb ed="#P" break="no" n="26"/>juges verius appelantur a prima desponsationis
+<lb ed="#P" n="27"/>fide quamvis adhuc inter eos ignoretur conjugalis
+<lb ed="#P" n="28"/>concubitus. Sed forte videtur hoc contrarium esse
+<lb ed="#P" n="29"/>illi quod superius diximus conjugium in consensu
+<lb ed="#P" n="30"/>maritali sanciri. Si enim a prima 
+desponsa<lb ed="#P" break="no" n="31"/>tionis fide conjugium incipit, cum fides 
+despon<lb ed="#P" break="no" n="32"/>sationisin promissionefuturi consensus praecedere
+<lb ed="#P" n="33"/>videatur, quando conjugium ab hac fide initiari
+<lb ed="#P" n="34"/>dicitur, procul dubio etiam ipsum matrimonii
+<lb ed="#P" n="35"/>consensum anteire probatur. Sed si 
+desponsatio<lb ed="#P" break="no" n="36"/>nem ipsam futuri matrimonii pactionem et 
+pro<lb ed="#P" break="no" n="37"/>missionem intelligere debemus, tunc nimirum 
+fi<lb ed="#P" break="no" n="38"/>dem desponsationis impletionem promissionis et
+<lb ed="#P" n="39"/>pactionis exhibitionem convenienter accipimus. A
+<lb ed="#P" n="40"/>qua nimirum quia in predicto consensu constat,
+<lb ed="#P" n="41"/>merito conjugium exordium sumit, quiain eo quod
+<lb ed="#P" n="42"/>fides pactionis et sponsionis qui de futuro 
+conju<lb ed="#P" break="no" n="43"/>gio utrinque facta fuerat adimpletur, in consensu
+<lb ed="#P" n="44"/>maritali conjugii sacramentum perficitur. Nomen
+<lb ed="#P" n="45"/>autem desponsationis non ipsum conjugii 
+consen<lb ed="#P" break="no" n="46"/>sum quo matrimonium firmatur, sed pactionem
+<lb ed="#P" n="47"/>et promissionem futuri consensus significare in
+<lb ed="#P" n="48"/>ipsa vocis expressione conjicimus, quia et 
+spon<lb ed="#P" break="no" n="49"/>dere non dare estaut facere, sed promittere. Unde
+<lb ed="#P" n="50"/>et Apostolus dicit : Despondi enim vos uni viro
+<lb ed="#P" n="51"/>virginem castam exhibere Christo (I Cor. x1).
+<lb ed="#P" n="52"/>Quod si desponsationis nomen in ipso contractu
+<lb ed="#P" n="53"/>matrimonii intelligere debemus, tunc fidem 
+de<lb ed="#P" break="no" n="54"/>sponsationis consensum mutus societatis, qua
+<lb ed="#P" n="55"/>conjugium dicitur, convenienter accipimus. Unde
+<lb ed="#P" n="56"/>et de matre Domini Augustinus dicit, quod a 
+pri<lb ed="#P" break="no" n="57"/>ma desponsationis fide conjux vocata est Joseph,
+<lb ed="#P" n="58"/>quam concubitu non cognoverat, nec fuerat 
+cogni<lb ed="#P" break="no" n="59"/>turus. Et Ambrosius similiter; Desponsata viro
+<lb ed="#P" n="60"/>conjugis nomen accepit. Cum enim initiatur 
+con<lb ed="#P" break="no" n="61"/>jugium tunc conjugii nomen assumitur, in quibus
+<lb ed="#P" n="62"/>verbis, sicut supra dictum est si desponsationem
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>accipimus in eo quando consensu maritali 
+conju<lb ed="#P" break="no" n="64"/>gium sancitur, recte tunc ipsum conjugium 
+incho<lb ed="#P" break="no" n="65"/>ari et nomen conjugis assumi dicitur. Si autem.
+<lb ed="#P" n="66"/>desponsationem intelligimus in eo quod futurüs
+<lb ed="#P" n="67"/>ad conjugium faciendum consensus promittitur,
+<lb ed="#P" n="68"/>tunc quidem conjugium in iis quae conjugium 
+an<lb ed="#P" break="no" n="69"/>tecedunt inchoari dicitur; et ab inde etiam quae
+<lb ed="#P" n="70"/>futura est conjux, propter ea quibus jam 
+conju<lb ed="#P" break="no" n="71"/>gium initiatum est nomine conjugis censetur. Sed
+<lb ed="#P" n="72"/>ut libet de his et de hujusmodi sentiatur, tantum
+<lb ed="#P" n="73"/>ut conjugium nec ante legitimi consensus 
+attesta<lb ed="#P" break="no" n="74"/>tionem, in quo uterque alteri ad conjugalis 
+fcede<lb ed="#P" break="no" n="75"/>ris societatem se tradit, verum esse credatur, nec
+<lb ed="#P" n="76"/>postea imperfectum. Vis scire quid dico? Cum ille
+<lb ed="#P" n="77"/>dicit : Ego te accipio in meam, ut deinceps et tu
+<lb ed="#P" n="78"/>uxor mea sis, et ego maritus tuus, et illa similiter
+<lb ed="#P" n="79"/>dicit : Ego te accipio in meum, ut dinceps et ego
+<lb ed="#P" n="80"/>uxor tua sim et tu maritus meus, aut scilicet hoc
+<lb ed="#P" n="81"/>dicunt, aut aliud quodcunque simile illi, in quo
+<lb ed="#P" n="82"/>et si non hoc dicunt, hoc tamen intelligunt. Aut
+<lb ed="#P" n="83"/>8i non hoc dicunt quia fortassis alicubi verba non
+<lb ed="#P" n="84"/>celebrantur, sed res agitur, tamen hoc faciunt.
+<lb ed="#P" n="85"/>Ducit illam, accipit illam, sicut mos est legitimus
+<lb ed="#P" n="86"/>ducendi uxores. Cum igitur hoc sicut mos est 
+di<lb ed="#P" break="no" n="87"/>cunt vel faciunt et in hoc sibi consentiunt, hoc
+<lb ed="#P" n="88"/>est quod dicere volo, quod deinceps conjuges sunt,
+<lb ed="#P" n="89"/>sive hoc dixerint; et in hoc sibi consenserint 
+co<lb ed="#P" break="no" n="90"/>ram legitimis testibus sicut debent, sive forte soli
+<lb ed="#P" n="91"/>seorsum et in secreto nemine attestante velastante
+<lb ed="#P" n="92"/>qualiter non debent; tamen omnino conjuges
+<lb ed="#P" n="93"/>Sunt, nec deinceps nisi alia emergat causa 
+dissi<lb ed="#P" break="no" n="94"/>dii ab invicem separarilicite possunt, etiamsi 
+pro<lb ed="#P" break="no" n="95"/>pter furtivum consensum si factum negaverint
+<lb ed="#P" n="96"/>convinci non possint.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g44629-Dd1e1247">
+               <head xml:id="hsvhsv-g44629-Hd1e1249">Capitulum 6</head>
+               <head xml:id="hsvhsv-g44629-Hd1e1251" type="question-title"/>
+               <p xml:id="hsvhsv-g44629-d1e1253">
+                  <lb ed="#P" n="97"/>Cap. VI. De iis qui occulte nubunt, vel 
+post<lb ed="#P" break="no" n="98"/>quam nupserint contra conjugium aliqua
+<lb ed="#P" n="99"/>verenda faciunt.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e1262">
+                  <lb ed="#P" n="100"/>Sed dicis : Quid ergo faciendum est de 
+hujusmo<lb ed="#P" break="no" n="101"/>di qui clanculo convenerunt, si postea aut alter
+<lb ed="#P" n="102"/>aut uterque factum negando ad alienam 
+societa<lb ed="#P" break="no" n="103"/>iem transierit? Quidam uxorem duxit clanculo
+<lb ed="#P" n="104"/>sine praesentia testium solo adinvicem maritali
+<lb ed="#P" n="105"/>consensu firmato, devitans ut nonnunquam fieri
+<lb ed="#P" n="106"/>solet aliqua de causa conscientiam alienam, postea
+<lb ed="#P" n="107"/>brevi tempore interjecto, priusquam consensum
+<lb ed="#P" n="108"/>occultum facto manifesto probasset de facto 
+poe<lb ed="#P" break="no" n="109"/>nituit, eam quam in hunc modum uxorem 
+duxe<lb ed="#P" break="no" n="110"/>rat dimisit : aliam duxit celebri apparatu 
+mani<lb ed="#P" break="no" n="111"/>feste coram Ecclesia fortassis cum parentum 
+tra<lb ed="#P" break="no" n="112"/>ditione, cum sacerdotis benedictione nuptias fecit,
+<lb ed="#P" n="113"/>filios genuit. Venit priorilla ad Ecclesiam, 
+judi<lb ed="#P" break="no" n="114"/>cium interpellat, justitiam postulet. Injuriam sibi
+<lb ed="#P" n="115"/>illatam palam exponens. Negat ille, nec sunt 
+tes<lb ed="#P" break="no" n="116"/>tes qui possunt probare quod occuitum est. Hic
+<lb ed="#P" n="117"/>quzeris quid facere debet Ecclesia, quia utrinque
+<lb ed="#P" n="118"/>inconveniens aliquid incurrere videtur. Si enim.
+<lb ed="#P" n="119"/>illi mulieri quae quidem verum dicit, sed tamen
+<lb ed="#P" n="120"/>occultum est, nec probatum quod dicitur, sine 
+le<lb ed="#P" break="no" n="121"/>gitimo testimonio propter solum dictum ejus 
+cre<lb ed="#P" break="no" n="122"/>ditur, et pro eo quod incertum est et occultum, id
+<lb ed="#P" n="123"/>quod certum et manifestum est dissolvitur, 
+pote<lb ed="#P" break="no" n="124"/>terit deinceps quilibet sive quelibet in alium vel
+<!-- 163.png.txt -->
+<pb ed="#P" n="245"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>in aliam quodcunque voluerit fingere, ut sibi 
+si<lb ed="#P" break="no" n="2"/>mili ratione credatur. Quod si admissum fuerit,
+<lb ed="#P" n="3"/>magna confusio proveniet neque deinceps in 
+Ec<lb ed="#P" break="no" n="4"/>clesia aliquid firmum stabit. Si vero propter 
+au<lb ed="#P" break="no" n="5"/>etoritatem Ecclesie conwervandum conjugium,
+<lb ed="#P" n="6"/>quod primum factum est, scinditur, et adulterium,
+<lb ed="#P" n="7"/>quod secundo presumptum est, confirmatur, aliud
+<lb ed="#P" n="8"/>magnum est; quando non solum libertas datur,
+<lb ed="#P" n="9"/>sed etiam necessitas inducitur homini ut maneat
+<lb ed="#P" n="10"/>in peccato suo. Hic ergo consilium quaeris. Ego
+<lb ed="#P" n="11"/>fortassis tibi potiora dicturus non sum, tamen
+<lb ed="#P" n="12"/>oportet ut in tantis malis prorsus ignorantes non
+<lb ed="#P" n="13"/>simus. Si quis putaverit propter hujusmodi mala
+<lb ed="#P" n="14"/>vitanda talem consensum qui nullo testimonio
+<lb ed="#P" n="15"/>probatur, neque facientium mutua confessione
+<lb ed="#P" n="16"/>firmatur, iritum esse debere neque in eo 
+ullate<lb ed="#P" break="no" n="17"/>nus conjugium stare posse, facilius inconveniens
+<lb ed="#P" n="18"/>declinat. Potest enim etiam id quod supradictum
+<lb ed="#P" n="19"/>est, furtivos consensus non conjugia esse, sed
+<lb ed="#P" n="20"/>adulterina contubernia vel stupra, nisi voluntas
+<lb ed="#P" n="21"/>propria suffragaverit, et legitima vota 
+succurre<lb ed="#P" break="no" n="22"/>rint, propter hoc dictum putari quod ejusmodi
+<lb ed="#P" n="23"/>consensus qui in occulto fiunt conjugium non
+<lb ed="#P" n="24"/>sanciunt, nisi idem, ipsi, qui in occulto sibi 
+con<lb ed="#P" break="no" n="25"/>senserint, eumdem consensum suum utrique 
+vo<lb ed="#P" break="no" n="26"/>luntarie in manifesto profiteantur. Tunc siquidem.
+<lb ed="#P" n="27"/>voluntas propria suffragatur et vota legitima 
+suc<lb ed="#P" break="no" n="28"/>currunt, cum id quod in occulto fecerunt sponte
+<lb ed="#P" n="29"/>utrique in manifesto profitentur. Si quis igitur ad.
+<lb ed="#P" n="30"/>huncmodum dicat conjugium occulto quidem 
+con<lb ed="#P" break="no" n="31"/>sensu initiari posse, sed non nisi manifesta 
+am<lb ed="#P" break="no" n="32"/>borum confessione firmari compendiosius mala
+<lb ed="#P" n="33"/>multa declinat, eed plurium approbatio hoc 
+reci<lb ed="#P" break="no" n="34"/>pit ut sive in manifesto sive in occulto talis 
+con<lb ed="#P" break="no" n="35"/>sensus inter legitimas personas factus fuerit, 
+per<lb ed="#P" break="no" n="36"/>fectum conjugii sacramentum judicetur. Quod si
+<lb ed="#P" n="37"/>ita verum esse constare debebit, considerandum
+<lb ed="#P" n="38"/>est quomodo supra memorate: quaestioni 
+respon<lb ed="#P" break="no" n="39"/>derii oporteat. Dubium non est quin id quod 
+Ec<lb ed="#P" break="no" n="40"/>Clesim probari non potest, Ecclesia ipsa judicare
+<lb ed="#P" n="41"/>non potest. Et rursus dubium non est quin id
+<lb ed="#P" n="42"/>quod legitimo et manifesto Ecclesie judicio factum
+<lb ed="#P" n="43"/>est, sine legitima et rationabili et manifesta causa.
+<lb ed="#P" n="44"/>rescindi non potest. Ratio nos urget. Ista mulier
+<lb ed="#P" n="45"/>dicit quod pari consensu cum viro illo 
+matrimo<lb ed="#P" break="no" n="46"/>nium fecit. Sed quod dicit, nec ipsa probare 
+po<lb ed="#P" break="no" n="47"/>test, nec Ecclesia quod probatum non est 
+appro<lb ed="#P" break="no" n="48"/>bare potest. Non potest ergo pro eoquod occultum.
+<lb ed="#P" n="49"/>est, id quod manifestum est infirmari. Quapropter
+<lb ed="#P" n="50"/>oportet ut secundam copulam quae judicio 
+Eccle<lb ed="#P" break="no" n="51"/>siae legitime facta est, ipsa Ecclesia judicet ratam
+<lb ed="#P" n="52"/>esse debere. Sed dicis : Quid ergo faciendum est
+<lb ed="#P" n="53"/>huic mulieri qui virum suum ab Ecclesia 
+requi<lb ed="#P" break="no" n="54"/>rit, sed habere non potest, quia id quod occultum
+<lb ed="#P" n="55"/>fuit probare non potest? Fortassis cum viderit
+<lb ed="#P" n="56"/>quod maritum suum habere non posset, alteri
+<lb ed="#P" n="57"/>nubere volet et veniet ad Ecclesiam expostulans,
+<lb ed="#P" n="58"/>aut ut sibi maritus suus reddatur, aut alteri 
+nu<lb ed="#P" break="no" n="59"/>bereconcedatur. Hic ergo quoris quid Ecclesia fa.
+<lb ed="#P" n="60"/>cere debeat, an propterea quia priorem reddere
+<lb ed="#P" n="61"/>non potest, secundum concedet? Sed vide 
+quo<lb ed="#P" break="no" n="62"/>modo concedere Ecclesia possit illi maritum alte-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>rum, quae suum adhuc vivum esse confitetur. Ipsa
+<lb ed="#P" n="64"/>dicit vir meus vivit, et tamen petere presumit ut
+<lb ed="#P" n="65"/>alteri nubat. Ergo dicis, ad continentiam cogenda
+<lb ed="#P" n="66"/>est mulier ista. Ita sane quia negligentiam cavere
+<lb ed="#P" n="67"/>noluit, justum est ut ponam sustineat. Quare in
+<lb ed="#P" n="68"/>manifesto non nupsit? Si prius in nubendo 
+testi<lb ed="#P" break="no" n="69"/>monium Ecclesiae habere contempsit, qua ratione
+<lb ed="#P" n="70"/>nunc judicium Ecclesise interpellat? Ipsa so igitur
+<lb ed="#P" n="71"/>obligavit. Sustineat itaque nunc ponam ut aliis
+<lb ed="#P" n="72"/>mulieribus, ne idem presumant, correctionis et
+<lb ed="#P" n="73"/>cauteli exemplum fiat. Continere pecccatum non
+<lb ed="#P" n="74"/>est, nec impossibile est, etiamsi difficile est. Si
+<lb ed="#P" n="75"/>ergo mulieres nolunt continere, caveant in occulto
+<lb ed="#P" n="76"/>nubere. Ibi nubant ubi testes habere possunt, si
+<lb ed="#P" n="77"/>maritos consentientes habere non possunt. Quod
+<lb ed="#P" n="78"/>si culpam vitare nolunt, sustineant poenam. Qui
+<lb ed="#P" n="79"/>ergo conjugium suscipere vult, cogitet primum
+<lb ed="#P" n="80"/>quod, cum illud susceperit legem ejus portare 
+de<lb ed="#P" break="no" n="81"/>bet. Qui appetit quod delectat, portet necesse est,
+<lb ed="#P" n="82"/>si in eo vel pro eo evenerit, etiam id quod gravat.
+<lb ed="#P" n="83"/>Non ergo permittit Ecclesia illi mulieri qua se
+<lb ed="#P" n="84"/>alteri viro nupsisse confitetur, illo vivente ad
+<lb ed="#P" n="85"/>alias transire nuptias; etiam si postmodum 
+con<lb ed="#P" break="no" n="86"/>tingat, ut idem ipse vir post celebrationem 
+secun<lb ed="#P" break="no" n="87"/>darum nuptiarum ad se reversus et de facto 
+po<lb ed="#P" break="no" n="88"/>nitens peccasse ae confiteatur, et ad priorem 
+uxo<lb ed="#P" break="no" n="89"/>rem redire voluerit, eique de veritate primi pacti
+<lb ed="#P" n="90"/>contestetur, non recipit Ecclesia testimonium ejus,
+<lb ed="#P" n="91"/>quia variavit verbum suum et; contra se 
+testimo<lb ed="#P" break="no" n="92"/>nium tulit, et abstulit sibi fidem in utroque. 
+Ta<lb ed="#P" break="no" n="93"/>QC men Ecclesia id quod ipsa fecit, sine causa 
+legiti<lb ed="#P" break="no" n="94"/>ma rescindere non potest, sed ratum esse debere
+<lb ed="#P" n="95"/>censet, ne occulta manifestis prajudicent. Itaque
+<lb ed="#P" n="96"/>illam homini mulierem pro legitima uxore 
+adju<lb ed="#P" break="no" n="97"/>dicat, quam secundum judicium Ecclesiae legitime
+<lb ed="#P" n="98"/>duxisse cognoscitur. Sed dicis : Si sic ergo judi
+<lb ed="#P" n="99"/>Ecclesi: stare debet, quoniam occulta manifestis
+<lb ed="#P" n="100"/>prejudicare non possunt, quid illi homini pro
+<lb ed="#P" n="101"/>anima sua faciendum est, qui vivente uxore sua
+<lb ed="#P" n="102"/>alteri adhierere cogitur, quam nec dimittere 
+po<lb ed="#P" break="no" n="103"/>test, ne prxceptioni et judicio Ecclesiae contraire
+<lb ed="#P" n="104"/>videatur, nec sine scrupulo conscientism tenere
+<lb ed="#P" n="105"/>quam vivente adhuc priore contra divinam 
+justi<lb ed="#P" break="no" n="106"/>tiam et institutionem illicite sibi sociasse 
+cogno<lb ed="#P" break="no" n="107"/>scit? Si ergo iste talis ad Ecclesiam confugiat
+<lb ed="#P" n="108"/>quaerens consilium salutis, quid illi dicet Ecclesia?
+<lb ed="#P" n="109"/>Audi et intellige quid illi dicere potest Ecclesia.
+<lb ed="#P" n="110"/>Si dixerit ei Ecclesia ut secundam quam publice
+<lb ed="#P" n="111"/>duxit dimittat, et ad priorem revertatur, quam
+<lb ed="#P" n="112"/>modo se contra primam testationem suam uxorem
+<lb ed="#P" n="113"/>duxisseconfitetur, et in hoc receperit testimonium
+<lb ed="#P" n="114"/>ejus, omnes deinceps qui odio habebunt uxores
+<lb ed="#P" n="115"/>suas fingent et mentientur se prius alias duxisse,
+<lb ed="#P" n="116"/>ut ab iis quas odiunt separentur; et ita lex 
+matri<lb ed="#P" break="no" n="117"/>monii nihil in se stabilitati habebit, sed passim
+<lb ed="#P" n="118"/>ubique pro voluntate unius cujusque dissolvetur.
+<lb ed="#P" n="119"/>Non ergo Ecclesia aliud dicere potest iilli quam
+<lb ed="#P" n="120"/>ut matrimonio quod ejus attestatione firmatum
+<lb ed="#P" n="121"/>st, fidem servet. Sed dicis : Causa illi est pro 
+ani<lb ed="#P" break="no" n="122"/>ma sua, consilium salutis quarit; nam utrobique
+<lb ed="#P" n="123"/>periculum videt, et utrum potius eligat non 
+inve<lb ed="#P" break="no" n="124"/>nit. Si manet, contra conscienáeso tesi S. eR RAS
+<!-- 164.png.txt -->
+<pb ed="#P" n="246"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>contra obedientiam facit. Non ergo jam quaerit 
+<lb ed="#P" n="2"/>an discedere liceat, sed si non discedit utrum
+<lb ed="#P" n="3"/>permanere expediat. Conscientiam exponit, et
+<lb ed="#P" n="4"/>consilium salutis quaerit. Quid illi dicet Ecclesia
+<lb ed="#P" n="5"/>hominiconfitenti peccatum et querenti consilium?
+<lb ed="#P" n="6"/>Sidixerit illiut maneat postquam revelavit 
+pecca<lb ed="#P" break="no" n="7"/>tum, hoc est dicere, quantum videturut maneat in
+<lb ed="#P" n="8"/>peccato. Si vero nec hoc nec illud dicere potest,
+<lb ed="#P" n="9"/>quantum videtur, homini tali via salutis 
+mons<lb ed="#P" break="no" n="10"/>trari non potest. Sed hoc rursum multum a fide
+<lb ed="#P" n="11"/>Christiana abhorret, ut dicatur aliquis talis esse,
+<lb ed="#P" n="12"/>qui non possit si vere ponituerit in qualicunque
+<lb ed="#P" n="13"/>sit periculo salvus esse. Multa sunt qui ad hunc
+<lb ed="#P" n="14"/>modum contingere potuissent. Alius dicitsecum 
+so<lb ed="#P" break="no" n="15"/>rore, aut cum matre uxorissuo rem habuisse. Alius
+<lb ed="#P" n="16"/>uxorem se priusaliam duxissefetetur, et multaalia 
+<lb ed="#P" n="17"/>horrendaque miseria hominum vel falsa configit,
+<lb ed="#P" n="18"/>velvera committit. Et verumest quidem quod multa
+<lb ed="#P" n="19"/>flunt horrendaab hominibus in desideriis suis malis
+<lb ed="#P" n="20"/>Bic exczecatis ut faciant quz» non oportet, et sunt
+<lb ed="#P" n="21"/>tanta haec mala ut vix consilium admittant ; nisi
+<lb ed="#P" n="22"/>Deus, qui legem dedit, gratiam et misericordiam
+<lb ed="#P" n="23"/>prestet. Per legem enim non justificabitur in 
+con<lb ed="#P" break="no" n="24"/>spectu ejus omnis caro. Sicut olim maledictum
+<lb ed="#P" n="25"/>legis omnes qui sub lege erant premebat ; nec
+<lb ed="#P" n="26"/>erat qui evadere potuisset maledictionem, quia
+<lb ed="#P" n="27"/>non erat qui cavere posset prevaricationem, 
+do<lb ed="#P" break="no" n="28"/>nec ipse legislator veniens, maledictionem per
+<lb ed="#P" n="29"/>gratiam abstuit; et ne semper maledictio et 
+pre<lb ed="#P" break="no" n="30"/>varicatio regnarent, per eamdem gratiam ipsam
+<lb ed="#P" n="31"/>etiam legem mutavit : ita et modo nunquam 
+ho<lb ed="#P" break="no" n="32"/>mo cum peccato suo et malitia urgente in 
+neces<lb ed="#P" break="no" n="33"/>Sitatem peccandi venit, nec potest legem portare
+<lb ed="#P" n="34"/>nisi maledictionem prevaricationis incurrat :
+<lb ed="#P" n="35"/>commutat illi Deus per misericordiam legem, et
+<lb ed="#P" n="36"/>donat poenitenti ut, salvus esse possit, qui utique
+<lb ed="#P" n="37"/>non salvaretur, si per justitiam et rigorem legis
+<lb ed="#P" n="38"/>sine misericordia judicaretur. Non tibi fortassis
+<lb ed="#P" n="39"/>Secundum opinionem aut existimationem tuam
+<lb ed="#P" n="40"/>respondeo. De meo est non de tuo quod loquor.
+<lb ed="#P" n="41"/>Non aliud possum. Quod mihi mens suggerit 
+pro<lb ed="#P" break="no" n="42"/>fiteor. Si aliud dicerem contra conscientiam meam
+<lb ed="#P" n="43"/>et existimationem dicerem. Quisque pro se 
+judi<lb ed="#P" break="no" n="44"/>cet; ego tibi de corde meo loquor. Venit peccator
+<lb ed="#P" n="45"/>ad me et exponit mihi conscientiam suam 
+consi<lb ed="#P" break="no" n="46"/>lium salutis querens. Quid illi dicam? Si dixero
+<lb ed="#P" n="47"/>illi recede, facio illum inobedientem Ecclesie 
+ma<lb ed="#P" break="no" n="48"/>tri suse, et exemplo ejus alios confirmo, ut 
+dimit<lb ed="#P" break="no" n="49"/>tant uxores ejus legitimas; et cum eas odio 
+ha<lb ed="#P" break="no" n="50"/>buerint, füngant quodcunque sibi placuerit, et
+<lb ed="#P" n="51"/>mentiantur Ecclesi: ut libertatem habeant 
+rece<lb ed="#P" break="no" n="52"/>dendi ab eis, quia eas non amant. Et si hoc 
+Ec<lb ed="#P" break="no" n="53"/>clesia receperit et passa fuerit veniet magnum
+<lb ed="#P" n="54"/>malum, et dimittent omnes pro libito, aut viri
+<lb ed="#P" n="55"/>uxores suas, aut mulieres maritos suos, et pro
+<lb ed="#P" n="56"/>uno homine multi damnabuntur, quod. ita fieri
+<lb ed="#P" n="57"/>non oportet. Quidam acute se considerasse 
+puta<lb ed="#P" break="no" n="58"/>verunt, sibi non proximo consulentes, dicentes,
+<lb ed="#P" n="59"/>quoties ejusmodi forte aliquid contingeret, 
+Eccle<lb ed="#P" break="no" n="60"/>siam utrumque facere debere : et in occulto 
+scili<lb ed="#P" break="no" n="61"/>cei poenitenti consulere, ut ab ejusmodi copula
+<lb ed="#P" n="62"/>recederet; et in manifesto discedentem cogere ut
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>maneret. Quod quidem non esset salutem proximi
+<lb ed="#P" n="64"/>quaerere, sed quasi se velle a. periculo liberare.
+<lb ed="#P" n="65"/>Non mihi suadet conscientia mea ut hoc illi 
+di<lb ed="#P" break="no" n="66"/>cam. Qusrit a me quid sibi faciendum sit, 
+osten<lb ed="#P" break="no" n="67"/>dit periculum suum, necessitatem suam 
+demons<lb ed="#P" break="no" n="68"/>trat, se paratum esse testatur, ad utrumlibet
+<lb ed="#P" n="69"/>quodcunque jussus fuerit. Ego minus de me 
+con<lb ed="#P" break="no" n="70"/>fido, dico illi ut pergat ad Deum. Domine, tu legem
+<lb ed="#P" n="71"/>desisti per servos tuos qualem voluisti ; et
+<lb ed="#P" n="72"/>perquandiu voluisti, et ecce nos servi tui sub lege
+<lb ed="#P" n="73"/>sumus, tu Dominus lator legis sub lege non es.
+<lb ed="#P" n="74"/>Quod instituisti quando voluisti, et per quos 
+vo<lb ed="#P" break="no" n="75"/>luisti, potes cum volueris et quibus volueris sine
+<lb ed="#P" n="76"/>praevaricationis reatu indulgere. Neque enim jam.
+<lb ed="#P" n="77"/>culpa erit quod indulgentis est remissio, non
+<lb ed="#P" n="78"/>agendis praesumptio. Tu ergo praecepisti, Domine,
+<lb ed="#P" n="79"/>per servos tuos per quos locutus es, et ordinasti
+<lb ed="#P" n="80"/>Ecclesiam tuam, ut vir, vivente uxore sua, alteri
+<lb ed="#P" n="81"/>non adhereret. Ego uxorem habui, et illa vivente
+<lb ed="#P" n="82"/>alteri adhzesi, ecce jam ego facere non possum ut.
+<lb ed="#P" n="83"/>hoc factum non sit. Sed tu facere potes ut hoc
+<lb ed="#P" n="84"/>dammabiliter factum non sit. Item tu mandasti,
+<lb ed="#P" n="85"/>Domine, ut Ecclesio tus vicem tuam in terra
+<lb ed="#P" n="86"/>agenti obediremussicut tibi;et non scandalizemus
+<lb ed="#P" n="87"/>unum de pusilis tuis, et dixisti : quia qui Ecclesim
+<lb ed="#P" n="88"/>tue mandatum sperueret tibi obediens non esset.
+<lb ed="#P" n="89"/>Ecce ego miser propter peccata mea in 
+contradi<lb ed="#P" break="no" n="90"/>ctionem veni, laqueum incidi necessitatis, ut exire
+<lb ed="#P" n="91"/>sine peccato non possim. Si manos, accusat me
+<lb ed="#P" n="92"/>conscientia mea adversum te de occultis meis,
+<lb ed="#P" n="93"/>quibus contra tuam dispositionem fatio. Si 
+re<lb ed="#P" break="no" n="94"/>cedo, inobediens ero Ecclesise tuse, et scandalizo
+<lb ed="#P" n="95"/>non solum pusillos, sed etiam magnos servos
+<lb ed="#P" n="96"/>tuos, qui in hac parte quod occultum es nesciunt,
+<lb ed="#P" n="97"/>tamen quod justum est volunt, et accusat me 
+con<lb ed="#P" break="no" n="98"/>scientia mea de manifestis meis, quibus contra
+<lb ed="#P" n="99"/>praeceptionem tuam ago. Ego igitur, in arcto 
+posi<lb ed="#P" break="no" n="100"/>tus et cinctus undique periculis, tuam 
+misericor<lb ed="#P" break="no" n="101"/>diam imploro : paratus ad omne quod jubes, si
+<lb ed="#P" n="102"/>illud scire dederis. Si dixeris discede, non maneo. Si
+<lb ed="#P" n="103"/>dixeris mane, non discedo. Scio enim quod, te 
+juben<lb ed="#P" break="no" n="104"/>te, fit, malum esse non possequodcunque illud 
+fue<lb ed="#P" break="no" n="105"/>rit. Tuaestenim potestas ex qua bonum est omne
+<lb ed="#P" n="106"/>quod tibi placuit. Cui indulges non imputatur, cui
+<lb ed="#P" n="107"/>imputas non indulgetur. Si ergo, Domine, tu 
+jus<lb ed="#P" break="no" n="108"/>seris, ut postposito Ecclesi: scandalo, et 
+contem<lb ed="#P" break="no" n="109"/>pto mandato magistrorum meorum quos mihi 
+de<lb ed="#P" break="no" n="110"/>disti, et quibus me obedire praecepisti : ego magis
+<lb ed="#P" n="111"/>te audio quam hominem quem audire nec debeo,
+<lb ed="#P" n="112"/>nisi propter te, nec volo contra te. Si ergo tu 
+ju<lb ed="#P" break="no" n="113"/>bes, Domine, ad hominem non attendo. Si autem
+<lb ed="#P" n="114"/>parcerevis pusillis tuis, aut Ecclesie tus 
+auctori<lb ed="#P" break="no" n="115"/>tatem conservare propter salutem multorum : ego
+<lb ed="#P" n="116"/>quidem pro peccatis meis in judicio tuo sum. Sed
+<lb ed="#P" n="117"/>tamen scio quod benignus et misericors es, et 
+po<lb ed="#P" break="no" n="118"/>tes si volueris non imputare necessitatem, si 
+ac<lb ed="#P" break="no" n="119"/>ceptam habueris voluntatem. Magis ergo volo 
+in<lb ed="#P" break="no" n="120"/>cidere in manus tuas, quam in manus hominum;
+<lb ed="#P" n="121"/>quia tibi et adest potestas, et non deest pietas.
+<lb ed="#P" n="122"/>Homo immutare legem non potest. Tibi lex non
+<lb ed="#P" n="123"/>dominatur, quia conditor et dominus legis es.
+<lb ed="#P" n="124"/>Homo facta judicat, non voluntatem : tu factis
+<!-- 165.png.txt -->
+<pb ed="#P" n="247"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>parcis propter voluntatem. Confidens ergo in 
+mi<lb ed="#P" break="no" n="2"/>sericordia tua occulta necessitatis mes tibi 
+com<lb ed="#P" break="no" n="3"/>mnitio, non prasumens propter timorem tuum
+<lb ed="#P" n="4"/>Ecclegim scandalum facere; quia spero quod 
+of<lb ed="#P" break="no" n="5"/>fensam tui mihi pie ignoscere sustineas. Cum 
+id<lb ed="#P" break="no" n="6"/>Circo non praesumo offendere proximum, ne in
+<lb ed="#P" n="7"/>proximo offendam et Deum meum. Sic mihi 
+vide<lb ed="#P" break="no" n="8"/>tur quoties occulta aliqua in necessitate 
+conscien<lb ed="#P" break="no" n="9"/>tiam remordent, et maxime si talia fuerint in
+<lb ed="#P" n="10"/>quibus dispensatio institutionisindulgentiam 
+ad<lb ed="#P" break="no" n="11"/>mittat, quia ea quae contra naturam et sunt sine
+<lb ed="#P" n="12"/>peccato nunquam fieri potuerunt, non accipiunt
+<lb ed="#P" n="13"/>: remissionem nisi habuerint correctionem. In 
+hu<lb ed="#P" break="no" n="14"/>jusmodi ergo occultis in quibus temporalis 
+insti<lb ed="#P" break="no" n="15"/>tutionis, non naturalis praeceptionis praevaricatio
+<lb ed="#P" n="16"/>est, videtur mihi nunquam ea quae latent 
+mani<lb ed="#P" break="no" n="17"/>festis, et maxime iis quae sine gravi scandalo 
+mu<lb ed="#P" break="no" n="18"/>tari non possunt, praejudicare debere; sed magis
+<lb ed="#P" n="19"/>expedire ut in manifestis scandalum caveatur, et
+<lb ed="#P" n="20"/>de occultis ad gratiam et ad misericordiam 
+confu<lb ed="#P" break="no" n="21"/>giatur : posse autem fieri ut quod aliquando pro
+<lb ed="#P" n="22"/>scandalo vitando ex necessitate contra 
+institutio<lb ed="#P" break="no" n="23"/>nem agitur, quia occultum est et probari ac per
+<lb ed="#P" n="24"/>hoc vitari non potest, pomnitenti et dolenti per
+<lb ed="#P" n="25"/>misericordiam non imputetur. Vir potestatem
+<lb ed="#P" n="26"/>corporis sui non habet, sed mulier. Similiter.
+<lb ed="#P" n="27"/>mulier potestatem corporis sui non habet, sed
+<lb ed="#P" n="28"/>vir (1 Cor. vi1). Potest ergo virsivemulier peccando
+<lb ed="#P" n="29"/>facere ut potestatemin corpore alterius perdat; sed
+<lb ed="#P" n="30"/>facere non potest ut alteri potestatem sui corporis
+<lb ed="#P" n="31"/>quantum in se est tollat. Quod suijuris est perdere
+<lb ed="#P" n="32"/>potest : quod suum non est tollere non potest. Sic
+<lb ed="#P" n="33"/>ergo ef si aliquando faciat ut. debitum suum in
+<lb ed="#P" n="34"/>corpore alterius jure exigere non possit, non 
+ta<lb ed="#P" break="no" n="35"/>men facit ut debitum alteriusinsuo corpore jure
+<lb ed="#P" n="36"/>negare possit. Quzritur autem et de iis qui se
+<lb ed="#P" n="37"/>dicunt post conjugalem pactionem, sive ante; cum
+<lb ed="#P" n="38"/>sororibus ac matribus, aut aliis quibuslibet in 
+li<lb ed="#P" break="no" n="39"/>nea cognationis propinquis commercium carnale
+<lb ed="#P" n="40"/>habuisse, quid faciendum sit, si hoc factum esse
+<lb ed="#P" n="41"/>legitimo testimonio approbari possit. Ego quidem
+<lb ed="#P" n="42"/>quandiu fieri rationabiliter posset propter 
+ser<lb ed="#P" break="no" n="43"/>vandam pacem tori conjugalis ejusmodi, 
+testimo<lb ed="#P" break="no" n="44"/>nia et probationes declinarem. Si autem res 
+om<lb ed="#P" break="no" n="45"/>nino manifesta fieret, tunc quidem propter 
+horro<lb ed="#P" break="no" n="46"/>rem facti et scandalum vitandum, separationem
+<lb ed="#P" n="47"/>fleri suaderem sic tamen ut uterque in cortinentia
+<lb ed="#P" n="48"/>permanere cogeretur, quoniam quidem conjugii
+<lb ed="#P" n="49"/>sacramentum adinvicem non scinderetur, etiam si
+<lb ed="#P" n="50"/>opus carnalis commercii contradiceretur. Si quis
+<lb ed="#P" n="51"/>autem dicat quomodo mulier qua non peccavit
+<lb ed="#P" n="52"/>cogi possit ad continentiam invita, videat et hoc
+<lb ed="#P" n="53"/>esse de miseria carnis a cujus voluptate qui se
+<lb ed="#P" n="54"/>in prosperitate non cohibet, dignus est ut in 
+ad<lb ed="#P" break="no" n="55"/>versitate quoque dolores illius portet. Ista mulier
+<lb ed="#P" n="56"/>quae modo dicif se continere non posse, quid 
+fa<lb ed="#P" break="no" n="57"/>ceret si maritus ejus longa et continua, vel etiam
+<lb ed="#P" n="58"/>perpetua egritudine premeretur? Quem ergo non
+<lb ed="#P" n="59"/>desereret in languore corporis jacentem, non 
+de<lb ed="#P" break="no" n="60"/>serat modo de iniquitate peenitentem. Vel si forte
+<lb ed="#P" n="61"/>conditionem carnis sustinere non vultJlegi carnis
+<lb ed="#P" n="62"/>se nonsubjiciat, neque suscipiat ad delectationem
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>quod pati non vult ad afflictionem. Et haec quidem de
+<lb ed="#P" n="64"/>occulto consensu copjugii, sive de caeteris quzin eo
+<lb ed="#P" n="65"/>occulta sunt, veloccultanda et verenda esse possunt
+<lb ed="#P" n="66"/>nobis dicenda fuerunt. Fatemur ergo, sicut dictum
+<lb ed="#P" n="67"/>est, inconsensu maritali conjugium sancirietquod
+<lb ed="#P" n="68"/>post ipsum legitime factum quidquid aliud fit 
+con<lb ed="#P" break="no" n="69"/>tra ipsum stare non potest, si hic solus legitimo
+<lb ed="#P" n="70"/>testimonio probari potest. Postquam ergo 
+demon<lb ed="#P" break="no" n="71"/>sStravimus, quid sit conjugium, et ex quo 
+conju<lb ed="#P" break="no" n="72"/>gium sit dicendum ut ratum esse debeat, nunc
+<lb ed="#P" n="73"/>consequenter de bonis conjugii tractandum est.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g44629-Dd1e2041">
+               <head xml:id="hsvhsv-g44629-Hd1e2043">Capitulum 7</head>
+               <head xml:id="hsvhsv-g44629-Hd1e2045" type="question-title"/>
+               <p xml:id="hsvhsv-g44629-d1e2047">
+                  <lb ed="#P" n="74"/>Cap. VII. Quod tria sunt bona qua conjugium, 
+comi<lb ed="#P" break="no" n="75"/>tantur, scilicet fides, spes prolis, sacramentum.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e2054">
+                  <lb ed="#P" n="76"/>Tria sunt principaliter bona conjugii qua 
+con<lb ed="#P" break="no" n="77"/>jugium comitantur. Fides, spes prolis, 
+sacramen<lb ed="#P" break="no" n="78"/>tum. In fide, attenditur ne praeter vinculum 
+con<lb ed="#P" break="no" n="79"/>conjugale cum altera, vel cum altero 
+concumba<lb ed="#P" break="no" n="80"/>batur. In spe prolis, attenditur ut devote 
+exspec<lb ed="#P" break="no" n="81"/>tetur, amanter suscipiatur, religiose nutriatur. In
+<lb ed="#P" n="82"/>sacramento, attenditur ne conjugium separetur;
+<lb ed="#P" n="83"/>et dimissus aut dissima, neccausa prolis alteri 
+co<lb ed="#P" break="no" n="84"/>puletur. Hzc sunt bona quae opponit conjuguim
+<lb ed="#P" n="85"/>contraeam quae in carne peccati adhuc manet
+<lb ed="#P" n="86"/>concupiscentiam carnis, sine qua carnis 
+commis<lb ed="#P" break="no" n="87"/>tio fleri non potest. Bonum quippe conjugii, ut
+<lb ed="#P" n="88"/>dicit beatus Augustinus, malum inobedientium
+<lb ed="#P" n="89"/>membrorum limitat quodammodo et modificat,
+<lb ed="#P" n="90"/>ut concupiscentia carnalis fiat saltem pudicitia
+<lb ed="#P" n="91"/>conjugalis. Duobus autem modis bonum hoc 
+con<lb ed="#P" break="no" n="92"/>tra malum illud remedium occulit, dum et.
+<lb ed="#P" n="93"/>illum immoderate libidinis ardorem sub certa
+<lb ed="#P" n="94"/>regula unius foederis limitando, a vago 
+con<lb ed="#P" break="no" n="95"/>cubitu modificat ; et eum, qui per se malus 
+es<lb ed="#P" break="no" n="96"/>set, per bona sibi adjuncta excusat. Nec tamen
+<lb ed="#P" n="97"/>facit ut malum prorsus non sit, sed ut damnabile
+<lb ed="#P" n="98"/>non sit; quippe propter hoc malum. non fit 
+cul<lb ed="#P" break="no" n="99"/>pabile illud bonum; imo propter hoc bonum
+<lb ed="#P" n="100"/>veniale fit illud malum, nisi enim malum esset,
+<lb ed="#P" n="101"/>non opus haberet excusari. Et rursum nisi 
+reme<lb ed="#P" break="no" n="102"/>dium haberet, deberet imputari. Si autem 
+conju<lb ed="#P" break="no" n="103"/>gium nihil boni in se haberet, remedium contra
+<lb ed="#P" n="104"/>malum esse non posset. Nunc autem ipsa que
+<lb ed="#P" n="105"/>ei insunt bona, malum quod ab eo non quaeritur,
+<lb ed="#P" n="106"/>sedin eo toleratur, excusant, ut. non imputetur
+<lb ed="#P" n="107"/>ad damnationem, quod necessitas imponit, non
+<lb ed="#P" n="108"/>voluntas exigit. Item Augustinus ad Valerium :
+<lb ed="#P" n="109"/>Nontantum fécunditas cujus fructus est in prole,
+<lb ed="#P" n="110"/>nectantum pudicitia cujus vinculum fides est,
+<lb ed="#P" n="111"/>sed etiam sacramentum nuptiarum commendatur
+<lb ed="#P" n="112"/>fidelibus conjugatis. Hujus sacramenti res est,
+<lb ed="#P" n="113"/>ut legitime copulati, quandiu vivunt, non 
+sepa<lb ed="#P" break="no" n="114"/>rentur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g44629-Dd1e2142">
+               <head xml:id="hsvhsv-g44629-Hd1e2144">Capitulum 8</head>
+               <head xml:id="hsvhsv-g44629-Hd1e2146" type="question-title"/>
+               <p xml:id="hsvhsv-g44629-d1e2148">
+                  <lb ed="#P" n="115"/>Cap. VIII. Utrum hac bona inseparabilia sint
+<lb ed="#P" n="116"/>conjugio an non.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e2155">
+                  <lb ed="#P" n="117"/>Si fides conjugii est praeter maritalem copulam
+<lb ed="#P" n="118"/>aliam nescire, et violatio fide hujus adulterium
+<lb ed="#P" n="119"/>committere, patet quod hoc bonum ita conjugio
+<lb ed="#P" n="120"/>adhzret, uLsi quidam adsit ex eo amplius 
+conju<lb ed="#P" break="no" n="121"/>gium commendetur, si non adsit non tamen 
+con<lb ed="#P" break="no" n="122"/>jugii sacramentum annihiletur. Quae enim. 
+adul<lb ed="#P" break="no" n="123"/>tera est non ideo conjux non est, quia adultera
+<lb ed="#P" n="124"/>est;imo ei conjux non esset, adultera esse now.
+<!-- 166.png.txt -->
+<pb ed="#P" n="248"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>posset. Non enim adulterium est, nisi cum fides 
+<lb ed="#P" n="2"/>tori legitimi violatur ; quod utique cum fit, culpa
+<lb ed="#P" n="3"/>committitur, sacramentum non cassatur. 
+Simili<lb ed="#P" break="no" n="4"/>ter si spes prolis est in eo quod devote 
+exspecta<lb ed="#P" break="no" n="5"/>tur, amanter suscipitur, religiose nutritur, non
+<lb ed="#P" n="6"/>dubium est et hocquoque bonum omni conjugio,
+<lb ed="#P" n="7"/>sive conjugibus omnibus semper adesse non 
+pos<lb ed="#P" break="no" n="8"/>8e. Quomodo enim ab illis proles speratur qui
+<lb ed="#P" n="9"/>vel pari voto continentiam custodiunt, eive pro
+<lb ed="#P" n="10"/>setatis defectu amplius generare non possunt?
+<lb ed="#P" n="11"/>Itaque duo hio, id est fides et epes prolisjita 
+con<lb ed="#P" break="no" n="12"/>jugium commitantur ut, ubi quidem adsunt, 
+con<lb ed="#P" break="no" n="13"/>jugium in altero sincerius, in altero fructuosius
+<lb ed="#P" n="14"/>appareat; ubi autem non adsunt, aut culpabilius,
+<lb ed="#P" n="15"/>aut infructuosius probetur, et tamen conjugium
+<lb ed="#P" n="16"/>esse non desistat. Sacramentum autem ita 
+inse<lb ed="#P" break="no" n="17"/>parabile esse videtur, ut sine illo omnino 
+conju<lb ed="#P" break="no" n="18"/>gium esse non possit. Unde Augustinus: usque
+<lb ed="#P" n="19"/>adeo fedus nuptiale cujusdam sacramenti res est,
+<lb ed="#P" n="20"/>ut nec separatione irritum fiat ; quia, viventeviro
+<lb ed="#P" n="21"/>2 quo relicta est, mochatur, si alteri nupserit.
+<lb ed="#P" n="22"/>Hoc autem vultsibi tanta firmitas conjugalis 
+vin<lb ed="#P" break="no" n="23"/>culi, quod non tantum valeret nisi alicujus 
+ma<lb ed="#P" break="no" n="24"/>joris rei quoddam sacramentum adhiberetur,
+<lb ed="#P" n="25"/>quod inconcussum manet, quia interveniente 
+di<lb ed="#P" break="no" n="26"/>vortio non aboletur nuptialis confcederatio, ita ut
+<lb ed="#P" n="27"/>conjuges sint etiam separati. Nam quiaduo sunt
+<lb ed="#P" n="28"/>diversa, conjugium quod constat in legitima 
+so<lb ed="#P" break="no" n="29"/>cietate, et conjugii officium quod constat in 
+car<lb ed="#P" break="no" n="30"/>nis comrmistione ; et in altero quidem, id est 
+con<lb ed="#P" break="no" n="31"/>jugio sacramentum est ; ad alterum vero, id est
+<lb ed="#P" n="32"/>ad officium conjugii, fides et spes prolis pertinere
+<lb ed="#P" n="33"/>videtur. Unum id est fides ut per eam illicita
+<lb ed="#P" n="34"/>carnis commistio caveatur; alterum, id est spes
+<lb ed="#P" n="35"/>prolis, ut propter eam licita carnis commistio
+<lb ed="#P" n="36"/>exerceatur; sicut ipsum officium carnalis 
+commer<lb ed="#P" break="no" n="37"/>cii a conjugio abesse potest, ita etiam ipsum
+<lb ed="#P" n="38"/>conjugium sine iis quae ad officium carnalis 
+com<lb ed="#P" break="no" n="39"/>mercii pertinent esse potest, quamvis, ut dictum
+<lb ed="#P" n="40"/>est, 8i fide careat, minus sincerum ; si autem spe
+<lb ed="#P" n="41"/>prolis careat, minus fructuosum inveniatur. Fides
+<lb ed="#P" n="42"/>enim fructum habet in castitate pudicitiae 
+conju<lb ed="#P" break="no" n="43"/>galis. Spes prolis fructum habet in usu 
+fecundi<lb ed="#P" break="no" n="44"/>tatis. Conjugium autem in ipsa societate maritali
+<lb ed="#P" n="45"/>sacramentum est ;et ideo sicut ipsasocietas 
+utro<lb ed="#P" break="no" n="46"/>que vivente non dividitur, ita et sacramentum
+<lb ed="#P" n="47"/>societatis conjugalis quandiu conjugium constat,
+<lb ed="#P" n="48"/>ab ipso non separatur. In quo videlicet conjugio
+<lb ed="#P" n="49"/>sacramentum foris est indivisa societas;
+ressacra<lb ed="#P" break="no" n="50"/>menti intus advincem flagrans perseveranter 
+ani<lb ed="#P" break="no" n="51"/>morumcharitas. Sacramentum foris ad Christum
+<lb ed="#P" n="52"/>et Ecclesiam, res sacramenti intus ad Deum et
+<lb ed="#P" n="53"/>animam. Ut sicut in copula carnis Christi et 
+Ec<lb ed="#P" break="no" n="54"/>clesizv sacramentum diximus, ita etiam in foedere
+<lb ed="#P" n="55"/>societatis ejusdem sacramentum ostendamus. Hoc
+<lb ed="#P" n="56"/>ergo dictum est, ut ostendatur quod aliquando
+<lb ed="#P" n="57"/>conjugium sine fide et sine spe prolis est; sine
+<lb ed="#P" n="58"/>sacramento autem nunquam esse potest quamvis
+<lb ed="#P" n="59"/>et ipsum-sacramentum aliquoties esseinveniatur,
+<lb ed="#P" n="60"/>ubi sanctitas sacramenti non esse ostenditur. 
+Di<lb ed="#P" break="no" n="61"/>cit enim beatus Augustinus quod sacramentum
+<lb ed="#P" n="62"/>conjugii omnibus gentibus commune esse potest;
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>sanctitas autem sacramenti non nisi in civitate
+<lb ed="#P" n="64"/>Dei nostri est, et in monte sancto ejus. Quod 
+que<lb ed="#P" break="no" n="65"/>madmodum verum sit facile videre potest, qui
+<lb ed="#P" n="66"/>superius dicta considerat. Diximus enim supra
+<lb ed="#P" n="67"/>quod in conjugio duplex sacramentum constaret.
+<lb ed="#P" n="68"/>Unum in commistione carnali, sacramentum illius
+<lb ed="#P" n="69"/>Societatis quae est inter Christum et Ecclesiam,
+<lb ed="#P" n="70"/>alterum in societate conjugali, sacramentum illius
+<lb ed="#P" n="71"/>societatis quae est inter Deum et animam, sive
+<lb ed="#P" n="72"/>etiam quod Christi et Ecclesiae sacramentum 
+es<lb ed="#P" break="no" n="73"/>set, in societate conjugii; Dei vero et anime 
+sa<lb ed="#P" break="no" n="74"/>cramentum in dilectione conjugali. Sive igitur
+<lb ed="#P" n="75"/>hoc modo sacramentum conjugii accipintur, recte
+<lb ed="#P" n="76"/>sacramentum conjugii omnibus gentibus 
+commu<lb ed="#P" break="no" n="77"/>ne esse dicitur; sanctitas autem sive virtus 
+sa<lb ed="#P" break="no" n="78"/>B cramenti, non nisi in civitate Dei nostri, et in
+<lb ed="#P" n="79"/>monte sancto ejus. Hoc est in fide et charitate,
+<lb ed="#P" n="80"/>in Ecclesia videlicet sancta, et inter fideles esse
+<lb ed="#P" n="81"/>perhibetur. Sacramentum autem conjugii 
+ha<lb ed="#P" break="no" n="82"/>bent, qui pari consensu ad eam quise a Deo 
+in<lb ed="#P" break="no" n="83"/>ter masculum et feminam instituta est 
+societa<lb ed="#P" break="no" n="84"/>tem indivise advincem conservandam 
+convene<lb ed="#P" break="no" n="85"/>runt. Sacramenti vero hujus sanctitatem non 
+ha<lb ed="#P" break="no" n="86"/>bent nisi iisoli qui perfidem membra Christi facti
+<lb ed="#P" n="87"/>sunt ; et per charitatem mente et devotione intus
+<lb ed="#P" n="88"/>Deo uniti sunt.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g44629-Dd1e2376">
+               <head xml:id="hsvhsv-g44629-Hd1e2378">Capitulum 9</head>
+               <head xml:id="hsvhsv-g44629-Hd1e2380" type="question-title"/>
+               <p xml:id="hsvhsv-g44629-d1e2382">
+                  <lb ed="#P" n="89"/>Cap. IX. De iis qui in conjugio incontinenter. vivunt,
+<lb ed="#P" n="90"/>et plus ezplenda libidini, quam. generanda proli
+<lb ed="#P" n="91"/>inserviunt.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e2391">
+                  <lb ed="#P" n="92"/>Beatus Augustinus de iis qui tali 
+incontinen<lb ed="#P" break="no" n="93"/>tie sive infirmitatesivevoluptate victi inserviunt,
+<lb ed="#P" n="94"/>sic dicit: Concubitum qui non fit causa prolis,
+<lb ed="#P" n="95"/>nuptis non cogunt fleri ; sed impetrant ignosci:
+<lb ed="#P" n="96"/>8i tamen non ita sit nimius ut impediat tempora.
+<lb ed="#P" n="97"/>qui orationi debentur, nec immutetur in eum
+<lb ed="#P" n="98"/>usum qui contra naturam est. Concubitus enim
+<lb ed="#P" n="99"/>qui est necessarius causa prolis inculpabilis est,
+<lb ed="#P" n="100"/>tantummodo si est nuptialis. Qui autem ultra 
+ne<lb ed="#P" break="no" n="101"/>cessitatem justam progreditur, nam non rationi
+<lb ed="#P" n="102"/>sed libidini obsequitur, et hunc non exigere, sed
+<lb ed="#P" n="103"/>reddere conjugi ne fornicetur, ad conjugem 
+per<lb ed="#P" break="no" n="104"/>tinet. Si vero ambo tali concupiscenti: 
+subigun<lb ed="#P" break="no" n="105"/>tur, rem faciunt quae non est nuptiarum, cujus
+<lb ed="#P" n="106"/>delicti non sunt nuptiae exhortatrices, sed 
+depre<lb ed="#P" break="no" n="107"/>catrices. Decus quidem conjugale est castitas 
+pro<lb ed="#P" break="no" n="108"/>creandi et reddendi carnalis debiti fides. Hoc est.
+<lb ed="#P" n="109"/>epus nuptiarum quod ab omni crimine defendit
+<lb ed="#P" n="110"/>Apostolus, dicens : <quote xml:id="hsvhsv-g44629-Qd1e2434">Si acceperis non peccasti, et
+<lb ed="#P" n="111"/>si nupserit virgo non peccat</quote> (I Cor vir). 
+Immo<lb ed="#P" break="no" n="112"/>derata autem progressio secundum veniam 
+con<lb ed="#P" break="no" n="113"/>ceditur. Sanctitati etiam conjugii nec infidelis
+<lb ed="#P" n="114"/>conjux obesse potest; sed potius fidelis prodest
+<lb ed="#P" n="115"/>infideli. Unde Apostolus: Sanctificatus est vir
+<lb ed="#P" n="116"/>infidelis per fidelem mulierem (ibid.), etc.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g44629-Dd1e2452">
+               <head xml:id="hsvhsv-g44629-Hd1e2454">Capitulum 10</head>
+               <head xml:id="hsvhsv-g44629-Hd1e2456" type="question-title"/>
+               <p xml:id="hsvhsv-g44629-d1e2458">
+                  <lb ed="#P" n="117"/>Cap. X. Qua ratione antiqui simul plures ha7
+<lb ed="#P" n="118"/>buerunt uxores.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e2465">
+                  <lb ed="#P" n="119"/>De hoc similiter beatus Augustinus sic ait 
+anti<lb ed="#P" break="no" n="120"/>quis temporibus zum adhuc salutis nostre 
+mys<lb ed="#P" break="no" n="121"/>terium velaretur, justi officio propagandi nuptias
+<lb ed="#P" n="122"/>contrahebant, non victi libidine. sed ducti 
+pieta<lb ed="#P" break="no" n="123"/>te, qui multo facilius continere possent et vellent.
+<lb ed="#P" n="124"/>Utebantur tamen conjugibus et plures uni viro
+<!-- 167.png.txt -->
+<pb ed="#P" n="249"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>habere licebat, quas castius habebat quam nunc 
+<lb ed="#P" n="2"/>unam quilibet istorum in quibus videmus, quod
+<lb ed="#P" n="3"/>secundum veniam concedit Apostolus. Habebant
+<lb ed="#P" n="4"/>enim eas in opere generandi, non in morbo 
+desi<lb ed="#P" break="no" n="5"/>derii. Idem in libro De virginibus: Antiquis justis
+<lb ed="#P" n="6"/>non fuit peccatum quod pluribus feminis 
+uteban<lb ed="#P" break="no" n="7"/>tur, neque contra naturam hoc faciebant, cum
+<lb ed="#P" n="8"/>non lasciviendi causa sed gignendi hoc facerent,
+<lb ed="#P" n="9"/>neque contra morem, quia eo tempore ea fiebant
+<lb ed="#P" n="10"/>neque contra praeceptum quia nulla lege erat 
+pro<lb ed="#P" break="no" n="11"/>hibitum. Verumtamen sicut idem alibi testatur,
+<lb ed="#P" n="12"/>magis pertinet ad bonum nuptiarum unum cum
+<lb ed="#P" n="13"/>una, quam cum multis copulari, quod indicat 
+pri<lb ed="#P" break="no" n="14"/>mi conjugis copula divinus facta, ut inde 
+connu<lb ed="#P" break="no" n="15"/>bia sumerent initium, ubi honestius attendere
+<lb ed="#P" n="16"/>tionem Christi conferre, et vere dicitur cum dici
+<lb ed="#P" n="17"/>tur exemplum. Item idem : Sieut non est impar 
+<lb ed="#P" n="18"/>meritum patientie in Petro qui passus est, et in
+<lb ed="#P" n="19"/>Joanne qui passus non est, sic non estimpar 
+me<lb ed="#P" break="no" n="20"/>ritum continenti in Joanne, quinullas expertus
+<lb ed="#P" n="21"/>est nuptias, et in Abraham qui filios generavit.
+<lb ed="#P" n="22"/>Et illius enim caelibatus et istius connubium, pro
+<lb ed="#P" n="23"/>temporum distributione Christo militaverunt. Sed
+<lb ed="#P" n="24"/>continentiam Joanes in opere: Abraham in solo
+<lb ed="#P" n="25"/>habitu habebat. Melior autem est castitas 
+czli<lb ed="#P" break="no" n="26"/>bum quam castitas nuptiarum quarum Abraham
+<lb ed="#P" n="27"/>unum habebat inusu, ambas in habitu. Casteenim
+<lb ed="#P" n="28"/>conjugabiliter vixit ; esse autem castus sine 
+con<lb ed="#P" break="no" n="29"/>jugio potuit ; sed tunc non opertuit. Idem justus,
+<lb ed="#P" n="30"/>quamvis cupiat dissolvi et esse cum Christo
+<lb ed="#P" n="31"/>(Philip. 1), tamen sumit alimentum non 
+cupidi<lb ed="#P" break="no" n="32"/>tate vivendi, sed officio consulendi, ut maneat
+<lb ed="#P" n="33"/>quod necessarium est propter alios: sic misceri
+<lb ed="#P" n="34"/>feminis jure nuptiarum, officiosum fuit sanctis
+<lb ed="#P" n="35"/>viris non libidinosum. Quod enim est cibus ad
+<lb ed="#P" n="36"/>salutem hominis, hoc est concubitus ad salutem
+<lb ed="#P" n="37"/>generis, et utrumque non est sine 
+delectationecar<lb ed="#P" break="no" n="38"/>nali, quae tamen modificata et refrenante 
+tempe<lb ed="#P" break="no" n="39"/>rantia in usum naturalem redacta libido essenon
+<lb ed="#P" n="40"/>potest. Quod autem est in sustentando victi 
+illi<lb ed="#P" break="no" n="41"/>citus cibus, hoc est in quzerenda prole fornicarius
+<lb ed="#P" n="42"/>vel adulterinus concubitus : et quod est in cibo
+<lb ed="#P" n="43"/>licito immoderatior appetitus, hoc est in 
+conjugi<lb ed="#P" break="no" n="44"/>bus venialis ille concubitus.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g44629-Dd1e2583">
+               <head xml:id="hsvhsv-g44629-Hd1e2585">Capitulum 11</head>
+               <head xml:id="hsvhsv-g44629-Hd1e2587" type="question-title"/>
+               <p xml:id="hsvhsv-g44629-d1e2589">
+                  <lb ed="#P" n="45"/>Cap. XI Utrum conjugium dicendum est quod
+<lb ed="#P" n="46"/>aliquando dissolvi potest.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e2596">
+                  <lb ed="#P" n="47"/>Quidam conjugium omnino esse negant quod 
+<lb ed="#P" n="48"/>aliquando dissidium admittit. Inveniunt enim
+<lb ed="#P" n="49"/>auctoritates quasdam et verba Scripturarum 
+di<lb ed="#P" break="no" n="50"/>vinarum a sanctis Patribus prolata, quibus quasi
+<lb ed="#P" n="51"/>idipsum videtur astrui. Dicit enim beatus 
+Au<lb ed="#P" break="no" n="52"/>gustinusin libro De homo conjugali : Usque adeo
+<lb ed="#P" n="53"/>fedus nuptiale cujusdam sacramenti res est, ut
+<lb ed="#P" n="54"/>nec separatione irritum, quia, vivente viro a quo
+<lb ed="#P" n="55"/>relicta est, mochatur, si alteri nupserit. Et idem:
+<lb ed="#P" n="56"/>Quia interveniente divertio non aboletur nuptialis
+<lb ed="#P" n="57"/>confcederatio ita ut conjuges sint, etiam separati,
+<lb ed="#P" n="58"/>Propter hujusmodi assertiones videtur illis non
+<lb ed="#P" n="59"/>esse dicendum conjugium, etiam quando est,
+<lb ed="#P" n="60"/>quod aliquando ita dissidium et separationem 
+ad<lb ed="#P" break="no" n="61"/>mittit, ut divisi adinvicem conjuges non 
+appel<lb ed="#P" break="no" n="62"/>lentur. Sed mihi interim non apparet qua ratione
+<lb ed="#P" n="63"/>possint probare, quod hoc ad virtutem sacramenti
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="64"/>conjugalis pertinet, ut individua ab utrisque 
+so<lb ed="#P" break="no" n="65"/>cietas, quandiu uterque vivit conservetur; 
+pro<lb ed="#P" break="no" n="66"/>pterea conjugium non fuisse quod aliquando 
+dis<lb ed="#P" break="no" n="67"/>solvi potuit. Si enim idcirco hoc conjugium non
+<lb ed="#P" n="68"/>esse dicunt, quia hoc ea quae ad conjugium 
+perti<lb ed="#P" break="no" n="69"/>nent in toto non habet, intendant quod cum 
+di<lb ed="#P" break="no" n="70"/>ctum est individuam societatem ad conjugium
+<lb ed="#P" n="71"/>pertinere, vere dictum est : quia hanc conjugium
+<lb ed="#P" n="72"/>habere debet quando scilicet est ubi esse debet.
+<lb ed="#P" n="73"/>Heec enim conjugii est et hane conjugium exigit,
+<lb ed="#P" n="74"/>sive potius confert, quantum in se est. Bicut 
+bap<lb ed="#P" break="no" n="75"/>tismiestremissionem peccatorum conferre, et vere
+<lb ed="#P" n="76"/>dicitur cum dicitur quod baptismus remissionem
+<lb ed="#P" n="77"/>omnium peccatorum confert; et sicut sacramenti
+<lb ed="#P" n="78"/>corporis Christi virtus et societatem et 
+participa<lb ed="#P" break="no" n="79"/>tur quod susceptio corporis Christi confer 
+spiri<lb ed="#P" break="no" n="80"/>tualem participationem Christi; et tamen qui
+<lb ed="#P" n="81"/>fictus baptismisacramentum accipit, remissionem
+<lb ed="#P" n="82"/>peccatorum non percipit, et qui indigne manducat
+<lb ed="#P" n="83"/>corpus Christi, nequaquam per id meretur 
+spiri<lb ed="#P" break="no" n="84"/>tualem participationem Christi. Si ergo vere hiec
+<lb ed="#P" n="85"/>ad illa pertinere dicimus et tamen illa sine istis
+<lb ed="#P" n="86"/>aliquoties inveniemus, nec ideo minus ad illa 
+per<lb ed="#P" break="no" n="87"/>tinent quando sine istis eunt illa;quando videlicet
+<lb ed="#P" n="88"/>sunt ubi esse non debent, et apud quos esse non
+<lb ed="#P" n="89"/>debent : mirum est si individuam societatem ad
+<lb ed="#P" n="90"/>conjugium pertinere dicimus, cum tamen 
+conju<lb ed="#P" break="no" n="91"/>gium sine illa inveniamus, quando scilicet est ubi
+<lb ed="#P" n="92"/>esse non debet? Quod si idcirco conjugii 
+sacra<lb ed="#P" break="no" n="93"/>mentum non esse dicunt, quia hoc non habet quod
+<lb ed="#P" n="94"/>habere debet, quando est ubi esse non debet, 
+di<lb ed="#P" break="no" n="95"/>cant similiter baptismi sacramentum verum nón
+<lb ed="#P" n="96"/>esse apud fictum, et fictum vere baptizatum non
+<lb ed="#P" n="97"/>esse, quiaibi remissionem peccatorum non 
+opera<lb ed="#P" break="no" n="98"/>tur; et verum corpus Christi non esse quod 
+indi<lb ed="#P" break="no" n="99"/>gne percipitur, quia illic spiritualis participatio
+<lb ed="#P" n="100"/>Christi non confertur. Intelligant ergo quod 
+quo<lb ed="#P" break="no" n="101"/>ties hujusmodi spirituales effectus sacramentis
+<lb ed="#P" n="102"/>divinis attribuuntur, virtus ipsorum 
+sacramento<lb ed="#P" break="no" n="103"/>rum exprimitur, in quo quidem non ostenditur
+<lb ed="#P" n="104"/>quid secundum vitium sacramentis Dei 
+abuten<lb ed="#P" break="no" n="105"/>tium futurum sit, sed potius quid ex ipsis 
+secun<lb ed="#P" break="no" n="106"/>dum efficaciam gratis spiritualis quae in ipsis
+<lb ed="#P" n="107"/>est, siin pravitate abutentium non remaneant, fleri
+<lb ed="#P" n="108"/>possit. Qui ergo hoc conjugium habere dixit, hoc
+<lb ed="#P" n="109"/>utique dicere voluit, quod conjugium hoc 
+quan<lb ed="#P" break="no" n="110"/>tum in se est, habere debet, si fuerit ubi esse 
+de<lb ed="#P" break="no" n="111"/>bet. Si autem forte non fuerit ubi esee debet, non
+<lb ed="#P" n="112"/>est mirum ei eo careat quod habere debet. Neque
+<lb ed="#P" n="113"/>ideo tamen minus verum est sacramentum, dum
+<lb ed="#P" n="114"/>est, quamvis minus utilesit illi in quo est. Ad
+<lb ed="#P" n="115"/>hunc modum putamus quaedam conjugia vere dici
+<lb ed="#P" n="116"/>posse, quandiu secundum judicium Ecclesise rata
+<lb ed="#P" n="117"/>habentur; qui tamen postmodum emergentibus
+<lb ed="#P" n="118"/>causis legitimis recte solvuntur, et ai postea, 
+con<lb ed="#P" break="no" n="119"/>tra Ecclesise prohibitionem pertinaci 
+presumptio<lb ed="#P" break="no" n="120"/>ne tenentur, illicite et illegitims copulationes 
+ju<lb ed="#P" break="no" n="121"/>dicantur. Non tamen hoc de omnibus, sicut supra
+<lb ed="#P" n="122"/>memoravi, sic sentiendum existimanus. Nam facta
+<lb ed="#P" n="123"/>horroris excusatione, nulla legitimorum nomen
+<lb ed="#P" n="124"/>poterunt retinere. Aliud est dg illis ubi venialiter
+<!-- 168.png.txt -->
+<pb ed="#P" n="250"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>peccatur, ut. videlicet si quis infra septimum, aut A
+<lb ed="#P" n="2"/>sextum, aut etiam fortassis quintum gradum 
+li<lb ed="#P" break="no" n="3"/>neam propinquitatis ignorans temeraret, quod
+<lb ed="#P" n="4"/>quidem non tam contra naturalem sive antiquam.
+<lb ed="#P" n="5"/>legalem institutionem quam contra subsequentem
+<lb ed="#P" n="6"/>Ecclesise praeceptionem esset. Legimus quod 
+bea<lb ed="#P" break="no" n="7"/>tus Gregorius Anglis noviter ad fidem conversis,
+<lb ed="#P" n="8"/>ne forte Christianam religionem horrerent, 
+dispen<lb ed="#P" break="no" n="9"/>satorie concessit, a quinto gradu consanguinitatis
+<lb ed="#P" n="10"/>conjugia copulare : in quo apparet quod ea quae
+<lb ed="#P" n="11"/>aliquando dispensationem anmittunt, ut licite 
+ma<lb ed="#P" break="no" n="12"/>nifeste fiant, excusationem habent, etiam si praeter.
+<lb ed="#P" n="13"/>concessionem ignoranter fiant. Et idcirco fortassis
+<lb ed="#P" n="14"/>ejusmodi quandiu omnino latent ignorantia 
+con<lb ed="#P" break="no" n="15"/>venientius existimentur excusari, quae tamen ma.
+<lb ed="#P" n="16"/>nifesta facta, quia contra praeceptionem sunt, non
+<lb ed="#P" n="17"/>debenttolerari. Haec autem dicta sunt contra illos
+<lb ed="#P" n="18"/>qui putant conjugium omnino dici non posse
+<lb ed="#P" n="19"/>quod aliquando dissolvi potest.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g44629-Dd1e2818">
+               <head xml:id="hsvhsv-g44629-Hd1e2820">Capitulum 12</head>
+               <head xml:id="hsvhsv-g44629-Hd1e2822" type="question-title"/>
+               <p xml:id="hsvhsv-g44629-d1e2824">
+                  <lb ed="#P" n="20"/>Cap. XII. De his qui putant etiam inter illeg 
+i<lb ed="#P" break="no" n="21"/>fimas personas quascunque consensum
+<lb ed="#P" n="22"/>adinvicem. habitum conjugium facere.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e2833">
+                  <lb ed="#P" n="23"/>Alii non minus praecipiti existimatione in 
+con<lb ed="#P" break="no" n="24"/>trariam assertionem feruntur, in tantum ut dicant
+<lb ed="#P" n="25"/>quantumlibet illegitimae persons fuerunt 
+cujus<lb ed="#P" break="no" n="26"/>cunque professionis sive ordinis pari consensu
+<lb ed="#P" n="27"/>adinvicem facto conjuges esse. Non sacerdotes
+<lb ed="#P" n="28"/>continentiam professos, non summos sacerdotes,
+<lb ed="#P" n="29"/>non monachos aut sacras virgines ab hac lege
+<lb ed="#P" n="30"/>excipiendos putant. Sed habent istis similiter
+<lb ed="#P" n="31"/>verba quaedam Scripturarum quibus munire 
+cre<lb ed="#P" break="no" n="32"/>dunt et confirmare existimationem suam. Et sunt.
+<lb ed="#P" n="33"/>vere quidem dicta ejusmodi in quibus 
+conve<lb ed="#P" break="no" n="34"/>nienter hoc intelligi possit, si convenienter hoc
+<lb ed="#P" n="35"/>fleri possit. Sed. non sic judicare debent quibus
+<lb ed="#P" n="36"/>doctrina Verbi Dei commissa est, ut, propter unum
+<lb ed="#P" n="37"/>aliquid confirmandum, a sensu universorum 
+re<lb ed="#P" break="no" n="38"/>cedant. Neque partem totum sed totum pars sequi
+<lb ed="#P" n="39"/>debet. Sedsi forteinveniaturparsatoto discordans,
+<lb ed="#P" n="40"/>autcoaptanda estai fieri potest aut si fieri non potest.
+<lb ed="#P" n="41"/>adjicienda. Melius enim a parte receditur, quam
+<lb ed="#P" n="42"/>8 toto. Optimum autem estsi et pars retinetur et.
+<lb ed="#P" n="43"/>totum. Hsc ergo sunt quae adducunt in 
+appro<lb ed="#P" break="no" n="44"/>bationem assertionis sug. Beatus Augustinus in
+<lb ed="#P" n="45"/>libro De professione sancte viduitatis sic ait: In
+<lb ed="#P" n="46"/>conjugali vinculo si pudicitia conservatur, dam- p 
+<lb ed="#P" n="47"/>natio non timetur. Sed in viduali et in virginali
+<lb ed="#P" n="48"/>continentia excellentia muneris amplioris 
+expeti<lb ed="#P" break="no" n="49"/>tur. Qua expetita et electa et voti debito oblata,
+<lb ed="#P" n="50"/>jam non solum capessere nuptias, sed etiam, si
+<lb ed="#P" n="51"/>non nubatur, nubere velle damnabile est. Nam ut
+<lb ed="#P" n="52"/>hoc demonstraret Apostolus non ait: Cum in
+<lb ed="#P" n="53"/>deliciis haec egerint, in Christo nubunt, sed
+<lb ed="#P" n="54"/>nubere volunt. Habentes, inquit, damnationem,
+<lb ed="#P" n="55"/>quoniam primam fidem irritam | fecerunt
+<lb ed="#P" n="56"/>(I Tím. v), etai non nubendo, tamen volendo. Non
+<lb ed="#P" n="57"/>quia ipse nuptis vel talium damnandae 
+judicen<lb ed="#P" break="no" n="58"/>tur, sed damnatur propositi fraus ; damnatur
+<lb ed="#P" n="59"/>fracta voti fides, damnatur non susceptio a bono
+<lb ed="#P" n="60"/>inferiore, sed ruina bono ex superiore. Postremo
+<lb ed="#P" n="61"/>damnantur tales, non quia conjugalem fidem
+<lb ed="#P" n="62"/>posterius inierunt, sed quia eontinentige primam
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>fidem irritam facerunt. Et post panes: Proinde
+<lb ed="#P" n="64"/>qui dicunt talium nuptias non esse nuptias, sed
+<lb ed="#P" n="65"/>potius adulteria, non inihi videntur satis acute ac
+<lb ed="#P" n="66"/>diligenter considerare quid dicant ; fallit eos
+<lb ed="#P" n="67"/>quippe similitudo veritatis. Quia enim conjugium
+<lb ed="#P" n="68"/>Christi dicuntur eligere, quae Christiana sanctitate
+<lb ed="#P" n="69"/>non nubunt, hinc quidam argumentantur 
+dicen<lb ed="#P" break="no" n="70"/>tes : Si, viro suo vivo, qua alteri nubit adultera
+<lb ed="#P" n="71"/>est, sicut ipse Dominus in Evangelio definivit :
+<lb ed="#P" n="72"/>vivo ergo Christo cui mors ultra non 
+dominabi<lb ed="#P" break="no" n="73"/>tur, quae conjugium ejus elegerat, si homini nubit,
+<lb ed="#P" n="74"/>adultera -est. Qui hoc dicunt acute quidem 
+mo<lb ed="#P" break="no" n="75"/>ventur ; sed parum attendunt hanc 
+argumenta<lb ed="#P" break="no" n="76"/>tionem quanta sequatur absurditas. Cum enim
+<lb ed="#P" n="77"/>laudabiliter, etiam vivente viro, ex ejus consensu
+<lb ed="#P" n="78"/>femina continentiam Christo voveat, jam 
+secun<lb ed="#P" break="no" n="79"/>dum istorum rationem nulla hoc facere debet, ne
+<lb ed="#P" n="80"/>ipsi Christo, quod sentire nefas est, adulterum
+<lb ed="#P" n="81"/>faciat, cui-vivente viro nubit. Et post pauca : Fit
+<lb ed="#P" n="82"/>autem per hanc minus consideratam opinionem,
+<lb ed="#P" n="83"/>qua putant lapsarum a sancto proposito 
+femina<lb ed="#P" break="no" n="84"/>rum, si nupserint, non esse conjugia, non parvum
+<lb ed="#P" n="85"/>malum ut a maritis separentur uxores, quasi 
+adul<lb ed="#P" break="no" n="86"/>tere sint, non uxores. Et cum nolunt eas separatas
+<lb ed="#P" n="87"/>reddere continentiz, faciunt maritos earum 
+adul<lb ed="#P" break="no" n="88"/>teros veros, cum suis uxoribus vivis alteras
+<lb ed="#P" n="89"/>duxerunt. Quapropter non possum quidem dicere
+<lb ed="#P" n="90"/>a proposito meliorelapsas si nupserint feminas,
+<lb ed="#P" n="91"/>adulteria esse, non conjugia. Sed plane non 
+dubi<lb ed="#P" break="no" n="92"/>teverim dicere lapsus et ruinas a castitate 
+sanc<lb ed="#P" break="no" n="93"/>tiore quae vovetur Deo adulteriis esse pejores. Et.
+<lb ed="#P" n="94"/>sic quidem beatus Augustinus dicit : Et videtur
+<lb ed="#P" n="95"/>manifesta auctoritas et ratio evilens de qua 
+du<lb ed="#P" break="no" n="96"/>bitari non possit. Sed ecce dicamus ita, et ita 
+een<lb ed="#P" break="no" n="97"/>tiamus, ut lapse a proposito et professione 
+con<lb ed="#P" break="no" n="98"/>tinentiae femins si nupserint conjugia esse vera,
+<lb ed="#P" n="99"/>nec solvi posse omnino ejusmodi. Quid ergo?
+<lb ed="#P" n="100"/>Nonne similiter et eadem ratione de alio sexu
+<lb ed="#P" n="101"/>sentiendum est, si lapsi a proposito et professione
+<lb ed="#P" n="102"/>continentie viri uxores duxerint, conjugia esse
+<lb ed="#P" n="103"/>vera et rata debere esse, in tantum ut solvi 
+om<lb ed="#P" break="no" n="104"/>nino non possint, quamvis a culpa defendi non
+<lb ed="#P" n="105"/>possint? Ecce ergo dieamus quod ita est, et ita
+<lb ed="#P" n="106"/>sentire et tenere oportet. Non habemus rationem
+<lb ed="#P" n="107"/>aliquam qua infringere possimus, aut infirmare
+<lb ed="#P" n="108"/>tam evidentem rationem etauctoritatem. Tenemur
+<lb ed="#P" n="109"/>necessitate, ut ita sentiamus et teneamus. Videte
+<lb ed="#P" n="110"/>quid sequitur. Si hoc promulgatum fuerit et 
+au<lb ed="#P" break="no" n="111"/>dierint homines quia ita tenet Ecclesia quod
+<lb ed="#P" n="112"/>lapsi a proposito et professione continentis, si
+<lb ed="#P" n="113"/>conjugia inierint, separari non possunt, nec cogere
+<lb ed="#P" n="114"/>eos potest. Ecclesia ut ad propositum continentis
+<lb ed="#P" n="115"/>servandum revertantur, nihil deinceps stabile aut
+<lb ed="#P" n="116"/>ratum esse poterit. Non ordo vel habitus, non
+<lb ed="#P" n="117"/>denique votum aut professio ulla tenere poterunt
+<lb ed="#P" n="118"/>homines, quin frena impudicitiae laxent et ruant
+<lb ed="#P" n="119"/>in desideria sua, vel cum fsstidire cosperint 
+bo<lb ed="#P" break="no" n="120"/>num in quo eunt libertatem querentes, vel cum
+<lb ed="#P" n="121"/>tentati fuerint forte de malo, in quo nondum sunt
+<lb ed="#P" n="122"/>ad voluptatem suam explendam festinantes. Ita
+<lb ed="#P" n="123"/>dissipabitur omnis ordo, et pulchritudo religionis |
+<lb ed="#P" n="124"/>Christiane ad nihilum redigetur, et turpitudo
+<!-- 169.png.txt -->
+<pb ed="#P" n="251"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>magna succedet. Secundum infirmitatem nostri 
+<lb ed="#P" n="2"/>temporis loquor. Quis deinceps in habitu vel 
+pro<lb ed="#P" break="no" n="3"/>fessione religiomis constitutus stabit, si urgeri
+<lb ed="#P" n="4"/>coeperit stimulis carnis suae, sicut natura mortalis
+<lb ed="#P" n="5"/>et corruptioni obnoxia pati consueverit, et dixerit
+<lb ed="#P" n="6"/>ei cogitatio sua : non poteris resistere tam 
+vio<lb ed="#P" break="no" n="7"/>lente passioni, tantis desideriorum tuorum 
+incen<lb ed="#P" break="no" n="8"/>diis et zestibus, quae non hodie aut cras aut triduo
+<lb ed="#P" n="9"/>sive quatuor aut octo diebus ; aut etiam unius
+<lb ed="#P" n="10"/>mensis, aut unius anni spatio bellum tibi 
+indixe<lb ed="#P" break="no" n="11"/>runt, sed quandiu vivis super terram, quandiu
+<lb ed="#P" n="12"/>carnem mortalem portas, quandiu sentire poteris,
+<lb ed="#P" n="13"/>non te deserent, non tibi parcent, non tibi pacem
+<lb ed="#P" n="14"/>dabunt aut requiem ; semper intentionem 
+oppri<lb ed="#P" break="no" n="15"/>ment, cogitationem tuam avertent, ut nunquam
+<lb ed="#P" n="16"/>mentem liberam aut voluntatem puram ad Deum 
+<lb ed="#P" n="17"/>erigere possis. Vide ergo quod et hoc seculum
+<lb ed="#P" n="18"/>perdis et futurum non acquiris. Melius tibi saltem.
+<lb ed="#P" n="19"/>esset vel ista tormenta devitare quam in toto 
+pe<lb ed="#P" break="no" n="20"/>rire et nihil sentire boni. Videt Deus quod invitus
+<lb ed="#P" n="21"/>pateris, nolens traheris, coactus assentis; 
+fortas<lb ed="#P" break="no" n="22"/>sis respiciet ad violentiam passionis tu: ; et 
+mi<lb ed="#P" break="no" n="23"/>sertus, excessui tuo dabit veniam, praecipue cum
+<lb ed="#P" n="24"/>dicat Apostolus : Melius est nubere quam uri
+<lb ed="#P" n="25"/>(1 Cor. vii). Et unusquisque uxorem suam habeat
+<lb ed="#P" n="26"/>propter fornicationem. Bene enim novit 
+Aposto<lb ed="#P" break="no" n="27"/>lus infirmitatem humanam ; et ideo non dixit illi
+<lb ed="#P" n="28"/>habeant, quia illis licet, et illi non habeant, quia
+<lb ed="#P" n="29"/>illis non licet ; sed unusquisque habeat : qui 
+con<lb ed="#P" break="no" n="30"/>tinere non potest, melius est ut nubat quam 
+ura<lb ed="#P" break="no" n="31"/>tur. Melius est ut licite excipiat infirmitatem,
+<lb ed="#P" n="32"/>quam vitio semper uratur ad passionem. Nam
+<lb ed="#P" n="33"/>ipse Dominus dicit : Qui potest capere capiat
+<lb ed="#P" n="34"/>(Matth. x1ix). Ipse scit quod capere non possum
+<lb ed="#P" n="35"/>verbum hoc ut continens permaneam. Quando
+<lb ed="#P" n="36"/>putavi posse, libenter proposui; et in eadem
+<lb ed="#P" n="37"/>adhuc voluntate libenter perseverarem, si pati
+<lb ed="#P" n="38"/>possem. Sed non valeo tolerare wstum bullientis
+<lb ed="#P" n="39"/>naturae, ardorem concupiscentiae ferventis 
+susti<lb ed="#P" break="no" n="40"/>nere non possum. Ideo facio quod possum. Vado
+<lb ed="#P" n="41"/>et duco uxorem, excipio infirmitatem meam 
+do<lb ed="#P" break="no" n="42"/>lens quidem qui a superiori bono descendere
+<lb ed="#P" n="43"/>cogor ; sed tamen non omnino desperans, quia ad
+<lb ed="#P" n="44"/>concessa descendo. Magis volo in inferiori bono
+<lb ed="#P" n="45"/>salvari, quam in summo periclitari. Et si forte
+<lb ed="#P" n="46"/>estculpa aliqua, descendo quia propositum meum
+<lb ed="#P" n="47"/>non teneo ; ego poenitentiam agam, et 
+satisfac<lb ed="#P" break="no" n="48"/>tione placabo Deum. Nihil durum erit aut diffi
+<lb ed="#P" n="49"/>Gile, tantum hanc passionem evadere possim ; et
+<lb ed="#P" n="50"/>mortem istam in qua vivens teneor, declinare.
+<lb ed="#P" n="51"/>Quis putatis ejusmodi rationibus non se instiget
+<lb ed="#P" n="52"/>et cobortetur cum affligi coeperit et uri stimulis
+<lb ed="#P" n="53"/>carnis suz, si sciat quod licet et quod fleri potest;
+<lb ed="#P" n="54"/>etsalus est illis qui hoc faciunt, et non cogit
+<lb ed="#P" n="55"/>Ecclesia illos qui sic retro ascipiunt, sed ita vivere
+<lb ed="#P" n="56"/>concedit et legitima censet esse conjugia illorum.
+<lb ed="#P" n="57"/>Quis non malit, cum in tentatione gravi fuerit,
+<lb ed="#P" n="58"/>multis annis ponitere, et quamlibet satisfactionem
+<lb ed="#P" n="59"/>exsolvere, tantum ut frui possit voto et optione
+<lb ed="#P" n="60"/>sua, et desideria aua licite adimplere ? Quid ergo
+<lb ed="#P" n="61"/>dicemus ? Plane attestari audemus quod, etsi
+<lb ed="#P" n="62"/>negari forte non potest hic ita dictum esse et hoc
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>dictum ita intelligendum esse, nulla tamen 
+ra<lb ed="#P" break="no" n="64"/>tione his maxime temporibus quibus homines ad
+<lb ed="#P" n="65"/>vitia proni sunt expedit ita tenere et facere. Et
+<lb ed="#P" n="66"/>ad hunc modum fortassis si quis dicere voluerit,
+<lb ed="#P" n="67"/>haec de illis temporibus dicta esse quando homines
+<lb ed="#P" n="68"/>magis peccare erubescebant et quando sola 
+eru<lb ed="#P" break="no" n="69"/>bescentia prwvaricationis cohibere potuit 
+fluc<lb ed="#P" break="no" n="70"/>tuantes et in tentatione constitutos ne a proposito
+<lb ed="#P" n="71"/>9t voto sanctitatis laberentur ; et quando magis
+<lb ed="#P" n="72"/>terrebantur in eo quod sibi post lapsum ad
+<lb ed="#P" n="73"/>prioris excellenti puritatem amplius reditum
+<lb ed="#P" n="74"/>non patere sciebant ; et ita tunc Ecclesiam 
+secun<lb ed="#P" break="no" n="75"/>dum temporis illius statum tenere debuisse et
+<lb ed="#P" n="76"/>tenuisse, ut qui post votum et professionem 
+con<lb ed="#P" break="no" n="77"/>tinentie ad conjugalem copulam descenderent,
+<lb ed="#P" n="78"/>ita manerent ; nec solverentur hujusmodi 
+con<lb ed="#P" break="no" n="79"/>tractus, et secundum judicium et permissionem
+<lb ed="#P" n="80"/>Ecclesie tunc rata fuisse hujusmodi conjugia.
+<lb ed="#P" n="81"/>Postea autem cum inciperent homines abuti tali
+<lb ed="#P" n="82"/>confessione et permissione, Ecclesiam propter
+<lb ed="#P" n="83"/>pericula imminentia usum mutasse, et sententiam
+<lb ed="#P" n="84"/>intorsisse ad aliud atque ideo nunc conjugia non
+<lb ed="#P" n="85"/>esse ejusmodi propter prohibitionem et 
+institu<lb ed="#P" break="no" n="86"/>tionem Ecclesie, secundum quam licita vel 
+illi<lb ed="#P" break="no" n="87"/>cita, rata et solvenda omnia judicantur. Si quis
+<lb ed="#P" n="88"/>hoc dicat, fortassis aliquid dixisse videbitur. Nos
+<lb ed="#P" n="89"/>nihil reprehendimus ex omnibus quae veritatem
+<lb ed="#P" n="90"/>quietam esse permittunt. Si quis autem haec dicta.
+<lb ed="#P" n="91"/>esse intelligat, de iis qui propositum continentis
+<lb ed="#P" n="92"/>occulte voverunt, et votum suum sine attestatione
+<lb ed="#P" n="93"/>hominum soli Deo obtulerunt, eosque si postea
+<lb ed="#P" n="94"/>voto fracto ad conjugalem societatem descendere
+<lb ed="#P" n="95"/>voluerint, idcirco ab Ecclesia prohiberi non posse,
+<lb ed="#P" n="96"/>quia professionem illorum non accepit, neque
+<lb ed="#P" n="97"/>observationem continentis, eis indixit. Si quis
+<lb ed="#P" n="98"/>igitur tales viduas aut virgines, post votum 
+con<lb ed="#P" break="no" n="99"/>tinentio ad maritalem copulam descendentes
+<lb ed="#P" n="100"/>damnationem quidem habere, id est rem 
+damna<lb ed="#P" break="no" n="101"/>bilem facere, non quia nubunt, sed quia votum
+<lb ed="#P" n="102"/>frangunt ; non propter bonum inferius quod
+<lb ed="#P" n="103"/>appetunt, sed propter bonum superius quod 
+re<lb ed="#P" break="no" n="104"/>linquunt, ita quidem propter fidem violatam
+<lb ed="#P" n="105"/>damnationem habere, se tamen omnino conjuges
+<lb ed="#P" n="106"/>esse, nec separari debere existimet, certum eat,
+<lb ed="#P" n="107"/>sieut superius diximus, q20d ea quae Eoeclesim
+<lb ed="#P" n="108"/>probari non possunt, ab Ecclesia judicari omnino
+<lb ed="#P" n="109"/>non possunt. Hzc igitur quae vera esse constat,
+<lb ed="#P" n="110"/>si in sententia superius memorata convenienter
+<lb ed="#P" n="111"/>dicta accipimus, nihil amplius restat quaestionis
+<lb ed="#P" n="112"/>cur non veraciter dicta et utiliter tenenda 
+appro<lb ed="#P" break="no" n="113"/>bemus. Certum est enim quod ii qui post oocultum
+<lb ed="#P" n="114"/>votum castitatis, et propositum continenti; 
+non<lb ed="#P" break="no" n="115"/>dum manifesta professione confirmatum, ad
+<lb ed="#P" n="116"/>experieniiam carnis redeunt, nullo modo ab 
+Ec<lb ed="#P" break="no" n="117"/>clesia prohiberi possunt deque ejusmodi copulam
+<lb ed="#P" n="118"/>Ecclesia ipsa, si quando contigerit, abjudicat, aed
+<lb ed="#P" n="119"/>ratam esse, neque occulta manifestis prejudicare
+<lb ed="#P" n="120"/>debere confirmat. Quod si quis ad haec dicere 
+vo<lb ed="#P" break="no" n="121"/>luerit quod ille qui spiritualiter Chrisio 
+nupse<lb ed="#P" break="no" n="122"/>runt, non possunt deinceps illo vivente homines
+<lb ed="#P" n="123"/>habere maritos, recte supradicta ratione ejus
+<lb ed="#P" n="124"/>assertio feprobatur. Ad hunc modum Vs ha «xen.
+<!-- 170.png.txt -->
+<pb ed="#P" n="252"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>manifeste falsa sunt, vel occulte vera, unicuique
+<lb ed="#P" n="2"/>secundum suam mensuram sentire licebit. Mihi
+<lb ed="#P" n="3"/>autem hoc magis probabile est si invenire 
+conti<lb ed="#P" break="no" n="4"/>gerit quod et veritatem servat, et auctoritatem
+<lb ed="#P" n="5"/>non improbat, pracipue tanti viri de quo bene
+<lb ed="#P" n="6"/>sentire debemus, etiam tunc quando id quod 
+sen<lb ed="#P" break="no" n="7"/>sit ipse, nos sentire non possumus. Dicamus 
+igi<lb ed="#P" break="no" n="8"/>tur quantum secundum veritatem dicere 
+possu<lb ed="#P" break="no" n="9"/>mus, quod aut secundum tempus hoc dictum est,
+<lb ed="#P" n="10"/>quando ita fleri oportebat, aut secundum eos
+<lb ed="#P" n="11"/>tantum hoc dictum est, qui post occultum votum
+<lb ed="#P" n="12"/>continentie ad experientiam carnis redeunt et
+<lb ed="#P" n="13"/>conjuges flunt, quos idcirco Ecclesia separare
+<lb ed="#P" n="14"/>non potest, quia, cum hic manifestum constet
+<lb ed="#P" n="15"/>factum, quod illic occultum fuit probari non 
+po<lb ed="#P" break="no" n="16"/>test. In quibus tamen temeratae fldei reatus, 
+se<lb ed="#P" break="no" n="17"/>cundum aliquid pejor adulterio dicitur, quia per
+<lb ed="#P" n="18"/>illud in hominem, per hunc vero in Christum
+<lb ed="#P" n="19"/>peccatur. Aliud est autem de illis qui post votum
+<lb ed="#P" n="20"/>etiam professione publica sub testimonio Ecclesiam
+<lb ed="#P" n="21"/>erga Deum se obligaverunt, et forte adhuc, quod
+<lb ed="#P" n="22"/>amplius est, ad sanctimoniam continentiae 
+conse<lb ed="#P" break="no" n="23"/>crati sunt. De quibus vere dicimus, quod post
+<lb ed="#P" n="24"/>tale propositum et tale votum manifesta 
+profes<lb ed="#P" break="no" n="25"/>sione confirmatum, ad conjugale fedus descendere
+<lb ed="#P" n="26"/>non possunt, et si forte hoc aliquando 
+attentave<lb ed="#P" break="no" n="27"/>rint non conjuges, sed fornicarios et spiritualis
+<lb ed="#P" n="28"/>castimonis violatores, ad pristinam propositi sui
+<lb ed="#P" n="29"/>integritatem reparandam et conservandam 
+dis<lb ed="#P" break="no" n="30"/>tricte revocandos. Si autem temerario ausu 
+in<lb ed="#P" break="no" n="31"/>co»pto persistere voluerint et illicitam copulam
+<lb ed="#P" n="32"/>quam contra primae professionis debitum inierunt
+<lb ed="#P" n="33"/>deserere contempserint, quasi inobedientes, et
+<lb ed="#P" n="34"/>incestu fornicationis nefande comtaminatos,
+<lb ed="#P" n="35"/>juste severitatis sententia ab Ecclesie 
+commu<lb ed="#P" break="no" n="36"/>nione praecidendos, neque ullatenus ad 
+pceeniten<lb ed="#P" break="no" n="37"/>tiam recipiendos, nisi se ab hujus infamis 
+socie<lb ed="#P" break="no" n="38"/>tatis conversatione retraxerint. Et hoc est 
+fortas<lb ed="#P" break="no" n="39"/>sis quod sibi volunt verba illa cunctis pene pro
+<lb ed="#P" n="40"/>sui ambiguitate jam nota. Innocentius enim papa,
+<lb ed="#P" n="41"/>cujus auctoritas in Ecclesia Christi celebris est,
+<lb ed="#P" n="42"/>sic dioit : Quae Christo, inquit, spiritualiter 
+nu<lb ed="#P" break="no" n="43"/>bunt, et a sacerdote velantur, si publice 
+nupse<lb ed="#P" break="no" n="44"/>rint, vel clanculo corrupte fuerint, non eas
+<lb ed="#P" n="45"/>admittendas ad agendam pcenitentiam, nisi is
+<lb ed="#P" n="46"/>cui se junxerant ab hac vita discesserit. Si enim D
+<lb ed="#P" n="47"/>haec ratio in hominibus, servatur, ut quae dimisso
+<lb ed="#P" n="48"/>viro suo ad alium transiverit, adultera habeatur
+<lb ed="#P" n="49"/>nec ei agendae poenitentia locus concedatur, nisi
+<lb ed="#P" n="50"/>alter defunctus fuerit, quanto magis etiam ea
+<lb ed="#P" n="51"/>se immortali sponso junxerat! Non ent ergo
+<lb ed="#P" n="52"/>dubium quin de illis hic agatur, quae in proposito
+<lb ed="#P" n="53"/>continentie sub manifesta etiam professione ad
+<lb ed="#P" n="54"/>castimoniam conservandam consecrate sunt. De
+<lb ed="#P" n="55"/>his ergo dicunt quod si post tale propositum ad
+<lb ed="#P" n="56"/>nuptias carnales transierint, ad poenitentiam non
+<lb ed="#P" n="57"/>sint ad mittendae niei is cui se junxerant, id est
+<lb ed="#P" n="58"/>fornicator sive adulter, ab hac vita, id est a tali
+<lb ed="#P" n="59"/>conversatione discesserit. In eo enim statu 
+poni<lb ed="#P" break="no" n="60"/>tentiam agere non possunt, in quo quandiu 
+per<lb ed="#P" break="no" n="61"/>manserint salvari non possunt. Quidam eum cui
+<lb ed="#P" n="62"/>se junxerant, Christum interpretari volunt, cui
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>prius proposito continentiae se voverunt, et quasi
+<lb ed="#P" n="64"/>sub conditione dictum sit quia secundus ad quem
+<lb ed="#P" n="65"/>transeunt legitimus non judicatur, nisi prius ille
+<lb ed="#P" n="66"/>cui ante se junxerant moriatur. Si enim in 
+homi<lb ed="#P" break="no" n="67"/>nibus haec ratio servatur, ut quandiu prior vivit,
+<lb ed="#P" n="68"/>secundus legitimus esse non possit, constat 
+pro<lb ed="#P" break="no" n="69"/>fecto, quod ubi prior omnino mori non potest,
+<lb ed="#P" n="70"/>secundus nulla ratione legitimus esse potest. Et
+<lb ed="#P" n="71"/>ad hunc modum hac qualicunque ratione 
+proba<lb ed="#P" break="no" n="72"/>tur quod hae quae cum professione continentis
+<lb ed="#P" n="73"/>sponsae Christi consecratae sunt, amplius ad 
+car<lb ed="#P" break="no" n="74"/>nales nuptias transire non possunt. Et est in ista
+<lb ed="#P" n="75"/>utique probatione non quidem per omnia ratio
+<lb ed="#P" n="76"/>cogens, sed ad aliquid similitudo conveniens qua
+<lb ed="#P" n="77"/>docentur sponse Christi, quod si in toro carnali
+<lb ed="#P" n="78"/>B tanta fides exigitur, multo major devotio et amor
+<lb ed="#P" n="79"/>sincerior spirituali debetur. Sunt qui haec ad 
+ter<lb ed="#P" break="no" n="80"/>rorem dicta esse putant, alii ad publicam 
+poeni<lb ed="#P" break="no" n="81"/>tentiam referunt, quae propter rigorem ad 
+incu<lb ed="#P" break="no" n="82"/>tiendum timorem aliquando neganda videtur, ut,
+<lb ed="#P" n="83"/>dum peccator secundum dispensationem foris 
+re<lb ed="#P" break="no" n="84"/>pellitur, et instantibus timor cadendi et in 
+jacen<lb ed="#P" break="no" n="85"/>tibus humilitas resurgendi augeatur. Ego nihil
+<lb ed="#P" n="86"/>abjicio ex iis quae veritati contraria non sunt.
+<lb ed="#P" n="87"/>Dicatur quodlibet dum non credatur nisi quod
+<lb ed="#P" n="88"/>licet. Summa haec est. Quod si quis post votum
+<lb ed="#P" n="89"/>eontinentiae factum ad carnales nuptias transierit;
+<lb ed="#P" n="90"/>8i quidem occultum fuerit votum ejas, non potest
+<lb ed="#P" n="91"/>illum prohibere Ecclesia quin nubat. Et si postea
+<lb ed="#P" n="92"/>facti poeniteat, Ecclesia neque de occultis 
+pceni<lb ed="#P" break="no" n="93"/>C tentem a consilio salutis repellere, neque propter
+<lb ed="#P" n="94"/>occulta, ea quc manifesta sunt dissolvere potest.
+<lb ed="#P" n="95"/>Si autem ii qui propositum suum publica 
+profes<lb ed="#P" break="no" n="96"/>sione et voto firmaverunt, deinde voluerint ad
+<lb ed="#P" n="97"/>carnalis feederis jura transire, nullatenus eos
+<lb ed="#P" n="98"/>Ecclesia permittit; et si forte presumserint ea
+<lb ed="#P" n="99"/>contra propositi ac professionis sus puritatem
+<lb ed="#P" n="100"/>inire, quasi illegitima et a sanctitate conjugii
+<lb ed="#P" n="101"/>aliena debita districtione dissolvit. Sic. Ecclesia
+<lb ed="#P" n="102"/>tenet. Sic nos tenere debemus, et qui Ecclesi:
+<lb ed="#P" n="103"/>instituta sequimur, et salubre esse credimus 
+quid<lb ed="#P" break="no" n="104"/>quid Spiritu Dei dictante ab illa fuerit institutum
+<lb ed="#P" n="105"/>et dignum reverentia judicatum;et etiam si aliis
+<lb ed="#P" n="106"/>temporibus aliquando non ita fuisse et nunc 
+ali<lb ed="#P" break="no" n="107"/>ter esse quam fuit, demonstretur : non tamen 
+co<lb ed="#P" break="no" n="108"/>gitare debemus quasi levitate aliqua factum sit,
+<lb ed="#P" n="109"/>ut nunc aliter teneatur, et aliter institutum sit
+<lb ed="#P" n="110"/>quam fuit, sed quod tunc oportebat et ita salubre
+<lb ed="#P" n="111"/>fuit, ut sic teneretur et sic juberetur ; nunc autem
+<lb ed="#P" n="112"/>alia esse tempora et aliud esse congruum sive
+<lb ed="#P" n="113"/>necessarium saluti humani.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g44629-Dd1e3591">
+               <head xml:id="hsvhsv-g44629-Hd1e3593">Capitulum 13</head>
+               <head xml:id="hsvhsv-g44629-Hd1e3595" type="question-title"/>
+               <p xml:id="hsvhsv-g44629-d1e3597">
+                  <lb ed="#P" n="114"/>Cap. XIII. De conjugio infidelium.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e3602">
+                  <lb ed="#P" n="115"/>Quidam putant pagnorum sive quorumlibet 
+in<lb ed="#P" break="no" n="116"/>fidelium societatem conjugium non esse, 
+quam<lb ed="#P" break="no" n="117"/>vis secundum modum institutionis divine 
+legi<lb ed="#P" break="no" n="118"/>time facta fuerit. Dicunt enim quod legitimum
+<lb ed="#P" n="119"/>dici non debet quod sine fide factum est. Sed 
+mi<lb ed="#P" break="no" n="120"/>hi interim non ocarrit ratio aliqua quomodo 
+pro<lb ed="#P" break="no" n="121"/>bare possint infidelium societatem secundum 
+di<lb ed="#P" break="no" n="122"/>vinam institutionem factam, conjugium non esse,
+<!-- 171.png.txt -->
+<pb ed="#P" n="253"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>nisi forte similiter dicere velint baptismi 
+sacramen<lb ed="#P" break="no" n="2"/>tum non esse; quod hzreticus dat vel accipit, quia
+<lb ed="#P" n="3"/>fidelisnon estnequeillequi datnequeillequi accipit
+<lb ed="#P" n="4"/>Et hacratione contendant sacramenta Dei non 
+pos<lb ed="#P" break="no" n="5"/>8e ad infidelium participationem venire, si 
+sacra<lb ed="#P" break="no" n="6"/>mentum conjugii habere infideles aon possunt ;
+<lb ed="#P" n="7"/>aut solum conjugii sacramentum caeteris 
+omni<lb ed="#P" break="no" n="8"/>bus excellentius esse dicendum, si hoc solum 
+ex<lb ed="#P" break="no" n="9"/>tra fidem participari non potest. Baptismi 
+sacra<lb ed="#P" break="no" n="10"/>mentum infidelis habere potest, conjugii 
+sacra<lb ed="#P" break="no" n="11"/>mentum infidelis habere non potest ; ergo 
+baptis<lb ed="#P" break="no" n="12"/>mi sacramentum, in quo specialiter signaculum
+<lb ed="#P" n="13"/>fidei est, infidelis habere potest et conjugii
+<lb ed="#P" n="14"/>sacramentum, quod non tam fldei signum est
+<lb ed="#P" n="15"/>quam nature, non tam virtutis judicium quam
+<lb ed="#P" n="16"/>propagationis instrumentum, seque fidelis et 
+in<lb ed="#P" break="no" n="17"/>fidelis habere non potest. Sed baptismi, inquiunt
+<lb ed="#P" n="18"/>sacramentum quando infidelis accepit, ideo 
+acce<lb ed="#P" break="no" n="19"/>pit, quia et si in alio infidelis fuit, ipsum tamen
+<lb ed="#P" n="20"/>sacramentum secundum rectam fidei formam 
+ac<lb ed="#P" break="no" n="21"/>cepit. Alioquin nisi illud secundum rectam fldei
+<lb ed="#P" n="22"/>formam accepisset, non utique accepisset sive 
+fl<lb ed="#P" break="no" n="23"/>delis sive infidelis fuisset. Itaque quia in hoc 
+ac<lb ed="#P" break="no" n="24"/>cipiendo fidei contrarius non fuit, accipere illud
+<lb ed="#P" n="25"/>potuit, quamvis secundum aliud fidelis non fuit.
+<lb ed="#P" n="26"/>Et ego dico quod quando infidelis uxorem 
+prop<lb ed="#P" break="no" n="27"/>ter propagationem filiorum ducit, fldem toro 
+con<lb ed="#P" break="no" n="28"/>jugali servat, sociam diligit et custodit, et illa 
+vi<lb ed="#P" break="no" n="29"/>vente ad alienam societatem non transit: 
+quam<lb ed="#P" break="no" n="30"/>vis in alio infidelis sit, quia scilicet non credit, in
+<lb ed="#P" n="31"/>hoc tamen neque contra fidem neque contra 
+divi<lb ed="#P" break="no" n="32"/>nam institutionem facit. Sed auctoritas, inquiunt,
+<lb ed="#P" n="33"/>dicit hujusmodi conjugia vera nonesse. Ideo dicit
+<lb ed="#P" n="34"/>quia omnia quae praeter fidem sunt, et si vera sunt
+<lb ed="#P" n="35"/>"ad speciem, non sunt vera ad salutem ; et si vera
+<lb ed="#P" n="36"/>sunt ad formam sacramenti, ad effectum tamen
+<lb ed="#P" n="37"/>virtutis et gratie spiritualis vera uon sunt. Sic et
+<lb ed="#P" n="38"/>de quibusdam aliis sacramentis dictum est, quod
+<lb ed="#P" n="39"/>vera non sunt quando ab infidelibus 
+participan<lb ed="#P" break="no" n="40"/>tur. Nec solum ab infidelibus, sed etiam a 
+fideli<lb ed="#P" break="no" n="41"/>bus pravis et perverse agentibus indigne 
+contrec<lb ed="#P" break="no" n="42"/>tantur. De ipso sacramento corporis Christi dicit
+<lb ed="#P" n="43"/>auctoritas, quod non est verum corpus Christi
+<lb ed="#P" n="44"/>quod conficit schismaticus. Et iterum alia 
+aucto<lb ed="#P" break="no" n="45"/>ritas dicit quod errant qui corpus Christi verba
+<lb ed="#P" n="46"/>sacerdotis facere putant, et non vitam, et multa
+<lb ed="#P" n="47"/>ad hunc modum dictainveniuntur. Et dignum est
+<lb ed="#P" n="48"/>ut dicta sanctorum quantum possumus per 
+om<lb ed="#P" break="no" n="49"/>nia veneremur ; et credamus verum esse quod 
+no<lb ed="#P" break="no" n="50"/>bis ab illis dictum est, in quibus et per quos 
+lo<lb ed="#P" break="no" n="51"/>cutus est Spiritus veritatis. Itaque dicimus 
+veri<lb ed="#P" break="no" n="52"/>tatem sacramentorum Dei duplicem esse : aliam
+<lb ed="#P" n="53"/>scilicet in sanctificatione sacramenti, aliam in 
+ef<lb ed="#P" break="no" n="54"/>fectu spirituali. Dicitur enim veritas 
+sacramen<lb ed="#P" break="no" n="55"/>torum virtus et gratia spiritualis quae in ipsis et
+<lb ed="#P" n="56"/>per ipsa sacramenta percipitur, quam veritatem
+<lb ed="#P" n="57"/>accipere non possunt qui sacramenta Dei indigne
+<lb ed="#P" n="58"/>percipiunt. Secundum itaque hunc modum sacra
+<lb ed="#P" n="59"/>Scriptura aliquioties dicit, quod sacramenta Dei
+<lb ed="#P" n="60"/>illis vera non sunt qui ea indigne percipiunt, pro
+<lb ed="#P" n="61"/>eo quod sola exterius sacramenta contrectando ad
+<lb ed="#P" n="62"/>veritatem illorum quae in gratia spirituali cons-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>tant, non pertingunt. Sic itaque sacramenta Dei et
+<lb ed="#P" n="64"/>in severa sunt semper quantum ad eam quae per
+<lb ed="#P" n="65"/>verbum Dei fit sanctificationem ; et indigne 
+trac<lb ed="#P" break="no" n="66"/>tantibus ac percipientibus vera non sunt, 
+quan<lb ed="#P" break="no" n="67"/>tum siclicet pertinet ad eam qui in ipsis 
+perci<lb ed="#P" break="no" n="68"/>pitur gratis spiritualis participationem. Ita ergo
+<lb ed="#P" n="69"/>verum Christi corpus non est quod conficit 
+schis<lb ed="#P" break="no" n="70"/>maticus, quia, cum corpus Christi sacramentum
+<lb ed="#P" n="71"/>sit unitatis, in ipso utique schismaticus sibi 
+uni<lb ed="#P" break="no" n="72"/>tatem non conficit qui se ab ipsa unitate dividit.
+<lb ed="#P" n="73"/>Simili modo qui putant sola verba sacerdotis ad
+<lb ed="#P" n="74"/>corporis Christi consecrationem sufficere, et non
+<lb ed="#P" n="75"/>etiam vitam et conversationem bonam illius 
+ne<lb ed="#P" break="no" n="76"/>cessariam esse ad hoc ut illi fiat, et ad utilitatem
+<lb ed="#P" n="77"/>illius fiat quod per illum sit sacramentum Dei.
+<lb ed="#P" n="78"/>Qui hoc scilicet putant, errant ; quia sacramenta.
+<lb ed="#P" n="79"/>Dei et carnes Agni in peccato permanentes non
+<lb ed="#P" n="80"/>sanctiflcant, quamvia per illorum ministerium ad
+<lb ed="#P" n="81"/>aliorum sanctificationem sacramenta flant. Sic
+<lb ed="#P" n="82"/>ergo dicimus et de conjugii sacramento ; quia 
+se<lb ed="#P" break="no" n="83"/>cundum aliquid apud illos recte verum sive 
+ra<lb ed="#P" break="no" n="84"/>tum sive sanctum non esse dicitur, qui solum 
+sa<lb ed="#P" break="no" n="85"/>cramentum habentes vel non recte credendo vel
+<lb ed="#P" n="86"/>prave vivendo veritatem ejus, hoc est virtutem
+<lb ed="#P" n="87"/>et effectum spiritualem accipere non merentur.
+<lb ed="#P" n="88"/>Dicit beatus Augustinus quod sacramentum
+<lb ed="#P" n="89"/>conjugii omnibus gentibus commune est ; 
+sancti<lb ed="#P" break="no" n="90"/>tas autem sacramenti non est nisi in civitate Dei
+<lb ed="#P" n="91"/>nostri et in monte sancto ejus. Item : Cum 
+Evan<lb ed="#P" break="no" n="92"/>gelium ccpit praedicari, primum gentiles 
+gentili<lb ed="#P" break="no" n="93"/>bus conjunctos invenit conjuges. Item : Si 
+Domi<lb ed="#P" break="no" n="94"/>nus dimittende conjugis solam causam 
+fornica<lb ed="#P" break="no" n="95"/>tionis admittit et pagaum conjugium dimitti 
+pro<lb ed="#P" break="no" n="96"/>hibet (Matth. v). consequens est ut paganismus
+<lb ed="#P" n="97"/>non subjaceat fornicationi. Quid est ergo, 
+in<lb ed="#P" break="no" n="98"/>quiunt, quod beatus Ambrosius dicit: Non est
+<lb ed="#P" n="99"/>ratum conjugium prster Deum ; et ideo non est
+<lb ed="#P" n="100"/>peccatum dimissio propter Deum si aliis 
+copule<lb ed="#P" break="no" n="101"/>tur? Item beatus Gregorius dicit : Dimissio 
+prop<lb ed="#P" break="no" n="102"/>ter Deum non est peccatum si alii conujngatur.
+<lb ed="#P" n="103"/>Injuria enim Creatoris solvit jus matrimonii. Sed
+<lb ed="#P" n="104"/>videte quomodo probatur conjugium non esse
+<lb ed="#P" n="105"/>ejusmodi : quia, inquit, dictum est: Non est 
+ra<lb ed="#P" break="no" n="106"/>tum conjugium praeter Deum ; et quod iterum
+<lb ed="#P" n="107"/>dictum est: Injuria Creatoris solvit jus 
+matrimo<lb ed="#P" break="no" n="108"/>nii. Ideo ergo conjugium esse negavit, quia ratum
+<lb ed="#P" n="109"/>non esse dicit. Et quia injuriam Creatoris 
+solve<lb ed="#P" break="no" n="110"/>re dixit jus matrimonii. Sed attendite quod in
+<lb ed="#P" n="111"/>hoc potius conjugium esse dixit qui conjugium.
+<lb ed="#P" n="112"/>istnd, sed non ratum affirmavit. Et simili modo
+<lb ed="#P" n="113"/>qui dixit injuriam Creatoris jus matrimonii 
+sol<lb ed="#P" break="no" n="114"/>vere, matrimonium illic esse et jus habere 
+asse<lb ed="#P" break="no" n="115"/>ruit. Quod utique jus firmum staret et. non aine
+<lb ed="#P" n="116"/>peccato negaretur, si non majori causa 
+superve<lb ed="#P" break="no" n="117"/>niente solveretur. Si enim prius nullum jus ibi
+<lb ed="#P" n="118"/>fuitquid necesse erat tantopere excusare eos qui
+<lb ed="#P" n="119"/>se ab illo jure persolvendo subtrax»runt ? Si 
+cul<lb ed="#P" break="no" n="120"/>pandus videbatur etiam ille qui dimissus est, nisi
+<lb ed="#P" n="121"/>per causam majorem excusaretur, quomodo ille
+<lb ed="#P" n="122"/>qui sine causa dimitteret non Jure accusaretur ?
+<lb ed="#P" n="123"/>Nunc autem quia debitum sacramenti coniugs Ma
+<lb ed="#P" n="124"/>verum fuit, sine causa omnino negari non potuit
+<!-- 172.png.txt -->
+<pb ed="#P" n="254"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>Debet enim vir uxori et uxor viro, ut alter ab 
+al<lb ed="#P" break="no" n="2"/>tero non discedat ; et si forte discesserit alter, ille
+<lb ed="#P" n="3"/>qui deseritur, conjugii tamen jus et debitum 
+in<lb ed="#P" break="no" n="4"/>violatum custodiat. Sed est causa Dei major 
+ad<lb ed="#P" break="no" n="5"/>versus quam nulla stare debet causa. Haec cum
+<lb ed="#P" n="6"/>lzeditur, contra eam nulli aliquid debetur. In 
+om<lb ed="#P" break="no" n="7"/>ni causa jus suum perdit qui huic causae 
+adver<lb ed="#P" break="no" n="8"/>satur ; sub illa et secundum illam quaedam 
+debe<lb ed="#P" break="no" n="9"/>mus, contra illam nihil. Dicit tibi uxor tua :
+<lb ed="#P" n="10"/>Christianus factus es, ego te non sequar; quia
+<lb ed="#P" n="11"/>idola non colis, quia parentum tuorum ritum et
+<lb ed="#P" n="12"/>consuetudinem abjecisti, eo ad alium, vel si ad
+<lb ed="#P" n="13"/>alium non eo, tecum jam non eo, non te 
+cognos<lb ed="#P" break="no" n="14"/>co maritum nisi Christum neges. Hic tibi 
+inten<lb ed="#P" break="no" n="15"/>de. Injuria Creatoris jus solvit matrimonii. Nihil
+<lb ed="#P" n="16"/>illi amplius debes. Perdidit jus suum quae 
+Crea<lb ed="#P" break="no" n="17"/>tori suo injuriam fecit. Non tibi licuerat illam
+<lb ed="#P" n="18"/>deserere, si jus suum in te non perdidisset. 
+Po<lb ed="#P" break="no" n="19"/>testatem habuit in corpore tuo, et non tibi licuit
+<lb ed="#P" n="20"/>tollere illi quod suum erat, donec ipsa Creatori
+<lb ed="#P" n="21"/>tollere voluit quod suum erat. Postquam autem
+<lb ed="#P" n="22"/>Creatori suo injuriam facere voluit, jure jus suum
+<lb ed="#P" n="23"/>amisit. Hoc de patre, hoc de matre, hoc de 
+fra<lb ed="#P" break="no" n="24"/>tre et sorore, hoc de filiis et cognatis, hoc 
+deni<lb ed="#P" break="no" n="25"/>que de anima tua facere te oportet. Omnibus
+<lb ed="#P" n="26"/>enim iis aliquid debes; sed pro Deo, non contra
+<lb ed="#P" n="27"/>Deum. Ecce pater tuus aut mater tua aut frater
+<lb ed="#P" n="28"/>aut soror, aut etiam anima tua ex una parte est
+<lb ed="#P" n="29"/>et dicit unus aliquis tibi: Ego hoc amo, hoc 
+ap<lb ed="#P" break="no" n="30"/>peto, ad hoc intendo. Vado ut hoc obtineam, hoc
+<lb ed="#P" n="31"/>acquiram, hoc perficiam. Veni post me, assentire 
+<lb ed="#P" n="32"/>mihi, cooperare voluntati mez, desiderio meo
+<lb ed="#P" n="33"/>fave. Stat Deus tuus ex altera parte, et dicit tibi :
+<lb ed="#P" n="34"/>Ego hoc aversor, detestor malitiam illam, 
+pec<lb ed="#P" break="no" n="35"/>catum illud non mihi placet, noli assensum 
+da<lb ed="#P" break="no" n="36"/>re, malum est, non facias iilud. Ad me potius 
+in<lb ed="#P" break="no" n="37"/>tende, mihi acquiesce, post me veni, sectare quod.
+<lb ed="#P" n="38"/>suadeo, sequere quo praecedo ; clamat econtrario
+<lb ed="#P" n="39"/>tibi pater tuus: Fili quomodo me deseris? Ego
+<lb ed="#P" n="40"/>te genui, ego te in hanc vitam perduxi, ego te
+<lb ed="#P" n="41"/>alui et nutrivi, moribus et disciplina institui. 
+Di<lb ed="#P" break="no" n="42"/>cit econtrario Deus tuus : Ille quidem te genuit,
+<lb ed="#P" n="43"/>sed quando genuit de meo accepit, quod tibi 
+de<lb ed="#P" break="no" n="44"/>dit, substantiam de meo generans tibi 
+ministra<lb ed="#P" break="no" n="45"/>vit, sed vitam generato dare non potuit, ego quod
+<lb ed="#P" n="46"/>tibi de meo a me ministrabatur per illum, solus p 
+<lb ed="#P" n="47"/>vivificavi sine illo, ego tibi dedi vitam tuam : 
+de<lb ed="#P" break="no" n="48"/>di et mortem meam. Non est mortuus propter
+<lb ed="#P" n="49"/>te pater tuus, sicut ego mortuus sum pro te, ut
+<lb ed="#P" n="50"/>tu viveres in me. Non me in causa praecedere 
+de<lb ed="#P" break="no" n="51"/>bet, qui in gratia et beneficio anteire non potuit.
+<lb ed="#P" n="52"/>Non igitur illum audias contra me, non illum 
+se<lb ed="#P" break="no" n="53"/>quaris in eo quod mihi disciplicet. Nihil illi 
+de<lb ed="#P" break="no" n="54"/>bes nisi propter me, a quo nihil accipere potuisse
+<lb ed="#P" n="55"/>nisi datum fuisset a me. Hoc dico : hicintendite.
+<lb ed="#P" n="56"/>Si quando tale aliquid contigerit, sive pater, sive
+<lb ed="#P" n="57"/>mater, sive frater, sive soror, sive uxor, sive filii,
+<lb ed="#P" n="58"/>adhuc amplius dico, etiam si anima nostra aver.
+<lb ed="#P" n="59"/>tere valuerit nos a Deo nostro, non debemus il.
+<lb ed="#P" n="60"/>]am audire nec illam attendere, neque sequi 
+desi<lb ed="#P" break="no" n="61"/>deria illius. Evangelium nobis clamat : Qui non
+<lb ed="#P" n="62"/>dimiserit patrem aut matrem, fratres aut so-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>rores, uxorem et filios ; adhuc autem et 
+ani<lb ed="#P" break="no" n="64"/>mam swam propter me non est me dignus
+<lb ed="#P" n="65"/>(Luc. xiv ; Matth. x). Omnis pietas illic impietas
+<lb ed="#P" n="66"/>est, ubi ad hoc pius sis ut impius efficiaris. 
+Vi<lb ed="#P" break="no" n="67"/>dete ergo quod contra causam Dei nulla causa
+<lb ed="#P" n="68"/>stare potest; imo nec causa etiam est quae illi
+<lb ed="#P" n="69"/>adversatur, quae summa et sola eat. Ad hunc 
+mo<lb ed="#P" break="no" n="70"/>dum dimissio propter Deum non est peccatum, si
+<lb ed="#P" n="71"/>alii adjungitur. Injuria enim Creatoris solvit jus
+<lb ed="#P" n="72"/>matrimonii. S? infidelis discedit, discedat. Non
+<lb ed="#P" n="73"/>est subditus servituti frater in ejusmodi(ICor.
+<lb ed="#P" n="74"/>vir), servituti subditus esset si vel traheretur 
+in<lb ed="#P" break="no" n="75"/>vitus, vel teneretur non voluntarius. Nihil illi 
+de<lb ed="#P" break="no" n="76"/>bet, sive discedat sive maneat ; perdidit jus suum
+<lb ed="#P" n="77"/>qui Creatori injuriam fecit. Si ergo discedit 
+infl<lb ed="#P" break="no" n="78"/>delis, discedat; nihil ad nos : non cogitur fidelis
+<lb ed="#P" n="79"/>quasi aliquo debito obligatus, aut sequi 
+disce<lb ed="#P" break="no" n="80"/>dentem, aut sustinere contemnentem. Non est
+<lb ed="#P" n="81"/>subjectus servituti, liber est ut faciat quod vult,
+<lb ed="#P" n="82"/>tantum in Domino, ducat uxorem si vir ille est ;
+<lb ed="#P" n="83"/>si femina est nubat. Quam vult societatem 
+eli<lb ed="#P" break="no" n="84"/>gat; non jam tenetur debito prioris societatis,
+<lb ed="#P" n="85"/>eujus jus solutum est propter injuriam Creatoris.
+<lb ed="#P" n="86"/>Quae videlicet injuria Creatoris non solum tunc
+<lb ed="#P" n="87"/>excusat fidelem, quando ab infideli propter Deum
+<lb ed="#P" n="88"/>dimissus alteri sine culpa conjungitur; sed tunc
+<lb ed="#P" n="89"/>etiam excusat quando ipse fidelis magis 
+societa<lb ed="#P" break="no" n="90"/>tem fidelem eligens infidelem cohabitare quidem,
+<lb ed="#P" n="91"/>volentem, sed fidem recipere renuentem 
+Chris<lb ed="#P" break="no" n="92"/>tiana devotione detestatur. Sive enim discedat
+<lb ed="#P" n="93"/>sive manere eligat infidelis, nihil debet illi qui
+<lb ed="#P" n="94"/>fidelis factus est. Nemo illum cogere potest quid
+<lb ed="#P" n="95"/>faciat quod velit. Injuria Creatoris solvit jus 
+ma<lb ed="#P" break="no" n="96"/>trimonii. Non potest jam infidelis ab illo 
+quid<lb ed="#P" break="no" n="97"/>quam exigere, quia in illo debitum suum 
+perdi<lb ed="#P" break="no" n="98"/>dit, postquam Creatori id quod debet reddere ^
+<lb ed="#P" n="99"/>contemnit, habet jam fidelis causam qua juste
+<lb ed="#P" n="100"/>negare potest, etiam id quod prius debuit, et quod
+<lb ed="#P" n="101"/>adhuc quidem debuisset, si causam 
+intervenien<lb ed="#P" break="no" n="102"/>tem et debitum ipsum solventem non habuisset.
+<lb ed="#P" n="103"/>Ergoliber est fidelis si socium fidelem eligere
+<lb ed="#P" n="104"/>vult, nemo illum prohibere potest ; tamen si 
+pa<lb ed="#P" break="no" n="105"/>titur fidelem cohabitare volentem, opus 
+perfec<lb ed="#P" break="no" n="106"/>tionis facit, ad lucrandum proximum suum ; sic
+<lb ed="#P" n="107"/>dicit Apostolus : Sanctificatus est vir. infidelis
+<lb ed="#P" n="108"/>per mulierem fidelem ; et iterum mulier 
+fide<lb ed="#P" break="no" n="109"/>lis per virum fidelem (I Cor. vi1). Si ergo fidelis
+<lb ed="#P" n="110"/>infidelem cohabitare consentientem ad hoc 
+pati<lb ed="#P" break="no" n="111"/>tur, ut de infideli faciat fidelem, sive faciat sive
+<lb ed="#P" n="112"/>non faciat, quantum in se est lucratur animam
+<lb ed="#P" n="113"/>fratris sui, et implet opus pietatis. Si autem pati
+<lb ed="#P" n="114"/>non vult detestans infidelitatem ejus, non est 
+ser<lb ed="#P" break="no" n="115"/>vituti subjectus in ejusmodi frater. Nemo illum
+<lb ed="#P" n="116"/>potest cogere si vult quin infldelem deserat, 
+ne<lb ed="#P" break="no" n="117"/>que prohibere etiam si voluerit quin se infideli
+<lb ed="#P" n="118"/>conjungat. In infideli peccatum est qui fidem 
+res<lb ed="#P" break="no" n="119"/>puit, cujus culpa solvit jus matrimonii, ut jam
+<lb ed="#P" n="120"/>exigero jure non possit, quod si exigeretur [a 
+fi<lb ed="#P" break="no" n="121"/>deli] sine injuria negari non posset. Culpa 
+quip<lb ed="#P" break="no" n="122"/>pe infidelis fidelem a debito solvit, sicut 
+econtra<lb ed="#P" break="no" n="123"/>rio justitia fidelis infidelem debito astringit. 
+Ita<lb ed="#P" break="no" n="124"/>que non peccat fidelis si alteri se conjungit, quo-
+<!-- 173.png.txt -->
+<pb ed="#P" n="255"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>a jure matrimonii adversus infidelem 
+solu<lb ed="#P" break="no" n="2"/>1t; sed infidelis etiam derelictus sine culpa
+<lb ed="#P" n="3"/>am societatem non appetit, quem adhuc jus
+<lb ed="#P" n="4"/>monii et debitum conjugalis foederis erga 
+fi<lb ed="#P" break="no" n="5"/>istringit. Ergo non potest adulterius vocari
+<lb ed="#P" n="6"/>3lis alteri conjungitur. Infidelis autem etiam.
+<lb ed="#P" n="7"/>etus crimen adulterii incurrit si alteri 
+copu<lb ed="#P" break="no" n="8"/>Propterea si fidelis etiam ab eo quod licet
+<lb ed="#P" n="9"/>ericulo proximi vitando se temperat, 
+perfec<lb ed="#P" break="no" n="10"/>rpus facit. Ad quod tamen nullatenus cogi
+<lb ed="#P" n="11"/>1; quia non debiti opus est, sed charitatis
+<lb ed="#P" n="12"/>ag, sicut dicit beatus Augustinus in libro De
+<lb ed="#P" n="13"/>arinis conjugiis. Discessionem fidelis ab 
+infi<lb ed="#P" break="no" n="14"/>Jominus non prohibet, quia non est injusta
+<lb ed="#P" n="15"/>1 6o. Sed Apostolus consilio charitatis non
+<lb ed="#P" n="16"/>1 ne dimissi scandalizentur, sed etiam quod
+<lb ed="#P" n="17"/>n aliena conjugia ceciderint adulterinis 
+ne<lb ed="#P" break="no" n="18"/>colligati ; diffücilime ab infldelitate 
+resol<lb ed="#P" break="no" n="19"/>ir. Itaque adulterium committit infidelis si
+<lb ed="#P" n="20"/>se sociat, quia a debito prioris pacti 
+solu<lb ed="#P" break="no" n="21"/>»n eet. Sed dicis.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e4229">
+                  <lb ed="#P" n="22"/>einfidelis vel quicunque paganus sive 
+Ju<lb ed="#P" break="no" n="23"/>Christianus efficitur, uxorem quam prius
+<lb ed="#P" n="24"/>t(quia eum ad fidem sequi non vult) fidei
+<lb ed="#P" n="25"/>ate derelinquit ; aliam fidelem ducit, prior
+<lb ed="#P" n="26"/>etam videns alteri nubit, adulterino nexu
+<lb ed="#P" n="27"/>igans. Contingit postea ut compuncta, 
+infi<lb ed="#P" break="no" n="28"/>tem suam horrere incipiat ad fidem veniat
+<lb ed="#P" n="29"/>Hana efficiatur, quid de hac muliere 
+facien<lb ed="#P" break="no" n="30"/>st ? Continere non potest. Expostulat ab 
+Ec<lb ed="#P" break="no" n="31"/>ut aut virum suum recipiat;aut alteri 
+nube<lb ed="#P" break="no" n="32"/>1eedatur. Quid illi dicet Ecclesia ? Si virum
+<lb ed="#P" n="33"/>; illi reddit, solvit matrimonium, quod 
+Chris<lb ed="#P" break="no" n="34"/>sanctitate firmatum est et adulterum eum
+<lb ed="#P" n="35"/>cum vivente uxore sua (quam fidelis 
+fide<lb ed="#P" break="no" n="36"/>egitime duxit) alteri copulatur, quod 
+omni<lb ed="#P" break="no" n="37"/>ri nonlicet. Ergo non reddit illi maritum
+<lb ed="#P" n="38"/>Eeclesia. Quid igitur illi dicet ? Si dixerit
+<lb ed="#P" n="39"/>; alteri nubat, adulteram eam facere videtur
+<lb ed="#P" n="40"/>1nondum solutam a lege viventis viri cum
+<lb ed="#P" n="41"/>» conjugium copulare concedit. Non igitur
+<lb ed="#P" n="42"/>superesse videtur, nisi ut hanc mulierem 
+Ec<lb ed="#P" break="no" n="43"/>. 8d continentiam servandam cogat, qui; 
+pec<lb ed="#P" break="no" n="44"/>suo obligata videtur, ut nec suum habere
+<lb ed="#P" n="45"/>t, nec alterum. Sed si hoc Ecclesia fecerit,
+<lb ed="#P" n="46"/>agere poteat ut scandalizetur mulier illa, et 
+<lb ed="#P" n="47"/>Christianam abhorrens ad infidelitatem 
+re<lb ed="#P" break="no" n="48"/>tur; alie quoque mulieres sive viri in 
+infi<lb ed="#P" break="no" n="49"/>4e constituti, quarum mariti et quorum 
+uxo<lb ed="#P" break="no" n="50"/>mm ad fidem transierunt, et ipsis derelictis
+<lb ed="#P" n="51"/>aliis fidelibus conjugia inierunt, hoc cognito
+<lb ed="#P" n="52"/>em Christianam venire pertimescant, et 
+sub<lb ed="#P" break="no" n="53"/>tur perditio multorum dum fidem fugiunt,
+<lb ed="#P" n="54"/>xontinentes esse vel nolunt vel non possunt.
+<lb ed="#P" n="55"/>emo si mulier ista post perceptam gratiam
+<lb ed="#P" n="56"/>smi de priori peccato abjudicatur, videtur
+<lb ed="#P" n="57"/>"fecta fuisse gratia ; et non totum quod 
+prae<lb ed="#P" break="no" n="58"/>t in culpalavacro regenerationis ablutum ;
+<lb ed="#P" n="59"/>erum jam esse, quod vetera transierunt et
+<lb ed="#P" n="60"/>facta sunt omnia (II Cor. v). Propter hec
+<lb ed="#P" n="61"/>ita videtur mulier haec postquam fidem 
+per<lb ed="#P" break="no" n="62"/>et sacramentum libertatis et novitatis in-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>duit ut deinceps prioris copulae debito non 
+tenen<lb ed="#P" break="no" n="64"/>tur. Justum est enim ut quam injuria Creatoris
+<lb ed="#P" n="65"/>alligavit, reverentia nunc et fides ejus absolvat.
+<lb ed="#P" n="66"/>Propter hoc non prohibet Ecclesia ejusmodi si
+<lb ed="#P" n="67"/>continentiam servare noluerint cum aliis 
+matri<lb ed="#P" break="no" n="68"/>monio copulari. Potest autem qugri si contingat
+<lb ed="#P" n="69"/>eum qui prior ad fidem venit conjugalem copulam
+<lb ed="#P" n="70"/>non inisse, donec eum alter qui in infidelitate
+<lb ed="#P" n="71"/>remanserat subsequatur, quid Ecclesia de 
+hujus<lb ed="#P" break="no" n="72"/>modi facere debeat. Sed dubium non est tales
+<lb ed="#P" n="73"/>postquam in fide unum facti fuerint si continere
+<lb ed="#P" n="74"/>noluerint in ipsum redire debere, ac denuo 
+Chris<lb ed="#P" break="no" n="75"/>tiana devotione convenire ad prioris matrimonii
+<lb ed="#P" n="76"/>(quod non sine Creatoris institutione inierant) 
+de<lb ed="#P" break="no" n="77"/>bitum persolvendum. Hoc etiam quaeri potest si
+<lb ed="#P" n="78"/>eo qui prior ad fidem venit fideli matrimonio 
+al<lb ed="#P" break="no" n="79"/>ligato ille qui in infidelitate remansit cum illo
+<lb ed="#P" n="80"/>cui se nexu adulterino junxerat ad fidem pariter
+<lb ed="#P" n="81"/>subsequatur, utrum Ecclesia tolerare debent ut,
+<lb ed="#P" n="82"/>post fidem susceptam, simul maneant, qui in 
+in<lb ed="#P" break="no" n="83"/>fidelitate positi male juncti fuerunt. Sed eadem
+<lb ed="#P" n="84"/>gratia interveniente et vetera omnia diluente, 
+ni<lb ed="#P" break="no" n="85"/>hilimpedit quin bene in Christo simul 
+perma<lb ed="#P" break="no" n="86"/>neant, qui extra fidem Christi male sociati 
+fue<lb ed="#P" break="no" n="87"/>runt. De iis etiam quaeri potest qui in infidelitate
+<lb ed="#P" n="88"/>constituti cognatas suas ducunt, aut alias 
+quas<lb ed="#P" break="no" n="89"/>cunque quibus lege Christiana sociari non 
+pote<lb ed="#P" break="no" n="90"/>rant, si forte simul ambo ad fidem veniant, utrum
+<lb ed="#P" n="91"/>Ecclesia ejusmodi copulam tolerare possit. Sed
+<lb ed="#P" n="92"/>alia ratio hic est, quia baptismi gratia culpam
+<lb ed="#P" n="93"/>delet, non naturam. In baptismo quod generis
+<lb ed="#P" n="94"/>est in natura sanctificatur, quod criminis est in
+<lb ed="#P" n="95"/>culpa excusatur. Propterea Christiana religio 
+con<lb ed="#P" break="no" n="96"/>cedere non debet cum ad judicium ejus 
+pervene<lb ed="#P" break="no" n="97"/>rint, quod extraipsam quidem potuit inchoari, sed
+<lb ed="#P" n="98"/>in ipsa non debet tolerari. Haec vero quae supra
+<lb ed="#P" n="99"/>memorata sunt de utroque sexu simili modo 
+pen<lb ed="#P" break="no" n="100"/>sanda sunt, sive scilicet vir mulierem suam, sive
+<lb ed="#P" n="101"/>mulier virum suum in fide Christiana preveniat.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g44629-Dd1e4408">
+               <head xml:id="hsvhsv-g44629-Hd1e4410">Capitulum 14</head>
+               <head xml:id="hsvhsv-g44629-Hd1e4412" type="question-title"/>
+               <p xml:id="hsvhsv-g44629-d1e4414">
+                  <lb ed="#P" n="102"/>Cap. XIV. De consanguinitate et gradibus 
+con<lb ed="#P" break="no" n="103"/>sanguinitatis.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e4421">
+                  <lb ed="#P" n="104"/>Primo gradu, superiori linea, continentur 
+pa<lb ed="#P" break="no" n="105"/>ter et mator. Inferiori, filius et filia. Quibus 
+quo<lb ed="#P" break="no" n="106"/>que nulle ali: persons jungnntur. Secundo 
+gra<lb ed="#P" break="no" n="107"/>du continentur in superiori linea avus et avia.
+<lb ed="#P" n="108"/>In inferiori, nepos et neptis. In transversa, frater
+<lb ed="#P" n="109"/>et soror, qui persons duplicantur. Avus enim et.
+<lb ed="#P" n="110"/>avia tam ex patre, quam ex matre accipiuntur,
+<lb ed="#P" n="111"/>Qus persons subsequentibus quoque gradibus
+<lb ed="#P" n="112"/>similiter pro substantia earum quae in quo gradu
+<lb ed="#P" n="113"/>subsistunt in ipso ordine duplicantur. Iste) 
+per<lb ed="#P" break="no" n="114"/>song in secundo gradu ideo duplices appellantur
+<lb ed="#P" n="115"/>quia duo sunt avi, et paternus, et maternus. Item.
+<lb ed="#P" n="116"/>duo genera nepotum sunt, sive ex filio sive ex 
+fl<lb ed="#P" break="no" n="117"/>lia procreati. Frater et soror ex transverso 
+ve<lb ed="#P" break="no" n="118"/>niunt, id est aut frater patris, aut frater matris,
+<lb ed="#P" n="119"/>qui aut patruus aut avunculus nominantur ; qui
+<lb ed="#P" n="120"/>et ipsi hoc ordine duplicantur. Tertio gradu 
+ve<lb ed="#P" break="no" n="121"/>niunt supra proavus et proavia : infra, pronepos
+<lb ed="#P" n="122"/>et proneptis. Ex obliquo fratris sororisque fllius
+<lb ed="#P" n="123"/>velfilia; patruus, amita, id est patris frater ot
+<lb ed="#P" n="124"/>soror ; avunculus, matertera, matris frater et u-
+<!-- 174.png.txt -->
+<pb ed="#P" n="256"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>ror. Quarto gradu veniunt supraabavus etabavia; 
+<lb ed="#P" n="2"/>infra abnepos et abneptis. Ex obliquo fratris et
+<lb ed="#P" n="3"/>Sororis nepos et neptis ; frater patruelis, et soror
+<lb ed="#P" n="4"/>patruelis, id est. patrui filius vel filia. 
+Consobri<lb ed="#P" break="no" n="5"/>nus, consobrina, id est avunculi et materterae 
+fi<lb ed="#P" break="no" n="6"/>lius vel filia. Amitinus, amitina, id est amitae 
+fi<lb ed="#P" break="no" n="7"/>lius vel filia. Itemque consobrini sunt qui ex 
+dua<lb ed="#P" break="no" n="8"/>bus sororibus nascuntur. Quibus accrescit 
+patru<lb ed="#P" break="no" n="9"/>us magnus, amita magna, id est avi paterni 
+fra<lb ed="#P" break="no" n="10"/>teret soror ; avunculus magnus, matertera 
+ma<lb ed="#P" break="no" n="11"/>gna, id est avie tam paterne quam maternse
+<lb ed="#P" n="12"/>frater et soror. Quinto gradu veniunt supra 
+qui<lb ed="#P" break="no" n="13"/>dem atavus, atavia. Infra adnepos, adneptis. Ex.
+<lb ed="#P" n="14"/>obliquo fratris et sororis pronepos, proneptis ;
+<lb ed="#P" n="15"/>fratris patruelis, sororis patruelis amittini et 
+ami<lb ed="#P" break="no" n="16"/>tinae; consobrini et consobrinae filius vel filia. 
+<lb ed="#P" n="17"/>Proconsobrinus, proconsobrina, id est patrui 
+ma<lb ed="#P" break="no" n="18"/>gni, amit: magna; avunculi magni, matertera
+<lb ed="#P" n="19"/>magn: filius vel filia. Quibus accrescunt 
+propa<lb ed="#P" break="no" n="20"/>truus et proamita, hi sunt proavi paterni frater
+<lb ed="#P" n="21"/>et soror ; proavunculus, promatertera, hi sunt
+<lb ed="#P" n="22"/>proavie paterna maternsmque frater et soror:
+<lb ed="#P" n="23"/>proavique materni. Hzc species nec aliis 
+gradi<lb ed="#P" break="no" n="24"/>bus quam scripta est ; nec aliis vocabulis 
+decla<lb ed="#P" break="no" n="25"/>rari potest. Sexto gradu veniunt supra tritavus,
+<lb ed="#P" n="26"/>tritavia. Infra, trinepos, trineptis. Ex obliquo 
+fra<lb ed="#P" break="no" n="27"/>tris et sororis abnepos, abneptis ; fratris 
+patrue<lb ed="#P" break="no" n="28"/>lis, sororis patruelis, amitini amitinae ; 
+consobri<lb ed="#P" break="no" n="29"/>ni, consobring ; nepos neptis ; patrui magni, 
+ami<lb ed="#P" break="no" n="30"/>tm magne; avunculi magni, matertere magnae
+<lb ed="#P" n="31"/>nepos neptis, propioris consobrini filius vel filia, 
+<lb ed="#P" n="32"/>qui consobrini appellantur. Quibus ex latere 
+ac<lb ed="#P" break="no" n="33"/>crescunt, propatrui proamitae ; proavunculi, 
+pro<lb ed="#P" break="no" n="34"/>materterae filius vel filia : abpatruus, abamita, hi
+<lb ed="#P" n="35"/>sunt abavi paterni frateret soror; abavunculus,
+<lb ed="#P" n="36"/>abmatertera, hi sunt abavie paterne 
+maternsm<lb ed="#P" break="no" n="37"/>que, frater et soror, abavique materni. Hzc 
+quo<lb ed="#P" break="no" n="38"/>que explanari amplius non potest, quam ipse
+<lb ed="#P" n="39"/>auctor disseruit, Septimo gradu qui sunt 
+cogna<lb ed="#P" break="no" n="40"/>ti recta linea supra infraque propriis nominibus
+<lb ed="#P" n="41"/>non appellantur; sed ex transversa linea 
+conti<lb ed="#P" break="no" n="42"/>nentur, fratris, sororis atnepos atneptis ; 
+conso<lb ed="#P" break="no" n="43"/>brini filieque. Successionis idcirco gradus septem
+<lb ed="#P" n="44"/>constituti sunt, quia ulterius per naturam rerum
+<lb ed="#P" n="45"/>nec nomina inveniri, nec vita succedentibus 
+pro<lb ed="#P" break="no" n="46"/>rogari potest. In iis septem gradibus omnia 
+pro<lb ed="#P" break="no" n="47"/>propinquitatum nomina continentur ultra quos
+<lb ed="#P" n="48"/>nec affinitas invenirinec successio potest amplius
+<lb ed="#P" n="49"/>propagari.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e4582">
+                  <lb ed="#P" n="50"/>Quare usque ad sextum yradum 
+consangui<lb ed="#P" break="no" n="51"/>nitas custoditur.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e4590">
+                  <lb ed="#P" n="52"/>Consanguinitas dum se paulatim. propaginum
+<lb ed="#P" n="53"/>ordinibus dirimens usque ad ultimum gradum
+<lb ed="#P" n="54"/>subtraxerit, et propinquitas esse desierit, eam
+<lb ed="#P" n="55"/>rursus lex matrimonii vinculo repetit, et 
+quo<lb ed="#P" break="no" n="56"/>dammodo revocat fugientem. Ideo autem uaque
+<lb ed="#P" n="57"/>ad sextum generis gradum consanguinitas 
+cons<lb ed="#P" break="no" n="58"/>tituta est, ut sicut sex statibus mundi generatio
+<lb ed="#P" n="59"/>et hominis status finitur, ita propinquitas 
+gene<lb ed="#P" break="no" n="60"/>ristot gradibus terminetur hoec modo. Filius et
+<lb ed="#P" n="61"/>filia, quod est frater et soror, sit ipse truncus. 
+Il<lb ed="#P" break="no" n="62"/>lis seorsum sejunctis, ex radice illius trunci egre-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>diuntur isti ramusculi. Nepos et neptis, primus ;
+<lb ed="#P" n="64"/>pronepos et proneptis, secundus ; abnepos et 
+ab<lb ed="#P" break="no" n="65"/>neptis, tertius ; adnepos et adneptis, quartus;
+<lb ed="#P" n="66"/>trinepos et trineptis, quintus ; trinepotis nepos et
+<lb ed="#P" n="67"/>trineptis, neptis sextus.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e4629">
+                  <lb ed="#P" n="68"/>Quomodo sunt compulandi consanguinitatis gradus.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e4634">
+                  <lb ed="#P" n="69"/>Gregorius papa VI: Progeniem suam 
+unum<lb ed="#P" break="no" n="70"/>quemque ad septimam observare decrevimus 
+ge<lb ed="#P" break="no" n="71"/>nerationem ; et quandiu se agnoscunt affinitate
+<lb ed="#P" n="72"/>propinquos ad conjugalem copulam accedere 
+de<lb ed="#P" break="no" n="73"/>negamus. Quod si fecerent, separentur.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e4647">
+                  <lb ed="#P" n="74"/>Alexander episcopus, servus servorum Dei, 
+om<lb ed="#P" break="no" n="75"/>nibus episcopis et clericis, nec non. judicibus per
+<lb ed="#P" n="76"/>Italiam constitutis , salutem et apostolicam
+<lb ed="#P" n="77"/>benedictionem. Ad sedem apostolicam perlata
+<lb ed="#P" n="78"/>est quaestio noviter exorta de gradibus 
+con<lb ed="#P" break="no" n="79"/>sanguinitatis ; quoniam quidam legum et 
+cano<lb ed="#P" break="no" n="80"/>num imperiti eximantes eosdem propinquitatis
+<lb ed="#P" n="81"/>gradus contra sacros canones et ecclesiasticum
+<lb ed="#P" n="82"/>morem numerare nituntur ; novo et inaudito 
+er<lb ed="#P" break="no" n="83"/>rore affirmantes, quod germani fratres vel 
+soro<lb ed="#P" break="no" n="84"/>res inter se sint in secunda generatione, filii 
+eo<lb ed="#P" break="no" n="85"/>rum vel filis in quarta ; nepotes vel neptes 
+eo<lb ed="#P" break="no" n="86"/>rum in sexta: talique modo progeniem 
+compu<lb ed="#P" break="no" n="87"/>tantes et ejusmodi, sexto eam gradu 
+terminan<lb ed="#P" break="no" n="88"/>tes. Dicunt deinceps viros ac mulieres inter se
+<lb ed="#P" n="89"/>posse nuptialia jura contrahere, et ad hujusmodi
+<lb ed="#P" n="90"/>profanum errorem confirmandum in argumento
+<lb ed="#P" n="91"/>assumunt seculares leges quas Justinianus 
+im<lb ed="#P" break="no" n="92"/>perator promulgavit de successionibus 
+consan<lb ed="#P" break="no" n="93"/>guineorum, quibus confisi ostendere moliuntur,
+<lb ed="#P" n="94"/>fratres in secundo gradu esse numeratos, filios
+<lb ed="#P" n="95"/>eorum in quarto, nepotes in sexto. Sic seriem 
+ge<lb ed="#P" break="no" n="96"/>nealogis terminantes, numerationem sanctorum
+<lb ed="#P" n="97"/>Patrum et antiquam Ecclesie computationem 
+us<lb ed="#P" break="no" n="98"/>que ad nos perductam, perversa quadam 
+callidi<lb ed="#P" break="no" n="99"/>tate disturbare nituntur. Nos vero Deo annente
+<lb ed="#P" n="100"/>hanc questionem discutere curavimus in synodo
+<lb ed="#P" n="101"/>habita in Lateranensi consistorio , convocatis ad
+<lb ed="#P" n="102"/>hoc opus episcopis et clericis atque judicibus 
+di<lb ed="#P" break="no" n="103"/>versarum provinciarum. Denique diu ventilatis
+<lb ed="#P" n="104"/>legibus et sacris canonibus, distincte invenimus
+<lb ed="#P" n="105"/>ob aliam atque aliam causam alteram legum, 
+al<lb ed="#P" break="no" n="106"/>teram canonum fleri computationem. In legibus
+<lb ed="#P" n="107"/>siquidem ob nihil aliud ipsorum graduum mentio
+<lb ed="#P" n="108"/>facta est, nisi ut hrreditas vel successio ab una.
+<lb ed="#P" n="109"/>ad alteram personam inter consanguineos 
+defera<lb ed="#P" break="no" n="110"/>tur. Hac igitur de causa quia hereditates 
+ne<lb ed="#P" break="no" n="111"/>queunt deferri nisi de una ad alteram personam,
+<lb ed="#P" n="112"/>ideo curavit s:cularis imperator in singulis 
+per<lb ed="#P" break="no" n="113"/>sonis singulos prefigere gradus. Quia vero 
+nup<lb ed="#P" break="no" n="114"/>tie non valent fleri sine duabus personis, ideo
+<lb ed="#P" n="115"/>sacri canones duas in uno gradu constituunt 
+per<lb ed="#P" break="no" n="116"/>sonas. Jtramque tamen computationem si 
+at<lb ed="#P" break="no" n="117"/>tente ac subtiliter fuerit perspecta idem sensisse
+<lb ed="#P" n="118"/>et eadem esse in sententia atque ad eumdem 
+ter<lb ed="#P" break="no" n="119"/>minum convenire manifestum erit. Justinianus
+<lb ed="#P" n="120"/>namque usque ad quem gradum consanguinitas
+<lb ed="#P" n="121"/>ipsa perduret in suis legibus non definivit. 
+Cano<lb ed="#P" break="no" n="122"/>nes vero ultra septem nullam numeravere 
+gene<lb ed="#P" break="no" n="123"/>rationem. Sexto quippe gradu determinato in 
+ip<lb ed="#P" break="no" n="124"/>Sis legibus subintulit imperator. Hactenus os-
+<!-- 175.png.txt -->
+<pb ed="#P" n="257"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>tendisse sufficiat quemadmodum gradus cogna- A
+<lb ed="#P" n="2"/>tionis numerentur, namque ex iis palam est 
+in<lb ed="#P" break="no" n="3"/>telligere quemadmodum ulteriores gradus 
+nume<lb ed="#P" break="no" n="4"/>rare debeamus. Generata quippe persona gradum
+<lb ed="#P" n="5"/>adjicit. Ecce in iis brevibus verbis aperte 
+osten<lb ed="#P" break="no" n="6"/>ditur tales gradus quales isti computant, non
+<lb ed="#P" n="7"/>tantum usque ad sextum, verum et ultra 
+nume<lb ed="#P" break="no" n="8"/>rari debere, cum ultra sex ulteriores gradus, 
+nume<lb ed="#P" break="no" n="9"/>randosessedecernat. Ubi enim ait ulterioreagradus
+<lb ed="#P" n="10"/>aperte indicat nonsex tantum esse gradus ; sed sex
+<lb ed="#P" n="11"/>finitis adhuc esse alios numerandos. Ut ergo 
+veri<lb ed="#P" break="no" n="12"/>dicse leges sint, et veraces sint canones, dicamus
+<lb ed="#P" n="13"/>hoc quod veritas habet scilicet quod non 
+termi<lb ed="#P" break="no" n="14"/>natur consanguinitas in hujusmodi sexto, et 
+ter<lb ed="#P" break="no" n="15"/>minatur secundum canones in septimo gradu.
+<lb ed="#P" n="16"/>Utraque enim computatio, sicut superius diximus p 
+<lb ed="#P" n="17"/>uno fine concluditur. Namque duo gradus 
+lega<lb ed="#P" break="no" n="18"/>les unum gradum canonicum efficiunt. Fratres
+<lb ed="#P" n="19"/>itaque qui secundum szculares leges dicuntur in
+<lb ed="#P" n="20"/>secundo, juxta canones numerantur in primo;
+<lb ed="#P" n="21"/>filii fratrum, qui illic numerantur in quarto, hic
+<lb ed="#P" n="22"/>computantur in secundo. Nepotes vero qui ubi
+<lb ed="#P" n="23"/>computantur in sexto, istic numerantur in tertio.
+<lb ed="#P" n="24"/>Sic deinceps qui in legibus scribuntur, in octavo
+<lb ed="#P" n="25"/>et in decimo, in canonibus definiuntur in quarto
+<lb ed="#P" n="26"/>et in quinto. Atque hoc modo de reliquis 
+sentien<lb ed="#P" break="no" n="27"/>dum est ut qui secundum canones dicuntur in
+<lb ed="#P" n="28"/>sexto vel in septimo, secundum leges accipiantur
+<lb ed="#P" n="29"/>in duodecimo vel quarto decimo. Nam in septem
+<lb ed="#P" n="30"/>gradibus sicanoniceet usualiter numerantur, 
+om<lb ed="#P" break="no" n="31"/>nia propinquitatem nomina continentur, ultraquos
+<lb ed="#P" n="32"/>nec consanguinitas invenitur, nec nomina 
+repe<lb ed="#P" break="no" n="33"/>riuntur, nec successio potest amplius praerogari,
+<lb ed="#P" n="34"/>nec meroriter ab aliqua geueratione recordari.
+<lb ed="#P" n="35"/>Ne vero in hac computatione consanguinitatis 
+ali<lb ed="#P" break="no" n="36"/>qua dehinc valeat ambiguitas remanere, aliam
+<lb ed="#P" n="37"/>quam quidam faciunt numerationem in hacetiam
+<lb ed="#P" n="38"/>disputatione duximus finiendam. Sunt enim 
+qui<lb ed="#P" break="no" n="39"/>dam qui non a fratribus sed a filiis eorum, id est
+<lb ed="#P" n="40"/>patruelibus vel consobrinis genealogiam 
+nume<lb ed="#P" break="no" n="41"/>rare incipiunt dicentes fllios fratrum in primm
+<lb ed="#P" n="42"/>computari generatione debere, quia fratres quasi
+<lb ed="#P" n="43"/>quidam truncus ex. quo ceteri ramusculi 
+oriun<lb ed="#P" break="no" n="44"/>tur existunt. Sed nec ista graduum computatio si
+<lb ed="#P" n="45"/>bene intellecta fuerit, ab ea quam superius 
+ex<lb ed="#P" break="no" n="46"/>posuimus in sententia poterit esse diversa.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e4866">
+                  <lb ed="#P" n="47"/>Libro tertio Institutionum, sezto capitulo, de
+<lb ed="#P" n="48"/>gradibus cognationis.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e4873">
+                  <lb ed="#P" n="49"/>Hoc loco necessarium est exponere 
+quemadmo<lb ed="#P" break="no" n="50"/>dum gradus cognationis numerentur. Quare in
+<lb ed="#P" n="51"/>primis admonendi sumus cognationem aliam 
+su<lb ed="#P" break="no" n="52"/>pra numerari, aliam infra, aliam ex transverso,
+<lb ed="#P" n="53"/>qus etiam ex latere dicitur. Superior cognatio est.
+<lb ed="#P" n="54"/>parentum, inferior liberorum ; ex transverso '
+ra<lb ed="#P" break="no" n="55"/>trum, sororum eorumve qui vel quae ex iis 
+proge<lb ed="#P" break="no" n="56"/>nerantur, et consequenter patrui, amitz, avunculi,
+<lb ed="#P" n="57"/>materterz. Et superior quidem et inferior 
+cogna<lb ed="#P" break="no" n="58"/>tio a primo gradu incipit. At ea quae ex transverso
+<lb ed="#P" n="59"/>numeratur a secundo. l'rimo gradu est supra 
+pa<lb ed="#P" break="no" n="60"/>ter, mater : infra filius, filia. Secundo, supra avus,
+<lb ed="#P" n="61"/>avia; infra nepos, ueptis; ex transverso, frater et
+<lb ed="#P" n="62"/>soror. Tertio, supra proavus, proavia, infra pro-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>nepos proneptis ; ex tranverso fratis sororisque,
+<lb ed="#P" n="64"/>filius filia. Et consequenter patruus, amita; 
+avun<lb ed="#P" break="no" n="65"/>culus, matertera. Patruus est patris frater, quem.
+<lb ed="#P" n="66"/>greci zarpSés * zarpadiAQe vocant. Avunculus
+<lb ed="#P" n="67"/>est matris frater, qui apud eos proprie, prpeir
+<lb ed="#P" n="68"/>appellatur et promiscue $«w dicitur. Amita est
+<lb ed="#P" n="69"/>patris soror, matertera est matris soror, quae ut
+<lb ed="#P" n="70"/>supra patet $u« appellatur. Quarto gradu supra
+<lb ed="#P" n="71"/>abavus, abavia, infra abnepos abneptis. Ex 
+tran<lb ed="#P" break="no" n="72"/>Sverso fratris sororisqueneposneptis, et 
+consequen<lb ed="#P" break="no" n="73"/>ter patruus magnus, amita magna, id est avi 
+fra<lb ed="#P" break="no" n="74"/>ter et soror. Item avuncutus magnus, matertera
+<lb ed="#P" n="75"/>magna, id est aviae frater et soror. Consobrinus,
+<lb ed="#P" n="76"/>consobrina, id est quicunque vel ex fratribus aut
+<lb ed="#P" n="77"/>sororibus progeaerantur. Sed quidam recte 
+conso<lb ed="#P" break="no" n="78"/>brinos eos proprie dici putant, qui ex duabus 
+so<lb ed="#P" break="no" n="79"/>roribus progenerantur, quasi consororinos. Eos
+<lb ed="#P" n="80"/>vero qui ex duobus progenerantur fratibus, 
+pro<lb ed="#P" break="no" n="81"/>prie fratres patrueles vocari. Si autem ex duobus
+<lb ed="#P" n="82"/>fratribus filiae nascerentur, sorores patrueles 
+ap<lb ed="#P" break="no" n="83"/>pellantur. Át eos qui ex fratre et sorore 
+progene<lb ed="#P" break="no" n="84"/>rantur, amitinos proprie dici. Amitie filii 
+conso<lb ed="#P" break="no" n="85"/>brinum te appellant; si fuerit tua amita. Item
+<lb ed="#P" n="86"/>amite tuse filios, tu illos, amitinos. Quinto gradu
+<lb ed="#P" n="87"/>supra atavus, atavia. Infra, abnepos abneptis. Ex
+<lb ed="#P" n="88"/>transverso fratris sororisque pronepos proneptis,
+<lb ed="#P" n="89"/>et consequenter propatruus proamita, id est 
+pro<lb ed="#P" break="no" n="90"/>avi frater et soror ; proavunculus, promatertera,
+<lb ed="#P" n="91"/>id est proavis frater et soror. Item fratris 
+patrue<lb ed="#P" break="no" n="92"/>lis, sororis patruelis, consobrini et consobrinse,
+<lb ed="#P" n="93"/>amitini et. amitinz, filius, filia, propior sobrinus,
+<lb ed="#P" n="94"/>sobrina. Hi sunt patrui magni, amite magne;
+<lb ed="#P" n="95"/>avunculi magni, materterae magne filius, filia. Sexto
+<lb ed="#P" n="96"/>gradu sunt supra, tritavus tritavia, infra trinepos
+<lb ed="#P" n="97"/>trineptis; ex tranverso fratris sororisque abnepos
+<lb ed="#P" n="98"/>abneptis. Et consequenter abpatruus, abamita, id
+<lb ed="#P" n="99"/>est abavi frater et filia. Item sobrini, sobrinz, qui
+<lb ed="#P" n="100"/>quaeve ex fratribus vel sororibus patruelibus vel
+<lb ed="#P" n="101"/>consobrinis vel amitinis progenerantur, filius et
+<lb ed="#P" n="102"/>filia. Hactenus ostendisse sufficiat, 
+quemadmo<lb ed="#P" break="no" n="103"/>dum gradus cognationis numerentur. Namque ex
+<lb ed="#P" n="104"/>iis palam est. intelligere. quemadmodum ulterius
+<lb ed="#P" n="105"/>quoque debemts gradus numerare. Quippe semper
+<lb ed="#P" n="106"/>generata queque persona gradum adjicit, ut 
+lon<lb ed="#P" break="no" n="107"/>ge facilius, sit respondere quoto quisque gradu
+<lb ed="#P" n="108"/>sit quam propria cognationis appellatione 
+quem<lb ed="#P" break="no" n="109"/>que denotare. At agnationis quoque gradus eo
+<lb ed="#P" n="110"/>modo numerantur. Sed qnia magis veritas occu-,
+<lb ed="#P" n="111"/>lata fide quam per aures animis hominum infi,
+<lb ed="#P" n="112"/>tur, ideo necessarium duximus, post 
+narratio<lb ed="#P" break="no" n="113"/>nem graduum etiam eos praesenti libro inscribi,
+<lb ed="#P" n="114"/>quatenus possint et ex auribus, et ex 
+inspec<lb ed="#P" break="no" n="115"/>tione adolescentes perfectissimam doctrinam 
+gra<lb ed="#P" break="no" n="116"/>duum adipisci.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e5026">
+                  <lb ed="#P" n="117"/>Ex epistola Joannis Constantinopolitani
+<lb ed="#P" n="118"/>episcopi.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e5033">
+                  <lb ed="#P" n="119"/>Gregorius papa requisitus ab Augustino 
+Anglo<lb ed="#P" break="no" n="120"/>rüm gentis episcopo quota generatione fidelea 
+de<lb ed="#P" break="no" n="121"/>beant copulari, dispensatorie sic rescribit. 
+Quae<lb ed="#P" break="no" n="122"/>dam lex Romana in republica permittit ut sive
+<lb ed="#P" n="123"/>frateretsoror;siveduorum fratrum germanorum,
+<lb ed="#P" n="124"/>vel duarum sororum filius et filia miscantur,
+<!-- 176.png.txt -->
+<pb ed="#P" n="258"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>sicut experimento didicimus, in tali conjugio 
+so<lb ed="#P" break="no" n="2"/>bolem non posse succrescere. Unde necesse est ut.
+<lb ed="#P" n="3"/>jam quarta vel quinta generatione fideles licenter
+<lb ed="#P" n="4"/>sibi jungantur. Item Joannes dicit : Verum post
+<lb ed="#P" n="5"/>multum temporis a Felice Messanse Sicilie 
+prz<lb ed="#P" break="no" n="6"/>sule requisitus, utrum Augustino scripserit, ut
+<lb ed="#P" n="7"/>Anglorum quarta generatione contracta 
+matri<lb ed="#P" break="no" n="8"/>monia minime solverentur, humillimus pater
+<lb ed="#P" n="9"/>Gregorius intercetera talem dedit rationem. Quod
+<lb ed="#P" n="10"/>Scripsi Augustino gentis Anglorum episcopo,
+<lb ed="#P" n="11"/>alumno videlicet, ut recordaris, tuo, de 
+consan<lb ed="#P" break="no" n="12"/>guinitatis conjunctione ipsi et Anglorum genti
+<lb ed="#P" n="13"/>qui nuper ad fidem venerat, ne a bono quod 
+co<lb ed="#P" break="no" n="14"/>perat metuendo austeriora recederet, specialiter
+<lb ed="#P" n="15"/>non generaliter certissimescripsisse me cognoscas.
+<lb ed="#P" n="16"/>Unde et mihi omnis Romana civitas testis existit;
+<lb ed="#P" n="17"/>necea intentione haec illis scripsi mandata, ut
+<lb ed="#P" n="18"/>postquam firma radice in fidem fuerint solidati,
+<lb ed="#P" n="19"/>si infra propriam consanguinitatem inventi 
+fue<lb ed="#P" break="no" n="20"/>rint, non separentur; aut infra affinitatis lineam,
+<lb ed="#P" n="21"/>id est usque ad septimam generationem 
+jungun<lb ed="#P" break="no" n="22"/>tur. Sed quod adhuc illis neophytis existentibus
+<lb ed="#P" n="23"/>eis primum illicita consentire, et eos verbis et
+<lb ed="#P" n="24"/>exemplis instruere, et quae post de talibus egerint
+<lb ed="#P" n="25"/>rationabiliter et fideliter excludere oportet. Nam
+<lb ed="#P" n="26"/>juxta Apostolum qui ait : Lac dedi vobis potum,
+<lb ed="#P" n="27"/>non escam (1I Cor. 11), ista illis modo, non 
+poste<lb ed="#P" break="no" n="28"/>ris, ut praefixum est, temporibus tenenda 
+indulsi<lb ed="#P" break="no" n="29"/>mus, ne bonum quod infirma adhuc radice 
+plan<lb ed="#P" break="no" n="30"/>tatum erat erueretur, sedaliquantulum firmaretur
+<lb ed="#P" n="31"/>et usque ad perfectionem custodiretur. Hxc ergo
+<lb ed="#P" n="32"/>ego Joannes idcirco perstringenda curavi ut ii
+<lb ed="#P" n="33"/>qui occasione nova dispensationis illicita 
+matri<lb ed="#P" break="no" n="34"/>Tnonia contra hunc eruditissimum virum 
+causan<lb ed="#P" break="no" n="35"/>tur, non generaliter quarte generationis copulam
+<lb ed="#P" n="36"/>censuisse, imo venialiter simulque temporaliter
+<lb ed="#P" n="37"/>permisisse cognoscant.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e5135">
+                  <lb ed="#P" n="38"/>Zacharias papa, capitulo primo.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e5140">
+                  <lb ed="#P" n="39"/>Asserentibus hominibus de Germanie partibus
+<lb ed="#P" n="40"/>didici, quod beats; recordationis papa Gregorius
+<lb ed="#P" n="41"/>dum eosad religionem Christianitatisdivina gratia
+<lb ed="#P" n="42"/>illustraret, licentiam illis dedisset in quarta sese
+<lb ed="#P" n="43"/>copulare generatione, quod quidem Christianis
+<lb ed="#P" n="44"/>licitum non esse, dum utique se cognoverint, sed
+<lb ed="#P" n="45"/>dum rudes erant invitandi ad fidem, quamquam
+<lb ed="#P" n="46"/>minime scriptum reperimus, non ambigamus.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e5160">
+                  <lb ed="#P" n="47"/>Item capitulo quinto.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e5165">
+                  <lb ed="#P" n="48"/>Ut consobrinam, neptem, novercam, fratris
+<lb ed="#P" n="49"/>, uxorem, vel de propria cognatione, vel quam
+<lb ed="#P" n="50"/>cognatus habuit nullus audeat sibi in conjugio
+<lb ed="#P" n="51"/>copulare. Si quis huic tali nefario conjugio 
+con<lb ed="#P" break="no" n="52"/>venerit et in eo permanserit, sciat se apostolice
+<lb ed="#P" n="53"/>auctoritatisanathematis vinculis esse innodatum,
+<lb ed="#P" n="54"/>et nullus sacerdos tribuat ei communionem. Si
+<lb ed="#P" n="55"/>vero conversus divisusque fuerit a tali 
+copula<lb ed="#P" break="no" n="56"/>tione dign: poenitentie submittatur, ut sacerdos
+<lb ed="#P" n="57"/>loci consideraverit.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e5190">
+                  <cb ed="#P" n="b"/>
+                  <lb ed="#P" n="58"/>Decretum Gregorii Junioris.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e5197">
+                  <lb ed="#P" n="59"/>Si quis fratris uxorem duxerit in conjugium,
+<lb ed="#P" n="60"/>anathema sit. Si quis novercam aut nurum suam
+<lb ed="#P" n="61"/>duxerit, anathema sit. Si quis de propria 
+cogna<lb ed="#P" break="no" n="62"/>tione vel quam cognatus habuit duxerit in 
+con<lb ed="#P" break="no" n="63"/>jugium, anathema sit.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e5210">
+                  <lb ed="#P" n="64"/>Beda in Historia Anglorum.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e5215">
+                  <lb ed="#P" n="65"/>Interroganti Augustinoutrum debeant duo 
+ger<lb ed="#P" break="no" n="66"/>mani fratres singulas sorores uxores accipere,
+<lb ed="#P" n="67"/>que sunt ab illis longa progenie generate, 
+res<lb ed="#P" break="no" n="68"/>pondit Gregorius : Hoc fleri omnibus modis licet.
+<lb ed="#P" n="69"/>Nequaquam enim in sacris eloquiis invenitur
+<lb ed="#P" n="70"/>quod huic copulie contradicere videatur.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e5231">
+                  <lb ed="#P" n="71"/>Responsio Gregorii ad Augustinum. (Cap. 37.)
+</p>
+               <p xml:id="hsvhsv-g44629-d1e5236">
+                  <lb ed="#P" n="72"/>Cum noverca misceri grave facinus est, quia in
+<lb ed="#P" n="73"/>lege scriptum est: Turpitudinem patris tui non
+<lb ed="#P" n="74"/>revelabis (Levit. xvi). Nequeenim turpitudinem
+<lb ed="#P" n="75"/>patris filius revelare potest. Sed quia scriptum
+<lb ed="#P" n="76"/>est : Erunt duo in carne una (Gen. 1). Qui 
+tur<lb ed="#P" break="no" n="77"/>pitudinem noverce quae una caro cum patre fuit
+<lb ed="#P" n="78"/>revelare presumpserit, profecto patris 
+turpitudi<lb ed="#P" break="no" n="79"/>nem revelabit. Cum cognita quoque fratri misceri
+<lb ed="#P" n="80"/>prohibitum est, quia per conjunctionem priorem
+<lb ed="#P" n="81"/>caro fratris fuerit facta, pro qua re etiam 
+Joan<lb ed="#P" break="no" n="82"/>nes Baptista capite truncatus, et sancto martyrio
+<lb ed="#P" n="83"/>consummatus est.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g44629-Dd1e5267">
+               <head xml:id="hsvhsv-g44629-Hd1e5269">Capitulum 15</head>
+               <head xml:id="hsvhsv-g44629-Hd1e5271" type="question-title"/>
+               <p xml:id="hsvhsv-g44629-d1e5273">
+                  <lb ed="#P" n="84"/>Cap. XV. De affinitate.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e5278">
+                  <lb ed="#P" n="85"/>Gregorius, servus servorum Dei, Venerio 
+Carta<lb ed="#P" break="no" n="86"/>litano. Fraternitatis tuae studiose sagacitati,
+<lb ed="#P" n="87"/>frater amande, quas debeo refero grates, quoniam
+<lb ed="#P" n="88"/>quaesisti quae debuisti, jucundum me reddidisti.
+<lb ed="#P" n="89"/>Unde placide ad inquisita respondeo. Sedem
+<lb ed="#P" n="90"/>apostolicam consulere decrevisti, si mulier copula
+<lb ed="#P" n="91"/>nuptiali extraneo viro juncta cognationi ejus 
+per<lb ed="#P" break="no" n="92"/>tineat, si eo defuncto cognatio maneat eadem, vel
+<lb ed="#P" n="93"/>8i sub alio viro cognationis vocabula dissolvantur,
+<lb ed="#P" n="94"/>velsi suscepte soboles possint legitime ad prioris
+<lb ed="#P" n="95"/>viri cognationis transire copulam. Est enim 
+ver<lb ed="#P" break="no" n="96"/>bum Domini validum et forte, durabile, 
+perseve<lb ed="#P" break="no" n="97"/>rabile, immutabile, non momentaneum, non 
+tran<lb ed="#P" break="no" n="98"/>Sitorium. Ait autem per seipsam Veritas, quod
+<lb ed="#P" n="99"/>Deus est Verbum Dei. Ceium et terra 
+transi<lb ed="#P" break="no" n="100"/>bunt, verba autem mea non transibunt (Luc.
+<lb ed="#P" n="101"/>xui, Matth. xxiv). Antequam Deus in carne inter
+<lb ed="#P" n="102"/>homines appareret, eo inspirante dixit Adam :
+<lb ed="#P" n="103"/>Quamobrem reliquethomo patrem suum et 
+ma<lb ed="#P" break="no" n="104"/>trem suam, et adharebit uxori suc, et erunt
+<lb ed="#P" n="105"/>duo in carne una (Gen. 1; Matth. 1). Cui non
+<lb ed="#P" n="106"/>contradixit Deus. Denique cum Veritas oriretur
+<lb ed="#P" n="107"/>de terra in terram et visibilis in humanitate 
+ap<lb ed="#P" break="no" n="108"/>paruit, interrogatum est si licitum esset. homini
+<lb ed="#P" n="109"/>uxorem relinquere. Quod prohibens fieri vetuit,
+<lb ed="#P" n="110"/>preterquam si fornicatio sola excluderet copulam
+<lb ed="#P" n="111"/>maritalem. Unde protulit statim inmedium 
+eam<lb ed="#P" break="no" n="112"/>dem ipsam sentientiam quam ante szecula manens
+<lb ed="#P" n="113"/>cum Patre Verbum inspiravit in Adam ipse 
+con<lb ed="#P" break="no" n="114"/>firmans quod ipse homo protulit : Quamobrem
+<lb ed="#P" n="115"/>relinquet homo etc. Si una caro fiunt, quomodo
+<lb ed="#P" n="116"/>poterit aliquis eorum propinquus pertinere uni si
+<lb ed="#P" n="117"/>non pertineat alteri? Quod minime fleri posse 
+cre<lb ed="#P" break="no" n="118"/>dendum est. Nam uno defuncto, in superstite
+<lb ed="#P" n="119"/>affinitas non deletur nec alia copula conjugalis
+<!-- 177.png.txt -->
+<pb ed="#P" n="259"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>affinitatem prioris copulee solvere potest. Sed ne- A
+<lb ed="#P" n="2"/>que alterius conjunctionis sobolem placet ad 
+affi<lb ed="#P" break="no" n="3"/>nitatis ipsius prioris transire consortium, pro eo
+<lb ed="#P" n="4"/>quod verbum Domini validum est et forte, et ut
+<lb ed="#P" n="5"/>inquiens dixit Propheta : Quoniam ipse dixit et
+<lb ed="#P" n="6"/>facta sunt, ipse mandavit et creata sunt. 
+Sta<lb ed="#P" break="no" n="7"/>tuit ea in aeternum, et in seculum seculi 
+pro<lb ed="#P" break="no" n="8"/>ceptum posutt et non prateribit (Psal. cxLvin).
+<lb ed="#P" n="9"/>Non potest per verbum suum atque praeceptum
+<lb ed="#P" n="10"/>efficere duos in carnem unam et masculum et 
+fe<lb ed="#P" break="no" n="11"/>minam, qui innumeram multitudinem sexus
+<lb ed="#P" n="12"/>utriusque non destitit secum facere unum, sicut
+<lb ed="#P" n="13"/>per se Veritas dicit : Non pro iis tantum rogo,
+<lb ed="#P" n="14"/>sed pro iisqui credituri suntper verbum eorum
+<lb ed="#P" n="15"/>in me, ut unum sint sicut tu Pater in me, et
+<lb ed="#P" n="16"/>ego in te; etipsi in nobis unum sint (Joan. xv). B.
+<lb ed="#P" n="17"/>Si quis temerario ausu et sacrilego in defuncto
+<lb ed="#P" n="18"/>quaerit propinquitatem, vel sub altero affinitatis
+<lb ed="#P" n="19"/>vocabula dissipare, vel susceptam sobolem alierius
+<lb ed="#P" n="20"/>copule credens legitime sociari propinquitatis
+<lb ed="#P" n="21"/>prioris; hic negat verbum Dei validum esse vel
+<lb ed="#P" n="22"/>forte. Et qui tam facile vel tam velociter quzrit
+<lb ed="#P" n="23"/>dissolvere, hic non credit verbum Domini manere
+<lb ed="#P" n="24"/>in aeternum. Conspice terram ex quatuor locis
+<lb ed="#P" n="25"/>distantibus magna intercapedine et confectam et
+<lb ed="#P" n="26"/>conglutinatam, finge cujuscunque figurae vel 
+im<lb ed="#P" break="no" n="27"/>mensitatis corpus volueris.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e5421">
+                  <lb ed="#P" n="28"/>Ex concilio Matisconensi.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e5427">
+                  <lb ed="#P" n="29"/>Sane consanguinitas quae in proprio viro 
+obser<lb ed="#P" break="no" n="30"/>vanda est, haec nimirum in uxoris parentela de
+<lb ed="#P" n="31"/>lege nuptiarum custodienda est; quia constat eos (;
+<lb ed="#P" n="32"/>duos fuisse in carne una; communis illis utraque
+<lb ed="#P" n="33"/>parentela esse credenda est, sicut scriptum est :
+<lb ed="#P" n="34"/>Erunt duo in carne una (Gen. 1).
+</p>
+               <p xml:id="hsvhsv-g44629-d1e5443">
+                  <lb ed="#P" n="35"/>Ex concilio Cabjlonensi.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e5448">
+                  <lb ed="#P" n="36"/>Contradicimus quoque ut in quarta vel quinta
+<lb ed="#P" n="37"/>vel sexta generatione nullus amplius conjugio 
+co<lb ed="#P" break="no" n="38"/>puletur. Ubi autem post interdictum factum 
+fue<lb ed="#P" break="no" n="39"/>rit inventum separetur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g44629-Dd1e5460">
+               <head xml:id="hsvhsv-g44629-Hd1e5462">Capitulum 16</head>
+               <head xml:id="hsvhsv-g44629-Hd1e5464" type="question-title"/>
+               <p xml:id="hsvhsv-g44629-d1e5466">
+                  <lb ed="#P" n="40"/>Cap. XVI. De spirituali germanitate. De quo
+<lb ed="#P" n="41"/>Nicolaus Salomoni Constansiensi episcopo.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e5473">
+                  <lb ed="#P" n="42"/>Sciscitatur a nobis sanctitas vestra, si aliquis
+<lb ed="#P" n="43"/>homo, commatres spirituales habere valeat unam.
+<lb ed="#P" n="44"/>post alteram, in quo fraternitas tua meminisse
+<lb ed="#P" n="45"/>debet scriptum esse : Erunt duo in carne una
+<lb ed="#P" n="46"/>(Gen. 11). Itaque cum constet quia vir et uxor una
+<lb ed="#P" n="47"/>caro per connubium efficiuntur, restat . nimirum
+<lb ed="#P" n="48"/>virum compatrem constitui illi mulieri cujus 
+ma<lb ed="#P" break="no" n="49"/>trimonio assumpta uxor commater esse videbatur;
+<lb ed="#P" n="50"/>et liquet idcirco virum illi feminae non posse jungi
+<lb ed="#P" n="51"/>in copula, quae commater erat ejus cum qua idem
+<lb ed="#P" n="52"/>una fuerat caro effectus.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e5499">
+                  <lb ed="#P" n="53"/>Idem Carolo archiepiscopo.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e5505">
+                  <lb ed="#P" n="54"/>Si quis cum commatre spirituali fornicatus 
+fue<lb ed="#P" break="no" n="55"/>rit, anathematis (ut scitis) percutitur ictibus. 
+Si<lb ed="#P" break="no" n="56"/>militer autem et illum percutere promulgamus,
+<lb ed="#P" n="57"/>qui cum ea quam desacro fonte baptismatis 
+sus<lb ed="#P" break="no" n="58"/>ceperit, aut eum illa quam ante episcopum 
+tenue<lb ed="#P" break="no" n="59"/>rit, cum sacro chrismate fuerit uncta, fornicationis
+<lb ed="#P" n="60"/>perpetravit scelus; legitimam tamen, si habuerit,
+<lb ed="#P" n="61"/>non dimittere cogatur uxorem.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e5525">
+                  <cb ed="#P" n="b"/>
+                  <lb ed="#P" n="62"/>Ex concilio Cabilonensi.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e5532">
+                  <lb ed="#P" n="63"/>Dictum est nobis quasdam feminas desidiose,
+<lb ed="#P" n="64"/>quasdam vero fraudulenter ut a viris suis 
+separen<lb ed="#P" break="no" n="65"/>tur proprios filios coram episcopis ad 
+confirman<lb ed="#P" break="no" n="66"/>dumtenuisse. Unde nos dignum duximus, ut si qua
+<lb ed="#P" n="67"/>mulier filium suum desidia aut fraude aliqua
+<lb ed="#P" n="68"/>corum episcopo tenuerit ad confirmandum, 
+pro<lb ed="#P" break="no" n="69"/>pter fallaciam suam aut propter fraudem quandiu
+<lb ed="#P" n="70"/>vivat posmnitentiam agat; a viro tamen suo non
+<lb ed="#P" n="71"/>separetur.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e5554">
+                  <lb ed="#P" n="72"/>Ex concilio Maguntinensi.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e5559">
+                  <lb ed="#P" n="73"/>De eo quod interrogasti, si ille qui filiolam suam
+<lb ed="#P" n="74"/>duxit uxorem, etdeeo qui concubuit cum commatre
+<lb ed="#P" n="75"/>spirituali, et de eo qui filium suum baptizavit, et
+<lb ed="#P" n="76"/>cujus uxor eum de fonte suscepit, ea ratione ut
+<lb ed="#P" n="77"/>dissidium conjugii fleret; si postea in tali 
+copula<lb ed="#P" break="no" n="78"/>tione permanere possent. De talibus sic 
+respon<lb ed="#P" break="no" n="79"/>dendum est. Si filiolam aut commatrem suam
+<lb ed="#P" n="80"/>spiritualem aliquis in conjugio duxerit; 
+separan<lb ed="#P" break="no" n="81"/>dos eos esse judicamus, et gravi poenitentia 
+ple<lb ed="#P" break="no" n="82"/>cendos. Si autem conjuges legitimi unus aut ambo
+<lb ed="#P" n="83"/>ex industria fecerint ut filium suum de fonte 
+su<lb ed="#P" break="no" n="84"/>scipiant, ut dissidium flat, tale consilium damus,
+<lb ed="#P" n="85"/>siiinnupti manere voluerint bonum est; sin autem,
+<lb ed="#P" n="86"/>gravis poenitentia insi diatori injungatur;et simul
+<lb ed="#P" n="87"/>maneant, etsi supervixerit prevaricator conjugii,
+<lb ed="#P" n="88"/>acerrima poenitentia mulctetur, et sine spe 
+con<lb ed="#P" break="no" n="89"/>jugii maneat.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e5598">
+                  <lb ed="#P" n="90"/>De concilio Tiburiensi.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e5604">
+                  <lb ed="#P" n="91"/>Qui spiritualem compatrem habet cujus filium
+<lb ed="#P" n="92"/>vel filiam de lavacro sacri fontis accepit, et ejus
+<lb ed="#P" n="93"/>uxor commater non est, liceat ei defuncto 
+compa<lb ed="#P" break="no" n="94"/>tre suo ejus viduam ducere in uxorem, si nullam.
+<lb ed="#P" n="95"/>habent consanguinitatis propinquitatem. Quid
+<lb ed="#P" n="96"/>enim? Nunquid non possunt conjungi quos nulla
+<lb ed="#P" n="97"/>proximitas carnalis vel in id generatio secernit
+<lb ed="#P" n="98"/>spiritualis? Item simili ratione qui spiritualem
+<lb ed="#P" n="99"/>habet compatrem, gener ejus fieri non prohibetur;
+<lb ed="#P" n="100"/>deilla duntaxat filia quam ipse de sacro fonte
+<lb ed="#P" n="101"/>non suscepit. Spiritualium quoque parentum, id
+<lb ed="#P" n="102"/>est compatrum filii vel filie ante sive post
+<lb ed="#P" n="103"/>compaternitatem geniti, legitime conjungi 
+pos<lb ed="#P" break="no" n="104"/>sunt. Preeter illas quibus compatres exisfunt, quia
+<lb ed="#P" n="105"/>spiritualem filiam patris sui nemo uxorem ducere
+<lb ed="#P" n="106"/>potest, quamvis filium ejus qui compater est 
+pa<lb ed="#P" break="no" n="107"/>tris sui si filiola patris sui non fuit, uxorem 
+acci<lb ed="#P" break="no" n="108"/>pere non prohibeatur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g44629-Dd1e5647">
+               <head xml:id="hsvhsv-g44629-Hd1e5649">Capitulum 17</head>
+               <head xml:id="hsvhsv-g44629-Hd1e5651" type="question-title"/>
+               <p xml:id="hsvhsv-g44629-d1e5653">
+                  <lb ed="#P" n="109"/>Cap. XVII. Quid distet inter cognationem sive
+<lb ed="#P" n="110"/>consanguinitatem et affinitatem, et 
+spiritua<lb ed="#P" break="no" n="111"/>lem germanitatem.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e5662">
+                  <lb ed="#P" n="112"/>Tria quaedam sunt, id est consanguinitas, 
+affi<lb ed="#P" break="no" n="113"/>nitas et spiritualisgermanitas;in quibus 
+Christia<lb ed="#P" break="no" n="114"/>norum conjugio lex indicta est. Consanguinitas
+<lb ed="#P" n="115"/>est inter eos qui junguntur secundum lineam 
+ge<lb ed="#P" break="no" n="116"/>neris. Affinitas est inter eos qui genere quidem
+<lb ed="#P" n="117"/>juncti non sunt, et tamen mediante genere sunt
+<lb ed="#P" n="118"/>sociati. Verbi grati : Filius fratris mei 
+consangui<lb ed="#P" break="no" n="119"/>neus meus est; uxor ejus quae de meo genere non
+<lb ed="#P" n="120"/>est, per ipsum qui est de genere meo affinie mihi
+<lb ed="#P" n="121"/>facta est, et ego illi. Qui ergo de aliena cognatione
+<lb ed="#P" n="122"/>uxorem ducit, cognatos suos illi affines facit, et
+<lb ed="#P" n="123"/>est inter mulierem et cognatos viri, sive inter vi-
+<!-- 178.png.txt -->
+<pb ed="#P" n="260"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>rum et cognatos mulieris non quidem 
+consangui<lb ed="#P" break="no" n="2"/>nitas, sed affinitas, in qua similiter ut in 
+consan<lb ed="#P" break="no" n="3"/>guinitate contractus matrimonii prohibetur. In
+<lb ed="#P" n="4"/>consanguinitate usque ad septimum gradum 
+con<lb ed="#P" break="no" n="5"/>jugia vetita sunt. Quedam tamen Scripture in
+<lb ed="#P" n="6"/>sexto gradu, quaedam vero in septimo 
+prohibitio<lb ed="#P" break="no" n="7"/>nemterminare videntur. Ambigua estenim locutio
+<lb ed="#P" n="8"/>cum dicitur, quod usque ad septimum gradum
+<lb ed="#P" n="9"/>conjugia copulari non permittuntur. Potest enim
+<lb ed="#P" n="10"/>et sic intelligi, quod usque ad septimum quidem
+<lb ed="#P" n="11"/>gradum prohibentur, sed in septimo conceduntur,
+<lb ed="#P" n="12"/>vel quod septimus gradus ultimus est, in quo 
+pro<lb ed="#P" break="no" n="13"/>hibentur; et post quem permittuntur. Quidam
+<lb ed="#P" n="14"/>primo gradu posuerunt fllios; secundo, nepotes ;
+<lb ed="#P" n="15"/>tertio, pronepotes; quarto, abnepotes; quinto,
+<lb ed="#P" n="16"/>abnepotes; sexto, trinepotes; septimo, trinepotum
+<lb ed="#P" n="17"/>nepotes. In hunc modum septem gradus in 
+prohi<lb ed="#P" break="no" n="18"/>bitione continentur. Qui autem patrem et matrem
+<lb ed="#P" n="19"/>radicem generationis esse dicunt, filium 
+autemetfi<lb ed="#P" break="no" n="20"/>liam quasi truncum generationis constituunt; isti
+<lb ed="#P" n="21"/>in nepotibus primum gradum computandum 
+cen<lb ed="#P" break="no" n="22"/>sent, secundum quam acceptionem ille gradus qui
+<lb ed="#P" n="23"/>in superiori dispositione septimus fuit; in 
+hacsex<lb ed="#P" break="no" n="24"/>tus esseostenditur. Gradus 
+consanguinitatisquan<lb ed="#P" break="no" n="25"/>tumvis tendatur sursum et deorsum, copulam 
+con<lb ed="#P" break="no" n="26"/>jugalem non admittit, sicut de filio ad matrem et.
+<lb ed="#P" n="27"/>omnes qui supra sunt, hoc est aviam proaviam,
+<lb ed="#P" n="28"/>etc., et de matre ad filium; et omnes qui infra
+<lb ed="#P" n="29"/>sunt. Hoc est nepotem pronepotem, etc. Similiter
+<lb ed="#P" n="30"/>de patre ad filiam, vel de filia ad patrem supra et
+<lb ed="#P" n="31"/>infra consideratur. Quapropter inter eos qui a
+<lb ed="#P" n="32"/>latere descendunt, gradus consanguinitatis in 
+ma<lb ed="#P" break="no" n="33"/>trimonio computantur. Quidam affinitatem quinto
+<lb ed="#P" n="34"/>gradu terminare voluerunt. Alii usque ad 
+septi<lb ed="#P" break="no" n="35"/>mumsicut et consanguinitatem observandam esse
+<lb ed="#P" n="36"/>judicaverunt. Spiritualis autem germanitas sive
+<lb ed="#P" n="37"/>propinquitas hoc modo custoditur. Nemo 
+comma<lb ed="#P" break="no" n="38"/>trem aut filiam spiritualem uxorem ducere potest.
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="39"/>Simili modo mulier compatri suo autfilio spirituali
+<lb ed="#P" n="40"/>uxor esse non potest. Filius quoque commatrem
+<lb ed="#P" n="41"/>patris vel filiam spiritualem uxorem habere 
+pro<lb ed="#P" break="no" n="42"/>hibetur. Et similiter filia compatri matris sus aut
+<lb ed="#P" n="43"/>filio spirituali uxor esse non potest. In concilio
+<lb ed="#P" n="44"/>Tiburiensi conceditur ut homo, defuncto 
+compa<lb ed="#P" break="no" n="45"/>tre, suo uxorem illius ducat, si ei commater non
+<lb ed="#P" n="46"/>est. Quod si verum est, similiter mulier, defuncta
+<lb ed="#P" n="47"/>commatre sua, viro illius nubere potest, si ei 
+com<lb ed="#P" break="no" n="48"/>pater non est. Quod tamen in aliquibus 
+prohibi<lb ed="#P" break="no" n="49"/>tum reperitur,
+</p>
+            </div>
+            <div xml:id="hsvhsv-g44629-Dd1e5806">
+               <head xml:id="hsvhsv-g44629-Hd1e5808">Capitulum 18</head>
+               <head xml:id="hsvhsv-g44629-Hd1e5810" type="question-title"/>
+               <p xml:id="hsvhsv-g44629-d1e5812">
+                  <lb ed="#P" n="50"/>Cap. XVIII. Utrum dolus qui suppositio dicitur
+<lb ed="#P" n="51"/>conjugium dissolvat.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e5819">
+                  <lb ed="#P" n="52"/>Andivimus aliquando quibusdam uxores 
+inco<lb ed="#P" break="no" n="53"/>gnitas facie desponsantibus, alias quasdam viles
+<lb ed="#P" n="54"/>personas dolo suppositas, ubi quidem si assensum
+<lb ed="#P" n="55"/>suum postea ii qui dolum passi sunt, facto, quod
+<lb ed="#P" n="56"/>ex intentione non fecerunt, prebere noluerint, 
+ne<lb ed="#P" break="no" n="57"/>quaquam conjugium ratum essedebere censemus.
+<lb ed="#P" n="58"/>Ex intentione enim non factum constat, nec 
+pos<lb ed="#P" break="no" n="59"/>suntconstringi ad exsequendumid quod nec 
+inten<lb ed="#P" break="no" n="60"/>derunt cum facerent, nec voluerunt cum scirent.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g44629-Dd1e5842">
+               <head xml:id="hsvhsv-g44629-Hd1e5844">Capitulum 19</head>
+               <head xml:id="hsvhsv-g44629-Hd1e5846" type="question-title"/>
+               <p xml:id="hsvhsv-g44629-d1e5848">
+                  <lb ed="#P" n="61"/>Cap. XIX. Utrum conditio servilis si nesciatur,
+<lb ed="#P" n="62"/>postea conjugium dissolvat.
+</p>
+               <p xml:id="hsvhsv-g44629-d1e5855">
+                  <lb ed="#P" n="63"/>Queritur etiam utrum si qua mulier servo 
+nup<lb ed="#P" break="no" n="64"/>serit liberum eum existimans, aut liber ancillam
+<lb ed="#P" n="65"/>duxerit liberam putans, postea, ubi fraus detecta.
+<lb ed="#P" n="66"/>fuerit, conjugium dissolvi debeat. Et sunt qui
+<lb ed="#P" n="67"/>hunc dolum aliter quam superiorem judicandum
+<lb ed="#P" n="68"/>putant. Nam quia hic non in persona, sed in 
+qua<lb ed="#P" break="no" n="69"/>litate persone solum erratur, idcirco sanctitatem
+<lb ed="#P" n="70"/>matrimonii praejudicare debere censent. Sed 
+for<lb ed="#P" break="no" n="71"/>tassis hoc magis veritati et paci in qua nos 
+voca<lb ed="#P" break="no" n="72"/>vit Deus conveniat, ut ubi alterius ignorantia
+<lb ed="#P" n="73"/>culpabilis non esse ostenditur, alterius dolus ad
+<lb ed="#P" n="74"/>lesionem irinocentis in eo quod fraude usurpavit,
+<lb ed="#P" n="75"/>Stare non permittatur.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

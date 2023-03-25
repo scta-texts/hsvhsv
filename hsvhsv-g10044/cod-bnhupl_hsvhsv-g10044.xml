@@ -1,0 +1,1517 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pars 1</title>
+            <author ref="#HughOfStVictor">Hugh of St. Victor</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Pars 1</title>
+               <date when="2023-03-25">March 25, 2023</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-bnhupl">Patrologia Latina, v. 176</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2023-03-25" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="94"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="hsvhsv-g10044"><!-- l1-p1 -->
+            <head xml:id="hsvhsv-g10044-Hd1e101">Pars 1</head>
+            <head xml:id="hsvhsv-g10044-Hd1e103" type="question-title">Hexameron in opera conditionis</head>
+            <p xml:id="hsvhsv-g10044-d1e106">
+<!-- 012.png.txt -->
+               <pb ed="#P" n="94"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>INCIPIT LIBER PRIMUS.
+<lb ed="#P" n="2"/>PARS PRIMA.
+<lb ed="#P" n="3"/>HEXAMERON IN OPERA CONDITIONIS.
+</p>
+            <p xml:id="hsvhsv-g10044-d1e122">
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="4"/>Arduum profecto opus et laboriosum crebra 
+ves<lb ed="#P" break="no" n="5"/>tra precatione flexus aggredior ; universam 
+divi<lb ed="#P" break="no" n="6"/>narum Scripturarum seriem non solum 
+restrin<lb ed="#P" break="no" n="7"/>gendo ad compendium redigere, sed exponendo
+<lb ed="#P" n="8"/>quoque profunditatis ejus arcanain lucem evocare.
+<lb ed="#P" n="9"/>Cujus quidem operis inchoationem prompta 
+devo<lb ed="#P" break="no" n="10"/>tione offero, spe consummationem promitto.
+</p>
+            <div xml:id="hsvhsv-g10044-Dd1e142">
+               <head xml:id="hsvhsv-g10044-Hd1e144">Capitulum 1</head>
+               <head xml:id="hsvhsv-g10044-Hd1e146" type="question-title">
+Unum esse principium a quo facta sunt
+omnia de nihilo.
+</head>
+               <p xml:id="hsvhsv-g10044-d1e149">
+                  <lb ed="#P" n="11"/>Cap. I. Unum esse principium a quo facta sunt
+<lb ed="#P" n="12"/>omnia de nihilo.
+</p>
+               <p xml:id="hsvhsv-g10044-d1e156">
+                  <lb ed="#P" n="13"/>In principio creavit Deus coelum et terram
+<lb ed="#P" n="14"/>(Gen. 1. Quod creatum est de nihilo factum est.
+<lb ed="#P" n="15"/>Nam quod de aliquo factum est, factum quidem
+<lb ed="#P" n="16"/>est sed creatum non est; quia de nihilo factum
+<lb ed="#P" n="17"/>non est. Fecit ergo Deus colum et terram ; nec
+<lb ed="#P" n="18"/>solum fecit sed creavit, hoc est de nihilo fecit.
+<lb ed="#P" n="19"/>Philosophi gentilium tria quaedam rerum 
+prin<lb ed="#P" break="no" n="20"/>cipia sine principio posuerunt: opificem, 
+mate<lb ed="#P" break="no" n="21"/>riam et formam ; profitentes ea quae facta sunt
+<lb ed="#P" n="22"/>omnia ex materia quidem in formam per opificem
+<lb ed="#P" n="23"/>esse producta. Sed isti factorem solum non 
+creato<lb ed="#P" break="no" n="24"/>rem Deum professi sunt. Fides autem vera unum
+<lb ed="#P" n="25"/>solummodum primum principium confitetur quod
+<lb ed="#P" n="26"/>semper erat; et per ipsum solum factum est ut
+<lb ed="#P" n="27"/>esset quod aliquando non erat. Cujus ineffabilis
+<lb ed="#P" n="28"/>omnipotentiae virtus, sicut non potuit aliud praeter
+<lb ed="#P" n="29"/>86 habere coaeternum, quo in faciendo juvaretur;
+<lb ed="#P" n="30"/>ita ipsi cum voluit suberat, ut quod voluit et
+<lb ed="#P" n="31"/>quando et quantum voluit de nihilo crearetur.
+<lb ed="#P" n="32"/>Omnia ergo quae facta sunt, Deus non solum ex
+<lb ed="#P" n="33"/>materia fecit, sed materiam omnium ipse de
+<lb ed="#P" n="34"/>nihilo creavit.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10044-Dd1e208">
+               <head xml:id="hsvhsv-g10044-Hd1e210">Capitulum 2</head>
+               <head xml:id="hsvhsv-g10044-Hd1e212" type="question-title">
+An prius facta est materia quam forma
+</head>
+               <p xml:id="hsvhsv-g10044-d1e215">
+                  <lb ed="#P" n="35"/>Cap. II. An prius facta est materia quam forma.
+</p>
+               <p xml:id="hsvhsv-g10044-d1e220">
+                  <lb ed="#P" n="36"/>Sed non parva quaestio est utrum ea quae facta.
+<lb ed="#P" n="37"/>sunt, simul in materia et forma adesse prodierint,
+<lb ed="#P" n="38"/>an prius per materiam quidem essentialiter 
+con<lb ed="#P" break="no" n="39"/>dita sint, postmodum formata. Scio quosdam
+<lb ed="#P" n="40"/>sanctorum Patrum qui ante vos verbi Dei arcana
+<lb ed="#P" n="41"/>excellenter scrutati sunt, quasi adversa quaedam
+<lb ed="#P" n="42"/>super hac inquisitione scripta reliquisse, Aliis
+<lb ed="#P" n="43"/>quidem asserentibus omnia simul in materia et
+<lb ed="#P" n="44"/>forma creata fuisse; aliis autem hoc magis 
+pro<lb ed="#P" break="no" n="45"/>bantibus, ut corporea quidem omnia quae facta
+<lb ed="#P" n="46"/>sunt, prius simul et semel materialiter condita :
+<lb ed="#P" n="47"/>postmodum vero per intervalla sex dierum in
+<lb ed="#P" n="48"/>formam disposita fuisse credantur. Ego puto viros
+<lb ed="#P" n="49"/>sapienti; in rebus tam obscuris et dubiis atque
+<lb ed="#P" n="50"/>a sensu nostro remotis, nec temere asseruisse
+<lb ed="#P" n="51"/>quod nescierint ; neque in his quae asseruerunt
+<lb ed="#P" n="52"/>praesertim tanta diligentia prolatis, errare potuisse.
+<lb ed="#P" n="53"/>Illud magis crediderim, sub assertionis forma
+<lb ed="#P" n="54"/>inquisitionis studium aliquando fuisse. Qui sic
+<lb ed="#P" n="55"/>dicta sanctorum pie interpretari voluerint, nec
+<cb ed="#P" n="c"/>
+                  <lb ed="#P" n="56"/>falsa credendo in errorem incidunt, nec vera 
+re<lb ed="#P" break="no" n="57"/>prehendendo elationem. Nos ergo in neutram 
+par<lb ed="#P" break="no" n="58"/>tem praecipiti assertione declinantes, id cui noster
+<lb ed="#P" n="59"/>sensus interim magis accedit (quantum capere
+<lb ed="#P" n="60"/>possumus) aperimus. Qui Deum omnia simul in
+<lb ed="#P" n="61"/>materia et forma fecisse contendunt, propterea
+<lb ed="#P" n="62"/>fortassis suam assertionem justam esse 
+arbitran<lb ed="#P" break="no" n="63"/>tur, quod omnipotente Creatoris indignum 
+vi<lb ed="#P" break="no" n="64"/>deatur (ad humane imbecillitatis similitudinem)
+<lb ed="#P" n="65"/>suum opus per intervalla temporum ad 
+perfec<lb ed="#P" break="no" n="66"/>tionem promovere, quodque etiam quaedam 
+Scrip<lb ed="#P" break="no" n="67"/>turarum loca, quodammodo idem  asserentia
+<lb ed="#P" n="68"/>inveniuntur. Ut est illud: Qui vivit in aeternum,
+<lb ed="#P" n="69"/>creavit omnia simul (Eccli. xvii). Ipsa quoque
+<lb ed="#P" n="70"/>Geneseos scriptura (unde prima ad nos hujus rei
+<lb ed="#P" n="71"/>manavit agnitio) sic ambigue de operatione sex
+<lb ed="#P" n="72"/>dierum loquitur, ut sepenumero omnia potius
+<lb ed="#P" n="73"/>simul facta fuisse probare videatur. Propter has
+<lb ed="#P" n="74"/>igitur ethujusmodirationes aiunt credendum esse
+<lb ed="#P" n="75"/>mysticam illam in Genesi sed dierum 
+distributio<lb ed="#P" break="no" n="76"/>nem, rei autem veritate omnem creaturam. ab
+<lb ed="#P" n="77"/>ipso temporis exordio quo esse coepit, talem 
+coe<lb ed="#P" break="no" n="78"/>pisse talique forma, qualem nunc videtur habere,
+<lb ed="#P" n="79"/>quantum id ad universitatis dispositionem 
+per<lb ed="#P" break="no" n="80"/>tinet.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10044-Dd1e323">
+               <head xml:id="hsvhsv-g10044-Hd1e325">Capitulum 3</head>
+               <head xml:id="hsvhsv-g10044-Hd1e327" type="question-title">
+Ratio quare voluit Deus per temporum
+intervalla opera sua ad completionem 
+perducere; et prius esse facere quam pulchrum esse
+</head>
+               <p xml:id="hsvhsv-g10044-d1e330">
+                  <lb ed="#P" n="81"/>Cap. III. Ratio quare voluit Deus per temporum
+<lb ed="#P" n="82"/>intervalla opera sua ad completionem 
+perdu<lb ed="#P" break="no" n="83"/>cere; et prius esse facere quam pulchrum esse.
+</p>
+               <p xml:id="hsvhsv-g10044-d1e339">
+                  <lb ed="#P" n="84"/>Nobis autem videtur (excepto eo quod nihil in
+<lb ed="#P" n="85"/>hac re temere diffinire volumus) omnipotentiae
+<lb ed="#P" n="86"/>Creatoris in nullo derogari, si per <sic>intervella</sic> 
+tem<lb ed="#P" break="no" n="87"/>peris opus suum ad consommationem perduxisse
+<lb ed="#P" n="88"/>dicitur; ita ut tamen indubitanter etiam aliter
+<lb ed="#P" n="89"/>facere potuisse (si ratio omnipotentis voluntatis
+<lb ed="#P" n="90"/>ejus expotulasset) credatur. Omnipotens etenim
+<lb ed="#P" n="91"/>Deus (cujus voluntas sua bonitate nunquam 
+pri<lb ed="#P" break="no" n="92"/>vari potest) sicut propter rationalem creaturam
+<lb ed="#P" n="93"/>csmtera omnia fecit, ita etiam in eis omnibus 
+fa<lb ed="#P" break="no" n="94"/>ciendis illum praecipue modum servare debuit,
+<lb ed="#P" n="95"/>quiipsius rationalis creature commoditati ac
+<lb ed="#P" n="96"/>causm magis congruus fuit. Hic autem ille erat
+<lb ed="#P" n="97"/>in quo eidem creaturs rationali, scilicet non 
+so<lb ed="#P" break="no" n="98"/>lum obsequium, sed etiam exemplum pararetur,
+<lb ed="#P" n="99"/>id estin quo illa acciperet non solum id quo ad
+<lb ed="#P" n="100"/>Obsequium indiguit, sed per illud etiam quod
+<lb ed="#P" n="101"/>accipit agnosceret id quod fuit. Propterea in 
+cae<lb ed="#P" break="no" n="102"/>teris rebus prius informis materies facta est ac
+<lb ed="#P" n="103"/>deinde formata, ut eo ipso demonstraretur quod
+<lb ed="#P" n="104"/>abillo prius non existentia accepissent essentiam,
+<lb ed="#P" n="105"/>sine quo modo formam et ordinem non poterant
+<lb ed="#P" n="106"/>habere confusa. Eodem modo ipsa rationalis 
+crea<lb ed="#P" break="no" n="107"/>tura per íd quod foris fiebat, in se cognosceret, et
+<!-- 013.png.txt -->
+<pb ed="#P" n="95"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>ab illo esse quod erat, atque ab illo expetendum  
+<lb ed="#P" n="2"/>esse quod futura erat, quatenus et pro eo quod
+<lb ed="#P" n="3"/>acceperat in gratiarum actionem ex surgerel et in
+<lb ed="#P" n="4"/>id quod acceptura erat obtinendum in ipsum
+<lb ed="#P" n="5"/>affectum dilectionis dilataret. Nam et. ipsa 
+ratio<lb ed="#P" break="no" n="6"/>nalis creatura quodam suo modo prius informis
+<lb ed="#P" n="7"/>facta est, postmodum per conversionem ad 
+Crea<lb ed="#P" break="no" n="8"/>torem suum formanda,; et idcirco foris prius ei
+<lb ed="#P" n="9"/>demonstrata estinformis materia, postea formata,
+<lb ed="#P" n="10"/>ut quanta foret inter esse et pulchrum esse 
+dis<lb ed="#P" break="no" n="11"/>tantia discerneret. Ac per hoc admonita est ne
+<lb ed="#P" n="12"/>contenta esset eo quod per conditionem a Creatore
+<lb ed="#P" n="13"/>esse acceperat, donec et pulchrum esse atque
+<lb ed="#P" n="14"/>beatum esse adipisceretur, quod per amoris 
+con<lb ed="#P" break="no" n="15"/>versionem a Creatore acceptura erat. Quod si quis
+<lb ed="#P" n="16"/>quzxerat quae rationalis creatura jam tunc in ipso B.
+<lb ed="#P" n="17"/>mundi primordio exstiterit cui hoc exemplum 
+pro<lb ed="#P" break="no" n="18"/>poni debuisset, facile respondetur jam tunc creatos
+<lb ed="#P" n="19"/>fuisse angelos qui hoc facto admonerentur seipsos
+<lb ed="#P" n="20"/>agnoscere, et usque in finem homines futuros,
+<lb ed="#P" n="21"/>quod licet hoc quando factum est non viderint,
+<lb ed="#P" n="22"/>tamen per Scripturas edocti, factum esse omnino
+<lb ed="#P" n="23"/>jam nescire non possint. Si cui haec quam 
+propo<lb ed="#P" break="no" n="24"/>suimus ratio minus sufficiens videbitur ad 
+com<lb ed="#P" break="no" n="25"/>probandam nostram existimationem de rerum
+<lb ed="#P" n="26"/>creatione, concedimus salva pace, ut vel aliam ad
+<lb ed="#P" n="27"/>idem evidentius comprobandum meliorem atque
+<lb ed="#P" n="28"/>subtiliorem exquirat; aut si hujus partis assertio
+<lb ed="#P" n="29"/>illi non placet, alteram prout libet assumat. Nos
+<lb ed="#P" n="30"/>autem secundum propositum coepti nostri rem
+<lb ed="#P" n="31"/>ordine prosequemur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10044-Dd1e470">
+               <head xml:id="hsvhsv-g10044-Hd1e472">Capitulum 4</head>
+               <head xml:id="hsvhsv-g10044-Hd1e474" type="question-title">
+Utrum potuit aliquando esse materia.
+sine forma
+</head>
+               <p xml:id="hsvhsv-g10044-d1e477">
+                  <lb ed="#P" n="32"/>Cap. IV. Utrum potuit aliquando esse materia.
+<lb ed="#P" n="33"/>sine forma.
+</p>
+               <p xml:id="hsvhsv-g10044-d1e484">
+                  <lb ed="#P" n="34"/>Restat enim ut si prius materiam rerum 
+infor<lb ed="#P" break="no" n="35"/>mem creatam fuisse asserimus, utrum ne aliquid
+<lb ed="#P" n="36"/>sine forma existere potuerit, qualemve essentiam.
+<lb ed="#P" n="37"/>ante formam inditam habuisse credendum sit, 
+os<lb ed="#P" break="no" n="38"/>tendamus. Et ut breviter quod super hoc 
+sen<lb ed="#P" break="no" n="39"/>tiendum mihi videtur aperiam, certe non puto
+<lb ed="#P" n="40"/>primam illam rerum. omnium materiam taliter
+<lb ed="#P" n="41"/>informem fuisse, ut nullam omnino formam 
+ha<lb ed="#P" break="no" n="42"/>buerit ; quia nec aliquid tale existere posse, 
+om<lb ed="#P" break="no" n="43"/>nino quod aliquid esse habeat et non aliquam
+<lb ed="#P" n="44"/>formam crediderim. Ita tamen non absurde 
+in<lb ed="#P" break="no" n="45"/>formem eam appellari posse, quod in confusione
+<lb ed="#P" n="46"/>et permistione quadam subsistens, nondum hanc
+<lb ed="#P" n="47"/>in qua nunc cernitur, pulchram aptamque 
+dispo<lb ed="#P" break="no" n="48"/>sitionem et formam coperit. Ergo ante formam
+<lb ed="#P" n="49"/>fracta est materia, tamen in forma. In forma 
+con<lb ed="#P" break="no" n="50"/>fusionis, ante formam dispositionis. In prima
+<lb ed="#P" n="51"/>forma confusionis prius materialiter omnia 
+cor<lb ed="#P" break="no" n="52"/>poralia simul et semel creata sunt ;in secunda
+<lb ed="#P" n="53"/>forma dispositionis postmodum per sex dierum
+<lb ed="#P" n="54"/>intervalla ordinata.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10044-Dd1e533">
+               <head xml:id="hsvhsv-g10044-Hd1e535">Capitulum 5</head>
+               <head xml:id="hsvhsv-g10044-Hd1e537" type="question-title">
+Simul creata fuisse omnia, id. est. 
+visibilia et invisibilia
+</head>
+               <p xml:id="hsvhsv-g10044-d1e540">
+                  <lb ed="#P" n="55"/>Cap. V. Simul creata fuisse omnia, id. est. 
+vi<lb ed="#P" break="no" n="56"/>sibilia et invisibilia.
+</p>
+               <p xml:id="hsvhsv-g10044-d1e547">
+                  <lb ed="#P" n="57"/>Sed nec illud, quantum opinor, absurdum erit,
+<lb ed="#P" n="58"/>si credimus unum et idem prorsus momentum
+<lb ed="#P" n="59"/>temporis fuisse quo in principio simul creata sit.
+<lb ed="#P" n="60"/>et rerum visibilium corporaliumque materia, et
+<lb ed="#P" n="61"/>invisibilium in angelica natura essentia ; et hoc
+<lb ed="#P" n="62"/>esse quod Scriptura refert omnia simul creata
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>fuisse sicut supra diximus : <quote xml:id="hsvhsv-g10044-Qd1e566">Qui vivit in 
+cter<lb ed="#P" break="no" n="64"/>num creavit omnia simul</quote> (Eccle. xvin), quia
+<lb ed="#P" n="65"/>eodem momento simul et visibilium materia 
+es<lb ed="#P" break="no" n="66"/>sentialiter creata est et invisibilium natura ; 
+ni<lb ed="#P" break="no" n="67"/>hilque postea factum cujus in ipso primordio aut.
+<lb ed="#P" n="68"/>materia ut in corporibus aut similitudo ut in 
+spi<lb ed="#P" break="no" n="69"/>ritibus non precesserit. Nam etsi nove adhuc
+<lb ed="#P" n="70"/>quotidie creantur animae, nova tamen creatura
+<lb ed="#P" n="71"/>non fit; quia in angelicis spiritibus jam tunc
+<lb ed="#P" n="72"/>quando creabantur ejus similitudo praecessit. Duo
+<lb ed="#P" n="73"/>autem nunc nobis discutienda occurunt: 
+pri<lb ed="#P" break="no" n="74"/>mum, illa primae conditionis forma informis 
+qua<lb ed="#P" break="no" n="75"/>lis fuerit ; secundum, qualiter ex illa informitate
+<lb ed="#P" n="76"/>ad hanc quam nunc habet formam producta sit.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10044-Dd1e599">
+               <head xml:id="hsvhsv-g10044-Hd1e601">Capitulum 6</head>
+               <head xml:id="hsvhsv-g10044-Hd1e603" type="question-title">
+De prima informitate rerum omnium qualis
+fuit, et quandiu mundus in illa permansit
+</head>
+               <p xml:id="hsvhsv-g10044-d1e606">
+                  <lb ed="#P" n="77"/>Cap. VI De prima informitate rerum omnium qualis
+<lb ed="#P" n="78"/>fuit, et quandiu mundus in illa permansit.
+</p>
+               <p xml:id="hsvhsv-g10044-d1e613">
+                  <lb ed="#P" n="79"/>Quantum conjicere potui ex iis quae in 
+Serip<lb ed="#P" break="no" n="80"/>turis de hac re sive manifeste sive obscure reperi
+<lb ed="#P" n="81"/>Secundum rei geste veritatem expressa, prima
+<lb ed="#P" n="82"/>illa rerum omnium moles quando creata est, 
+ibi<lb ed="#P" break="no" n="83"/>dem tunc adesse prodiit, ubi nunc formata 
+sub<lb ed="#P" break="no" n="84"/>sistit. Eratque terrenum hoc elementum medio
+<lb ed="#P" n="85"/>eodemque imo loco subsidens (ceteris in una 
+con<lb ed="#P" break="no" n="86"/>fusione permistis) forma meliore praeditum ; sed
+<lb ed="#P" n="87"/>lisdem circumquaque in modum cujusdam 
+nebu<lb ed="#P" break="no" n="88"/>le oppansis ita involutum ut apparere non 
+pos<lb ed="#P" break="no" n="89"/>set quod fuit. Illa vero tria in una, sicut. dictum.
+<lb ed="#P" n="90"/>est, adhuc confusione permista sive potius in
+<lb ed="#P" n="91"/>una permistione confusa, circumquaque 
+suspen<lb ed="#P" break="no" n="92"/>sa, eo usque in altum porrigebantur quousque
+<lb ed="#P" n="93"/>c; nunc summum corporeae creatura pertingit. 
+To<lb ed="#P" break="no" n="94"/>tumque hoc spatium quod a superficie terre 
+me<lb ed="#P" break="no" n="95"/>dio jacentis loco usque ad extremum 
+supremum<lb ed="#P" break="no" n="96"/>que ambitus cclilimitem patet, illa nebula et
+<lb ed="#P" n="97"/>caligine replebatur. Et quod nunc sunt alvei sive
+<lb ed="#P" n="98"/>trachones aquarum, jam tunc in ipso nascentis
+<lb ed="#P" n="99"/>mundi exordio in terre corpore futura aquis 
+re<lb ed="#P" break="no" n="100"/>ceptacula parata erant. In quibus etiam magna
+<lb ed="#P" n="101"/>illa abyssus (de qua. omnium fluenta aquarum
+<lb ed="#P" n="102"/>producenda sive derivanda fuerant) patulo adhuc
+<lb ed="#P" n="103"/>hiatu vacuoque horrendum in praeceps inane
+<lb ed="#P" n="104"/>preferebat. Cui quidem desuper tenebross illius
+<lb ed="#P" n="105"/>caliginis qua tota tunc terre superficies obvoluta
+<lb ed="#P" n="106"/>erat nebula tendebatur ; quas, ut ergo arbitror,
+<lb ed="#P" n="107"/>tenebras, Scriptura cum coelum et terra 
+crearen<lb ed="#P" break="no" n="108"/>tur super faciem abyssi fuisse testatur. Talis
+<lb ed="#P" n="109"/>mundi facies in principio priusquam formam 
+re<lb ed="#P" break="no" n="110"/>ciperet aut dispositionem, per Scripturam 
+signi<lb ed="#P" break="no" n="111"/>ficatur cum dicitur: In principio creavit Deus
+<lb ed="#P" n="112"/>ealum et terram. Terra autem erat inanis et
+<lb ed="#P" n="113"/>vacua (Gen. 1);sive, ut alia translatio habet,
+<lb ed="#P" n="114"/>« incomposita, » et tenebra erant super faciem
+<lb ed="#P" n="115"/>abyssi (ibid.). Per coelum namque et terram, 
+ma<lb ed="#P" break="no" n="116"/>teriam illam omnium coelestium terrestriumque,
+<lb ed="#P" n="117"/>hoc loco significari puto, de qua postea 
+succeden<lb ed="#P" break="no" n="118"/>ter in forma facta sunt quae in ipsa prius per 
+es<lb ed="#P" break="no" n="119"/>sentiam simul creata fuerunt. Ibi namque terra
+<lb ed="#P" n="120"/>erat ipsum terre elementum, et colum mobile
+<lb ed="#P" n="121"/>erat illa et levis confusio reliquorum trium quem
+<lb ed="#P" n="122"/>in circuiti medio jacentis terree suspense 
+fereba<lb ed="#P" break="no" n="123"/>tur ; et his duobus omnium corporum colestium
+<lb ed="#P" n="124"/>sive terrestrium formandorum materia cowos-
+<pb ed="#P" n="96"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>batur. Deinde sequitur Scriptura et dicit: Et 
+te<lb ed="#P" break="no" n="2"/>nebre erant super faciem abyssi. Duo superius
+<lb ed="#P" n="3"/>proposuerat ; videlicet colum et terram. Modo
+<lb ed="#P" n="4"/>quaedam alia duo subjungit scilicet tenebras et
+<lb ed="#P" n="5"/>abyssum ; alterum, id est abyssum in terra, 
+al<lb ed="#P" break="no" n="6"/>terum, id est tenebras in eo quod colum 
+voca<lb ed="#P" break="no" n="7"/>verat, significans intelligendum. Propterea 
+nam<lb ed="#P" break="no" n="8"/>que super faciem abyssi tenebre erant ; quia
+<lb ed="#P" n="9"/>abyssus subtus erat, et desuper caligo tenebrosa
+<lb ed="#P" n="10"/>erat. Neque abyssus tenebre erat, quia lumen
+<lb ed="#P" n="11"/>futura non erat ; sed desuper faciem abyssi 
+te<lb ed="#P" break="no" n="12"/>nebrarum locus fuit in eo scilicet elemento unde
+<lb ed="#P" n="13"/>lumen postea venire debuit. Neque enim nisi in
+<lb ed="#P" n="14"/>lucis loco, tenebre esse potuerunt ; propterea 
+te<lb ed="#P" break="no" n="15"/>nebre erant auper faciem abyssi. Et spiritus 
+Do<lb ed="#P" break="no" n="16"/>mini ferebatur super aquas (Gen. 1). Subito
+<lb ed="#P" n="17"/>aquas nominat, cum prius in rerum creatione de
+<lb ed="#P" n="18"/>sola terra et codo mentionem fecisset. Sed non
+<lb ed="#P" n="19"/>propterea aquas increatas esse credendum est,
+<lb ed="#P" n="20"/>quia increatione rerum aquarum nomen 
+posi<lb ed="#P" break="no" n="21"/>tum non est ; quia ipsum colum ipse sunt 
+tene<lb ed="#P" break="no" n="22"/>bre, ipse etaquzm. Colum propter levitatem ;
+<lb ed="#P" n="23"/>tenebre propter lucis privationem ; aquae 
+prop<lb ed="#P" break="no" n="24"/>ter motum et fluctuationem. Nam si abyssus in
+<lb ed="#P" n="25"/>terra erat et tenebre erant super faciem abyssi ;
+<lb ed="#P" n="26"/>ergo tenebre erant super terram . Sed quid erat
+<lb ed="#P" n="27"/>super terram ? Duo in principio posita sunt 
+cc<lb ed="#P" break="no" n="28"/>lum et terra. Quid horum putas subtus, aut quod
+<lb ed="#P" n="29"/>supra fuisse dicemus ? Aut terra supra et coelum
+<lb ed="#P" n="30"/>Subtus ; aut terra subtus et coelum supra ?Sed
+<lb ed="#P" n="31"/>nunquid credendum est prima illa conditione 
+re<lb ed="#P" break="no" n="32"/>rum coelum subter creatum fuisse ; et postea in
+<lb ed="#P" n="33"/>formatione supra dispositum ? Fortassis quia
+<lb ed="#P" n="34"/>prius Scriptura nominavit coelum quam terram,
+<lb ed="#P" n="35"/>propterea colum quasi fundamentum subtus
+<lb ed="#P" n="36"/>creatum fuisse quis dicat. Ego aut non ordinis
+<lb ed="#P" n="37"/>sed dignitatis causa sic positum reor ; et quia
+<lb ed="#P" n="38"/>etiam sermo sequens de elemento terre quasi de
+<lb ed="#P" n="39"/>proximo (et ob hoc posteriusnominato) habendus
+<lb ed="#P" n="40"/>fuit, ideo et prius coelumet postea terra nominari
+<lb ed="#P" n="41"/>debuit. Sed neque ipsa conditorum natura alium
+<lb ed="#P" n="42"/>positionis aut locationis ordinem pateretur, quam
+<lb ed="#P" n="43"/>ut ponderosa deorsum, et sursum levia 
+dispone<lb ed="#P" break="no" n="44"/>rentur. Ergo terra deorsum erat et colum 
+sur<lb ed="#P" break="no" n="45"/>sum, et quod supra terram erat coelum erat. Ergo
+<lb ed="#P" n="46"/>eclum supra terram erat. Et aqu: ubi erant ?
+<lb ed="#P" n="47"/>sub colo an supra colum ? Neque sub coelo, 
+ne<lb ed="#P" break="no" n="48"/>que supra coelum aqu: erant ; sed in coelo aqui
+<lb ed="#P" n="49"/>erant, quia ipsum coelum aqu: erant. Totum
+<lb ed="#P" n="50"/>aquae et totum codlum ; quia idem aquis et 
+cc<lb ed="#P" break="no" n="51"/>lum. Secunda die factum est firmamentum et 
+vo<lb ed="#P" break="no" n="52"/>catum est coelum ; et positum est ut divideret 
+in<lb ed="#P" break="no" n="53"/>ter aquas et aquas, et quae prius aqua erant 
+fac<lb ed="#P" break="no" n="54"/>te sunt aquis, aque quae sub coelo et aque quae
+<lb ed="#P" n="55"/>supercclum. Et factum est colum, coelum et
+<lb ed="#P" n="56"/>eolum ; coelum supra colum et sub coelo colum.
+<lb ed="#P" n="57"/>Usque hodie etiam coelum est supr» coelum et
+<lb ed="#P" n="58"/>sub coelo coelum, et totum ex uno colo et unum
+<lb ed="#P" n="59"/>calum. Sed antequam fleret de illo colo hoc 
+co<lb ed="#P" break="no" n="60"/>lum quod est vocatum firmamentum, non erat 
+il<lb ed="#P" break="no" n="61"/>lud calum coelum et coelum, sed tantum coelum. Nec
+<lb ed="#P" n="62"/>ille aqui aque etaqut; sed tantum aque. Et
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>aquae et coelum unum colum ; et illud colum et.
+<lb ed="#P" n="64"/>aquae illae, nec supra colum erant nec sub coelo ;
+<lb ed="#P" n="65"/>sed supra terram ; nihilque erat inter cclum et
+<lb ed="#P" n="66"/>terram ; quia nihil erat praeter caelum et terram.
+<lb ed="#P" n="67"/>Et tamen aquae erant, et tenebro erant, et 
+abys<lb ed="#P" break="no" n="68"/>sus erat. Abyssus in terra ; tenebrae et aqua in
+<lb ed="#P" n="69"/>colo. Et tenebre erant super faciem abyssi, et
+<lb ed="#P" n="70"/>spiritus Dei ferebatur super aquas. Ergo super
+<lb ed="#P" n="71"/>omnia erat spiritus Dei ; quia omnia in potestate
+<lb ed="#P" n="72"/>erant Dei, etin omnibus non arctabatur 
+potes<lb ed="#P" break="no" n="73"/>tas Dei. Fortassis jam satis est (quantum ad
+<lb ed="#P" n="74"/>propositum brevitatis pertinet! de his hactenus
+<lb ed="#P" n="75"/>disputasse, si hoc solum adjecerimus quanto
+<lb ed="#P" n="76"/>tempore mundus in haé confusione priusquam
+<lb ed="#P" n="77"/>ejus dispositio inchoaretur perstiterit. Nam quod
+<lb ed="#P" n="78"/>illa prima rerum omnium materia, in principio
+<lb ed="#P" n="79"/>temporis, vel potius cum ipso tempore exorta sit,
+<lb ed="#P" n="80"/>constat ex eo quod dictum est: In principio 
+crea<lb ed="#P" break="no" n="81"/>vit Deus caelum et terram. Quamdiu autem in
+<lb ed="#P" n="82"/>hac informitate sive confusione permanserit,
+<lb ed="#P" n="83"/>Scriptura manifeste nón ostendit. Mihi autem 
+vi<lb ed="#P" break="no" n="84"/>detur (quantum ego conjicere valeo) inter 
+crea<lb ed="#P" break="no" n="85"/>tionem et dispositionem rerum, ordinem quidem
+<lb ed="#P" n="86"/>temporis sed nullam fuisse moram interjectam ;
+<lb ed="#P" n="87"/>ita ut vere quidem dici possit, hoc post illud 
+fac<lb ed="#P" break="no" n="88"/>tum fuisse ; sed inter hoc factum et illud nullam
+<lb ed="#P" n="89"/>omnino dilationem intervenisse. Et ut breviter
+<lb ed="#P" n="90"/>quidquid mihi inde sentiendum videtur absolvam
+<lb ed="#P" n="91"/>ego arbitror in primo principio temporis, vel 
+po<lb ed="#P" break="no" n="92"/>tius cum ipso principio temporis, hoc est quando
+<lb ed="#P" n="93"/>ipsum tempus coepit, simulcoepisse et rerum 
+vi<lb ed="#P" break="no" n="94"/>Sibilium omnium materiam, eodemque prorsus
+<lb ed="#P" n="95"/>momento invisibilium in angelica natura 
+essen<lb ed="#P" break="no" n="96"/>tiam ; utramque quodammodo in forma, et
+<lb ed="#P" n="97"/>utramque quodammodo sine forma. Nam quem
+<lb ed="#P" n="98"/>admodum illa formandorum corporum materia
+<lb ed="#P" n="99"/>quando primum creata est, et quamdam formam
+<lb ed="#P" n="100"/>habuitin qua subsistere coepit, et tamen 
+infor<lb ed="#P" break="no" n="101"/>mis erat, quia necdum disposita et ordinata fuit;
+<lb ed="#P" n="102"/>ita prorsus illa rationalis natura quando primum
+<lb ed="#P" n="103"/>inspriritibus angelicis creata est, mox quidem
+<lb ed="#P" n="104"/>per sapientiam et discretionem formata est ; sed
+<lb ed="#P" n="105"/>quia illi summo et vero bono (in quo beatificanda
+<lb ed="#P" n="106"/>erat) nondum se per conversionem amoris 
+im<lb ed="#P" break="no" n="107"/>presserat, quodammodo adhuc informis 
+perma<lb ed="#P" break="no" n="108"/>nebat. Utraque ergo natura et corporea scilicet
+<lb ed="#P" n="109"/>per materiam, et incorporea per essentiam simul
+<lb ed="#P" n="110"/>ad esse prodiit ; quia et in illa unde facta est et
+<lb ed="#P" n="111"/>inista quae facta est uno eodemque momento
+<lb ed="#P" n="112"/>temporis, in tempore pariter, et cum tempore
+<lb ed="#P" n="113"/>esse ccpit. Nam spiritualis natura (cum 
+sim<lb ed="#P" break="no" n="114"/>plex sit eique idem sit omnino esse quod est) 
+ma<lb ed="#P" break="no" n="115"/>terialiter prius quam personaliter fieri non 
+ha<lb ed="#P" break="no" n="116"/>bet, sicut corporea natura ; et propterea illa dum
+<lb ed="#P" n="117"/>crearetur prius quidem per materiam ex qua facta
+<lb ed="#P" n="118"/>est ad esse prodiit : haec vero statim in ipsa qua
+<lb ed="#P" n="119"/>subsistit vita simplici et essentia immortali 
+in<lb ed="#P" break="no" n="120"/>dissolubilique primum accepit. Utraque tamen
+<lb ed="#P" n="121"/>aimul facta est ; altera, id est corporea in eo ex
+<lb ed="#P" n="122"/>quo ipsa est ; altera vero, id est incorporea in eo
+<lb ed="#P" n="123"/>quod ipsa est. Utraque formata, et utraque 
+in<lb ed="#P" break="no" n="124"/>formis, sicut, dictum est.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10044-Dd1e991">
+               <head xml:id="hsvhsv-g10044-Hd1e993">Capitulum 7</head>
+               <head xml:id="hsvhsv-g10044-Hd1e995" type="question-title">
+De distinctione formationis
+</head>
+               <p xml:id="hsvhsv-g10044-d1e998">
+<!-- 015.png.txt -->
+                  <pb ed="#P" n="97"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>Cap. VII. De distinctione formationis.
+</p>
+               <p xml:id="hsvhsv-g10044-d1e1009">
+                  <lb ed="#P" n="2"/>Et de illo quidem primae conditionis statu
+<lb ed="#P" n="3"/>priusquam in formam natura dispositionemque
+<lb ed="#P" n="4"/>veniret, haec dicta sufficere volumus. Deinde 
+se<lb ed="#P" break="no" n="5"/>quitur ut dispositionem ipsam qualiter perfecta
+<lb ed="#P" n="6"/>sit órdine prosequamur. Sex diebus disposuit et
+<lb ed="#P" n="7"/>ordinavit atque in formam redegit Deus cuncta
+<lb ed="#P" n="8"/>que fecerat : Perfecitque opus suum die sexta.
+<lb ed="#P" n="9"/>Et sic demum die septima requievit (Gen. m),
+<lb ed="#P" n="10"/>id est cessavit ab opere. Prima die facta est lux ;
+<lb ed="#P" n="11"/>secunda die, factum est firmamentum; tertia die,
+<lb ed="#P" n="12"/>congregatsm sunt aquae ; quarta die, facta sunt
+<lb ed="#P" n="13"/>luminaria ; quinta die, pisces et volucoes ; sexta
+<lb ed="#P" n="14"/>die, bestiz, jumenta, reptilia ; novissime (eadem
+<lb ed="#P" n="15"/>tamen die) homo. Hoc primum in hoc loco 
+lecto<lb ed="#P" break="no" n="16"/>rem admonere volumus, ut quoties in his 
+operi<lb ed="#P" break="no" n="17"/>bus, videlicet sex dierum aliquid, fieri audierit,
+<lb ed="#P" n="18"/>ut verbi gratia, cum dicitur, prima die facta est
+<lb ed="#P" n="19"/>lux: secunda die, factum est firmamentum ;
+<lb ed="#P" n="20"/>tertia die, congregate sunt aquae; quarta die, facta
+<lb ed="#P" n="21"/>sunt luminaria, non modo primum cum facta 
+di<lb ed="#P" break="no" n="22"/>cuntur, haec de nihilo creata fuissee xistimet ; sed
+<lb ed="#P" n="23"/>potius de ipsa (quae prius creata erat de nihilo)
+<lb ed="#P" n="24"/>materia formata intelligat. Etiam si aliquando
+<lb ed="#P" n="25"/>verbum creationis positum reperit, ut est ibi :
+<lb ed="#P" n="26"/>Creavit Deus cete grandia, et omnem animam
+<lb ed="#P" n="27"/>viventem atque motabilem (Gen. 1); non ad 
+ma<lb ed="#P" break="no" n="28"/>teriam qua esse coperunt, sed ad formam qua
+<lb ed="#P" n="29"/>hoc quod sunt esse coeperunt, referendum esse
+<lb ed="#P" n="30"/>sciat.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10044-Dd1e1076">
+               <head xml:id="hsvhsv-g10044-Hd1e1078">Capitulum 8</head>
+               <head xml:id="hsvhsv-g10044-Hd1e1080" type="question-title">
+De mysterio lucis; quare primum
+facta est
+</head>
+               <p xml:id="hsvhsv-g10044-d1e1083">
+                  <lb ed="#P" n="31"/>Cap. VIII. De mysterio lucis; quare primum
+<lb ed="#P" n="32"/>facta est.
+</p>
+               <p xml:id="hsvhsv-g10044-d1e1090">
+                  <lb ed="#P" n="33"/>Incipiens ergo Deus opera sua ut perficeret, 
+pri<lb ed="#P" break="no" n="34"/>mum fecit lucem, ut cetera omnia postmodum 
+fa<lb ed="#P" break="no" n="35"/>ceret in luce. Significavit enim nobis se non amare
+<lb ed="#P" n="36"/>opera quis in tenebris fiunt, quoniam mala sunt.
+<lb ed="#P" n="37"/>Quia omnis qui male agit odit lucem ; et non
+<lb ed="#P" n="38"/>venit ad lucem, ut non arguantur opera ejus,
+<lb ed="#P" n="39"/>quia mala sunt. Qui autem facit veritatem
+<lb ed="#P" n="40"/>venit ad lucem ; ut manifestentur opera sua,
+<lb ed="#P" n="41"/>quia in Deo facta sunt (Joan. ri). Ipse ergo qui
+<lb ed="#P" n="42"/>veritatem facturus fuit, in tenebris operari 
+no<lb ed="#P" break="no" n="43"/>luit ; sed venit ad lucem, et fecit lucem, ut se 
+ma<lb ed="#P" break="no" n="44"/>nifestaret per lucem. Non enim ideo fecit lucem
+<lb ed="#P" n="45"/>ut ipse videret per lucam, sed ut opera. sua 
+mani<lb ed="#P" break="no" n="46"/>festaret per lucem, quia in Deo facta sunt. Et
+<lb ed="#P" n="47"/>ideo vidit Deus cuncta qua fecerat et erant
+<lb ed="#P" n="48"/>valde bona (Gen. 1). Hoc mihi dicendum interim
+<lb ed="#P" n="49"/>fuit pro reddenda ratione cur Deus primum 
+lu<lb ed="#P" break="no" n="50"/>cem fecit.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10044-Dd1e1133">
+               <head xml:id="hsvhsv-g10044-Hd1e1135">Capitulum 9</head>
+               <head xml:id="hsvhsv-g10044-Hd1e1137" type="question-title">
+Qualis eadem facta est lux, et ubi
+</head>
+               <p xml:id="hsvhsv-g10044-d1e1140">
+                  <lb ed="#P" n="51"/>Cap. IX. Qualis eadem facta est lux, et ubi.
+</p>
+               <p xml:id="hsvhsv-g10044-d1e1145">
+                  <lb ed="#P" n="52"/>Sed nunc superest ut reigeste veritatem 
+dili<lb ed="#P" break="no" n="53"/>gentius prosequamur. Principium ergo 
+divino<lb ed="#P" break="no" n="54"/>rum operum fuit creatio lucis, quando ipsa lux
+<lb ed="#P" n="55"/>non materialiter de nihilo creata est ; sed de 
+prae<lb ed="#P" break="no" n="56"/>jacenti illa universitatis materia formaliter 
+fac<lb ed="#P" break="no" n="57"/>taest utlux esset, et vim ac proprietatem 
+lu<lb ed="#P" break="no" n="58"/>cendi haberet. Hoc opus prima die factum est ;
+<lb ed="#P" n="59"/>sed hujus operis materia ante primam diem crenta
+<lb ed="#P" n="60"/>est. Moxque cum ipsa luce dies coepit; quia ante
+<lb ed="#P" n="61"/>lucem nec nox fuit nec dies, etiamsi tempus fuit.
+<lb ed="#P" n="62"/>Si autem quaeritur qualis haec lux fuit, corporea an
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>incorporea, et si corporea cujusmodi corpus 
+ha<lb ed="#P" break="no" n="64"/>buit, et utrum uno loco circumscripta an
+<lb ed="#P" n="65"/>ubique diffusa, utrum in motu an 
+immobi<lb ed="#P" break="no" n="66"/>lis; quantum ego arbitror rectissime 
+respon<lb ed="#P" break="no" n="67"/>detur, corporalibus rebus et visibilibus 
+illu<lb ed="#P" break="no" n="68"/>minandis, non nisi lucem corpoream congruere
+<lb ed="#P" n="69"/>potuisse. Omne autem corpus <sic>quamtumlibet</sic> 
+sub<lb ed="#P" break="no" n="70"/>tile et spirituali nature approximans, loco 
+cir<lb ed="#P" break="no" n="71"/>cumscribi necesse est, Rursumque nisi mobilis
+<lb ed="#P" n="72"/>fuisset lux illa, nequaquam alterna vicissitudine
+<lb ed="#P" n="73"/>diem ac noctem distinguere, nec temporis 
+spa<lb ed="#P" break="no" n="74"/>tium ullatenus sine motu peragere valuisset. 
+Se<lb ed="#P" break="no" n="75"/>eundum hane itaque considerationem, 
+convenien<lb ed="#P" break="no" n="76"/>tius puto ut credamus lucem illam in principio
+<lb ed="#P" n="77"/>factam ad illuminanda corporea sine dubio 
+cor<lb ed="#P" break="no" n="78"/>poream fuisse, quale fortasse esse potuisset 
+cor<lb ed="#P" break="no" n="79"/>pus aliquod lucidum, cujus praesentia cuncta 
+il<lb ed="#P" break="no" n="80"/>lustrarentur, quemadmodum nunc in sole videri
+<lb ed="#P" n="81"/>potest, ipsamque vice et loco solis factam, ut 
+in<lb ed="#P" break="no" n="82"/>terim motu suo circumagitaretur, et noctem 
+diem<lb ed="#P" break="no" n="83"/>que discerneret. Cum qua (quia dies prima exorta
+<lb ed="#P" n="84"/>est) ego crediderim magis illam quando facta
+<lb ed="#P" n="85"/>est, ibidem primum apparuisse ubi sol 
+quoti<lb ed="#P" break="no" n="86"/>diano cursu circumvectus oriens emergit, ut 
+eo<lb ed="#P" break="no" n="87"/>dem tramite circumcurrens, ac primo ad 
+occa<lb ed="#P" break="no" n="88"/>sum descendens vesperam faceret, et deinde 
+re<lb ed="#P" break="no" n="89"/>vocata ad ortum auroram, hoc est mane ante 
+or<lb ed="#P" break="no" n="90"/>tum sequentis diei illustraret. Et propterea quia
+<lb ed="#P" n="91"/>primus dies auroram precedentem non habuit,
+<lb ed="#P" n="92"/>quoniam antequam lux crearetur plene tenebrae
+<lb ed="#P" n="93"/>fuerunt, mox autem luce apparente super 
+ter<lb ed="#P" break="no" n="94"/>ram plenus dies, propterea quod a perfecto opus
+<lb ed="#P" n="95"/>Dei inchoari debuisset, ideo dixisse Scripturam :
+<lb ed="#P" n="96"/>Factum est vespere et mane dies unus (Gen. I)
+<lb ed="#P" n="97"/>'Non enim dixit Factum est mane et vespere;sed:
+<lb ed="#P" n="98"/>Factum est, inquit, vespere et mane dies unus.
+<lb ed="#P" n="99"/>Quia, sicut diximus, primus dies mane preceé-
+<lb ed="#P" n="100"/>dens non habuit, quoniam a luce plena atque 
+per<lb ed="#P" break="no" n="101"/>fecta initium sumpsit; propterea omnis 
+au<lb ed="#P" break="no" n="102"/>rora precedentis diei est, et dies ab ortu 
+so<lb ed="#P" break="no" n="103"/>lis initium sumit. Estque dies naturalis illud
+<lb ed="#P" n="104"/>Spatium temporis quod ab ortu solis usque,
+<lb ed="#P" n="105"/>ad ortum pertransiens noctem inse diemque 
+con<lb ed="#P" break="no" n="106"/>cludit ; in qua (quoniam naturaliter dies noctem
+<lb ed="#P" n="107"/>precedit) et finem diei vesperam dicimus, finem
+<lb ed="#P" n="108"/>noctis auroram, constat indubitanter quod 
+auro<lb ed="#P" break="no" n="109"/>ra semper ad precedentem diem referenda sit.
+<lb ed="#P" n="110"/>Brgo illud primum momentum temporis quando
+<lb ed="#P" n="111"/>creata est omnium visibilium invisibiliumque 
+na<lb ed="#P" break="no" n="112"/>tura, nec nox fuit nec dies ; et tamen tempus
+<lb ed="#P" n="113"/>fuit, quia mutabilitas fuit. Postea vero continuo
+<lb ed="#P" n="114"/>luce facta divise sunt tenebre et lux ; et tempus
+<lb ed="#P" n="115"/>jam per diem et noctem distingui coepit.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10044-Dd1e1292">
+               <head xml:id="hsvhsv-g10044-Hd1e1294">Capitulum 10</head>
+               <head xml:id="hsvhsv-g10044-Hd1e1296" type="question-title">
+Quod simul facta est lux: visibilis et
+invisibilis ; et pariter divisa a tenebris
+</head>
+               <p xml:id="hsvhsv-g10044-d1e1299">
+                  <lb ed="#P" n="116"/>Cap. X. Quod simul facta est lux: visibilis et
+<lb ed="#P" n="117"/>invisibilis ; et pariter divisa a tenebris.
+</p>
+               <p xml:id="hsvhsv-g10044-d1e1306">
+                  <lb ed="#P" n="118"/>Et ut mihi videtur eodem prorsus temporis 
+mo<lb ed="#P" break="no" n="119"/>mento quo visibiliter et corporaliter divisa est
+<lb ed="#P" n="120"/>lux a tenebris ; invisibiliter quoque boni angeli
+<lb ed="#P" n="121"/>discreti sunt a malis illis in tenebras peccati 
+ca<lb ed="#P" break="no" n="122"/>dentibus : et istis ad lucem justitiae conversis 
+il<lb ed="#P" break="no" n="123"/>luminatisque a luce, ut lux essent et non 
+tene<lb ed="#P" break="no" n="124"/>brae. Sic enim consonare debuerunt exemplaria
+<!-- 016.png.txt -->
+<pb ed="#P" n="98"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>operum Dei, ut quae visibilia erant opera 
+sapien<lb ed="#P" break="no" n="2"/>tiae, invisibilium proventus sequerentur, 
+secun<lb ed="#P" break="no" n="3"/>dum quod ipsa quae ntrobique operabatur 
+sa<lb ed="#P" break="no" n="4"/>pientia, ibi judicium exercuit, hic formavit 
+ex<lb ed="#P" break="no" n="5"/>emplum. Divisa est lux ergo a tenebris ; et erat
+<lb ed="#P" n="6"/>lux visibilis et visibiles tenebre erant ; similiter
+<lb ed="#P" n="7"/>et lux invisibilis erat, et tenebre invisibiles
+<lb ed="#P" n="8"/>erant ;etutrorumque divisio facta est; et 
+si<lb ed="#P" break="no" n="9"/>mul facta est. divisio tenebrarum et lucis. Et 
+vo<lb ed="#P" break="no" n="10"/>cata est lux dies et tenebra nox. Utrumque 
+qui<lb ed="#P" break="no" n="11"/>dem Deus divisit, et utrumque nominavit; sed
+<lb ed="#P" n="12"/>et utrumque non fecit. Deus enim auctor 
+tene<lb ed="#P" break="no" n="13"/>brarum non est sed lucis ; quia peccatum est 
+te<lb ed="#P" break="no" n="14"/>nebre et peccatum nihil est : Et sine ipso nihil
+<lb ed="#P" n="15"/>factum est (Joan. 11). Lux ab ipso facta est ;
+<lb ed="#P" n="16"/>quia justitia et veritas lux est, et de luce 
+audivi<lb ed="#P" break="no" n="17"/>mus quod dixit Deus: Fiat iu ; et statim luz
+<lb ed="#P" n="18"/>faeta est (Gen. 1). Nusquam dixit Deus : Fiant
+<lb ed="#P" n="19"/>tenebre. Sed de luce dixit : Fiat luae : et 
+divi<lb ed="#P" break="no" n="20"/>sit lucem a tenebris ; et vocavit lucem diem,
+<lb ed="#P" n="21"/>et tenebras noctem (ibid). Ergo non fecit 
+utrum<lb ed="#P" break="no" n="22"/>que; tamen utrumque divisit, et utrumque 
+no<lb ed="#P" break="no" n="23"/>minavit. Divisit per judicium ; et per meritum
+<lb ed="#P" n="24"/>nominavit, judicavit et disposuit. Quia nec hoc
+<lb ed="#P" n="25"/>apud eum judicantem inordinatum esse potuit,
+<lb ed="#P" n="26"/>quod apud delinquentes inordinatum fuit, 
+voca<lb ed="#P" break="no" n="27"/>vit lucem diem, et tenebras noctem.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10044-Dd1e1390">
+               <head xml:id="hsvhsv-g10044-Hd1e1392">Capitulum 11</head>
+               <head xml:id="hsvhsv-g10044-Hd1e1394" type="question-title">
+Quod tres dies lux illuminavit, 
+et quare ante solem facta est
+</head>
+               <p xml:id="hsvhsv-g10044-d1e1397">
+                  <lb ed="#P" n="28"/>Cap. XI. Quod tres dies lux illuminavit, et 
+qua<lb ed="#P" break="no" n="29"/>re ante solem facta est.
+</p>
+               <p xml:id="hsvhsv-g10044-d1e1404">
+                  <lb ed="#P" n="30"/>Ergo nemo dicat quomodo ante factum solem
+<lb ed="#P" n="31"/>dies esse potuit; quia antequam sol fieret lux
+<lb ed="#P" n="32"/>erat: Et vidit Deus lucem quod esset bonum et
+<lb ed="#P" n="33"/>vocavit lucem diem, et tenebras noctem (Gen. 1)
+<lb ed="#P" n="34"/>Etipsa lux tres illos primos dies faciebat 
+ante<lb ed="#P" break="no" n="35"/>quam sol fieret etilluminaret mundum. Sed quid
+<lb ed="#P" n="36"/>Bigniflcat quod non statim factus est sol ex quo
+<lb ed="#P" n="37"/>lucem fleri oportuit, sed ut quasi lux esset 
+prius<lb ed="#P" break="no" n="38"/>quam clara lux ? Et fortassis confusio plena luce
+<lb ed="#P" n="39"/>digna non erat ; aliquam tamen lucem accepit, ut
+<lb ed="#P" n="40"/>videret oxire ad ordinem et dispositionem.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10044-Dd1e1431">
+               <head xml:id="hsvhsv-g10044-Hd1e1433">Capitulum 12</head>
+               <head xml:id="hsvhsv-g10044-Hd1e1435" type="question-title">
+Sacramentum divinorum operum
+</head>
+               <p xml:id="hsvhsv-g10044-d1e1438">
+                  <lb ed="#P" n="41"/>Cap. XII. Sacramentum divinorum operum
+</p>
+               <p xml:id="hsvhsv-g10044-d1e1443">
+                  <lb ed="#P" n="42"/>Ego puto magnum hic aliquod sacramentum
+<lb ed="#P" n="43"/>commendari ; quia omnis anima quandiu in 
+pec<lb ed="#P" break="no" n="44"/>cato est, quasi in tenebris est quibusdam et 
+con<lb ed="#P" break="no" n="45"/>fusione. Sed non potest evadere confusionem
+<lb ed="#P" n="46"/>suam et ad ordinem justitiae formamque disponi,
+<lb ed="#P" n="47"/>nisi illuminetur primum videre mala sua, et 
+die<lb ed="#P" break="no" n="48"/>cernere lucem a tenebris, hoc est virtutes a 
+vi<lb ed="#P" break="no" n="49"/>tiis, ut se disponat ad ordinem et conformet 
+ve<lb ed="#P" break="no" n="50"/>ritati. Hoc igitur an ita in confusione jacens sine
+<lb ed="#P" n="51"/>luce facere non potest ; et propterea necesse est
+<lb ed="#P" n="52"/>primum ut lux fiat, ut videat semetipsam, et
+<lb ed="#P" n="53"/>agnoscat horrorem et turpitudinem confusionis
+<lb ed="#P" n="54"/>sus, et explicet se atque coaptet ad illam 
+ratio<lb ed="#P" break="no" n="55"/>nabilem dispositionem et ordinem veritatis. 
+Post<lb ed="#P" break="no" n="56"/>quam autem ordinata fuerint omnia ejus, et 
+se<lb ed="#P" break="no" n="57"/>cundum exemplar rationis formamque sapientiae
+<lb ed="#P" n="58"/>disposita, tunc statim incipiet ei lucere sol 
+jus<lb ed="#P" break="no" n="59"/>titiae; quia sic in repromissione dictum est : Beati
+<lb ed="#P" n="60"/>mundo corde ; quoniam ipsi Deum videbunt
+<lb ed="#P" n="61"/>(Matth. v). Prius ergo in rationali illo mundo
+<lb ed="#P" n="62"/>cordis humani creatur lux, et illuminatur 
+confu<lb ed="#P" break="no" n="63"/>sio ut in ordinem redigatur. Post haec cum fue-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="64"/>sio ut in ordinem redigatur. Post haec cum 
+fue<lb ed="#P" break="no" n="65"/>rint purificata interiora ejus, venit lumen solis
+<lb ed="#P" n="66"/>clarum et illustrat eam. Non enim digna est 
+con<lb ed="#P" break="no" n="67"/>templari lumen aeternitatis, donec munda et 
+pu<lb ed="#P" break="no" n="68"/>rificata fuerit; habent quodammodo et per 
+ma<lb ed="#P" break="no" n="69"/>teriam speciem, et per justitiam dispositionem.
+</p>
+               <p xml:id="hsvhsv-g10044-d1e1508">
+                  <lb ed="#P" n="70"/>Sic lex precessit gratiam, sermo spiritum ; sic
+<lb ed="#P" n="71"/>precursor Joannes Christum ; lux lucem ; 
+lu<lb ed="#P" break="no" n="72"/>cerna solem ; et ipse Christus humanitatem suam
+<lb ed="#P" n="73"/>prius demonstravit, ut post manifestaret 
+divini<lb ed="#P" break="no" n="74"/>tatem, et ubique lux lucem precedit. Lux quae
+<lb ed="#P" n="75"/>peccatores ad justitiam illuminat, illam lucem
+<lb ed="#P" n="76"/>quae justificatos ab beatitudinem illustrat. Ergo
+<lb ed="#P" n="77"/>facta est lux priusquam solis claritas 
+manifesta<lb ed="#P" break="no" n="78"/>retur; et dies erat: et tres dies erant quando
+<lb ed="#P" n="79"/>lux erat et sol non erat. Quarta die illuxit solet
+<lb ed="#P" n="80"/>illa dies clara erat ; quia lumen verum habuit, et
+<lb ed="#P" n="81"/>tenebre non erant ullz. Sic nulla anima meretur
+<lb ed="#P" n="82"/>lumen solis accipere et summe veritatis 
+clarita<lb ed="#P" break="no" n="83"/>tem contemplari, nisi res dies isti in ea 
+prsece<lb ed="#P" break="no" n="84"/>dant. Prima quidem die fit lux, et dividuntur lux
+<lb ed="#P" n="85"/>et tenebre ; vocatur fitque lux dies, et tenebre
+<lb ed="#P" n="86"/>nox. Secunda die firmamentum, collocaturque 
+in<lb ed="#P" break="no" n="87"/>ter aquas superiores et aquas inferiores ; et 
+vo<lb ed="#P" break="no" n="88"/>catur firmamentum colum. Tertia die 
+congre<lb ed="#P" break="no" n="89"/>ganturaqus quaesub coelo sunt in locum unum;
+<lb ed="#P" n="90"/>jubeturque manifestari arida et vestiri 
+gramini<lb ed="#P" break="no" n="91"/>bus suis. Omnia autem hsc spiritualia 
+prefe<lb ed="#P" break="no" n="92"/>runt documenta. Primum in corde peccatoris
+<lb ed="#P" n="93"/>creaturlux ; quando semetipsum agnoscere 
+in<lb ed="#P" break="no" n="94"/>cipit, ut dividat interlucem et tenebras, et 
+ap<lb ed="#P" break="no" n="95"/>pellare incipiat lucem diem et tenebras noctem ;
+<lb ed="#P" n="96"/>et non sit jam de quibus dicitur : Vc qui dicunt
+<lb ed="#P" n="97"/>bonum malum, et malum bonum ; ponentes
+<lb ed="#P" n="98"/>lucem tenebras, et tenebras lucem (Isa. v).
+<lb ed="#P" n="99"/>Post haec autem cum coeperit inter lucem et 
+te<lb ed="#P" break="no" n="100"/>nebras dividere, et lucem diem, tenebras quoque
+<lb ed="#P" n="101"/>appellare noctem, id est cum mala sua veraciter
+<lb ed="#P" n="102"/>per judicium rationis improbare, et quae sunt
+<lb ed="#P" n="103"/>bona et laudabilia lucis opera eligere coeperit,
+<lb ed="#P" n="104"/>restat ut fiat in eo firmamentum, hoc estin bono
+<lb ed="#P" n="105"/>proposito corroboretur : dividere inter aquas 
+su<lb ed="#P" break="no" n="106"/>periores et aquas inferiores, id est, desideria 
+car<lb ed="#P" break="no" n="107"/>niset spiritus, ut medius et mediator duo sibi
+<lb ed="#P" n="108"/>adveraantia nec permiaceri sinat nec transponi ;
+<lb ed="#P" n="109"/>nec simul sit quod dividi debeat, aut supra quod
+<lb ed="#P" n="110"/>subter, aut subter quod supra collocandum est.
+<lb ed="#P" n="111"/>Novissime sequitur in dispositionis ordine opus
+<lb ed="#P" n="112"/>tertie diei, ut congregentur aquae quae sub coelo
+<lb ed="#P" n="113"/>sunt in locum unum, ne carnis desideria fluxa
+<lb ed="#P" n="114"/>sint, et ultra metam se necessitatis expandant,
+<lb ed="#P" n="115"/>ut totus homo ad statum nature revocatus, et 
+se<lb ed="#P" break="no" n="116"/>cundum ordinem rationis dispositus, in locum
+<lb ed="#P" n="117"/>unum omne desiderium colligat, quatenuset caro
+<lb ed="#P" n="118"/>Spiritui, et spiritus subjectus sit Creatori. 
+Quis<lb ed="#P" break="no" n="119"/>quis eic ordinatus est dignus est lumine solis, ut.
+<lb ed="#P" n="120"/>mente sursum erecta et desiderio in superna 
+de<lb ed="#P" break="no" n="121"/>fixo, lumen summe veritatis contemplanti 
+irra<lb ed="#P" break="no" n="122"/>diet, et jam non per. speculum in enigmate (I
+<lb ed="#P" n="123"/>Cor. xi), sed in seipsa ut est veritatem 
+agnos<lb ed="#P" break="no" n="124"/>cat etsapiat. Sed et illud non negligenter 
+tran<lb ed="#P" break="no" n="125"/>seundum est, quod dicitur : <quote xml:id="hsvhsv-g10044-Qd1e1631">Vidit Deus lucem
+<pb ed="#P" n="99"/>
+                     <cb ed="#P" n="a"/>
+                     <lb ed="#P" n="1"/>quod esset bonum, et divisit lucem a tenebris;
+<lb ed="#P" n="2"/>et vocavit lucem diem, ac tenebras noctem</quote>
+                  <lb ed="#P" n="3"/>(Gen. 1). Fecit enim et vidit ; deinde divisit et
+<lb ed="#P" n="4"/>vocavit. Quare vidit? Noluit priusdividere quam
+<lb ed="#P" n="5"/>vidisset, prius vidit an esset bonum ; et tunc 
+de<lb ed="#P" break="no" n="6"/>mum divisit lucem a tenebris ; et vocavit lucem
+<lb ed="#P" n="7"/>diem, et tenebras noctem. Adducet enim omne
+<lb ed="#P" n="8"/>opus suum in judicium ; et non solum opera alia
+<lb ed="#P" n="9"/>quie in luce fecit, vidit Deus quod esset bonum,
+<lb ed="#P" n="10"/>sed ipsam quoque lucem vidit quod esset bonum
+<lb ed="#P" n="11"/>et divisit lucem et. tenebras. Nam ipse angelus
+<lb ed="#P" n="12"/>malus transfigurat se aliquando in angelum 
+1u<lb ed="#P" break="no" n="13"/>cis, et ingeritse ad decipiendam mentem quasi
+<lb ed="#P" n="14"/>lux vera. Sed haec lux non est dividenda a 
+tene<lb ed="#P" break="no" n="15"/>bris, nec vocanda est dies sed nox ; quia 
+spe<lb ed="#P" break="no" n="16"/>ciem quidem lucis habet, sed tenebras veras.
+<lb ed="#P" n="17"/>Propterea prius vidit Deus lucem an esset bona
+<lb ed="#P" n="18"/>ut non statim credamus omni spiritui; sed 
+pro<lb ed="#P" break="no" n="19"/>bemus spiritus si ex Dco sint (Joan. 1v) ; etcum
+<lb ed="#P" n="20"/>viderimus lucem quia bona est, tunc demum 
+di<lb ed="#P" break="no" n="21"/>vidamus lucem a tenebris, et vocemus lucem
+<lb ed="#P" n="22"/>diem et tenebras noctem. Ergo non solum 
+stu<lb ed="#P" break="no" n="23"/>dendum est utluxprecedat in operibus nostris,
+<lb ed="#P" n="24"/>et ut in luce flant opera nostra ; sed ipsa quoque
+<lb ed="#P" n="25"/>lux prius videnda est et consideranda diligenter ;
+<lb ed="#P" n="26"/>et sic postremo cum viderimus lucem quia bona
+<lb ed="#P" n="27"/>est, dividamus lucem a tenebris, et vocemus 
+lu<lb ed="#P" break="no" n="28"/>cem diem, et tenebras noctem.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10044-Dd1e1700">
+               <head xml:id="hsvhsv-g10044-Hd1e1702">Capitulum 13</head>
+               <head xml:id="hsvhsv-g10044-Hd1e1704" type="question-title">
+Quare dicit Scriptura : Vidit Deus lucem
+</head>
+               <p xml:id="hsvhsv-g10044-d1e1707">
+                  <lb ed="#P" n="29"/>Cap. XIII. Quare dicit Scriptura :  <quote xml:id="hsvhsv-g10044-Qd1e1711">Vidit
+<lb ed="#P" n="30"/>Deus lucem</quote>.
+</p>
+               <p xml:id="hsvhsv-g10044-d1e1717">
+                  <lb ed="#P" n="31"/>Sed occurit fortassis quomodo vidét Deus lucem
+<lb ed="#P" n="32"/>quod esset bona et divisit lucem a tenebris. et
+<lb ed="#P" n="33"/>vocavit lucem diem, et tenebras noctem (Gen.
+<lb ed="#P" n="34"/>1. Nam si cetera opera sua in luce vidit quod 
+es<lb ed="#P" break="no" n="35"/>sent bona, in qua luce vidit lucem quod esset bona
+<lb ed="#P" n="36"/>et divisit lucem a tenebris vocavitque lucem diem
+<lb ed="#P" n="37"/>et tenebras noctem ? Nihil enim videri potest sine
+<lb ed="#P" n="38"/>luce; sed nec tenebre sine luce videntur, quanto
+<lb ed="#P" n="39"/>magis lux non videtur sine luce? Quae fuit ergo
+<lb ed="#P" n="40"/>illa lux per quam Deus vidit lucem quod esset
+<lb ed="#P" n="41"/>bona, et divisit lucem a. tenebris? An per ipsam
+<lb ed="#P" n="42"/>eam vidit quod esset, bona, an per aliam lucem
+<lb ed="#P" n="43"/>vidit quod esset bona? Sed quomodo per ipsam
+<lb ed="#P" n="44"/>videre potuisset quod esset bona, si aliam luzem
+<lb ed="#P" n="45"/>non habuisset per quam et in qua ipsam lucem
+<lb ed="#P" n="46"/>vidisset quod esset bona? Nam, si vidit quod esset
+<lb ed="#P" n="47"/>bona lux ista et vere vidit, in aliquo vidit de 
+cu<lb ed="#P" break="no" n="48"/>jus bonitate dubitari non potuit. Ergo, alia lux
+<lb ed="#P" n="49"/>increata, in qua ista lux creata videbatur quod
+<lb ed="#P" n="50"/>esset bona ; quia illam imitabatur qua» semper est
+<lb ed="#P" n="51"/>bona. In illa enim luce cum ipsa solum sit bona,
+<lb ed="#P" n="52"/>videntur et mala et bona; et non solum mala et
+<lb ed="#P" n="53"/>bona in ea videntur, sed mala etiam esse mala,
+<lb ed="#P" n="54"/>bonaesse bonain ea videntur : propterea quod ipsa.
+<lb ed="#P" n="55"/>vere et summe est bona. Quod enim ab ipsa 
+dis<lb ed="#P" break="no" n="56"/>cordare videtur, malum esse videtur; et quod ei
+<lb ed="#P" n="57"/>simile esse videtur, bonum esse videtur, et 
+utrum<lb ed="#P" break="no" n="58"/>que non nisi in ipsa et per ipsam videtur. Per
+<lb ed="#P" n="59"/>lucem ergo probavit lucem : quia in luce 
+incom<lb ed="#P" break="no" n="60"/>mutabili vidit quod lux ista commutabilis suo
+<lb ed="#P" n="61"/>modo et ordine bona esset. Et divisit lucem a 
+te<lb ed="#P" break="no" n="62"/>nebris, vocavit quelucem diem, et tenebrasnoctem;
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>et in ea luce in qua vidit lucem quod esset bona,
+<lb ed="#P" n="64"/>etiam c:teraoperasua qua operatus est vidit quod
+<lb ed="#P" n="65"/>essent bona, et nihil sine illa luce vidit, vel bonum
+<lb ed="#P" n="66"/>vel malum; sive ex iis qua ipse bona fecit, siveex
+<lb ed="#P" n="67"/>iis quae nos fecimus mala, quae omnia ipse non
+<lb ed="#P" n="68"/>male sed bene vidit. Et ibi vidit ubi nullum malum
+<lb ed="#P" n="69"/>vidit : haec ipsa lux est qua et nos videre oportet.
+<lb ed="#P" n="70"/>omnem lucem an bona est; nec poterimus judicare
+<lb ed="#P" n="71"/>vero de lucean bona est, donec ista luce illuminati.
+<lb ed="#P" n="72"/>fuerimus, qua» vere bona est : Spiritualis enim
+<lb ed="#P" n="73"/>dijudécat omnia, et ipse a nemine judicatur
+<lb ed="#P" n="74"/>Q Cor. n). Et si Spiritus Dei vere in nobis 
+habi<lb ed="#P" break="no" n="75"/>tat, non nos poterunt decipere spiritus erroris,
+<lb ed="#P" n="76"/>etiamsi in luce veniant ad nos; quia habebimus
+<lb ed="#P" n="77"/>lucem in nobis, in qua nobis manifestum erit de
+<lb ed="#P" n="78"/>omni luce utrum bona est; et sic fiducialiter 
+divi<lb ed="#P" break="no" n="79"/>demus lucem a tenebris, et judicabimus non solum
+<lb ed="#P" n="80"/>inter tenebras et lucem, sed etiam inter lucem et
+<lb ed="#P" n="81"/>lucem judicabimus; non solum inter noctem et
+<lb ed="#P" n="82"/>diem, sed etiam inter diem et diem judicabimus,
+<lb ed="#P" n="83"/>et judicabimus omnem diem. Parum est eiim ad
+<lb ed="#P" n="84"/>perfectum inter diem et noctem judicare, parum.
+<lb ed="#P" n="85"/>est lucem et tenebras dividere : hoc est virtutes a
+<lb ed="#P" n="86"/>vitiis sequestrare, nisi sciamus etiam inter diem
+<lb ed="#P" n="87"/>et diem judicare, et sciamus omnem diem judicare,
+<lb ed="#P" n="88"/>ut sapiamus qui sint illi motus qui sub virtutum
+<lb ed="#P" n="89"/>specie quasi luce aliena ad nos veniunt, et qui
+<lb ed="#P" n="90"/>sursum illi sint, qui veram virtutis claritatem
+<lb ed="#P" n="91"/>pratendunt; et in ipsis quoque virtutibus non
+<lb ed="#P" n="92"/>solum quae bona sint, sed etiam quae sint potiora
+<lb ed="#P" n="93"/>probemus. Spritualis enim judicabat omnia, et
+<lb ed="#P" n="94"/>ipse à nemine judicatur; quia Spiritus. omnia.
+<lb ed="#P" n="95"/>scrutatur, etiam profunda Dei (ibid.); et unctio
+<lb ed="#P" n="96"/>ejus docet nos de omnibus (I Joan. 11).
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10044-Dd1e1867">
+               <head xml:id="hsvhsv-g10044-Hd1e1869">Capitulum 14</head>
+               <head xml:id="hsvhsv-g10044-Hd1e1871" type="question-title">
+Qua sit cautela boni operis hic significata
+</head>
+               <p xml:id="hsvhsv-g10044-d1e1874">
+                  <lb ed="#P" n="97"/>Cap. XIV. Qua sit cautela boni operis hic significata.
+</p>
+               <p xml:id="hsvhsv-g10044-d1e1879">
+                  <lb ed="#P" n="98"/>Hic tibi attende quanta sit cautela bono operi
+<lb ed="#P" n="99"/>adhibenda. In principio omnium operum tuorum
+<lb ed="#P" n="100"/>vide ut lucem habeas in te, ut omnia opera tua
+<lb ed="#P" n="101"/>lucis sint et non tenebrarum. Postea considerata
+<lb ed="#P" n="102"/>diligenter utrumne lux tua pura sit et non fuacata;
+<lb ed="#P" n="103"/>et cum inveneris quia bona est, tunc demum divide
+<lb ed="#P" n="104"/>eam a tenebris, et voca lucem diem, et tenebras
+<lb ed="#P" n="105"/>noctem. Deinde reliquae opera tua quae in luce 
+fe<lb ed="#P" break="no" n="106"/>ceris, vide si etiam ipsa bona sunt; et nullum 
+om<lb ed="#P" break="no" n="107"/>nino opus sine judicio pertranseat, donec agnoscas
+<lb ed="#P" n="108"/>cuncta quo fecisti. Ita geminum eat judicium :
+<lb ed="#P" n="109"/>primum in quo lux judicatur et videtur si bona
+<lb ed="#P" n="110"/>estut dividatur a tenebris, secundum est judicium
+<lb ed="#P" n="111"/>quando opera ipsa qua in luce facta sunt ad 
+judi<lb ed="#P" break="no" n="112"/>cium vocantur, et videtur quia ipsa quoque bona.
+<lb ed="#P" n="113"/>sunt, el demunt requiescit Deus. Aliqua quedam
+<lb ed="#P" n="114"/>lucis mysteria interim pro tempore transcurrentes
+<lb ed="#P" n="115"/>perstrinximus, nunc iterum ad propositi nostri
+<lb ed="#P" n="116"/>seriem texendam revertamur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10044-Dd1e1924">
+               <head xml:id="hsvhsv-g10044-Hd1e1926">Capitulum 15</head>
+               <head xml:id="hsvhsv-g10044-Hd1e1928" type="question-title">
+Quid factum est de luce illa primaria
+post creatum solem ; et an de seipsa sol 
+substantialiter factus est
+</head>
+               <p xml:id="hsvhsv-g10044-d1e1931">
+                  <lb ed="#P" n="117"/>Cap. XV. Quid factum est de luce illa primaria
+<lb ed="#P" n="118"/>post creatum solem ; et an de seipsa sol 
+sub<lb ed="#P" break="no" n="119"/>stantialiter factus est.
+</p>
+               <p xml:id="hsvhsv-g10044-d1e1940">
+                  <lb ed="#P" n="120"/>Igitur Deus prius lucem facere voluit ad 
+illumi<lb ed="#P" break="no" n="121"/>nandum mundum antequam solem crearet ope
+<lb ed="#P" n="122"/>vicaria praecurrentem, donec veniret quod 
+perfec<lb ed="#P" break="no" n="123"/>tum est. Et sunt qui quaerant quid de illa luce
+<lb ed="#P" n="124"/>factum sit, propterea quod jam nulla ejus vestigia.
+<!-- 018.png.txt -->
+<pb ed="#P" n="100"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>reperiri possunt ex quo solis claritas illuxit. Alii 
+<lb ed="#P" n="2"/>dicunt dispersam per ampla aeris spatia vim 
+lucen<lb ed="#P" break="no" n="3"/>di et illuminandi amisisse; superesse tamen adhuc
+<lb ed="#P" n="4"/>quasdam tenues reliquias quae in ambitu 
+firma<lb ed="#P" break="no" n="5"/>menti intrinsecus huc illucque sparsim diligentius
+<lb ed="#P" n="6"/>intuentibus nocte demonstrentur; die vero eas
+<lb ed="#P" n="7"/>majori ne videri valeant solis claritate abscondi.
+<lb ed="#P" n="8"/>Sic quique suas opiniones prout possibile est 
+confin<lb ed="#P" break="no" n="9"/>gunt. Sed quis scit utrum ipsa eadem lux postea
+<lb ed="#P" n="10"/>in solis substantiam translata sit, et ampliata 
+cla<lb ed="#P" break="no" n="11"/>ritateformam meliorem acceperit, quemadmodum
+<lb ed="#P" n="12"/>in nuptiis Jesus de aquis vinum fecit, ut 
+reforma<lb ed="#P" break="no" n="13"/>tionis statum in melius et restaurationis 
+sacra<lb ed="#P" break="no" n="14"/>mentum demonstraret ? Nam erat lux antequam
+<lb ed="#P" n="15"/>80l factus est ; hoc erat aqua priusquam in vinum
+<lb ed="#P" n="16"/>mutata est, ut non aliud fleret quod potius 
+exihi<lb ed="#P" break="no" n="17"/>bitum est; sed de eo ipso quod ante villius 
+habe<lb ed="#P" break="no" n="18"/>batur. Ita de rebus dubiis nemo est qui possit
+<lb ed="#P" n="19"/>certum aliquid definire.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10044-Dd1e2002">
+               <head xml:id="hsvhsv-g10044-Hd1e2004">Capitulum 16</head>
+               <head xml:id="hsvhsv-g10044-Hd1e2006" type="question-title">
+Utrum Deus per sex dies sine 
+intervallo operatus est, sive alio quolibet modo.
+</head>
+               <p xml:id="hsvhsv-g10044-d1e2009">
+                  <lb ed="#P" n="20"/>Cap. XVI. Utrum Deus per sex dies sine 
+inter<lb ed="#P" break="no" n="21"/>vallo operatus est, sive alio quolibet modo.
+</p>
+               <p xml:id="hsvhsv-g10044-d1e2016">
+                  <lb ed="#P" n="22"/>Solum adhuc illud de operatione primae diei 
+in<lb ed="#P" break="no" n="23"/>quirendum restat : si Deus lucem in primo exortu
+<lb ed="#P" n="24"/>ejusdem diei, id est prime creavit. Cum nihil
+<lb ed="#P" n="25"/>eadem die aliud fecisse legatur quam lucem,
+<lb ed="#P" n="26"/>utrumne usque ad ortum sequentis diei quando
+<lb ed="#P" n="27"/>firmamentum fecit ab opere cessasse credendus
+<lb ed="#P" n="28"/>Bit, cum scriptura septima eum die demum 
+re<lb ed="#P" break="no" n="29"/>quievisse testetur? Cui questioni gemina 
+respon<lb ed="#P" break="no" n="30"/>sione obviabimus; aut enim dicemus Deum in illis
+<lb ed="#P" n="31"/>ex diebus operationem suam ita continua 
+perse<lb ed="#P" break="no" n="32"/>verantia produxisse, ut nullo temporis intervallo
+<lb ed="#P" n="33"/>ab operando desierit Autita sex diebus operatum,
+<lb ed="#P" n="34"/>ut nullum quidem diem in operando intermiserit:
+<lb ed="#P" n="35"/>non quod nullo temporis spatio operari cessaverit.
+<lb ed="#P" n="36"/>Quia, siquidem illam assertionem probare 
+volu<lb ed="#P" break="no" n="37"/>mus, quod continua fuerit ejus operatio dicere 
+po<lb ed="#P" break="no" n="38"/>terimus, quod prima die lucem in exortu ipsius
+<lb ed="#P" n="39"/>diei fecit; deinde ut cursu suo diem noctemque
+<lb ed="#P" n="40"/>distingueret; primum de oriente ad occasum, et
+<lb ed="#P" n="41"/>rursum de occidente ad ortum direxit. Nec 
+solum<lb ed="#P" break="no" n="42"/>modo opus ejus fuisse quod lux facta est, sed quod
+<lb ed="#P" n="43"/>directa, ipso gubernante et dirigente, cursum 
+ex<lb ed="#P" break="no" n="44"/>plevit. Eodem modo de secunda die dicetur, quando
+<lb ed="#P" n="45"/>firmamentum factum est, et circumactionis 
+perpe<lb ed="#P" break="no" n="46"/>tug praeceptum simul et legem accedit. Hocetiam
+<lb ed="#P" n="47"/>de tertia, quarta, quinta, vel sexta die, prout ratio
+<lb ed="#P" n="48"/>dictaverit exquiret, quisquis hujus partis 
+assertio<lb ed="#P" break="no" n="49"/>nem elegerit. Si cui autem ista interpretatio nimis
+<lb ed="#P" n="50"/>obscura videbitur, maxime quod de motu 
+firma<lb ed="#P" break="no" n="51"/>menti necdum rata sit assertio, ad illam alteram
+<lb ed="#P" n="52"/>quam proposuimus recurrat expositionem quae 
+fa<lb ed="#P" break="no" n="53"/>cilior est et se promptius ad intelligendum 
+commo<lb ed="#P" break="no" n="54"/>dat rationi. Dicet igitur Deum sex diebus 
+opera<lb ed="#P" break="no" n="55"/>tum et septima deinde die requievisse ab opere;
+<lb ed="#P" n="56"/>quia nullus de sex invenitur diebus in quo opus
+<lb ed="#P" n="57"/>non fecerit Deus, donec septima dies veniret 
+quan<lb ed="#P" break="no" n="58"/>do deindeab omni opererequievit. Et haec quidem
+<lb ed="#P" n="59"/>de operatione primse diei dicta sint.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10044-Dd1e2102">
+               <head xml:id="hsvhsv-g10044-Hd1e2104">Capitulum 17</head>
+               <head xml:id="hsvhsv-g10044-Hd1e2106" type="question-title"/>
+               <p xml:id="hsvhsv-g10044-d1e2108">
+                  <cb ed="#P" n="b"/>
+                  <lb ed="#P" n="60"/>Cap. XVII. De opere secunde diei quando 
+fac<lb ed="#P" break="no" n="61"/>tum est firmamentum.
+</p>
+               <p xml:id="hsvhsv-g10044-d1e2117">
+                  <quote xml:id="hsvhsv-g10044-Qd1e2119">Et vidit Deus quod esset bonum; et ait: Fiat
+<lb ed="#P" n="62"/>firmamentum in medio aquarum</quote> (Gen. 1). 
+No<lb ed="#P" break="no" n="63"/>luit igitur Deus ad sequens opus transire, donec
+<lb ed="#P" n="64"/>dijudicaset primum. Cum ergo vidisset de luce
+<lb ed="#P" n="65"/>quod esse bonum, tunc ait : Fiat firmamentum.
+<lb ed="#P" n="66"/>Quantum ad litteram pertinere videtur, factum.
+<lb ed="#P" n="67"/>est firmamentum die secunda; prius quidem in
+<lb ed="#P" n="68"/>illa universitatis materia de nihilo creatum, et
+<lb ed="#P" n="69"/>nunc ex illa ipsa ad talem formam erutum et 
+fac<lb ed="#P" break="no" n="70"/>tum firmamentum ut ambitu suo medium quodam
+<lb ed="#P" n="71"/>modo interveniens magnam illam aquarum 
+im<lb ed="#P" break="no" n="72"/>mensamque congeriem ab invicem separaretatque
+<lb ed="#P" n="73"/>devideret, et de aquis faceret aquas et aquas; hoc
+<lb ed="#P" n="74"/>est aquas quas ambitu suo intrinsecus 
+complecte<lb ed="#P" break="no" n="75"/>retur et subtus se contineret et aquas quas 
+extrin<lb ed="#P" break="no" n="76"/>gecus et supra gyrum limitis sui relinqueret.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10044-Dd1e2156">
+               <head xml:id="hsvhsv-g10044-Hd1e2158">Capitulum 18</head>
+               <head xml:id="hsvhsv-g10044-Hd1e2160" type="question-title"/>
+               <p xml:id="hsvhsv-g10044-d1e2162">
+                  <lb ed="#P" n="77"/>Cap. XVIII. De qua materia factum sit 
+firma<lb ed="#P" break="no" n="78"/>mentum, et quale factum sit.
+</p>
+               <p xml:id="hsvhsv-g10044-d1e2169">
+                  <lb ed="#P" n="79"/>Multa quidem sunt quae de firmamenti natura
+<lb ed="#P" n="80"/>animum quaestione pulsare posset, si haec humana.
+<lb ed="#P" n="81"/>investigatio relinquenda potius quam discutienda
+<lb ed="#P" n="82"/>non videret. Nam utrum ex puro igne factum sit,
+<lb ed="#P" n="83"/>8ive ex aere; aut etiam ex aqua; vel postremo ex
+<lb ed="#P" n="84"/>duobus aut tribus horum commistis, et an 
+subs<lb ed="#P" break="no" n="85"/>tantiam solidam naturaque palpabilem habeat,
+<lb ed="#P" n="86"/>quantave credenda spissitudo ejus, etutrum ipsum
+<lb ed="#P" n="87"/>calidum an frigidum; aut cujus alterius qualitatis
+<lb ed="#P" n="88"/>existat merito quzreretur : si inde aliquid certum
+<lb ed="#P" n="89"/>sciri potuisset. Nunc autem in questionibus 
+ha<lb ed="#P" break="no" n="90"/>rum rerumnon mihi multum laborandum videtur,
+<lb ed="#P" n="91"/>quas nec ratio ulla comprehendit nec auctoritas
+<lb ed="#P" n="92"/>(cui fides adhibenda sit) probat. Solum hoc quod
+<lb ed="#P" n="93"/>legimus credere sine dubitatione debemus, quod
+<lb ed="#P" n="94"/>factum est firmamentum ut divideret aquas ab
+<lb ed="#P" n="95"/>aquis; hoc est ut partem aquarum intra ambitum
+<lb ed="#P" n="96"/>suum concluderet, partemque extrinsecus 
+segre<lb ed="#P" break="no" n="97"/>garet.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10044-Dd1e2214">
+               <head xml:id="hsvhsv-g10044-Hd1e2216">Capitulum 19</head>
+               <head xml:id="hsvhsv-g10044-Hd1e2218" type="question-title">
+Sacramentum supradictorum
+</head>
+               <p xml:id="hsvhsv-g10044-d1e2221">
+                  <lb ed="#P" n="98"/>Cap. XIX. Sacramentum supradictorum.
+</p>
+               <p xml:id="hsvhsv-g10044-d1e2226">
+                  <lb ed="#P" n="99"/>Quare autem factum sit ut firmamentum aquas
+<lb ed="#P" n="100"/>ge divideret. partimque supra atque infra, partim
+<lb ed="#P" n="101"/>earumdem aquarum natura consisteret, non 
+quae<lb ed="#P" break="no" n="102"/>rat extra 8e, qui haec propter se facta credit. Nam
+<lb ed="#P" n="103"/>est illo qui interius fabricatus est mundo, quiddam
+<lb ed="#P" n="104"/>hujus operis formam et exemplar habens, ubi
+<lb ed="#P" n="105"/>terra quaedam deorsum posita consistit sensualis
+<lb ed="#P" n="106"/>natura hominis; coelum autem sursum puritas 
+in<lb ed="#P" break="no" n="107"/>telligenti;, et quasi quodam immortalis viti motu
+<lb ed="#P" n="108"/>vegetataratio. Duas vero istas tam dissimiles in
+<lb ed="#P" n="109"/>unohominenaturas, magna quaedam desideriorum
+<lb ed="#P" n="110"/>moles hinc inde fluctuantium, et in contraria ssepe
+<lb ed="#P" n="111"/>motu alterno tendentium oberrat; quia et aliud
+<lb ed="#P" n="112"/>est quod subtus caro ex inürmitate pressa 
+appe<lb ed="#P" break="no" n="113"/>tit, et aliud quod spiritus sursum per 
+contempla<lb ed="#P" break="no" n="114"/>tionem veritatis elevatus intendit. Sed fit 
+aliquo<lb ed="#P" break="no" n="115"/>ties ut contrarii motus confusionem gignant; nisi
+<lb ed="#P" n="116"/>ratio media interveniens dividat ab invicem, et
+<lb ed="#P" n="117"/>discernat voluntates et appetitus, desideriaque
+<lb ed="#P" n="118"/>dijudicet. Quid sit videlicet quod ex carne 
+deor<lb ed="#P" break="no" n="119"/>sum trahit; quid quod ex spiritu in superna 
+in<lb ed="#P" break="no" n="120"/>hiat, summum illud etimmortale bonum ambiens.
+<!-- 019.png.txt -->
+<pb ed="#P" n="101"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>Nam, cum ipsa ratio fortiter judicii censura quasi 
+<lb ed="#P" n="2"/>firmamentum quoddam in medio sese collocat,
+<lb ed="#P" n="3"/>atque hinc supercolestes aquas, illinc autem eas
+<lb ed="#P" n="4"/>quae sub coelo sunt disponit separatim, non potest
+<lb ed="#P" n="5"/>inferior corruptela inferiorem anim: puritatem
+<lb ed="#P" n="6"/>inficere; neque ipsa quae sursum est sinceritas,
+<lb ed="#P" n="7"/>ad ea quae subter sunt abjecta et vilia sinitur
+<lb ed="#P" n="8"/>sese inclinare.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10044-Dd1e2302">
+               <head xml:id="hsvhsv-g10044-Hd1e2304">Capitulum 20</head>
+               <head xml:id="hsvhsv-g10044-Hd1e2306" type="question-title">
+Quare non dicitur Deus vidisse opus
+secunda diei, quod bonum esset
+</head>
+               <p xml:id="hsvhsv-g10044-d1e2309">
+                  <lb ed="#P" n="9"/>Cap. XX. Quare non dicitur Deus vidisse opus
+<lb ed="#P" n="10"/>secunda diei, quod bonum esset.
+</p>
+               <p xml:id="hsvhsv-g10044-d1e2316">
+                  <lb ed="#P" n="11"/>Sed mirum est quare non vidit Deus opus 
+se<lb ed="#P" break="no" n="12"/>cundae diei quod esset bonum, sicut in caeteris
+<lb ed="#P" n="13"/>omnibus diebus vidisse legitur et vidit Deus quod
+<lb ed="#P" n="14"/>esset bonum. Aut enim opus ejus non fuit et 
+bo<lb ed="#P" break="no" n="15"/>num non fuit, aut si opus ejus fuit, bonum fuit.
+<lb ed="#P" n="16"/>Si autem bonum fuit et opus ejus fuit, vidit utique p 
+<lb ed="#P" n="17"/>quod bonum fuitqui non potuit ignorare quod
+<lb ed="#P" n="18"/>fuit, sive bonum sive malum fuit. Quare ergo hic
+<lb ed="#P" n="19"/>non dictomest : Vidit Deus quod esset bonum,
+<lb ed="#P" n="20"/>sicut alibi ubique dictum est : Vidit Deus quod
+<lb ed="#P" n="21"/>esset bonum. (Gen 1). Nam si ideo alibi dictum
+<lb ed="#P" n="22"/>est quia factum est, cur etiam hic dici non 
+de<lb ed="#P" break="no" n="23"/>buitsi factum fuit? Fortassis quia binarius 
+si<lb ed="#P" break="no" n="24"/>gnum divisionis est, qui primus ab unitate 
+dis<lb ed="#P" break="no" n="25"/>cedit : sacramentum aliquod hic commendatur.
+<lb ed="#P" n="26"/>Et non sunt laudata opera secunda, non quia
+<lb ed="#P" n="27"/>bona nonessent, sed quia malorum signum essent.
+<lb ed="#P" n="28"/>Prima enim opera fecit Deus et illa omnia bona
+<lb ed="#P" n="29"/>valde erant (ibid.); quibus nequeineratcorruptio,
+<lb ed="#P" n="30"/>neque deerat perfectio. Sed venit deinde diabolus
+<lb ed="#P" n="31"/>et homo, et fecerunt ipsi opera sua; et haec erant  
+<lb ed="#P" n="32"/>opera secunda post prima, mala post bona; et noluit
+<lb ed="#P" n="33"/>Deus videre opera ista quia mala erant, sed quie
+<lb ed="#P" n="34"/>per sapientiam vidit, per judicium improbavit.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10044-Dd1e2372">
+               <head xml:id="hsvhsv-g10044-Hd1e2374">Capitulum 21</head>
+               <head xml:id="hsvhsv-g10044-Hd1e2376" type="question-title">
+Quomodo congregata sunt aquae in
+unum locum, ut arida appareret
+</head>
+               <p xml:id="hsvhsv-g10044-d1e2379">
+                  <lb ed="#P" n="35"/>Cap. XXI. Quomodo congregata sunt aquae in
+<lb ed="#P" n="36"/>unum locum, ut arida appareret.
+</p>
+               <p xml:id="hsvhsv-g10044-d1e2386">
+                  <lb ed="#P" n="37"/>Et dixit Deus : Congregentur aquae quam sub
+<lb ed="#P" n="38"/>ezlosunt in locum unum (Gen. 1). Quantum ad
+<lb ed="#P" n="39"/>litteram spectat, locus unus, in quo congregate
+<lb ed="#P" n="40"/>sunt aque qua sub colo erant, abyssus magna
+<lb ed="#P" n="41"/>creditur, quae ab ipso mundi exordio in terre
+<lb ed="#P" n="42"/>eorpore tante capacitatis facta fuisse putatur,
+<lb ed="#P" n="43"/>utomnium receptaculum aquarum esse potuisset.
+<lb ed="#P" n="44"/>Nam aquarum naíura in principio tenuis 
+admo<lb ed="#P" break="no" n="45"/>dum levisque, et in modum nebule cujusdam 
+dis<lb ed="#P" break="no" n="46"/>persa; postquam divina virtute et jussione in
+<lb ed="#P" n="47"/>unam, ut ita dixerim, massam compingi 
+quodam<lb ed="#P" break="no" n="48"/>modo atque densari copit, ipso suo pondere 
+deor<lb ed="#P" break="no" n="49"/>sum vergens in ima collapsa a terra excepta est,
+<lb ed="#P" n="50"/>spatiumque illud quod desuper usque ad ipsum
+<lb ed="#P" n="51"/>firmamentum occupaverat, serenum purumque
+<lb ed="#P" n="52"/>dereliquit. Ipsa quoque terre superficies (aquis
+<lb ed="#P" n="53"/>omnibus inter alveos suos conclusis) apparere
+<lb ed="#P" n="54"/>«epit. Primo quidem lutulentaetlubrica nudaque,
+<lb ed="#P" n="55"/>velut quae germina necdum ulla protulisset, 
+qui<lb ed="#P" break="no" n="56"/>bus vestiri et superduci potuisset.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10044-Dd1e2433">
+               <head xml:id="hsvhsv-g10044-Hd1e2435">Capitulum 22</head>
+               <head xml:id="hsvhsv-g10044-Hd1e2437" type="question-title">
+Quomodo terra germina produxit
+</head>
+               <p xml:id="hsvhsv-g10044-d1e2440">
+                  <lb ed="#P" n="57"/>Cap. XXII. Quomodo terra germina produxit.
+</p>
+               <p xml:id="hsvhsv-g10044-d1e2445">
+                  <lb ed="#P" n="58"/>Dixit ergo Deus ut produceret terra herbam
+<lb ed="#P" n="59"/>viventem et facientem semen, lignumque 
+po<lb ed="#P" break="no" n="60"/>miferum faciens fructum in genere suo, cujus
+<lb ed="#P" n="61"/>semen, in semetipso esset super terram : et 
+fa<lb ed="#P" break="no" n="62"/>ctum est ita (Gen. 1). Deinde ad irrigandam uni-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>versam terram ab illa magna abysso quasi a fonte
+<lb ed="#P" n="64"/>quodam aquo interius quidem intra viscera 
+tellu<lb ed="#P" break="no" n="65"/>ris per trachones occultos quae meatus, desuper
+<lb ed="#P" n="66"/>vero in superficie per alveos suos in omnes 
+par<lb ed="#P" break="no" n="67"/>tes deductee sunt, itu et reditu mirabili et Ande
+<lb ed="#P" n="68"/>fesso, lege perpetua, ad unum locum.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10044-Dd1e2475">
+               <head xml:id="hsvhsv-g10044-Hd1e2477">Capitulum 23</head>
+               <head xml:id="hsvhsv-g10044-Hd1e2479" type="question-title"/>
+               <p xml:id="hsvhsv-g10044-d1e2481">
+                  <lb ed="#P" n="69"/>Cap. XXIII. Quare aqua ille qua supra coelum
+<lb ed="#P" n="70"/>sunt non dicit Scriptura quod. sint 
+congre<lb ed="#P" break="no" n="71"/>gata in unum locum.
+</p>
+               <p xml:id="hsvhsv-g10044-d1e2490">
+                  <lb ed="#P" n="72"/>De illis aquis quae supra callum sunt non dixit
+<lb ed="#P" n="73"/>Scriptura quod congregate sunt in locum unum;
+<lb ed="#P" n="74"/>quemadmodum de illis quae erant sub coelo. Magna.
+<lb ed="#P" n="75"/>sunt in his omnibus sacramenta, nec explicabilia.
+<lb ed="#P" n="76"/>praesenti abbrevatione, quod aque quae sub colo
+<lb ed="#P" n="77"/>sunt congregantur in unum locum, quod apparet
+<lb ed="#P" n="78"/>arida et germina producit, simul quae ipsa aeris 
+spa<lb ed="#P" break="no" n="79"/>tia contracta tandem caligine serenantur, et 
+aqua<lb ed="#P" break="no" n="80"/>rum tractus ad irrigandam atque infundendam
+<lb ed="#P" n="81"/>terram per corpus illius quacunque sparguntur;
+<lb ed="#P" n="82"/>et nihil sine causa factum est. Hoc mirum 
+vide<lb ed="#P" break="no" n="83"/>tur, quod aque qua sub coelo sunt congregantur
+<lb ed="#P" n="84"/>inlocum unum, et ille quae sunt supra colum
+<lb ed="#P" n="85"/>non congregantur neque eis locus unus tribuitur,
+<lb ed="#P" n="86"/>sed relinquuntur diffusm atque expansem, quasi
+<lb ed="#P" n="87"/>aquae coarctari nolint vel colligi. Quid putas hoo
+<lb ed="#P" n="88"/>Sibi vult nisi quod Charitas Dei diffusa est in
+<lb ed="#P" n="89"/>cordibus nostris per Spiritum sanctum qui 
+da<lb ed="#P" break="no" n="90"/>tus est nobis? (Rom. v). Etiste sunt super 
+coeles<lb ed="#P" break="no" n="91"/>tes aquae; quia adhuc emcellentiorem, inquit
+<lb ed="#P" n="92"/>Apostolus, viam vobis demonstro (I Cor. xu). Si
+<lb ed="#P" n="93"/>lingua. hominum loquar et angelorum; si 
+ha<lb ed="#P" break="no" n="94"/>buero omnem prophetiam ; si novero mysteria.
+<lb ed="#P" n="95"/>omnia, quid est? nihil prodest si charitatem non.
+<lb ed="#P" n="96"/>habeam (I Cor. xin). Paz, ait, Dei quc 
+ezsupe<lb ed="#P" break="no" n="97"/>rat omnem sensum custodiat corda vestra et
+<lb ed="#P" n="98"/>intelligentias vestras (Philipp. 1v). Jam 
+quodam<lb ed="#P" break="no" n="99"/>modo videmus quare aquae ille qua supra coelum
+<lb ed="#P" n="100"/>sunt non debuerunt colligi et in unum coarctari,
+<lb ed="#P" n="101"/>quoniam charitas amplificanda semper est et 
+dila<lb ed="#P" break="no" n="102"/>tanda; et quanto latius panditur tanto celsius 
+su<lb ed="#P" break="no" n="103"/>blimatur. Qua autem sub codlosunt aquas, 
+congre<lb ed="#P" break="no" n="104"/>gande sunt et constringende in locum unum,
+<lb ed="#P" n="105"/>ut inde per certos tramites et exitus 
+ordina<lb ed="#P" break="no" n="106"/>tos, quacunque deducantur. Quoniam affectus
+<lb ed="#P" n="107"/>anima inferior nisi certa lege constringatur, non
+<lb ed="#P" n="108"/>potest apparere arida, nec germina producere, 
+si<lb ed="#P" break="no" n="109"/>eut Apostolus : Castigat corpus suum et in servi
+<lb ed="#P" n="110"/>utem religit, ne forte cum aliis predicaverit,
+<lb ed="#P" n="111"/>ipse reprobus fiat (I Cor. 1x).
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10044-Dd1e2580">
+               <head xml:id="hsvhsv-g10044-Hd1e2582">Capitulum 24</head>
+               <head xml:id="hsvhsv-g10044-Hd1e2584" type="question-title">
+Quod iis tribus diebus facta est
+rerum dispositio.
+</head>
+               <p xml:id="hsvhsv-g10044-d1e2587">
+                  <lb ed="#P" n="112"/>Cap. XXIV. Quod iis tribus diebus facta est
+<lb ed="#P" n="113"/>rerum dispositio.
+</p>
+               <p xml:id="hsvhsv-g10044-d1e2594">
+                  <lb ed="#P" n="114"/>Ecce ista sunt trium dierum opera, antequam
+<lb ed="#P" n="115"/>sol vel cetera luminaria facta fuissent. In his 
+pri<lb ed="#P" break="no" n="116"/>mis tribus diebus disposita est universitatis hujus
+<lb ed="#P" n="117"/>machina et partibus suis distributa firmamento
+<lb ed="#P" n="118"/>desuper expanso. Deinde terra revelata atque in
+<lb ed="#P" n="119"/>imo residente et suo pondere librata, collectisque
+<lb ed="#P" n="120"/>aquarum molibus intra receptacula sua aere 
+sere<lb ed="#P" break="no" n="121"/>nato: quatuor mundielemenda locis suis distincta
+<lb ed="#P" n="122"/>et ordinata sunt.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10044-Dd1e2617">
+               <head xml:id="hsvhsv-g10044-Hd1e2619">Capitulum 25</head>
+               <head xml:id="hsvhsv-g10044-Hd1e2621" type="question-title"/>
+               <p xml:id="hsvhsv-g10044-d1e2623">
+<!-- 020.png.txt -->
+                  <pb ed="#P" n="102"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>Cap. XXV. Quomodo tribus diebus sequentibus 
+<lb ed="#P" n="2"/>ornatus est mundus.
+</p>
+               <p xml:id="hsvhsv-g10044-d1e2636">
+                  <lb ed="#P" n="3"/>Deinde sequebatur ornatus eorum, et hoc tribus
+<lb ed="#P" n="4"/>sequentibus item diebus factum est. Quarto (qui
+<lb ed="#P" n="5"/>fuit primus in tribus) ornatum est firmamentum
+<lb ed="#P" n="6"/>sole et luna et stellis. Quinto die (qui fuit 
+secun<lb ed="#P" break="no" n="7"/>dus in tribus) aer in volatilibus, et aqui in 
+pisci<lb ed="#P" break="no" n="8"/>bus ornamenta acceperunt. Sexto die (qui fuit
+<lb ed="#P" n="9"/>tertius in tribus) accepit terra bestias et jumenta
+<lb ed="#P" n="10"/>et reptilia caetera quae animantia quae moventur in
+<lb ed="#P" n="11"/>terra. Homo autem novissimo die factus est de
+<lb ed="#P" n="12"/>terra et in terra, non tamen ad terram, neque
+<lb ed="#P" n="13"/>propter terram, sed ad coelum; et propter eum qui
+<lb ed="#P" n="14"/>fecit terram et. coelum (Gen. 1). Ergo factus est
+<lb ed="#P" n="15"/>homo non quasi ornatus terre, sed dominus et
+<lb ed="#P" n="16"/>possessor, ut non ad terram referatur conditio B 
+<lb ed="#P" n="17"/>ejus propter quem facta est terra.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10044-Dd1e2673">
+               <head xml:id="hsvhsv-g10044-Hd1e2675">Capitulum 26</head>
+               <head xml:id="hsvhsv-g10044-Hd1e2677" type="question-title">
+Utrum de ipsis elementis facta
+sunt qua ad ornatum illorum facta sunt
+</head>
+               <p xml:id="hsvhsv-g10044-d1e2680">
+                  <lb ed="#P" n="18"/>Cap. XXVI. Utrum de ipsis elementis facta
+<lb ed="#P" n="19"/>sunt qua ad ornatum illorum facta sunt.
+</p>
+               <p xml:id="hsvhsv-g10044-d1e2687">
+                  <lb ed="#P" n="20"/>De ornatibus elementorum si interroget quis,
+<lb ed="#P" n="21"/>utrumnam credendum sit ex ipsis ea quieque 
+ele<lb ed="#P" break="no" n="22"/>mentis esse condita ad quorum decorem vel 
+pul<lb ed="#P" break="no" n="23"/>chritudinem facta probantur, ut verbi gratia : quae
+<lb ed="#P" n="24"/>ad ornatum terre facta sunt, non nisi de terra
+<lb ed="#P" n="25"/>surmi potuerunt; hoc et si in aliis verum 
+concedi<lb ed="#P" break="no" n="26"/>mus, non tamen in elemento aeris ullo modo 
+pro<lb ed="#P" break="no" n="27"/>bare valemus, cum manifeste volatilia legamus
+<lb ed="#P" n="28"/>accepisse et ab aquis originem et in aere 
+mansio<lb ed="#P" break="no" n="29"/>nem. Quod quare factum sit ut non (ad 
+similitu<lb ed="#P" break="no" n="30"/>dinem aliorum quae ad ornatum elementorum
+<lb ed="#P" n="31"/>mundi creata sunt) ex ipso elemento materiam
+<lb ed="#P" n="32"/>sumerent in quo locum sortiri debuerunt, forte
+<lb ed="#P" n="33"/>quis ab ipsius elementi materiam referat : quod
+<lb ed="#P" n="34"/>quasi tantam aer corpulentiam non habuerit, ut
+<lb ed="#P" n="35"/>animantium corpora quae soidam materiam 
+requi<lb ed="#P" break="no" n="36"/>runt ex eo conderentur. Aquarum autem naturam
+<lb ed="#P" n="37"/>magis terrae affinem plusque corpulentie 
+haben<lb ed="#P" break="no" n="38"/>tem, ac per hoc formandis corporibus aptiorem. Sed
+<lb ed="#P" n="39"/>altior in his rebus sacramenti virtus objecta est.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10044-Dd1e2734">
+               <head xml:id="hsvhsv-g10044-Hd1e2736">Capitulum 27</head>
+               <head xml:id="hsvhsv-g10044-Hd1e2738" type="question-title">
+Sacramentum quare pisces et
+aves de una materia facti sunt ; et. in una
+sede dispositi non sunt
+</head>
+               <p xml:id="hsvhsv-g10044-d1e2741">
+                  <lb ed="#P" n="40"/>Cap. XXVII. Sacramentum quare pisces et
+<lb ed="#P" n="41"/>aves de una materia facti sunt ; et. in una
+<lb ed="#P" n="42"/>sede dispositi non sunt.
+</p>
+               <p xml:id="hsvhsv-g10044-d1e2750">
+                  <lb ed="#P" n="43"/>Duo sunt genera animantium qua ex una 
+ori<lb ed="#P" break="no" n="44"/>gine prodeunt; sed non unam mansionem 
+sorliun<lb ed="#P" break="no" n="45"/>tur. Pisces in originali sede permanent. Volatilia
+<lb ed="#P" n="46"/>sursum tolluntur, et fiunt quasi supra id quod
+<lb ed="#P" n="47"/>facta sunt. Sic de una massa corruptibilis naturae,
+<lb ed="#P" n="48"/>etsua mutabilitate defluentis universa generis
+<lb ed="#P" n="49"/>humani propago trahitur, sed aliis deorsum in ea
+<lb ed="#P" n="50"/>qua nati sunt corruptione juste derelictis; aliis
+<lb ed="#P" n="51"/>sursum dono gratie ad sortem covestis patrise
+<lb ed="#P" n="52"/>elevatis, judicii servatur aequitas.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10044-Dd1e2775">
+               <head xml:id="hsvhsv-g10044-Hd1e2777">Capitulum 28</head>
+               <head xml:id="hsvhsv-g10044-Hd1e2779" type="question-title">
+Quare opera conditionis prius
+commemorantur; deinde opera restaurationis
+</head>
+               <p xml:id="hsvhsv-g10044-d1e2782">
+                  <lb ed="#P" n="53"/>Cap. XXVIII. Quare opera conditionis prius
+<lb ed="#P" n="54"/>commemorantur; deinde opera restaurationis.
+</p>
+               <p xml:id="hsvhsv-g10044-d1e2789">
+                  <lb ed="#P" n="55"/>Perquam multa sunt alia quae de his diebus
+<lb ed="#P" n="56"/>mystica dici potuerunt. Sed nos quasi extra 
+mate<lb ed="#P" break="no" n="57"/>riam nostram cursim ista perstrinximus, ut ad
+<lb ed="#P" n="58"/>eamdem materiam tractandam quasi ex 
+prwce<lb ed="#P" break="no" n="59"/>denti accessum convenientiorem haberémus. Nos
+<lb ed="#P" n="60"/>Siquidem propositum habemus de sacramento re-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="61"/>demptionis humanae (quod a principio in operibus
+<lb ed="#P" n="62"/>restaurationis formatum est) quantum Dominus
+<lb ed="#P" n="63"/>dederit in hoc opere tractare. Sed quia opera 
+con<lb ed="#P" break="no" n="64"/>ditionis tempore priora fuerunt, ab his exordium
+<lb ed="#P" n="65"/>sermonis sumpsimus, ut inde ad reliqua quae 
+se<lb ed="#P" break="no" n="66"/>quuntur suo ordine viam faceremus. Dicimus
+<lb ed="#P" n="67"/>namque opera conditionis creationem 
+universo<lb ed="#P" break="no" n="68"/>rum, quando facta sunt ut essent quae non erant;
+<lb ed="#P" n="69"/>opera vero restaurationis quibus impletum est vel
+<lb ed="#P" n="70"/>figuratum est sacramentum redemptionis quo
+<lb ed="#P" n="71"/>reparata sunt qua perierant. Ergo opera 
+conditio<lb ed="#P" break="no" n="72"/>nis sunt quae in principio mundi sex diebus facta
+<lb ed="#P" n="73"/>sunt; opera vero restaurationis quae a principio
+<lb ed="#P" n="74"/>mundi propter reparationem hominis sex tatibus
+<lb ed="#P" n="75"/>fiunt ; quae ut brevi definitione stringamus, opera.
+<lb ed="#P" n="76"/>restaurationis esse dicimus incarnationem Verbi,
+<lb ed="#P" n="77"/>et quae in carne et percarnem gessit Verbum cum
+<lb ed="#P" n="78"/>omnibus sacramentis suis; sive iis quae ab initio
+<lb ed="#P" n="79"/>mundi ad ipsam incarnationem figurandam 
+prae<lb ed="#P" break="no" n="80"/>cesserunt, sive iis quae usque in finem seculi ad
+<lb ed="#P" n="81"/>ipsamannuntiandam et praedicandam 
+subsequun<lb ed="#P" break="no" n="82"/>tur. De his loquitur omnis divina Scriptura, et de
+<lb ed="#P" n="83"/>his et pro his facta est omnis divina Scriptura ;
+<lb ed="#P" n="84"/>quia, quemadmodum libri gentilium opera 
+condi<lb ed="#P" break="no" n="85"/>tionis investigant, et tractant, sic divina 
+elo<lb ed="#P" break="no" n="86"/>quia ad opera restaurationis tractanda et 
+com<lb ed="#P" break="no" n="87"/>mendanda maxime operamdant.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10044-Dd1e2866">
+               <head xml:id="hsvhsv-g10044-Hd1e2868">Capitulum 29</head>
+               <head xml:id="hsvhsv-g10044-Hd1e2870" type="question-title">
+Quod in operibus restaurationis
+maxime versatur tractatio
+</head>
+               <p xml:id="hsvhsv-g10044-d1e2873">
+                  <lb ed="#P" n="88"/>Cap. XXIX. Quod in operibus restaurationis
+<lb ed="#P" n="89"/>maxime versatur tractatio.
+</p>
+               <p xml:id="hsvhsv-g10044-d1e2880">
+                  <lb ed="#P" n="90"/>Ergo in operibus restaurationis a principio 
+re<lb ed="#P" break="no" n="91"/>demptionis mysterium investigandum est; et si
+<lb ed="#P" n="92"/>hoc diligenter in his omnibus secundum seriem
+<lb ed="#P" n="93"/>temporum et successiones generationum ac 
+dis<lb ed="#P" break="no" n="94"/>positionem praeceptorum inquirinus, summan 
+to<lb ed="#P" break="no" n="95"/>tamdivinarumScripturarum fidenter nos attigisse
+<lb ed="#P" n="96"/>pronuntiamus. Hoc autem incipiendum est a 
+con<lb ed="#P" break="no" n="97"/>ditione primi parentis; et cernendum paulatim
+<lb ed="#P" n="98"/>progredientibus nobis semper ad ea quae ordine
+<lb ed="#P" n="99"/>subsequuntur. Sed breviter in clausula ipsa 
+su<lb ed="#P" break="no" n="100"/>pradicta colligimus, ad intelligentiam dicendorum
+<lb ed="#P" n="101"/>comparandam. Opera ergo conditionis, id est 
+mun<lb ed="#P" break="no" n="102"/>dus iste sensibilis cum omnibus elementis suisin
+<lb ed="#P" n="103"/>materia quidem ante omnem diem in tempore 
+pa<lb ed="#P" break="no" n="104"/>riter et cum tempore facta sunt; postea sex diebus
+<lb ed="#P" n="105"/>in formam disposita : tribus primis diebus 
+ordi<lb ed="#P" break="no" n="106"/>nata, et sequentibus iribus ornata. Novissime
+<lb ed="#P" n="107"/>sexta die factus est homo Adam et Eva, propter
+<lb ed="#P" n="108"/>quem facta sunt estera omnia ; et ipse in 
+para<lb ed="#P" break="no" n="109"/>diso collocatus est : primo mansurus ibi et 
+opera<lb ed="#P" break="no" n="110"/>turus ut post opus consummatum et obedientiam
+<lb ed="#P" n="111"/>impletamexindeilluc provehereturubi eratsemper
+<lb ed="#P" n="112"/>mansurus. Sed, quia sequentis operis seriem, a
+<lb ed="#P" n="113"/>conditione primi hominis deducere instituimus,
+<lb ed="#P" n="114"/>justum est ut in ipsius exordio libri, primum 
+cau<lb ed="#P" break="no" n="115"/>sam conditionis humanae investigemus, ut simul
+<lb ed="#P" n="116"/>demonstretur et primum rationabiliter a Deo 
+con<lb ed="#P" break="no" n="117"/>ditus, et postmodum misericorditer reparatus.
+<lb ed="#P" n="118"/>Ibi quoquedum conderetur gratuito factum opus
+<lb ed="#P" n="119"/>rationabile; et hic dum redimeretur rationabiliter
+<lb ed="#P" n="120"/>impletum opus gratiae.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10044-Dd1e2951">
+               <head xml:id="hsvhsv-g10044-Hd1e2953">Capitulum 30</head>
+               <head xml:id="hsvhsv-g10044-Hd1e2955" type="question-title">
+Quatuor esse per qua sermo 
+subsequens decurrit
+</head>
+               <p xml:id="hsvhsv-g10044-d1e2958">
+<!-- 021.png.txt -->
+                  <pb ed="#P" n="103"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>Cap. XXX. Quatuor esse per qua sermo 
+subse<lb ed="#P" break="no" n="2"/>quens decurrit.
+</p>
+               <p xml:id="hsvhsv-g10044-d1e2971">
+                  <lb ed="#P" n="3"/>Quatuor igitur sunt per quae sermo subsequens
+<lb ed="#P" n="4"/>ordine decurrere debet, id est, primum quare
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="5"/>creatus sit homo; deinde qualis creatus sit; deinde
+<lb ed="#P" n="6"/>qualiter lapsus sit; postremo autem qualiter ait
+<lb ed="#P" n="7"/>reparatus.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

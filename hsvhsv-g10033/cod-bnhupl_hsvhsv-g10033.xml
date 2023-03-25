@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prologus</title>
+            <author ref="#HughOfStVictor">Hugh of St. Victor</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Prologus</title>
+               <date when="2023-03-25">March 25, 2023</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-bnhupl">Patrologia Latina, v. 176</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2023-03-25" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="92"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="hsvhsv-g10033"><!-- l1-prol -->
+            <head xml:id="hsvhsv-g10033-Hd1e101">Prologus</head>
+            <p xml:id="hsvhsv-g10033-d1e103">
+<!-- 010.png.txt -->
+               <pb ed="#P" n="92"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>LIBRI PRIORIS DE SACRAMENTIS
+<lb ed="#P" n="2"/>PROLOGUS
+<lb ed="#P" n="3"/>Quare lectionem mutaverit.
+</p>
+            <p xml:id="hsvhsv-g10033-d1e119">
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="4"/>Cum igitur de prima eruditione sacri eloquii quae in Historica constat lectione, compendiosum 
+vo<lb ed="#P" break="no" n="5"/>lumen prius dictassem, hoc nunc ad secundam eruditionem (quae in allegoria est) introducendis
+<lb ed="#P" n="6"/>reset: in quo, si fundamento quodam cognitionis fidei animum stabiliant, ut caetera quae vel
+<lb ed="#P" n="7"/>legendo vel audiendo superaedificare potuerint, inconcussa permaneant. Hanc enim quasi brevem
+<lb ed="#P" n="8"/>quamdam summam omnium in unam seriem compegi, ut animus aliquid certum haberet, cui 
+inten<lb ed="#P" break="no" n="9"/>tionem affigere et conformare valeret, ne per varia Scripturarum volumina et lectionum divortia sine
+<lb ed="#P" n="10"/>ordine et directione raperetur,
+</p>
+            <div xml:id="hsvhsv-g10033-Dd1e139">
+               <head xml:id="hsvhsv-g10033-Hd1e141">Capitulum 1</head>
+               <head xml:id="hsvhsv-g10033-Hd1e143" type="question-title">
+Qua sint discenda a principio.
+</head>
+               <p xml:id="hsvhsv-g10033-d1e146">
+                  <cb ed="#P" n="c"/>
+                  <lb ed="#P" n="11"/>Cap. I. Qua sint discenda a principio.
+</p>
+               <p xml:id="hsvhsv-g10033-d1e153">
+                  <lb ed="#P" n="12"/>Quisquis ad divinarum Scripturarum lectionem
+<lb ed="#P" n="13"/>erudiendus accedit, primum considerare debet
+<lb ed="#P" n="14"/>quae sit máteria, circa quam versatur earum
+<lb ed="#P" n="15"/>tractatio ; quia, si rerum illarum de quibus 
+scrip<lb ed="#P" break="no" n="16"/>tura facta est notitiam habuerit, facilius post
+<lb ed="#P" n="17"/>modum dictorum ejus veritatem sive profundita.
+<lb ed="#P" n="18"/>tem perspiciet.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10033-Dd1e172">
+               <head xml:id="hsvhsv-g10033-Hd1e174">Capitulum 2</head>
+               <head xml:id="hsvhsv-g10033-Hd1e176" type="question-title">
+Quae sit materia divinarum Scripturarum
+</head>
+               <p xml:id="hsvhsv-g10033-d1e179">
+                  <lb ed="#P" n="19"/>Cap. II Quae sit materia divinarum Scripturarum.
+</p>
+               <p xml:id="hsvhsv-g10033-d1e184">
+                  <lb ed="#P" n="20"/>Materia divinarum Scripturarum omnium,
+<lb ed="#P" n="21"/>Sunt opera restaurationis humanae. Duo enim
+<lb ed="#P" n="22"/>Bunt opera in quibus universa continentur quae
+<lb ed="#P" n="23"/>facta sunt. Primum est opus conditionis. 
+Secun<lb ed="#P" break="no" n="24"/>dum est opus restaurationis. Opus conditionis
+<lb ed="#P" n="25"/>est quo factum est, ut essent qui non erant. Opus
+<lb ed="#P" n="26"/>restaurationis est quo factum est ut melius essent
+<lb ed="#P" n="27"/>quae perierant. Ergo opus conditionis est creatio
+<lb ed="#P" n="28"/>mundi cum omnibus elementis suis. Opus 
+restau<lb ed="#P" break="no" n="29"/>rationis est incarnatio Verbi cum omnibus 
+sacra<lb ed="#P" break="no" n="30"/>mentis suis ; sive iis quae praecesserunt ab initio
+<lb ed="#P" n="31"/>sseculi, siveiis quae subsequuntur usque ad finem.
+<lb ed="#P" n="32"/>mundi. Verbum enim incarnatum rex noster est,
+<lb ed="#P" n="33"/>quiin hunc mundum venit cum diabolo 
+pugna<lb ed="#P" break="no" n="34"/>turus ; et omnes sancti qui ante ejus adventum
+<lb ed="#P" n="35"/>fuerunt, quasi milites sunt ante faciem regis
+<lb ed="#P" n="36"/>praecedentes ; et qui postea venerunt et venient
+<lb ed="#P" n="37"/>usque ad finem mundi milites sunt regem suum
+<lb ed="#P" n="38"/>Bubsequentes. Et ipse rex medius est in exercitu
+<lb ed="#P" n="39"/>800; hinc inde vallatus incedens et stipatus 
+agmi<lb ed="#P" break="no" n="40"/>nibus suis. Et licet hac in tanta multitudine diverse
+<lb ed="#P" n="41"/>armorum species in sacramentis et 
+observationi<lb ed="#P" break="no" n="42"/>bus precedentium et subsequentium populorum
+<lb ed="#P" n="43"/>appareant, omnes tamen uni regi militare et unum
+<lb ed="#P" n="44"/>vexillum sequi probantur, et hostem unum 
+per<lb ed="#P" break="no" n="45"/>sequi et una victoria coronari. In his omnibus
+<lb ed="#P" n="46"/>opera restaurationis considerantur; in quibus 
+di<lb ed="#P" break="no" n="47"/>vinarum Scripturarum tota vertatur intentio.
+<lb ed="#P" n="48"/>Mundane sive saeculares scripture materiam 
+ha<lb ed="#P" break="no" n="49"/>bent opera conditionis. Divina Scriptura materiam
+<lb ed="#P" n="50"/>habet opera restaurationis. Proptera tanto 
+excel<lb ed="#P" break="no" n="51"/>lentior omnibus scripturis jure creditur, quanto
+<lb ed="#P" n="52"/>dignior est et sublimior materia in qua ejus
+<lb ed="#P" n="53"/>consideratio tractatioque versatur. Nam opera
+<lb ed="#P" n="54"/>restaurationis multo digniora sunt operibus con-
+<cb ed="#P" n="d"/>
+                  <lb ed="#P" n="55"/>ditionis; quia illa ad servitutem facta sunt, ut
+<lb ed="#P" n="56"/>stanti homini subessent; h»c ad salutem, ut
+<lb ed="#P" n="57"/>lapsum erigerent. Propterea illa quasi modicum
+<lb ed="#P" n="58"/>aliquid sex diebus perfecta sunt ; haec vero non
+<lb ed="#P" n="59"/>misi statibus sex compleri possunt. Tamen sex
+<lb ed="#P" n="60"/>contra sex e diverso ponuntur, ut idem reparator
+<lb ed="#P" n="61"/>qui creator demonstretur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10033-Dd1e282">
+               <head xml:id="hsvhsv-g10033-Hd1e284">Capitulum 3</head>
+               <head xml:id="hsvhsv-g10033-Hd1e286" type="question-title">
+Quomodo divina Scriptura per opera
+conditionis descendit ad narranda opera
+restaurationis
+</head>
+               <p xml:id="hsvhsv-g10033-d1e289">
+                  <lb ed="#P" n="62"/>Cap. III. Quomodo divina Scriptura per opera
+<lb ed="#P" n="63"/>conditionis descendit ad. narranda opera
+<lb ed="#P" n="64"/>restaurationis.
+</p>
+               <p xml:id="hsvhsv-g10033-d1e298">
+                  <lb ed="#P" n="65"/>Quamvis autem principalis materia divine
+<lb ed="#P" n="66"/>Scripture sint opera restaurationis ; tamen, ut
+<lb ed="#P" n="67"/>competentius ad ea tractanda accedat, primum in
+<lb ed="#P" n="68"/>ipso capite narrationis sus breviter secundum
+<lb ed="#P" n="69"/>fidem rerum gestarum exordium et constitutionem
+<lb ed="#P" n="70"/>narrat operum conditionis. Non enim convenienter
+<lb ed="#P" n="71"/>ostendere posset qualiter homo reparatus sit, niei
+<lb ed="#P" n="72"/>prius demonstraret qualiter sit lapsus; neque
+<lb ed="#P" n="73"/>verolapsum ejus convenienter ostendere, nisi priua
+<lb ed="#P" n="74"/>qualiter a Deo institutus fuerit explicaret. Ad
+<lb ed="#P" n="75"/>ostendendam autem primam institutionem 
+homi<lb ed="#P" break="no" n="76"/>nis oportuit, ut totius mundi conditio ac creatio
+<lb ed="#P" n="77"/>panderetur; quia propter hominem factus est
+<lb ed="#P" n="78"/>mundus. Spiritus quidem propter Deum, corpus
+<lb ed="#P" n="79"/>propter spiritum; mundus propter corpus 
+huma<lb ed="#P" break="no" n="80"/>num, ut spiritus Deo subjiceretur, spiritui corpus
+<lb ed="#P" n="81"/>et corpori mundus. Hoc igitur ordine Scriptura
+<lb ed="#P" n="82"/>sacra primum creationem mundi describit, qui
+<lb ed="#P" n="83"/>propter hominem factus est; deinde commemorat
+<lb ed="#P" n="84"/>qualiter homo factus in via justitia et disciplinae
+<lb ed="#P" n="85"/>dispositus est ; postea, qualiter homo lapsus est ;
+<lb ed="#P" n="86"/>novissime quemadmodum est reparatus. Primum
+<lb ed="#P" n="87"/>ergo describit materiam in eo quod factus est et
+<lb ed="#P" n="88"/>dispositus ; deinde miseriam in culpa et poena ;
+<lb ed="#P" n="89"/>deinde reparationem et misericordiam in 
+cogni<lb ed="#P" break="no" n="90"/>tione veritatis et amore virtutis ; demum patriam
+<lb ed="#P" n="91"/>et gaudium beatitudinis.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10033-Dd1e360">
+               <head xml:id="hsvhsv-g10033-Hd1e362">Capitulum 4</head>
+               <head xml:id="hsvhsv-g10033-Hd1e364" type="question-title">
+Quod tripliciter tractat de materia
+sua eloquium sacrum
+</head>
+               <p xml:id="hsvhsv-g10033-d1e367">
+                  <lb ed="#P" n="92"/>Cap. IV. Quod tripliciter tractat de materia
+<lb ed="#P" n="93"/>sua eloquium sacrum.
+</p>
+               <p xml:id="hsvhsv-g10033-d1e374">
+                  <lb ed="#P" n="94"/>De hac autem materia tractat divina Scriptura
+<lb ed="#P" n="95"/>secundum triplicem intelligentiam: hoc eat 
+histo<lb ed="#P" break="no" n="96"/>riam, allegoriam, tropologiam. Historia est rerum
+<lb ed="#P" n="97"/>gestarum narratio, quae in prima significatione
+<lb ed="#P" n="98"/>littere continetur ; allegoria est cum per id quod
+<!-- 011.png.txt -->
+<pb ed="#P" n="93"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>factum dicitur, aliquid aliud factum sive in pre- A
+<lb ed="#P" n="2"/>teritosive in praesenti, sive in futuro significatur;
+<lb ed="#P" n="3"/>tropologia est cum per id quod factum dicitur,
+<lb ed="#P" n="4"/>aliquid faciendum esse significatur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10033-Dd1e403">
+               <head xml:id="hsvhsv-g10033-Hd1e405">Capitulum 5</head>
+               <head xml:id="hsvhsv-g10033-Hd1e407" type="question-title">
+Quod in sacro eloquio non sole voces
+sed et res significare habent.
+</head>
+               <p xml:id="hsvhsv-g10033-d1e410">
+                  <lb ed="#P" n="5"/>Cap. V. Quod in sacro eloquio non sole voces
+<lb ed="#P" n="6"/>sed et res significare habent.
+</p>
+               <p xml:id="hsvhsv-g10033-d1e417">
+                  <lb ed="#P" n="7"/>Unde apparet quantum divina Scriptura caeteris
+<lb ed="#P" n="8"/>omnibus scripturis non solum in materia sua, sed
+<lb ed="#P" n="9"/>etiam in modo tractandi, subtilitate et 
+profundi<lb ed="#P" break="no" n="10"/>tate precellat ; cum in ceteris quidem scripturis
+<lb ed="#P" n="11"/>sole voces significare inveniantur; in hac autem
+<lb ed="#P" n="12"/>non solum voces, sed etiam res significative sint.
+<lb ed="#P" n="13"/>Sicut igitur in eo sensu qui inter voces et res
+<lb ed="#P" n="14"/>versatur necessaria est cognitio vocum, sic in illo
+<lb ed="#P" n="15"/>quiinter res et facta vel facienda mystica constat,
+<lb ed="#P" n="16"/>necessaria est cognitio rerum. Cognitio autem
+<lb ed="#P" n="17"/>vocum in duobus consideratur; in pronuntiatione
+<lb ed="#P" n="18"/>videlicet et significatione. Ad solam 
+pronuntiatio<lb ed="#P" break="no" n="19"/>nem pertinet grammatica, ad solam 
+significatio<lb ed="#P" break="no" n="20"/>nem pertinet dialectica; ad pronuntiationem simul
+<lb ed="#P" n="21"/>et significationem pertinet rhetorica. Cognitio
+<lb ed="#P" n="22"/>rerum circa duo versatur, id est formam et 
+natu<lb ed="#P" break="no" n="23"/>ram. Forma est in exteriori dispositione ; natura
+<lb ed="#P" n="24"/>in interiori qualitate. Forma rerum aut in numero
+<lb ed="#P" n="25"/>consideratur ad quem pe?tinet arithmetica ; aut
+<lb ed="#P" n="26"/>in proportione ad quam pertinet musica ; aut in
+<lb ed="#P" n="27"/>dimensione ad quam pertinet geometria ; aut in
+<lb ed="#P" n="28"/>motu ad quem pertinet astronomia. Ad interiorem
+<lb ed="#P" n="29"/>vero rerum naturam physica spectat.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10033-Dd1e470">
+               <head xml:id="hsvhsv-g10033-Hd1e472">Capitulum 6</head>
+               <head xml:id="hsvhsv-g10033-Hd1e474" type="question-title">
+Quomodo omnes artes subserviunt
+divinae sapientiae
+</head>
+               <p xml:id="hsvhsv-g10033-d1e477">
+                  <lb ed="#P" n="30"/>Cap. VI. Quomodo omnes artes subserviunt
+<lb ed="#P" n="31"/>divinae sapientiae.
+</p>
+               <p xml:id="hsvhsv-g10033-d1e484">
+                  <lb ed="#P" n="32"/>Ex quo constat quod omnes artes naturales
+<lb ed="#P" n="33"/>divinae scientiae famulantur; et inferior sapientia
+<lb ed="#P" n="34"/>recte ordinata ad superiorem conducit. Sub eo
+<lb ed="#P" n="35"/>igitur sensu qui est in significatione vocum ad res,
+<lb ed="#P" n="36"/>continetur historia ; cui famulantur tres scientize
+<lb ed="#P" n="37"/>Bicut dictum est, id est grammatica, dialectica,
+<lb ed="#P" n="38"/>rhetorica. Sub eo autem sensu qui est in 
+signifi<lb ed="#P" break="no" n="39"/>catione rerum ad facta mystica, continetur 
+alle<lb ed="#P" break="no" n="40"/>goria. Et sub eo sensu qui est in significatione
+<lb ed="#P" n="41"/>rerum ad facienda mystica, continetur tropologia;
+<lb ed="#P" n="42"/>et his duobus famulantur arithmetica, mueica,
+<lb ed="#P" n="43"/>geometria, astronomia et physica. Super hec
+<lb ed="#P" n="44"/>ante omnia divinum illud est ad quod ducit divina
+<lb ed="#P" n="45"/>Scriptura sive in allegoria, sive in tropologia :
+<lb ed="#P" n="46"/>quorum alterum (quod in allegoria est) rectam p)
+<lb ed="#P" n="47"/>fidem, alterum (quod in tropologia est) informat
+<lb ed="#P" n="48"/>bonam operationem: in quibus constat cognitio
+<lb ed="#P" n="49"/>veritatis et amor virtutis : et haec est vera 
+repa<lb ed="#P" break="no" n="50"/>ratio hominis.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10033-Dd1e529">
+               <head xml:id="hsvhsv-g10033-Hd1e531">Capitulum 7</head>
+               <head xml:id="hsvhsv-g10033-Hd1e533" type="question-title">
+De numero librorum sacri eloquii
+</head>
+               <p xml:id="hsvhsv-g10033-d1e536">
+                  <lb ed="#P" n="51"/>Cap. VII. De numero librorum sacri eloquii.
+</p>
+               <p xml:id="hsvhsv-g10033-d1e541">
+                  <lb ed="#P" n="52"/>Postquam demonstravimus quae sit materia
+<lb ed="#P" n="53"/>divinarum Scripturarum et qualiter de subjecta
+<lb ed="#P" n="54"/>Sibi materia tractent in triplici sensu, historiz,
+<lb ed="#P" n="55"/>allegoriz, tropologis, nunc ostendere convenitin
+<lb ed="#P" n="56"/>quibus libris ea quae jure divinitatis nomine 
+con<lb ed="#P" break="no" n="57"/>setur, scriptura consistat. Duo sunt Testamenta
+<lb ed="#P" n="58"/>quae omne divinarum Scripturarum corpus 
+con<lb ed="#P" break="no" n="59"/>eludunt : Vetus scilicet et Novum. Utrumque tri-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="60"/>bus ordinibus distinguitur. Vetus Testamentum
+<lb ed="#P" n="61"/>continet legem, prophetas, hagiographos, quod
+<lb ed="#P" n="62"/>interpretatum sonat sanctos scriptores vel sancta
+<lb ed="#P" n="63"/>scribentes. In lege continentur quinque volumina;
+<lb ed="#P" n="64"/>Scilicet Genesis, Exodus, Leviticus, Numeri, 
+Deu<lb ed="#P" break="no" n="65"/>teronomium. Genesis autem a generatione dicitur;
+<lb ed="#P" n="66"/>Exodus ab exitu; Leviticus a levitis. Liber 
+nu<lb ed="#P" break="no" n="67"/>meri, quia in eo numerantur filii Israel. 
+Deuterono<lb ed="#P" break="no" n="68"/>mium secunda lex, Hebraice autem <foreign>p**31n n*M,
+<lb ed="#P" n="69"/>2702, Np23, mov nw, T"773</foreign>, bresith, helles
+<lb ed="#P" n="70"/>moth, vagetra, vegedaber, adabarim: In ordine
+<lb ed="#P" n="71"/>prophetarum octo sunt volumina. Primus liber
+<lb ed="#P" n="72"/>Josue, qui et Jesu Nave, et Josue Bennun, id est
+<lb ed="#P" n="73"/>filius Nun; secundus liber Judicum, qui dicitur
+<lb ed="#P" n="74"/>Sopthim ; tertius liber Samuelis, qui est primus
+<lb ed="#P" n="75"/>et secundus Regum ; quartus Malachim quod
+<lb ed="#P" n="76"/>interpretatur regum, qui est tertius et quartus
+<lb ed="#P" n="77"/>Regum ; quintus Isaias ; sextus Jeremias ; 
+septi<lb ed="#P" break="no" n="78"/>mus Ezechiel ; octavus liber duodecim 
+propheta<lb ed="#P" break="no" n="79"/>rum qui dicitur gy *^n thareasra. Hi prophetici
+<lb ed="#P" n="80"/>dicuntur eo quod prophetarum sunt, etiamsi non
+<lb ed="#P" n="81"/>omnes prophetie sint. Propheta autem tribus
+<lb ed="#P" n="82"/>modis dicitur: officio gratia, missione. Vulgo
+<lb ed="#P" n="83"/>autem usitato vocabulo magis prophetae vocantur,
+<lb ed="#P" n="84"/>qui vel officio vel aperta missione prophetae sunt;
+<lb ed="#P" n="85"/>sicut in hoc loco. Secundum quam acceptionem
+<lb ed="#P" n="86"/>David et Daniel et caeteri complures, prophete
+<lb ed="#P" n="87"/>non dicuntur, sed hagiographi. In ordine 
+hagio<lb ed="#P" break="no" n="88"/>graphorum novem volumina continentur. Primum
+<lb ed="#P" n="89"/>Job; secundum liber Psalmorum; tertium 
+Prover<lb ed="#P" break="no" n="90"/>bia Salomonis quae Grece parabolwm, Hebraice
+<lb ed="#P" n="91"/>YowO masioth, dicuntur; quartum Ecclesiastes,
+<lb ed="#P" n="92"/>qui Hebraice n'p coeleth, Latine concionator
+<lb ed="#P" n="93"/>interpretatur; quintum D'"Un "V. syra syrim ,
+<lb ed="#P" n="94"/>id est Cantica canticorum; sextum Daniel; 
+septi<lb ed="#P" break="no" n="95"/>mum Paralipomenon, quod Latine sonat verba
+<lb ed="#P" n="96"/>dierum, Hebraicepros v31 dabreniamin, 
+di<lb ed="#P" break="no" n="97"/>citur; octavum Esdras; nonum Esther. Qui omnes,
+<lb ed="#P" n="98"/>id est quinque octo novem : similiter faciunt 
+vi<lb ed="#P" break="no" n="99"/>ginti duos quot litteras etiam alphabetum 
+conti<lb ed="#P" break="no" n="100"/>net Hebraicum, ut totidem libris erudiatur vita
+<lb ed="#P" n="101"/>justorum ad salutem, quot litteris lingua 
+discen<lb ed="#P" break="no" n="102"/>tium ad eloquentiam instruitur. Sunt praeterea in
+<lb ed="#P" n="103"/>Veteri Testamento alii quidam libri qui leguntur
+<lb ed="#P" n="104"/>quidem, sed in corpore textus velin canone 
+aucto<lb ed="#P" break="no" n="105"/>ritatis non scribuntur. Ut est liber Tobic et Judith,
+<lb ed="#P" n="106"/>et Machabsorum et qui inscribitur liber Sapientiae
+<lb ed="#P" n="107"/>Salamonis et Ecclesiasticus. Novum Testamentum
+<lb ed="#P" n="108"/>continet Evangelia, apostolos, Patres. Evangelia
+<lb ed="#P" n="109"/>quator sunt: Matthmi, Marci, Lucas, Joannis.
+<lb ed="#P" n="110"/>Apostolica volumina similiter ; quatuor: Actus
+<lb ed="#P" n="111"/>apostolorum; Epistole Pauli; Canonicae Epistol;,
+<lb ed="#P" n="112"/>Apocalypsis: qui juncti cum superioribus viginti
+<lb ed="#P" n="113"/>duobus Veteris Testamenti, triginta complent, in
+<lb ed="#P" n="114"/>quibus corpus divine pagine consummatur.
+<lb ed="#P" n="115"/>Scriptura Patrum in corpore textus non 
+compu<lb ed="#P" break="no" n="116"/>tantur; quia non aliud adjiciunt, sed idipsum quod
+<lb ed="#P" n="117"/>in supradictis continetur explanando et latius
+<lb ed="#P" n="118"/>manifestiusque tractando extendunt.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

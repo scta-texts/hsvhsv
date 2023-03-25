@@ -1,0 +1,1314 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pars 6</title>
+            <author ref="#HughOfStVictor">Hugh of St. Victor</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Pars 6</title>
+               <date when="2023-03-25">March 25, 2023</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-bnhupl">Patrologia Latina, v. 176</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2023-03-25" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="221"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="hsvhsv-g38789"><!-- l2-p6 -->
+            <head xml:id="hsvhsv-g38789-Hd1e101">Pars 6</head>
+            <head xml:id="hsvhsv-g38789-Hd1e103" type="question-title">
+De sacramento baptismi
+</head>
+            <p xml:id="hsvhsv-g38789-d1e106">
+               <cb ed="#P" n="c"/>
+               <lb ed="#P" n="94"/>PARS SEXTA.
+<lb ed="#P" n="95"/>DE SACRAMENTO BAPTISMI.
+</p>
+            <div xml:id="hsvhsv-g38789-Dd1e115">
+               <head xml:id="hsvhsv-g38789-Hd1e117">Capitulum 1</head>
+               <head xml:id="hsvhsv-g38789-Hd1e119" type="question-title">
+Quare sit primum, et qua de eo inquirenda
+</head>
+               <p xml:id="hsvhsv-g38789-d1e122">
+                  <cb ed="#P" n="d"/>
+                  <lb ed="#P" n="96"/>Cap. 1. Quare sit primum, et qua de eo inquirenda.
+</p>
+               <p xml:id="hsvhsv-g38789-d1e129">
+                  <lb ed="#P" n="97"/>Sacramentum baptismi primum est inter 
+om<lb ed="#P" break="no" n="98"/>nia sacramenta, in quibus salus constare 
+proba<lb ed="#P" break="no" n="99"/>tur. De ipso namque Dominus dicit: Nisi quis
+<lb ed="#P" n="100"/>renatus fuerit ex aqua et Spiritu sancto,
+<lb ed="#P" n="101"/>non potest introire in regnum caelorum [Dei]
+<lb ed="#P" n="102"/>(Joan. rm). Et iterum : Qui. crediderit et 
+bapti<lb ed="#P" break="no" n="103"/>zatus fuerit salvus erit (Marc. xvi). Haec sunt
+<lb ed="#P" n="104"/>igitur quae de sacramento baptismi principaliter
+<cb ed="#P" n="e"/>
+                  <lb ed="#P" n="105"/>inquirenda proponimus. Primum quid si 
+baptis<lb ed="#P" break="no" n="106"/>mus; secundum quare institutus sit baptimus
+<lb ed="#P" n="107"/>vel quare circumcisio mutata sit, et cetera
+<lb ed="#P" n="108"/>quadam Veteris Legis sacramenta ; tertium
+<lb ed="#P" n="109"/>quando institutus sit baptismus , et. de tribus
+<lb ed="#P" n="110"/>temporibus. Primo quando circumcisio sfatum
+<lb ed="#P" n="111"/>habuit aute baptismum. Ultimo quando 
+baptis<lb ed="#P" break="no" n="112"/>mus statum habuerit post circumcisionem. 
+Me<lb ed="#P" break="no" n="113"/>dio quando circumcisio et baptismus simul cucur-
+<!-- 140.png.txt -->
+<pb ed="#P" n="222"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>rerunt ; altera ut finiretur, alter ut confirmaretur 
+<lb ed="#P" n="2"/>Item quando homines obligari ceperunt 
+praecep<lb ed="#P" break="no" n="3"/>to suscipiendi baptismi. Item quid distat inter
+<lb ed="#P" n="4"/>baptismum Joannis et Christi. Item quae fuerit.
+<lb ed="#P" n="5"/>forma baptismi Joannis. Item quae sit forma 
+bap<lb ed="#P" break="no" n="6"/>tismi Christi. Item utrum nullus salvari potest
+<lb ed="#P" n="7"/>nisi actualiter percepto sacramento baptismi. De
+<lb ed="#P" n="8"/>his omnibus multa querenda restant; sed nos
+<lb ed="#P" n="9"/>interim pro tempore pauca secundum nostram
+<lb ed="#P" n="10"/>possibilitatem prosequamur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g38789-Dd1e200">
+               <head xml:id="hsvhsv-g38789-Hd1e202">Capitulum 2</head>
+               <head xml:id="hsvhsv-g38789-Hd1e204" type="question-title"/>
+               <p xml:id="hsvhsv-g38789-d1e206">
+                  <lb ed="#P" n="11"/>Cap. II. Quid sit baptismus, et. de nomine Dei in quo
+<lb ed="#P" n="12"/>fi baptirmus, et de fide et verbo sanctiftcante.
+</p>
+               <p xml:id="hsvhsv-g38789-d1e213">
+                  <lb ed="#P" n="13"/>Si ergo quaeritur quid sit baptismus, dicimus
+<lb ed="#P" n="14"/>quod baptismus est aqua diluendis criminibus
+<lb ed="#P" n="15"/>sanctificata per verbum Dei. Aqua enim sola 
+cle<lb ed="#P" break="no" n="16"/>mentum esse potest, sacramentum esse non 
+po<lb ed="#P" break="no" n="17"/>test, donec accedat verbum ad elementum, ét sic
+<lb ed="#P" n="18"/>sacramentum. Per verbum enim elementum 
+sanc<lb ed="#P" break="no" n="19"/>tificatur, ut virtutem sacramenti accipiat. Ut 
+que<lb ed="#P" break="no" n="20"/>madmodum elementum ex naturali quadam 
+qua<lb ed="#P" break="no" n="21"/>litate repraesentat, ex superaddita institutione 
+si<lb ed="#P" break="no" n="22"/>gnificat, sic ex sanctificatione contineat (qus
+<lb ed="#P" n="23"/>sanctificandis per eam impertienda est) gratiam
+<lb ed="#P" n="24"/>spiritualem. Verbum autem quo elementum 
+sanc<lb ed="#P" break="no" n="25"/>tiflcatur ut sit sacramentum ; ipsum intelligimus
+<lb ed="#P" n="26"/>de quo dictum est: Ite, docete omnes gentes,
+<lb ed="#P" n="27"/>baptizantes eos in nomine Patris, et Filii, et
+<lb ed="#P" n="28"/>Spiritus sancti (Matth. xxvin). Nomen ergo 
+Pa<lb ed="#P" break="no" n="29"/>tris, et Filii et Spiritus sancti, ipsum est Verbum
+<lb ed="#P" n="30"/>Dei, per quod sanctiflcatur elementum, ut sit 
+sa<lb ed="#P" break="no" n="31"/>eramentum. Et recte per verbum Dei 
+sanctifica<lb ed="#P" break="no" n="32"/>tur quae per verbum Dei creata subsistunt : Ipse
+<lb ed="#P" n="33"/>dicit et facta sunt (Psal. cxrvir). Per verbum
+<lb ed="#P" n="34"/>creare potuit, et per verbum sanctificare non 
+po<lb ed="#P" break="no" n="35"/>test? Quibus per verbum subsistentiam dedit ;
+<lb ed="#P" n="36"/>putas quod per ipsum verbum gratiam apponere
+<lb ed="#P" n="37"/>non possit ? Neergo mireris si per verbum Dei
+<lb ed="#P" n="38"/>sanctificatur, quod ad remedium salutis 
+institu<lb ed="#P" break="no" n="39"/>tum est sacramentum. Sed forte dicit cogitatio
+<lb ed="#P" n="40"/>tua: quod est istud verbum Dei? Quod est hoc
+<lb ed="#P" n="41"/>nomen Patris, et Filil et Spiritus sancti, 1n quo
+<lb ed="#P" n="42"/>baptizari ubemur ? Nunquid vocem aliquam hoc
+<lb ed="#P" n="43"/>cogitare oportet et sonum ad aures humanas 
+pro<lb ed="#P" break="no" n="44"/>latum ? Si vocem aliquam intelligi oportet nomen
+<lb ed="#P" n="45"/>Trinitatis, ipsam quam aut qualem intelligi 
+opor<lb ed="#P" break="no" n="46"/>tet? Si dicimus quod haec vox Deus in nomine 
+is<lb ed="#P" break="no" n="47"/>to intelligenda est , congequeas est ut ubi sonus
+<lb ed="#P" n="48"/>iste super aquam sanctificandam prolatus non
+<lb ed="#P" n="49"/>fuerit sacramentum baptismi esse non possit.
+<lb ed="#P" n="50"/>Quid ergo ? Mersisti hominem et dixisti : Baptizo
+<lb ed="#P" n="51"/>te in nomine, Patris et Filii, et Spiritus sancti.
+<lb ed="#P" n="52"/>Et dicis mihi: Christianus est hic homo. 
+Bapti<lb ed="#P" break="no" n="53"/>zatus est in nomine Patris, et Filii, et Spiritus
+<lb ed="#P" n="54"/>sancti. Ego illum mersi tertio in aquam. Ego 
+di<lb ed="#P" break="no" n="55"/>xi cum mergerem illum : «Baptizo te in nomine
+<lb ed="#P" n="56"/>Patris et Filii et Spiritus sancti.» Ego igitur 
+tes<lb ed="#P" break="no" n="57"/>tis assisto, quod baptizatis est hic in nomine Pa.
+<lb ed="#P" n="58"/>tris, et Filii, et Spiritus sancti, Baptizatus est in
+<lb ed="#P" n="59"/>nomine Trinitatis. In quo nomine? Tu mihi 
+di<lb ed="#P" break="no" n="60"/>xisti quod nomen Trinitatis est Deus. Hoc 
+no<lb ed="#P" break="no" n="61"/>men ego hic non audivi cum dixisti. « In nomine
+<lb ed="#P" n="62"/>Patris et Filii, et Spiritus sancti. » Quod ergo no-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>men dicere voluisti ? Dixisti te baptizare in 
+no<lb ed="#P" break="no" n="64"/>mine Patris, et Filii, et Spiritu sancti. Et illud
+<lb ed="#P" n="65"/>nomen de quo dixisti, non dixisti ; quomodo ergo
+<lb ed="#P" n="66"/>sanctificata est aqua in nomine quod dictum non
+<lb ed="#P" n="67"/>est ? Quod si putas te in hoc dixisse nomen 
+Pa<lb ed="#P" break="no" n="68"/>trie, et Filii, et Spiritus sancti, quod dixisti: «In
+<lb ed="#P" n="69"/>nonime Patris, et Filii, et Spiritus sancti ; » et sic
+<lb ed="#P" n="70"/>esse intelligendum in nomine Patris, et Filii, et
+<lb ed="#P" n="71"/>Spiritus sancti, pro eo quod nomen Patris ibi 
+di<lb ed="#P" break="no" n="72"/>citurjineoquod Pafrisdicitur; etnomen fllii ibi 
+di<lb ed="#P" break="no" n="73"/>citur, in eo quod Filii dicitur; et nomen 
+Spiri<lb ed="#P" break="no" n="74"/>tus sancti ibi dicitur in eo quod Spiritus 
+sano<lb ed="#P" break="no" n="75"/>tus dicitur: ergo multa sunt nomina non unum
+<lb ed="#P" n="76"/>nomen. Ego prsiceptum Domini accepi ut 
+bapti<lb ed="#P" break="no" n="77"/>zarem in nomine Patris, et Filii, et Spiritus 
+sanc<lb ed="#P" break="no" n="78"/>B ti ; tu autem in nominibus multis baptizasti. 
+Pa<lb ed="#P" break="no" n="79"/>ter, et Filius, et Spiritus sanctus: tria nomina
+<lb ed="#P" n="80"/>sunt ettrium nomina sunt, non unum nomen,
+<lb ed="#P" n="81"/>nec unius nomen. Quia tres unus non sunt, 
+quam<lb ed="#P" break="no" n="82"/>vis unum sint tres. Ipse vero non dixit in 
+nomi<lb ed="#P" break="no" n="83"/>bus, sed «in nomine, » inquit, «Patris, et Filii, et
+<lb ed="#P" n="84"/>Spiritus sancti, » quia unum est nomen, ubi est
+<lb ed="#P" n="85"/>una natura, una substantia, una divinitas, una
+<lb ed="#P" n="86"/>majestas. Hoc nomen autem est in quo omnes
+<lb ed="#P" n="87"/>salvos fleri oportét (Act. rv.) Velim ergo ut mihi
+<lb ed="#P" n="88"/>ostendas ubi protuleris hoc unum nomen Patris,
+<lb ed="#P" n="89"/>et Filii, et Spiritus sancti, cum mergens 
+homi<lb ed="#P" break="no" n="90"/>nem dixisti : « Baptizo te in nomine Patris, et 
+Fi<lb ed="#P" break="no" n="91"/>lii, et Spiritus sancti. » Si ergo tale aliquid in 
+co<lb ed="#P" break="no" n="92"/>gitatione concipias et doceri expostules, quod sit
+<lb ed="#P" n="93"/>QC nomen Patris, et Filii, et Spiritus saneti. Si
+<lb ed="#P" n="94"/>ergo tale aliquid in cogitatione concipias et 
+do<lb ed="#P" break="no" n="95"/>ceri expostules, quod sit nomen Patris, et Filii,
+<lb ed="#P" n="96"/>et Spiritus sancti, in quo baptizamur et 
+remis<lb ed="#P" break="no" n="97"/>Sionem peccatorum consequimur, ego diligentiam
+<lb ed="#P" n="98"/>fidei tu; nequaquam contemnendam existimo.
+<lb ed="#P" n="99"/>Quomodo enim in ipso nomine baptizare 
+possu<lb ed="#P" break="no" n="100"/>mus, si ipsum nomen ignoramus ? Clemamus
+<lb ed="#P" n="101"/>quotidie: Sanctificetur nomen tuum(Matth. v1).
+<lb ed="#P" n="102"/>Sed quomodo in nobis sanctificatur, si a nobis
+<lb ed="#P" n="103"/>ignoratur? Et si vocem sanctificari petimus 
+di<lb ed="#P" break="no" n="104"/>cat qui potest, quomodo in voce salvari 
+roga<lb ed="#P" break="no" n="105"/>mus ? Deus, inquit, in nomine tuo salvum me
+<lb ed="#P" n="106"/>fac (Psal. Lui). Si igitur in voce salus est,
+<lb ed="#P" n="107"/>ergo tacentes, vel potius loqui non valentes 
+sal<lb ed="#P" break="no" n="108"/>vari non possunt, quia loqui non possunt. Quis
+<lb ed="#P" n="109"/>hoc dicat ? Ergo nomen Dei in quo nos 
+sanctifi<lb ed="#P" break="no" n="110"/>cari et salvari oportet, extra vocem quisrere
+<lb ed="#P" n="111"/>oportet, neforte, si illud in sola voce ponimus,
+<lb ed="#P" n="112"/>scandalum veritati faciamus. Notus in Judca
+<lb ed="#P" n="113"/>Deus; in Israel magnum nomen ejus (Psal , xxv)
+<lb ed="#P" n="114"/>Ergo ubi notitia est, ibi nomen est, quia et ipsa
+<lb ed="#P" n="115"/>notitianomenest. Dicit aliquis : Magni nominis est
+<lb ed="#P" n="116"/>homo ille, et homo ille magnum nomen habet in
+<lb ed="#P" n="117"/>populo. Forte quia multas syllabas habet nomen
+<lb ed="#P" n="118"/>ejus, ideo magnum est nomen ejus. Ergo nomen
+<lb ed="#P" n="119"/>Dei parvum est, quia duas syllabas tantum
+<lb ed="#P" n="120"/>complectitur, et duabus syllabis formatur nomen
+<lb ed="#P" n="121"/>Dei. Vides modo ubi sit magitudo nominis Dei.
+<lb ed="#P" n="122"/>Ubi enim magnitudo nominis est, ibi et ipsum
+<lb ed="#P" n="123"/>nomen considerare oportet; si ergo 
+magnitudi<lb ed="#P" break="no" n="124"/>nem nominis, magnitudinem famg ; et. notitice
+</p>
+               <p xml:id="hsvhsv-g38789-d1e460">
+<!-- 141.png.txt -->
+                  <pb ed="#P" n="223"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>magnitudinem convenienter intelligimus, nomen A
+<lb ed="#P" n="2"/>ipsum ipsam famam et notitiam magis quam 
+vo<lb ed="#P" break="no" n="3"/>cemaliquam velsonum vocis adaures venientem in
+<lb ed="#P" n="4"/>telligere debemus. Ergo fama ejus et notitia ejus
+<lb ed="#P" n="5"/>ipsum est nomen ejus. Et rursum ipsa notitia ejus
+<lb ed="#P" n="6"/>non est aliud quam fides ejus ; quia per fidem 
+so<lb ed="#P" break="no" n="7"/>lam nunc interim cognoscitur Deus ; postmodum
+<lb ed="#P" n="8"/>etiam cognoscendus per speciem. Fides ergo Dei
+<lb ed="#P" n="9"/>ipsa est nomen Dei per quam nunc in nominibus
+<lb ed="#P" n="10"/>notitia ejus habetur, ubi adhuc ab hominibus
+<lb ed="#P" n="11"/>praesentia ejus non videtur. Puto jam obscurum
+<lb ed="#P" n="12"/>vel ambiguum non esse, quemadmodum in 
+no<lb ed="#P" break="no" n="13"/>mine Dei salvatur, qui in eo quod de ipso sentire
+<lb ed="#P" n="14"/>potuit, et sentiendo credit, justificatur et 
+justifi<lb ed="#P" break="no" n="15"/>catus liberatur. Rursus qualiter nomen Dei 
+sanc<lb ed="#P" break="no" n="16"/>tificatur quando ab iis a quibus cognoscitur Deus 
+<lb ed="#P" n="17"/>honoratur : hoc dubium non est, si ei quem jam
+<lb ed="#P" n="18"/>per fidem cognoscere meruimus: casti timoris et
+<lb ed="#P" n="19"/>dilectionis reverentiam exhibemus. Quid tibi 
+vi<lb ed="#P" break="no" n="20"/>detur? Si nomen Dei est notitia ejus, et fides
+<lb ed="#P" n="21"/>ejus in nobis est, nonne in nomine ejus 
+bapti<lb ed="#P" break="no" n="22"/>zantur qui in fide baptizantur Patris, et Filii, et
+<lb ed="#P" n="23"/>Spiritus sancti? Hoc est enim unum nomen et
+<lb ed="#P" n="24"/>unius nomen, quo Trinitas praedicatur, et unitas
+<lb ed="#P" n="25"/>non negatur. Quando ergo baptizas in fide 
+Pa<lb ed="#P" break="no" n="26"/>tris, et Fili et Spiritus sancti, in nomine Patris
+<lb ed="#P" n="27"/>et Filii, et Spiritus sancti baptizas. Et hoc 
+no<lb ed="#P" break="no" n="28"/>men, id est hanc fidem confiteris cum dicis : «
+Ba<lb ed="#P" break="no" n="29"/>ptizo te in nomine Patris, et Filii et Spiritus 
+sanc<lb ed="#P" break="no" n="30"/>ti.» Ut impleatur quod scriptum est : Corde 
+cre<lb ed="#P" break="no" n="31"/>ditur ad justitiam; oreautem confessio fit ad
+<lb ed="#P" n="32"/>salutem (Rom. x.) Sed forte quia dixit Dominus
+<lb ed="#P" n="33"/>Jet Christus. Baptizate in nomine Patris, et
+<lb ed="#P" n="34"/>et Spiritus sancti. Si ipsum nomen notitia
+<lb ed="#P" n="35"/>et fides intelligenda est Trinitatis, sufflciet ad 
+for<lb ed="#P" break="no" n="36"/>mam sacramenti complendam et sanctificationem
+<lb ed="#P" n="37"/>perficiendam sine verborum prolatione cum sola
+<lb ed="#P" n="38"/>fide baptizandum immergere. Qui enim dixit ut.
+<lb ed="#P" n="39"/>in fide Trinitatis homines baptizarentur: non
+<lb ed="#P" n="40"/>quid dicatur docuit, sed quid credatur ostendit.
+<lb ed="#P" n="41"/>Quapropter ne forte in sanctificatione sacramenti
+<lb ed="#P" n="42"/>fidei professio supervacua esse videatur, oportet
+<lb ed="#P" n="43"/>nos in eo quod dictum est in nomine Patris, et
+<lb ed="#P" n="44"/>Filii, et Spiritus sancti ; amplius aliquid 
+intelli<lb ed="#P" break="no" n="45"/>gere quam si dictum fuisset : in fide Patris, et
+<lb ed="#P" n="46"/>Filii, et Spiritus sancti. Plus enim aliquid 
+habe<lb ed="#P" break="no" n="47"/>re videtur nomen quam fides. Nam fides intus
+<lb ed="#P" n="48"/>est, et latet occulta donec nominari incipiat, et
+<lb ed="#P" n="49"/>venire in manifestationem. Tunc quippe nomen
+<lb ed="#P" n="50"/>esse incipit quando nominari incipit et notificari
+<lb ed="#P" n="51"/>ut cognoscatur. Et sic quidem in nomine Patris,
+<lb ed="#P" n="52"/>et Filii, et Spiritus sancti baptizamus, quando
+<lb ed="#P" n="53"/>baptizamus in confessione fidei Patris, et Filii, et
+<lb ed="#P" n="54"/>Spiritus sancti. Ipse enim di: Ite, docete omnes
+<lb ed="#P" n="55"/>gentes baptizantes eos in nomine Patris, et Filii, et
+<lb ed="#P" n="56"/>Spiritussancti. Doceteet baptizate ; si tingis et 
+ta<lb ed="#P" break="no" n="57"/>ces, tingis et non doces. Habea baptizate, sed 
+do<lb ed="#P" break="no" n="58"/>cete non habes. Crede ergo et confitere; loquere
+<lb ed="#P" n="59"/>et merge, ut in confessione laventur quae 
+mun<lb ed="#P" break="no" n="60"/>danda sunt. Sed forte queris ipsam professionis
+<lb ed="#P" n="61"/>fidei formam in perficiendo baptismatis 
+sacra<lb ed="#P" break="no" n="62"/>mento, qualem intelligi oporteat. Ad quod bre-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>viter respondendum puto, illam esse baptizandi
+<lb ed="#P" n="64"/>formam quam Dominus Jesus Christus cum 
+dis<lb ed="#P" break="no" n="65"/>cipulos suos ad baptizandum omnes gentes 
+mit<lb ed="#P" break="no" n="66"/>teret tradidit, dicens : Ite, docete omnes gentes,
+<lb ed="#P" n="67"/>baptizantes eos in nomine Patris, et Filii, et 
+Spi<lb ed="#P" break="no" n="68"/>ritus sancti. Ergo recte feceris, si quod ille 
+prae<lb ed="#P" break="no" n="69"/>cepit tu confiteris. Ille jussit ut in nomine Patris,
+<lb ed="#P" n="70"/>et Filii, et Spiritus sancti baptizares. Tu mergis
+<lb ed="#P" n="71"/>hominem et dicis: « Ego baptizo te in nomine
+<lb ed="#P" n="72"/>Patris, et Filii, et Spiritus sancti. » Bene 
+seque<lb ed="#P" break="no" n="73"/>ris formam institutionis diving, facis quod 
+jus<lb ed="#P" break="no" n="74"/>sit, profiteris quod instituit. Sed dicis: quid 
+er<lb ed="#P" break="no" n="75"/>go ? Si quis forte per ignorantiam sine 
+conscien<lb ed="#P" break="no" n="76"/>tiaerroris, horum verborum formam non tenens;
+<lb ed="#P" n="77"/>tamen cum plena fide hominem baptizaret, 
+di<lb ed="#P" break="no" n="78"/>cens ; Baptizo te in nomine Patris omnipotentis,
+<lb ed="#P" n="79"/>sive in nomine Filii Dei ; sivein nomine Spiritus
+<lb ed="#P" n="80"/>sancti; sive etiam quod in. Actibus apostolorum
+<lb ed="#P" n="81"/>legimus : in nomine Domini nostri Jesu Christi
+<lb ed="#P" n="82"/>(Act. 11); sive aliud aliquid simile, quod quidem
+<lb ed="#P" n="83"/>quantum ad expressionem vocis a supradicta 
+di<lb ed="#P" break="no" n="84"/>cendi forma diversum esset ; sed quantum ad
+<lb ed="#P" n="85"/>professionem veritatis non esset, contrarium : An
+<lb ed="#P" n="86"/>ne verum baptismatis sacramentum in illo 
+cona<lb ed="#P" break="no" n="87"/>tare deberet ? Poterant fortasse ad hanc 
+qusms<lb ed="#P" break="no" n="88"/>tionem tuam solvendam plurime hinc inde 
+ra<lb ed="#P" break="no" n="89"/>tiones conduci et ostendi, qued ubi eadem fides
+<lb ed="#P" n="90"/>constat, diversitas sermonis ab ipsa duntaxat
+<lb ed="#P" n="91"/>sinceritate et unitate fidei non discrepans, nihil
+<lb ed="#P" n="92"/>officiat. Sed in hac parte visum est mihi 
+auctori<lb ed="#P" break="no" n="93"/>tate potius quam mea ratione interrogationi tuse
+<lb ed="#P" n="94"/>respondendum. Beatus Ambrosius in libro quem
+<lb ed="#P" n="95"/>de Trinitate scripsit, sic ait: Illi qui negaverunt
+<lb ed="#P" n="96"/>8e scire Spiritam sanctum, quamvis baptizatos se
+<lb ed="#P" n="97"/>dicerent in Joannis baptismo, baptizati sunt 
+pos<lb ed="#P" break="no" n="98"/>tea : quia Joannes in remissionem peccatorum, in
+<lb ed="#P" n="99"/>advenientis Jesu, non in suo baptizavit nomine :
+<lb ed="#P" n="100"/>et ideo Spiritum nesciebant, quia nec baptismum
+<lb ed="#P" n="101"/>in Christi nomine, sicut Joannes baptizare -
+sole<lb ed="#P" break="no" n="102"/>bat acceperant. Joannes enim licet non 
+bap<lb ed="#P" break="no" n="103"/>tizaret in spiritu; tamen et Christum 
+predi<lb ed="#P" break="no" n="104"/>cabat et spiritum. Denique cum interrogaretur
+<lb ed="#P" n="105"/>ne forte ipse esset Christus, respondit: Ego vos
+<lb ed="#P" n="106"/>aqua baptizo. Venit autem fortior me, cujus
+<lb ed="#P" n="107"/>non sum dignus calceamenta portare. Ipse vos
+<lb ed="#P" n="108"/>baptizabit in spiritu sancto et igne (Matth.).
+<lb ed="#P" n="109"/>Ergo isti qui nec in Christi nomine, nec cum fide
+<lb ed="#P" n="110"/>Spiritus sancti baptizati fuerunt, non potuerunt
+<lb ed="#P" n="111"/>accipere baptismatis sacramentum. Baptizati sunt
+<lb ed="#P" n="112"/>itaque in nomine Jesu Christi, nec iteratum est
+<lb ed="#P" n="113"/>in his baptisma, sed novatum. Unum eriim 
+bap<lb ed="#P" break="no" n="114"/>tisma. Ubiautem non est plenum baptismatis 
+sacra<lb ed="#P" break="no" n="115"/>mentum, nec principium velspeciesaliqua 
+baptis<lb ed="#P" break="no" n="116"/>matis existimatur. Plenum autem est Patrem, et 
+Fi<lb ed="#P" break="no" n="117"/>lium, Spiritumque sanctum confiteri. Si unum
+<lb ed="#P" n="118"/>neges totum subruis, et quemadmodum si unum
+<lb ed="#P" n="119"/>in sermone comprehendas aut Patrem, aut 
+Fi<lb ed="#P" break="no" n="120"/>lium, aut Spiritum sanctum, fide autem nec 
+Pa<lb ed="#P" break="no" n="121"/>trem nec Filium, nec Spiritum sanctum abneges:
+<lb ed="#P" n="122"/>plenum est fldei sacramentum. Ita etiam quam«
+<lb ed="#P" n="123"/>vis et Patrem, et Filium, et Spiritum sanctuxe à
+k<lb ed="#P" break="no" n="124"/>cas et aut Patris, aut Filii, aut Spiritus sancti
+<!-- 142.png.txt -->
+<pb ed="#P" n="224"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>minuas potestatem; vacuum est omnino 
+myste<lb ed="#P" break="no" n="2"/>rium. Denique et illi ipsi quidixerant: Nec si 
+Spiri<lb ed="#P" break="no" n="3"/>tus sanctus sit audivimus (Act. xiX! ; baptizati
+<lb ed="#P" n="4"/>suntposteain nomine DominiJesu Christi, et hoc
+<lb ed="#P" n="5"/>abundavit ad gratiam, quia jam Spiritum sanctum
+<lb ed="#P" n="6"/>Paulo praedicante: cognoverant. Neccontrarium 
+de<lb ed="#P" break="no" n="7"/>bet videri ; quia, quamvis etiam postea tacitum sit,
+<lb ed="#P" n="8"/>de Spiritu tamen creditumest. Et quod verbo 
+taci<lb ed="#P" break="no" n="9"/>tum fuerat, expressum est fide. Cum enim diciturin
+<lb ed="#P" n="10"/>nomine Domini nostri Jesu Chnisti, per unitatem
+<lb ed="#P" n="11"/>nominis impletum est mysterium. Nec a Christi
+<lb ed="#P" n="12"/>baptismate Spiritus separatur, quia Joannesin pa
+<lb ed="#P" n="13"/>nitentia baptizavit, Christus in spiritu. Nunc 
+con<lb ed="#P" break="no" n="14"/>gideremus utrum quemadmodum in Christi 
+nomi<lb ed="#P" break="no" n="15"/>neplenum esselegimu«baptiematissacramentum ;
+<lb ed="#P" n="16"/>ita etiam sanctoSpiritu nuncupato, nihil desit ad
+<lb ed="#P" n="17"/>mysterii plenitudinem. Etrationem sequamur, quia
+<lb ed="#P" n="18"/>quiunum dixerit Trinitatem signavit. Si Christum
+<lb ed="#P" n="19"/>dicaset Deum Patrem a quo unctusest Filius ; et 
+ip<lb ed="#P" break="no" n="20"/>sum, qui unctus est, Filium, et Spiritum ut manes
+<lb ed="#P" n="21"/>unctusestdesignast. Scriptum est enim: Hunc 
+Je<lb ed="#P" break="no" n="22"/>suma Nazareth quem uncit Deus Spiritu 
+sanc<lb ed="#P" break="no" n="23"/>to(Act. x). Etsi Patrem dicas, et Filium ejus, et 
+Spi<lb ed="#P" break="no" n="24"/>ritum orisejuspariterindicasti, cum id etiam corde
+<lb ed="#P" n="25"/>comprehendas. EtsiSpiritum dicaset Deum Patrem.
+<lb ed="#P" n="26"/>a quo procedit Spiritus, et Filium (quia Filii 
+quo<lb ed="#P" break="no" n="27"/>que est Spiritus), nuncupasti. Unde 
+utrationicopu<lb ed="#P" break="no" n="28"/>letur auctoritas, in Spiritu quoque recte baptizari
+<lb ed="#P" n="29"/>nos posseScriptura indicat, dicente Domino : Vos
+<lb ed="#P" n="30"/>autem baptizabimini in Spiritu sancto (Act. 1 ;
+<lb ed="#P" n="31"/>Matth. 1n). Et apostolis ait : Omnes enim in ipso
+<lb ed="#P" n="32"/>corpore in unum Spiritum baptizati sumus (I
+<lb ed="#P" n="33"/>Cor. xri). Unum opus, quia unum mysterium ; 
+u<lb ed="#P" break="no" n="34"/>num baptisma, quia mors una pro mundo. Unitas
+<lb ed="#P" n="35"/>ergo operationis, unitas predicationis quae non
+<lb ed="#P" n="36"/>potest separari. Hucusque verbo beati Ambrosii
+<lb ed="#P" n="37"/>qualiter de recta baptizandi forma sentiendum sit
+<lb ed="#P" n="38"/>manifeste explanaut. Vides ergo qualiter in fide
+<lb ed="#P" n="39"/>Trinitatis solo Patre vel Filio vel Spiritu sancto
+<lb ed="#P" n="40"/>nuncupatoplenum sit baptismatis sacramentum,
+<lb ed="#P" n="41"/>et quemadmodum sine fide Trinitatis etiam tribus
+<lb ed="#P" n="42"/>simul nominatis imperfectum. Sicut enim ubique
+<lb ed="#P" n="43"/>fidesintegra quzritur, sic eadem fldei integritate
+<lb ed="#P" n="44"/>manente sine detrimento salutis sermo variantur.
+<lb ed="#P" n="45"/>Verumtamen ecclesiastica consuetudo hanc 
+potis<lb ed="#P" break="no" n="46"/>simum in baptizando formam tenereelegit, quam
+<lb ed="#P" n="47"/>abipso sanctificationisauctoreex prima 
+institutio<lb ed="#P" break="no" n="48"/>ne servandum accepit. Si quis forte querat utrum
+<lb ed="#P" n="49"/>in articulo necessitatis sufficere possit ad plenum
+<lb ed="#P" n="50"/>baptismi sacramentum, si fuerit quis in fide 
+Tri<lb ed="#P" break="no" n="51"/>nitatis sine prolatio ne verborum baptizatus, vel
+<lb ed="#P" n="52"/>quia is qui baptizavit loqui non potuit, sive quia
+<lb ed="#P" n="53"/>obfestinationem vel stuporem immimentis periculi
+<lb ed="#P" n="54"/>sive alia quacunque causa praeventus dum 
+bap<lb ed="#P" break="no" n="55"/>. tizaret, locutionis memor non fuit. Si quis ergo
+<lb ed="#P" n="56"/>forte hoc quaerat, ego de his quae occulta sunt 
+ju<lb ed="#P" break="no" n="57"/>dicare nolo, praecipue quia nomen Trinitatis hic
+<lb ed="#P" n="58"/>non audivi. "bi etsi vera fides fuit, confessio
+<lb ed="#P" n="59"/>tamen fidei non fuit. Et haec quidem de eo quid
+<lb ed="#P" n="60"/>sit sacramentum baptismatis, et de verbo 
+sancti<lb ed="#P" break="no" n="61"/>ficante in praesenti dicta sufficiant.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g38789-Dd1e881">
+               <head xml:id="hsvhsv-g38789-Hd1e883">Capitulum 3</head>
+               <head xml:id="hsvhsv-g38789-Hd1e885" type="question-title"/>
+               <p xml:id="hsvhsv-g38789-d1e887">
+                  <lb ed="#P" n="62"/>Cap. III. Quare institutum sit sacramentum baptismi
+</p>
+               <p xml:id="hsvhsv-g38789-d1e892">
+                  <lb ed="#P" n="63"/>Nunc restat demonstrare quare institutum est
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="64"/>baptismi sacramentum, et quare circumcisio, quae
+<lb ed="#P" n="65"/>loco illius olim posita fuisse putatur, succedente
+<lb ed="#P" n="66"/>baptismo ablata sit, vel mutata. Nam si olim per
+<lb ed="#P" n="67"/>circumcisionem similiter, ut nunc per baptismum
+<lb ed="#P" n="68"/>peccata dimittebantur, quid necesse fuit ut ipsa
+<lb ed="#P" n="69"/>circumcisio succedente baptismi sacramento 
+mu<lb ed="#P" break="no" n="70"/>taretur? Cur autem accepta minus profuisse 
+cre<lb ed="#P" break="no" n="71"/>datur, quae neglectanon minusnocuisseaffirmatur.
+<lb ed="#P" n="72"/>Sicut enim nunc per Evangelium dicitur : Nisi
+<lb ed="#P" n="73"/>quis renatus fuerit ex aqua et Spiritu sancto
+<lb ed="#P" n="74"/>non intrabit in regnum Dei (Joan. 11); ita olim
+<lb ed="#P" n="75"/>per legem dicebatur: Masculus cujus caro 
+pre<lb ed="#P" break="no" n="76"/>putii circumcisa non fuerit, peribit anima illa
+<lb ed="#P" n="77"/>de populo suo (Gen. xvn). Nisi fortein hoc quod
+<lb ed="#P" n="78"/>ille qui non est baptizatus a regno Dei 
+excluden<lb ed="#P" break="no" n="79"/>dus dicitur; ille vero qui non est circumcisus
+<lb ed="#P" n="80"/>periturus memoratur : quis velit intelligere 
+prop<lb ed="#P" break="no" n="81"/>terea baptismum aliquid amplius conferre quam
+<lb ed="#P" n="82"/>circumcisionem, quia circumcisio suscepta a
+<lb ed="#P" n="83"/>perditione tantum potuit liberare ; baptismus
+<lb ed="#P" n="84"/>vero renatos etiam ad gloriam perducere potest.
+<lb ed="#P" n="85"/>Nam illi antiqui patres qui sacramenti 
+circumci<lb ed="#P" break="no" n="86"/>sionis justificationem  perceperant, a perditione
+<lb ed="#P" n="87"/>quidem servabantur, sed ad gloriam regni non
+<lb ed="#P" n="88"/>ducebantur, donec veniret ille qui sanguine fuso
+<lb ed="#P" n="89"/>rhomphsam igneam exstinguens ; aditum 
+para<lb ed="#P" break="no" n="90"/>disi rursum patefaceret, et credentibus in se 
+om<lb ed="#P" break="no" n="91"/>nibus regni coelestis januam precedens ipse 
+pri<lb ed="#P" break="no" n="92"/>mus aperiret. In hoc ergo baptismus amplius
+<lb ed="#P" n="93"/>confert, quod renatos hinc exeuntes statim ad
+<lb ed="#P" n="94"/>regnum mittit, quod tamen ex virtute sanguinis
+<lb ed="#P" n="95"/>fusi ipsam aquam sanctificantis condonatur. Si
+<lb ed="#P" n="96"/>igitur quis dicere velit idcirco circumcisionem
+<lb ed="#P" n="97"/>baptismo mutatam, ut in baptismo perficeretur,
+<lb ed="#P" n="98"/>quod circumcisio implere non potuit, fortassis
+<lb ed="#P" n="99"/>videbitur convenienter illi responderi posse, quod
+<lb ed="#P" n="100"/>hoc quod amplius nunc in baptismo est, ex 
+bap<lb ed="#P" break="no" n="101"/>tismo non est, sed ex passione Christi baptismum
+<lb ed="#P" n="102"/>sanctificante impletum. Idem vero circumcisionem
+<lb ed="#P" n="103"/>facere potuisse, si illi passio Christi in 
+coopera<lb ed="#P" break="no" n="104"/>tionem sanctificationis adjuncta fuisset. Nam in
+<lb ed="#P" n="105"/>baptismo, quantum scilicet spectat ad virtutem.
+<lb ed="#P" n="106"/>baptismi, similiter ut in circumcisione remissio
+<lb ed="#P" n="107"/>tantum peccatorum percipitur; quia, sicut dictum
+<lb ed="#P" n="108"/>est, quod justificatis postea aditus patriw ccelestis
+<lb ed="#P" n="109"/>panditur, cruce Christi condonatur. Propter 
+hu<lb ed="#P" break="no" n="110"/>jusmodi rationem aliam mutat: circumcisionis
+<lb ed="#P" n="111"/>causam commodiorem fortasse et manifestam
+<lb ed="#P" n="112"/>magis proponendam putamus. In pr:cedentibus
+<lb ed="#P" n="113"/>quodam loco cum de sacramentis tractaremus,
+<lb ed="#P" n="114"/>diximus sacramenta omnia signa quaedam esse
+<lb ed="#P" n="115"/>ejus (quae per illa datur) gratie spiritualis. 
+Opor<lb ed="#P" break="no" n="116"/>tere autem ut secundum processum temporum
+<lb ed="#P" n="117"/>spiritualium gratiarum signa ; magis semper ac
+<lb ed="#P" n="118"/>magis evidentia ac declarantia formarent, ut cum
+<lb ed="#P" n="119"/>effectu salutis, cresceret cognitio veritatis. Itaque
+<lb ed="#P" n="120"/>sub lege naturali primum data sunt sacramenta,
+<lb ed="#P" n="121"/>decimationes, sacrificia et oblationes, ut in 
+deci<lb ed="#P" break="no" n="122"/>matione quidem peccatorum remissio ; in 
+sacrifi<lb ed="#P" break="no" n="123"/>ciis vero carnis mortificatio ; in oblatione autem
+<lb ed="#P" n="124"/>boni operis exhibitio signaretur. Sed erat obscura
+<lb ed="#P" n="125"/>significatio hac in sacramento decirnationis, ubi
+<!-- 143.png.txt -->
+<pb ed="#P" n="225"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>homo de iis quae possidebat partem obtulit, partem 
+<lb ed="#P" n="2"/>retinuit, ut ad hunc modum in eo quod erat, quod
+<lb ed="#P" n="3"/>imperfectionis et defectus fuit, sibi tribueret, quod
+<lb ed="#P" n="4"/>vero ad bonitatem spectabat, Deo imputaret. Hoc
+<lb ed="#P" n="5"/>sibi voluerunt novem partes retentz, quia 
+nove<lb ed="#P" break="no" n="6"/>narius signum imperfectionis est, a denario 
+per<lb ed="#P" break="no" n="7"/>fecto deficiens. Propterea autem quia obscurum
+<lb ed="#P" n="8"/>signum fuit emundationis in decimatione, data est.
+<lb ed="#P" n="9"/>circumcisio ut virtutem justificationis evidentius
+<lb ed="#P" n="10"/>demonstraret, quando dictum est homini, ut 
+por<lb ed="#P" break="no" n="11"/>tionem carnis suae, non quidem superfluam, sed
+<lb ed="#P" n="12"/>iliius quod superfluum erat in homine, signum
+<lb ed="#P" n="13"/>auferret, ut per hoc agnosceret quod culpam quam
+<lb ed="#P" n="14"/>natura per illam partem corporis traheret, gratia
+<lb ed="#P" n="15"/>per sacramentum circumcisionis emundaret. Sed
+<lb ed="#P" n="16"/>quia circumcisio eas tantum quae foris sunt 
+enor<lb ed="#P" break="no" n="17"/>mitates amputare potest, eas vero quae intrinsecus
+<lb ed="#P" n="18"/>sunt pollutionum sordes mundare non potest, venit
+<lb ed="#P" n="19"/>post circumcisionem lavacrum aqua totum 
+pur<lb ed="#P" break="no" n="20"/>gans, ut perfecta justitia signaretnr. Rursus quia
+<lb ed="#P" n="21"/>prioris populi qui sub timore serviebat mundatio
+<lb ed="#P" n="22"/>laboriosa fuit, propterea sacramentum 
+circumci<lb ed="#P" break="no" n="23"/>sionis in carne quae dolorem habet illi datum est.
+<lb ed="#P" n="24"/>Novo autem populo qui voluntate et dilectione
+<lb ed="#P" n="25"/>servit, sacramentum justificationis in lavacro
+<lb ed="#P" n="26"/>aquis, quae suavem habet purificationem 
+propo<lb ed="#P" break="no" n="27"/>situmest; etsic quidem rationem reddendam 
+exis<lb ed="#P" break="no" n="28"/>timamus pro eoquod sacramentum circumcisionis
+<lb ed="#P" n="29"/>mutatum est, etsacramentum baptismi institutum.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g38789-Dd1e1104">
+               <head xml:id="hsvhsv-g38789-Hd1e1106">Capitulum 4</head>
+               <head xml:id="hsvhsv-g38789-Hd1e1108" type="question-title"/>
+               <p xml:id="hsvhsv-g38789-d1e1110">
+                  <lb ed="#P" n="30"/>Cap. IV. Quando institutum sit sacramentum baplismi.
+</p>
+               <p xml:id="hsvhsv-g38789-d1e1115">
+                  <lb ed="#P" n="31"/>Quaeritur etiam quando institutum sit 
+sacra<lb ed="#P" break="no" n="32"/>mentum baptismi, ex quo deinceps licitum non
+<lb ed="#P" n="33"/>fuit illud negligere, quando illud suscipere 
+debi<lb ed="#P" break="no" n="34"/>tum fuit. Et sunt quidem super hoc divers 
+plu<lb ed="#P" break="no" n="35"/>rium opiniones. Alii dicunt ex eo institutum 
+bap<lb ed="#P" break="no" n="36"/>tisma, quo Christus Nicodemo nocte ad se venienti
+<lb ed="#P" n="37"/>modum novee regenerationis insinuans, ait: Nisi
+<lb ed="#P" n="38"/>quis renatus fueriteae aqua et Spiritu sancto,
+<lb ed="#P" n="39"/>non potest intrare in regnum Dei (Joan. um).
+<lb ed="#P" n="40"/>Alii dicunt institutionem baptismi ex eo coepisse,
+<lb ed="#P" n="41"/>quo Christus post resurrectionem suam in coelum
+<lb ed="#P" n="42"/>ascensurus discipulos ad praedicandum misit,
+<lb ed="#P" n="43"/>dicens : Ite, docete omnes gentes, baptizantes
+<lb ed="#P" n="44"/>eos in nomine Patris, et Filii, et Spiritus
+<lb ed="#P" n="45"/>sancti (Matth. xxvi). Quidam institutionem
+<lb ed="#P" n="46"/>baptismi ex eo cc»pisse putant, quo Joannes in 
+<lb ed="#P" n="47"/>aqua baptizare coepit, praedicans baptizaturum in
+<lb ed="#P" n="48"/>Spiritu. Alii in passione Christi quando dixit :
+<lb ed="#P" n="49"/>Consummatum est (Joan. xiX) ; omnia Veteris
+<lb ed="#P" n="50"/>Testamenti sacramenta finem accepisse, et. novi
+<lb ed="#P" n="51"/>exordium putant. Commodius autem videtur ut
+<lb ed="#P" n="52"/>dicamus baptismum prius per Joannem, et deinde
+<lb ed="#P" n="53"/>per Christum, sive per discipulos Christi 
+aliquan<lb ed="#P" break="no" n="54"/>diu, solum ne a consuetudine abhorreret in usum
+<lb ed="#P" n="55"/>productum: novissime autem quando universum
+<lb ed="#P" n="56"/>mundum praedicatores baptizare missi sunt, 
+gene<lb ed="#P" break="no" n="57"/>raliter institutum. Videntur autem hic tria 
+tem<lb ed="#P" break="no" n="58"/>pora distinguenda. Primo enim ante baptismum
+<lb ed="#P" n="59"/>circumcisio sola statum habuit, et suscipiebatur
+<lb ed="#P" n="60"/>ad justificationem sine baptismo. Novissime autem.
+<lb ed="#P" n="61"/>nunc post circumcisionem solus baptismus statum
+<lb ed="#P" n="62"/>habet, et celebratur ád salutem sine circumcisione.
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>Fuit autem medium tempus quoddam, quando et
+<lb ed="#P" n="64"/>circumcisio et baptismus simul cucurrerunt.
+<lb ed="#P" n="65"/>Altera, id est circumcisio ut fineretur ; alter, id
+<lb ed="#P" n="66"/>est baptismus ut confirmaretur. Oportuit enim ut
+<lb ed="#P" n="67"/>et illa qui finienda erant nequaquam subito vel
+<lb ed="#P" n="68"/>praecipitanter, sed paulatim et quasi cum quadam
+<lb ed="#P" n="69"/>reverentia dimitterentur, ut ostenderentur bona
+<lb ed="#P" n="70"/>fuisse tempore suo. Et similiter quzo incipienda
+<lb ed="#P" n="71"/>erant non subito in auctoritatem assumerentur,
+<lb ed="#P" n="72"/>sed cum mora et gravitate inchoarentur, ne velut.
+<lb ed="#P" n="73"/>aliena et praeter rem aliunde inducta subito 
+puta<lb ed="#P" break="no" n="74"/>rentur. Illa igitur dimissa sunt, non projecta; et
+<lb ed="#P" n="75"/>ista instituta sunt, non usurpata, ut divini 
+con<lb ed="#P" break="no" n="76"/>sflii auctoritas ubique servaretur, et humana 
+cau<lb ed="#P" break="no" n="77"/>satio ne divina opera reprehendere auderet, 
+admo<lb ed="#P" break="no" n="78"/>neretur. Quamvis ergo in passione Christi per
+<lb ed="#P" n="79"/>quam consummata sunt omnia, veteris figure
+<lb ed="#P" n="80"/>Status finem acceperit, et novi sacramenti 
+consti<lb ed="#P" break="no" n="81"/>tutio exordium, tamen et prius aliquando tempore;
+<lb ed="#P" n="82"/>et nova inchoata sunt ad corisuetudinem, et vetera.
+<lb ed="#P" n="83"/>postmodum aliquandiu tolerata secundum 
+dispen<lb ed="#P" break="no" n="84"/>sationem. Simul ergo fuerunt utraque tempore
+<lb ed="#P" n="85"/>illo, sive ante passionem, sive post, ab eo
+<lb ed="#P" n="86"/>quando inchoata sunt nova, donec postmodum
+<lb ed="#P" n="87"/>vetera sunt interdicta. Et in isto medio tempore
+<lb ed="#P" n="88"/>quod fuit baptismus cum circumcisione, ab
+<lb ed="#P" n="89"/>inchoatione sua usque ad passionem Christi ;
+<lb ed="#P" n="90"/>hoc fuit circumcisio cum baptismo post 
+pas<lb ed="#P" break="no" n="91"/>sionem! Christi jusque ad illud tempus quo ipsa
+<lb ed="#P" n="92"/>circumcisio coepit prohiberi. Sicut enim ante 
+pas<lb ed="#P" break="no" n="93"/>sionem ipsa circumcisio in statu suo ad remedium
+<lb ed="#P" n="94"/>suscipiebatur; et tamen etiam tunc baptismus
+<lb ed="#P" n="95"/>sine periculo salutis non contemnebatur, ab lis. -
+<lb ed="#P" n="96"/>quibus praedicabatur, ita post passionem 
+baptis<lb ed="#P" break="no" n="97"/>mus quasi in statu suo percipiebatur ad salutem;
+<lb ed="#P" n="98"/>et tamen etiam tunc circumcisio sine periculo 
+sa<lb ed="#P" break="no" n="99"/>lutis non contemnebatur ab his quibus finis ejus
+<lb ed="#P" n="100"/>nondum manifestabatur. Postquam autem dictum
+<lb ed="#P" n="101"/>est. Si circumcidimini Christus vobis nihil
+<lb ed="#P" n="102"/>prodest (Galat. v), jam deinceps non poterat 
+cir<lb ed="#P" break="no" n="103"/>cumcisio ad salutem percipi, sicut prius postquam
+<lb ed="#P" n="104"/>dictum fuerat : Masculus cujus caro prapwutii
+<lb ed="#P" n="105"/>circumcisa non fuerit, peribit anima illa de
+<lb ed="#P" n="106"/>populo suo (Gen. xvi) ; non potuit circumcisio
+<lb ed="#P" n="107"/>ab iis praesertim quibus injuncta fuerat, sine 
+pe<lb ed="#P" break="no" n="108"/>riculo salutis contemni. Rursus quemadmodum in
+<lb ed="#P" n="109"/>principio baptismus a Joanne secundum solum
+<lb ed="#P" n="110"/>sacramentum dabatur, ut ii baptizandi usum non
+<lb ed="#P" n="111"/>noverant, erudirentur; sic in novissirno a 
+quibus<lb ed="#P" break="no" n="112"/>dam fidelibus circumcisio dispensatoriesecundum
+<lb ed="#P" n="113"/>solum sacramentum suscipiebatur, ne ii qui 
+cir<lb ed="#P" break="no" n="114"/>cumcidi consueverant scandalizentur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g38789-Dd1e1303">
+               <head xml:id="hsvhsv-g38789-Hd1e1305">Capitulum 5</head>
+               <head xml:id="hsvhsv-g38789-Hd1e1307" type="question-title"/>
+               <p xml:id="hsvhsv-g38789-d1e1309">
+                  <lb ed="#P" n="115"/>Cap. V. Quando homines obligari coaperunt
+<lb ed="#P" n="116"/>praecepto percipiendi baptismi.
+</p>
+               <p xml:id="hsvhsv-g38789-d1e1316">
+                  <lb ed="#P" n="117"/>Si ergo quaeritur quando homines obligari 
+cc<lb ed="#P" break="no" n="118"/>perunt debito percipiendi baptismi, hoc veritati et
+<lb ed="#P" n="119"/>rationi consentaneum esse probatur; ex eo 
+unum<lb ed="#P" break="no" n="120"/>quemque obligari cepisse debito baptismatis 
+sus<lb ed="#P" break="no" n="121"/>cipiendi, ex quo vel post institutionem praeceptum
+<lb ed="#P" n="122"/>vel ante institutionem consilium percepit 
+bapti<lb ed="#P" break="no" n="123"/>zandi. Qui enim nec prius contemptor consilii, nec
+<lb ed="#P" n="124"/>post praevaricator prescepti exe eiyemios eem.
+<!-- 144.png.txt -->
+<pb ed="#P" n="226"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>fuit, nisi forte quis aut prius aut postea ignorans
+<lb ed="#P" n="2"/>fuisse dicatur, ad quem divin institutionis notitia.
+<lb ed="#P" n="3"/>pervenisset, nisi ejus culpa obstitisset. Quando
+<lb ed="#P" n="4"/>igitur Christus Nicodemo nocte ad se venienti
+<lb ed="#P" n="5"/>dixit : Nisi quis renatus fuerit ex aqua et 
+Spi<lb ed="#P" break="no" n="6"/>ritu sancto, non potest videre regnum Dei
+<lb ed="#P" n="7"/>(Joan. tri) ; amico revelatum est consilium. Quando
+<lb ed="#P" n="8"/>vero postea dixit: Ite, docete omnes gentes,
+<lb ed="#P" n="9"/>baptizantes eos in nomine Patris, et. Filii et
+<lb ed="#P" n="10"/>Spiritus sancti (Matth. xxvii) ; informandis
+<lb ed="#P" n="11"/>omnibus expositum est praeceptum. Ubi quidem
+<lb ed="#P" n="12"/>generalisinstitutio facta est quae ex eo 
+unumquem<lb ed="#P" break="no" n="13"/>que debitorem habuit, quod ad ipsum 
+predican<lb ed="#P" break="no" n="14"/>tibus apostolis nuntiis verbi praeceptum 
+institu<lb ed="#P" break="no" n="15"/>tionis pervenit. Qui autem interim longe positi,
+<lb ed="#P" n="16"/>aut prope in occulto constituti, nondum cognita  
+<lb ed="#P" n="17"/>institutione divina forte ab hac vita subducti sunt,
+<lb ed="#P" n="18"/>hoc de ipsis mihi sentiendum videtur; quod et de
+<lb ed="#P" n="19"/>illis qui ante ipsam institutionem, sive in 
+prepu<lb ed="#P" break="no" n="20"/>tio, sive in lege fuerunt, quia quod illis fecerunt.
+<lb ed="#P" n="21"/>tempora, hoc istis operata est absentia. Si quis
+<lb ed="#P" n="22"/>autem pertinax esse velit et adhuc hujusmodi 
+ali<lb ed="#P" break="no" n="23"/>quos in ignotis regionibus, et remotis terrarum.
+<lb ed="#P" n="24"/>sedibus degere contendat, qui forte mandatum
+<lb ed="#P" n="25"/>divinum de percipiendo baptismatis sacramento
+<lb ed="#P" n="26"/>non acceperint, ego vel neminem talem esse, vel
+<lb ed="#P" n="27"/>si forte aliquis est, si ejus culpa non obstitisset,
+<lb ed="#P" n="28"/>audire et scire potuisse ac debuisse sine 
+cuncta<lb ed="#P" break="no" n="29"/>tione affirmo, maxime cum Scriptura evidenter
+<lb ed="#P" n="30"/>clamet: In omnem terram exivit sonus eorum ;
+<lb ed="#P" n="31"/>et in fines orbis terra verba eorum (Psal. xvii). a
+<lb ed="#P" n="32"/>Si igitur in omnem terram sonus eorum, et in
+<lb ed="#P" n="33"/>omni terra quidem vel auditi sunt, et 
+contempto<lb ed="#P" break="no" n="34"/>res condemnatur, vel auditi non sunt. pro culpa
+<lb ed="#P" n="35"/>sua, et ignorantes ignorantur, et non salvantur.
+<lb ed="#P" n="36"/>Et hsc de tempore institutionis baptismi, et de
+<lb ed="#P" n="37"/>debito percipiendi baptismi dicta sunt.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g38789-Dd1e1424">
+               <head xml:id="hsvhsv-g38789-Hd1e1426">Capitulum 6</head>
+               <head xml:id="hsvhsv-g38789-Hd1e1428" type="question-title"/>
+               <p xml:id="hsvhsv-g38789-d1e1430">
+                  <lb ed="#P" n="38"/>Cap. VI. Quid distet inter baptismum Joannis, et
+<lb ed="#P" n="39"/>Christi; et de forma baptismi Joannis, et Christi.
+</p>
+               <p xml:id="hsvhsv-g38789-d1e1437">
+                  <lb ed="#P" n="40"/>Inter baptisma Joannis et baptisma Christi, hec
+<lb ed="#P" n="41"/>distantia est quod in baptismo Joannis per 
+intinc<lb ed="#P" break="no" n="42"/>tionem aqus solum, sacramentum dabatur, in
+<lb ed="#P" n="43"/>baptismate vero Christi cum sacramento etiam
+<lb ed="#P" n="44"/>res sacramenti percipiturJoannes enim peccatores
+<lb ed="#P" n="45"/>aqua tinxit, et peccata confltentibus peenitentiam
+<lb ed="#P" n="46"/>injunxit;Christus baptizat et peccata dimittit. Ille
+<lb ed="#P" n="47"/>baptizans venturum et baptizaturum in spiritu
+<lb ed="#P" n="48"/>predicavit, hic baptizans, ad remissionem 
+pecca<lb ed="#P" break="no" n="49"/>torum spiritum infundit. Illic homines 
+baptiza<lb ed="#P" break="no" n="50"/>bantur in nomine venturi, hic homines 
+baptizan<lb ed="#P" break="no" n="51"/>tur ín nomine Patris, et Filii, et Spiritus sancti
+<lb ed="#P" n="52"/>(Matth. xxvin). Sacramentum ergo utrobique
+<lb ed="#P" n="53"/>quantum ad formam exteriorem idem fuit, sed
+<lb ed="#P" n="54"/>quantum ad effectum idem non fuit, quia illic
+<lb ed="#P" n="55"/>sacramentum solum fuit; nam remissio 
+peccato<lb ed="#P" break="no" n="56"/>rum non fuit : hic autem et sacramenti forma.
+<lb ed="#P" n="57"/>proponitur, et virtus sacramenti pariter in 
+remis<lb ed="#P" break="no" n="58"/>sionem peccatorum condonatur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g38789-Dd1e1482">
+               <head xml:id="hsvhsv-g38789-Hd1e1484">Capitulum 7</head>
+               <head xml:id="hsvhsv-g38789-Hd1e1486" type="question-title"/>
+               <p xml:id="hsvhsv-g38789-d1e1488">
+                  <cb ed="#P" n="b"/>
+                  <lb ed="#P" n="59"/>Cap. VII. Utrum post datum praeceptum
+<lb ed="#P" n="60"/>baptismi aliquis salvari possit nisi 
+actuali<lb ed="#P" break="no" n="61"/>ter percepto sacramento baptismi.
+</p>
+               <p xml:id="hsvhsv-g38789-d1e1499">
+                  <lb ed="#P" n="62"/>Solent quidam sive curiose, sive studiose 
+inqui<lb ed="#P" break="no" n="63"/>rere, utrum aliquis post indictum et publice 
+pro<lb ed="#P" break="no" n="64"/>positum baptismatis sacramentum salvari possit,
+<lb ed="#P" n="65"/>nisi actualiter ipsum sacramentum baptismi 
+per<lb ed="#P" break="no" n="66"/>cipiat. Videntur enim rationes manifeste esse, et
+<lb ed="#P" n="67"/>habent auctoritates multas, si tamen habere 
+di<lb ed="#P" break="no" n="68"/>cendi sunt, qui non intelligunt. Primum quia
+<lb ed="#P" n="69"/>dictum est : Nisi quis renatus fuerit ex aqua
+<lb ed="#P" n="70"/>et Spiritu sancto, non potest intrare in regnum
+<lb ed="#P" n="71"/>Dei (Joan. i1). Et iterum alibi : Qui crediderit
+<lb ed="#P" n="72"/>et baptizatus fuerit salvus erit (Marc. xvi). Et
+<lb ed="#P" n="73"/>suntalia multa talia, quibus quasi astrui videtur
+<lb ed="#P" n="74"/>nullo modo salvari posse eum qui hoc 
+sacramen<lb ed="#P" break="no" n="75"/>tum non habuerit; quidquid praeter hoc 
+sacra<lb ed="#P" break="no" n="76"/>mentum habuerit. Si fidem perfectam habuerit :
+<lb ed="#P" n="77"/>8i spem, si charitatem habuerit, ctiamsi cor 
+con<lb ed="#P" break="no" n="78"/>tritum et humiliatum habuerit quod Deus non
+<lb ed="#P" n="79"/>despicit;veram poenitentiam de praeteritis, firmum
+<lb ed="#P" n="80"/>propositum de futuris, quidquid habuerit salvus
+<lb ed="#P" n="81"/>esse non poterit si hoc non habuerit. Et hoc totum
+<lb ed="#P" n="82"/>ita ipsis videtur, propter hoc quod scriptum est :
+<lb ed="#P" n="83"/>Nisi quis renatus fuerit ex aqua et Spiritu sancto
+<lb ed="#P" n="84"/>non intrabit in regnum Dei. Et tamen si quis 
+que<lb ed="#P" break="no" n="85"/>rat quid factam sit de illis qui pro Christi 
+san<lb ed="#P" break="no" n="86"/>guine effuso sive sacramento aquae ab hac vita
+<lb ed="#P" n="87"/>transierunt, dicere non audent ejusmodi salvos
+<lb ed="#P" n="88"/>non esse. Et cum ostendere non possit hoc in eo
+<lb ed="#P" n="89"/>quod supra memoratum est scriptum esse, dicere
+<lb ed="#P" n="90"/>tamen non audent, quia ibi scriptum non est, ideo
+<lb ed="#P" n="91"/>negandum esse. Qui enim dixit : Nisi quis renatus
+<lb ed="#P" n="92"/>fuerit ex aqua et Spiritu sancto ; non addidit, vel
+<lb ed="#P" n="93"/>effuso sanguine vice aque, et tamen verum est
+<lb ed="#P" n="94"/>quanquam hic scriptum non est. Nam si salvus
+<lb ed="#P" n="95"/>egt qui propter Deum aquam suscepit, quare non
+<lb ed="#P" n="96"/>multo magis salvus est, qui propter Deum 
+san<lb ed="#P" break="no" n="97"/>guinem fudit ? Plus enim est sanguinem dare
+<lb ed="#P" n="98"/>quam aquam accipere. Illud enim. quod quidam
+<lb ed="#P" n="99"/>dicunt : propterea salvos esse qui sanguinem 
+fun<lb ed="#P" break="no" n="100"/>dunt, quia cum sanguine etiam aquam fundunt,
+<lb ed="#P" n="101"/>etinipsa aqua quam fundunt baptisma 
+perci<lb ed="#P" break="no" n="102"/>piunt, quam sit frivolum patet. Si enim propter
+<lb ed="#P" n="103"/>humorem aquae, qui cum sanie cruoris de 
+vulne<lb ed="#P" break="no" n="104"/>ribus manat baptizati dicuntur, qui interficiuntur,
+<lb ed="#P" n="105"/>ergo qui suffocantur vel submerguntur, vel alio
+<lb ed="#P" n="106"/>quolibet genere mortis (ubi sanguis non funditur)
+<lb ed="#P" n="107"/>occiduntur, baptizati non sunt in sanguine suo, et
+<lb ed="#P" n="108"/>frustra mortui sunt pro Christo, quia humorem
+<lb ed="#P" n="109"/>aquae quem intra corpus habuerunt non 
+effude<lb ed="#P" break="no" n="110"/>runt. Quis hoc dicat ? Ergo in sanguine 
+baptiza<lb ed="#P" break="no" n="111"/>tur, qui pro Christo moritur; qui et si sanguinem
+<lb ed="#P" n="112"/>non effundit ex vulnere, dat vitam quae pretiosior
+<lb ed="#P" n="113"/>est sanguine. Nam sanguinem fundere posset ; et
+<lb ed="#P" n="114"/>si vitam non daret, et minus esset sanguinem
+<lb ed="#P" n="115"/>fundere quam vitam dare. Bene ergo sanguinem
+<lb ed="#P" n="116"/>fundit, qui vitam ponit pro Christo, et habet
+<lb ed="#P" n="117"/>baptisma suum in virtute sacramenti, sive qua
+<lb ed="#P" n="118"/>Bieut sacramentum ipsum accepisse non prodest;
+<lb ed="#P" n="119"/>ita cum illa habetur, sacramentum habere non
+<lb ed="#P" n="120"/>posse, non nocet. Verum ergo est (quamvis ibi
+<!-- 145.png.txt -->
+<pb ed="#P" n="227"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>dictum non est) quod qui pro Christo moritur, in 
+<lb ed="#P" n="2"/>Christo baptizatur. Ita, inquiunt, verum est 
+quam<lb ed="#P" break="no" n="3"/>vis ibi dictum non est, et ideo verum est quia
+<lb ed="#P" n="4"/>alibi dictum est; etiam si ibi dictum non est. Qui
+<lb ed="#P" n="5"/>enim dixit : Nisi quis renatus fuerit ex aqua et
+<lb ed="#P" n="6"/>Spiritu sancto, non potest intrare in regnum Dei;
+<lb ed="#P" n="7"/>idem ipse alibi dixit : Qui me confessus fuerit
+<lb ed="#P" n="8"/>coram hominibus: confitebor et ego eum coram
+<lb ed="#P" n="9"/>patre meo (Matth. x). Quod ergo ibi dictum non
+<lb ed="#P" n="10"/>est subintelligendum tamen est, quamvis dictum
+<lb ed="#P" n="11"/>non est, quoniam alibi dictum est : Videte ergo
+<lb ed="#P" n="12"/>quid dicunt : Ideo inquiunt quod dictum non est;
+<lb ed="#P" n="13"/>subintelligendum est ubi dictum non est, quoniam
+<lb ed="#P" n="14"/>alibi dictum est. Si ergo hoc in hoc loco 
+subintel<lb ed="#P" break="no" n="15"/>ligendum est ubi dictum non est, quoniam alibi
+<lb ed="#P" n="16"/>dictum est, quare similiter etiam de fide 
+subin<lb ed="#P" break="no" n="17"/>telligendum non est ; quoniam alibi dictum est :
+<lb ed="#P" n="18"/>Qui credit inquit, in me mortem non videbit in
+<lb ed="#P" n="19"/>Gternum ? (Joan. x1.) Item qui dixit : Nisi quis
+<lb ed="#P" n="20"/>renatus fuerit ex aqua et Spiritu sancto, non 
+po<lb ed="#P" break="no" n="21"/>lest intrare in regnum Dei; ipse dixit : Qui credit
+<lb ed="#P" n="22"/>in me, non morietur in cternum (ibid.). Aut
+<lb ed="#P" n="23"/>ergo nega fidem, aut concede salvationem. Quid
+<lb ed="#P" n="24"/>tibi videtur? Ubi fides est, ubi spes est, ubi 
+cha<lb ed="#P" break="no" n="25"/>ritas est ; denique ubi plena et perfecta virtus
+<lb ed="#P" n="26"/>sacramenti est, ealus non est; quia solum 
+sacra<lb ed="#P" break="no" n="27"/>mentum non est, et ideo non est, quia haberi non
+<lb ed="#P" n="28"/>potest : Qui crediderit, inquit, et baptizatus fuerit,
+<lb ed="#P" n="29"/>salvus erit. Ecce ergo dubium non est, quin ubi
+<lb ed="#P" n="30"/>fides est et baptismus est, salus sit. Et quid 
+sequi<lb ed="#P" break="no" n="31"/>tur? Qui vero non crediderit, condemnabiftur
+<lb ed="#P" n="32"/>(Marc. xvi). Quare ita dicere voluit ? Quare non
+<lb ed="#P" n="33"/>dixit: Quinon crediderit et baptizatus non fuerit
+<lb ed="#P" n="34"/>condemnabitur, sicut dixerat : Qui crediderit et
+<lb ed="#P" n="35"/>baptizatus fuerit, salvus erit ? Quare, nisi quia
+<lb ed="#P" n="36"/>credere voluntatis est, et quia fides credere volenti
+<lb ed="#P" n="37"/>deesse non potest. Et idcirco in eo qui non credit
+<lb ed="#P" n="38"/>semper prava voluntas arguitur ubi necessitas
+<lb ed="#P" n="39"/>nulla esse potest, quae ad excusationem 
+preten<lb ed="#P" break="no" n="40"/>datur. Baptizari autem in voluntate esae potest,
+<lb ed="#P" n="41"/>etiam quando non est in possibilitate; et idcirco
+<lb ed="#P" n="42"/>juste bona voluntas cum devotione fidei suse non
+<lb ed="#P" n="43"/>despicitur, quamvis ab eo quod foris est 
+sacra<lb ed="#P" break="no" n="44"/>mento aqu: percipiendo articulo necessitatis 
+pre<lb ed="#P" break="no" n="45"/>pediatur. Vis nosse plenius an ne ratio hiec alicubi
+<lb ed="#P" n="46"/>auctoritate manifestiori se probet, quamvis et ille
+<lb ed="#P" n="47"/>quas supra commemoravimus auctoritates tam
+<lb ed="#P" n="48"/>manifeste videantur, ut de veritate ipsarum 
+du<lb ed="#P" break="no" n="49"/>bitari non possit ? Audi tamen adhuc aliud si
+<lb ed="#P" n="50"/>forte evidentius tibi demonstrari possit, de quo
+<lb ed="#P" n="51"/>dubitari non debes. Beatus Augustinus in libro
+<lb ed="#P" n="52"/>De unico baptismo sic ait : Etiam atque etiam.
+<lb ed="#P" n="53"/>considerans, invenio non tantum passionem pro
+<lb ed="#P" n="54"/>nomine Christi id quod deerat baptismo posse
+<lb ed="#P" n="55"/>implere, sed etiam fidem conversionemque cordis,
+<lb ed="#P" n="56"/>BSiforte ad celebrandum mysterium baptismi in
+<lb ed="#P" n="57"/>angustiis temporum succurri non potest. Vides
+<lb ed="#P" n="58"/>quoniam manifeste testatur fidem et cordis 
+con<lb ed="#P" break="no" n="59"/>versionem, bone voluntatis ad salutem posse
+<lb ed="#P" n="60"/>sufficere, ubi visibile sacramentum aqui ex 
+ne<lb ed="#P" break="no" n="61"/>cesaitate contigit haberi non posse. Sed ne forte
+<lb ed="#P" n="62"/>contrarietas aliqua tibi esse videatur, in eo quod
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>postea in libro retractationum exemplum de 
+1a<lb ed="#P" break="no" n="64"/>trone quod ad hanc sententiam in qua dixerat
+<lb ed="#P" n="65"/>effusionem sanguinis, sive fidem et cordis et 
+con<lb ed="#P" break="no" n="66"/>versionem, vieem baptismi implere posse, 
+com<lb ed="#P" break="no" n="67"/>parandam assumpserat, improbavit dicens : In
+<lb ed="#P" n="68"/>quarto libro cum dicerem vicem baptismi posse
+<lb ed="#P" n="69"/>habere passionem, non satis idoneum posui illius
+<lb ed="#P" n="70"/>latronis exemplum, qui utrum fuerit baptizatus
+<lb ed="#P" n="71"/>incertum est. Sed considerare debes quod in hoc
+<lb ed="#P" n="72"/>loco exemplum tantum quod ad probationem 
+sen<lb ed="#P" break="no" n="73"/>tentig adduxerat correxit ipsam sententiam, non
+<lb ed="#P" n="74"/>reprobavit. Quod si putas idcirco sententiam 
+il<lb ed="#P" break="no" n="75"/>lam improbandam quia exemplum correctum est,
+<lb ed="#P" n="76"/>ergo falsum est quod dixerat effusionem 
+sangui<lb ed="#P" break="no" n="77"/>nis vicem baptismi posse habere, quoniam ad illud
+<lb ed="#P" n="78"/>B probandum exemplum ipsum positum est. Non
+<lb ed="#P" n="79"/>enim ait cum dicergm vicem baptismi posse 
+ha<lb ed="#P" break="no" n="80"/>bere fldem, sed cum dicerem, inquit, vicem 
+bap<lb ed="#P" break="no" n="81"/>tismi posse habere passionem, quamvis utrumque
+<lb ed="#P" n="82"/>in ipsa una sententia posuisset. Si ergo ad id quod
+<lb ed="#P" n="83"/>dixit vicem baptismi posse habere passionem
+<lb ed="#P" n="84"/>exemplum positum est cum ipsum sine 
+ambigui<lb ed="#P" break="no" n="85"/>tate ulla verum esse constet, patet quod exemplum
+<lb ed="#P" n="86"/>postmodum correctum est, sed sententia non est
+<lb ed="#P" n="87"/>improbata. Oportet ergo ut aut confitearis vicem
+<lb ed="#P" n="88"/>baptismi, in articulo necessitatis idem veram et
+<lb ed="#P" n="89"/>confessionem cordis implere posse, aut ostendas
+<lb ed="#P" n="90"/>qualiter fides vera et charitas non flcta haberi
+<lb ed="#P" n="91"/>possit, ubi salus non sit. Nisi forte dicere velis
+<lb ed="#P" n="92"/>neminem, fidem veram et charitatem veram 
+ha<lb ed="#P" break="no" n="93"/>bere posse, qui visibile sacramentum aque non
+<lb ed="#P" n="94"/>sit habiturus. Quod tamen qua ratione vel 
+aucto<lb ed="#P" break="no" n="95"/>ritate probes ignogo. Sed nos interim non 
+conten<lb ed="#P" break="no" n="96"/>dimus utrum aliquis qui baptismi sacramentum
+<lb ed="#P" n="97"/>percepturus non est ; ista habere possit, hoc solo
+<lb ed="#P" n="98"/>duntaxat constante, quod si quis esset qui haec
+<lb ed="#P" n="99"/>haberet etiam sine visibili sacramento aqua 
+pe<lb ed="#P" break="no" n="100"/>rire non posset. Multa sunt alia quae semper hoc
+<lb ed="#P" n="101"/>approbandum adduci potuissent, sed nos qus
+<lb ed="#P" n="102"/>superius in tractatu sacramentorum ad idipsum
+<lb ed="#P" n="103"/>probandum posuimus : nequaquam iterum 
+repli<lb ed="#P" break="no" n="104"/>canda putamus.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g38789-Dd1e1864">
+               <head xml:id="hsvhsv-g38789-Hd1e1866">Capitulum 8</head>
+               <head xml:id="hsvhsv-g38789-Hd1e1868" type="question-title"/>
+               <p xml:id="hsvhsv-g38789-d1e1870">
+                  <lb ed="#P" n="105"/>Cap. VIII. De sacramentis neophytorum.
+</p>
+               <p xml:id="hsvhsv-g38789-d1e1875">
+                  <lb ed="#P" n="106"/>Neophytus novitius interpretatur. Neophytus
+<lb ed="#P" n="107"/>vocatur nuper ad fidem conversus, sive rudis in
+<lb ed="#P" n="108"/>disciplina religiose conversationis. Noviter ad 
+fi<lb ed="#P" break="no" n="109"/>dem conversi visibilibus sacramentis instruendi
+<lb ed="#P" n="110"/>sunt, ut perea qui vident, intelligant quae non
+<lb ed="#P" n="111"/>vident. Admonendi sunt hujusmodi ut considerent
+<lb ed="#P" n="112"/>novam non esse fidem, in qua novi sunt ipsi ;
+<lb ed="#P" n="113"/>quoniam ab initio mundi sicut nullo tempore 
+de<lb ed="#P" break="no" n="114"/>fuerunt fideles et justi membra Christi, ita ab
+<lb ed="#P" n="115"/>initio nunquam defuerunt sacramenta salutis
+<lb ed="#P" n="116"/>quae precesserunt in preparationem et signum
+<lb ed="#P" n="117"/>redemptionis, quae completa est in morte Christi.
+<lb ed="#P" n="118"/>Prima namque state Abel agnum obtulit in 
+sa<lb ed="#P" break="no" n="119"/>erificio figuram mortis Christi. Secunda setate
+<lb ed="#P" n="120"/>Noe arcam in diluvio gubernavit, sicut Christus -
+<lb ed="#P" n="121"/>Ecclesiam inter fluctus tentationum regens 
+mer<lb ed="#P" break="no" n="122"/>gi non sinit. Tertia setate Abraham pro filio 
+obla<lb ed="#P" break="no" n="123"/>to arietem mactavit, sicut Deus Pater Verbum
+<lb ed="#P" n="124"/>* suo pro salute mundi obtulit. In quo tamen di-
+<!-- 146.png.txt -->
+<pb ed="#P" n="228"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>vinitate inviolabili permanente sola humanitas
+<lb ed="#P" n="2"/>dolorem mortis sustinuit. Postea eductus est 
+po<lb ed="#P" break="no" n="3"/>pulus Israel de JEgypto per mare Rubrumin 
+co<lb ed="#P" break="no" n="4"/>lumna ignis et nubis, sicut fideles Dei de 
+tene<lb ed="#P" break="no" n="5"/>bris peccati liberantur, renovati per 
+sacramen<lb ed="#P" break="no" n="6"/>tum baptismi Christi sanguine consecratum ; 
+ip<lb ed="#P" break="no" n="7"/>sum fide sequentes in quo est et nubes 
+humani<lb ed="#P" break="no" n="8"/>tatis et ignis divinitatis. Quarta zetate in 
+Jerusa<lb ed="#P" break="no" n="9"/>lem regnum populi Dei sublimatur temporale,
+<lb ed="#P" n="10"/>prefigurans aeternum; in quo princeps pacis,
+<lb ed="#P" n="11"/>pater futuri seculi (Isa. 1x), fideles suos ad 
+vi<lb ed="#P" break="no" n="12"/>sionem sterne pacis introducet. Hujus autem
+<lb ed="#P" n="13"/>regni exordium David exstitit, qui per multas
+<lb ed="#P" n="14"/>tribulationes probatus, et glorificatus, pacis 
+suc<lb ed="#P" break="no" n="15"/>cessorem Filium reliquit, ut ostendatur quod , ad
+<lb ed="#P" n="16"/>future pacis quietem pervenire non possint, qui p
+<lb ed="#P" n="17"/>in praesenti vita contra tentationes et 
+tribulatio<lb ed="#P" break="no" n="18"/>nes vincendas fortes non fuerint. Propter hoc qui
+<lb ed="#P" n="19"/>in Sabbato sancto paschalis solemnitatis 
+baptizan<lb ed="#P" break="no" n="20"/>di sunt, quarta hebdomada 
+quadragesimalisobser<lb ed="#P" break="no" n="21"/>vantis, quae continentige nobis arma ministrat et
+<lb ed="#P" n="22"/>inquarta ejusdem hebdomadse feria catechizandi
+<lb ed="#P" n="23"/>deferuntur ad ecclesiam: ibi auditurietinstruéndi
+<lb ed="#P" n="24"/>qualiter contra spirituales nequitiassunt 
+pugnatu<lb ed="#P" break="no" n="25"/>ri. Sedtamen usque in Sabbatum Paschalis 
+sole<lb ed="#P" break="no" n="26"/>mnitatis eorum baptismus differtur, 
+hocattenden<lb ed="#P" break="no" n="27"/>te Ecclesia quod quid adagnitionem in praesenti 
+vi<lb ed="#P" break="no" n="28"/>ta vocantur, in spefuturg quietis baptizantur. 
+Qui<lb ed="#P" break="no" n="29"/>nta state populus propter peccata sua in 
+Babylo<lb ed="#P" break="no" n="30"/>nem captivus ducitur, et rursus Deo miserante post
+<lb ed="#P" n="31"/>septuaginta annos soluto captivitatis jugo ad 
+ter<lb ed="#P" break="no" n="32"/>ram suam revocatur. Quoniam populus Deiqui in
+<lb ed="#P" n="33"/>hac vitzequae septenariodierum volvitur, vanitati
+<lb ed="#P" n="34"/>etconfusioni subjectus, mortalitatis jugum portat,
+<lb ed="#P" n="35"/>postfinem ejus a corruptioneliberatur. Sic igiturab
+<lb ed="#P" n="36"/>initio nullo tempore sacramenta Dei defuerunt,
+<lb ed="#P" n="37"/>quibus fidelis populus ad pércáptionem 
+invisibi<lb ed="#P" break="no" n="38"/>lium natriretur, et exercitareturad cognitionem,
+<lb ed="#P" n="39"/>ad ultimum sexta state de virgine natus est
+<lb ed="#P" n="40"/>Christus, sicut sexta die de terra virgine primus
+<lb ed="#P" n="41"/>homoestplasmatus. Ipseergo quasi 
+consummatu<lb ed="#P" break="no" n="42"/>rusomniacum ad virilem etatem pervenisset, 
+trice<lb ed="#P" break="no" n="43"/>Bimo:etatis suzeanno a Joanne baptizatus est; non.
+<lb ed="#P" n="44"/>necessitate, sed dispensatione, ut lavacrum 
+emun<lb ed="#P" break="no" n="45"/>dadis sanctificaret. Dehinc apostolos ministros
+<lb ed="#P" n="46"/>Evangelii convocans regnum celorum venturum 
+<lb ed="#P" n="47"/>predicarecceepit; etnovissimein consummationem
+<lb ed="#P" n="48"/>omnium semetipsum hostiam pro mundi 
+redemp<lb ed="#P" break="no" n="49"/>tionein ara crucisPatriofferens mortem sustinuit,
+<lb ed="#P" n="50"/>ut credentibus in se mortis timorem tolleret, et a.
+<lb ed="#P" n="51"/>morteresurrexitutprosemorientibusspem vitae et.
+<lb ed="#P" n="52"/>resurrectionis daret. Postea ascensurus in coelos 
+di<lb ed="#P" break="no" n="53"/>scipulos inmundum universum misit docere et 
+ba<lb ed="#P" break="no" n="54"/>ptizare omnes gentes, ut vocarentur qui 
+przcede<lb ed="#P" break="no" n="55"/>tem sequerentur ad vitam. Hrec sunt sacramenta 
+fi<lb ed="#P" break="no" n="56"/>dei Christiangab initio condita in fide credenda, 
+si<lb ed="#P" break="no" n="57"/>ne fine profutura. Hzc sunt quibus catechizandos
+<lb ed="#P" n="58"/>imbuimus, et eorum qui sacramento novitatis 
+re<lb ed="#P" break="no" n="59"/>generandi sunt, füdem salutari confessione 
+pro<lb ed="#P" break="no" n="60"/>merendam exigimus.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g38789-Dd1e2057">
+               <head xml:id="hsvhsv-g38789-Hd1e2059">Capitulum 9</head>
+               <head xml:id="hsvhsv-g38789-Hd1e2061" type="question-title"/>
+               <p xml:id="hsvhsv-g38789-d1e2063">
+                  <lb ed="#P" n="61"/>Cap. IX. De catechizatione.
+</p>
+               <p xml:id="hsvhsv-g38789-d1e2068">
+                  <lb ed="#P" n="62"/>Catechumenus instructus vel audiens inter-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>pretatur, catechizare enim est instruere, quoniam
+<lb ed="#P" n="64"/>baptizandi prius instruuntur et docentur quae sit
+<lb ed="#P" n="65"/>forma fidei Christian:z, in qua eos salvos fleri et
+<lb ed="#P" n="66"/>sacramentum salutis suscipere opportet, sicut
+<lb ed="#P" n="67"/>scriptum est : Ite, docete omnes gentes, 
+bapti<lb ed="#P" break="no" n="68"/>zantes eos in nomine Patris et Filii, et. 
+Spiri<lb ed="#P" break="no" n="69"/>tus sancti (Matth. xxvi). Prius docete, postea
+<lb ed="#P" n="70"/>baptizate. Docete ad instructionem, baptizate ad
+<lb ed="#P" n="71"/>emundationem. Docete ad fidem, baptizate ad
+<lb ed="#P" n="72"/>peccatorum remissionem. Idcirco docete quid qui
+<lb ed="#P" n="73"/>crediderit, ideo baptizate ; quia qwi baptizatus
+<lb ed="#P" n="74"/>fuerit, salvas erit (Marc. xvi). Hic. igitur 
+for<lb ed="#P" break="no" n="75"/>ma catechizationis a primis temporibus 
+Christia<lb ed="#P" break="no" n="76"/>ng fidei instituta est. Quae tunc quidem 
+necessa<lb ed="#P" break="no" n="77"/>rio servabatur quando adultis et. intelligentiain
+<lb ed="#P" n="78"/>habentibus priusquam ud baptismi sacramentum
+<lb ed="#P" n="79"/>accederent, regula fidei Christian nuntiabatur,
+<lb ed="#P" n="80"/>ut vel sponte fidei acquiescentes digni 
+regenera<lb ed="#P" break="no" n="81"/>tione spirituali judicarentur, vel credere nolentes
+<lb ed="#P" n="82"/>merito a perceptione sacramenti Dei velut indigni
+<lb ed="#P" n="83"/>repellerentur. Ad obtinendam quippe salutem 
+id<lb ed="#P" break="no" n="84"/>circo arbitrium hominis consulendum est, 
+quo<lb ed="#P" break="no" n="85"/>niam opus salutis voluntarium esse oportet. Et
+<lb ed="#P" n="86"/>hoc quidem a principio sicfactum est. Postquam
+<lb ed="#P" n="87"/>autem ad fidem multitudo gentium introivit jam
+<lb ed="#P" n="88"/>nunc etiam in iis qui a fidelibus generantur 
+par<lb ed="#P" break="no" n="89"/>vulis ; eadem forma servatur, quoa et ipsos 
+ma<lb ed="#P" break="no" n="90"/>ter Ecclesia provida dispensatione sacramento
+<lb ed="#P" n="91"/>salutis interim carere non vult, ne forte ipsa 
+di<lb ed="#P" break="no" n="92"/>latione, a salute alieni fierent, si non percepto
+<lb ed="#P" n="93"/>sacramento salutis subito ab hac vita exirent.
+<lb ed="#P" n="94"/>Congrue ergo provisa est in illis rnedicina 
+salu<lb ed="#P" break="no" n="95"/>tis, ut in sacramento fidei baptizentur, et per 
+al<lb ed="#P" break="no" n="96"/>terius fidem Deo reconcilientur, quos per alterius
+<lb ed="#P" n="97"/>peccatum alienatos constat esse a Deo. 
+Institu<lb ed="#P" break="no" n="98"/>tum est itaque ad hoc novum sacramentum ad
+<lb ed="#P" n="99"/>catechizandos parvulos, exorcizandos, initiandos
+<lb ed="#P" n="100"/>et deinde baptizandos, in quibus pro parvulis 
+au<lb ed="#P" break="no" n="101"/>dit Ecclesia, et ad interrogata respondet et 
+spon<lb ed="#P" break="no" n="102"/>det donec ipsi ad intelligibiles annos perveniant,
+<lb ed="#P" n="103"/>et sacramenta fidei et charitatis et spei per se 
+in<lb ed="#P" break="no" n="104"/>telligere valeant et servare.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g38789-Dd1e2167">
+               <head xml:id="hsvhsv-g38789-Hd1e2169">Capitulum 10</head>
+               <head xml:id="hsvhsv-g38789-Hd1e2171" type="question-title"/>
+               <p xml:id="hsvhsv-g38789-d1e2173">
+                  <lb ed="#P" n="105"/>Cap. X. De exorcismo.
+</p>
+               <p xml:id="hsvhsv-g38789-d1e2178">
+                  <lb ed="#P" n="106"/>Exorcismus de Greco in Latinum adjuratio
+<lb ed="#P" n="107"/>dicitur. Exorciste enim sunt qui super 
+catechu<lb ed="#P" break="no" n="108"/>menos sive super energumenos ; id est eos qui
+<lb ed="#P" n="109"/>habent spiritum immundum, invocant nomen 
+Do<lb ed="#P" break="no" n="110"/>mini Jesu divina virtute objecta ; adjurantes
+<lb ed="#P" n="111"/>eum ut egrediatur ab illis. Recte ergo post 
+cate<lb ed="#P" break="no" n="112"/>chizationem exorcismus sequitur, ut ab eo qui
+<lb ed="#P" n="113"/>jam fide instructus est, adversaria virtus 
+pella<lb ed="#P" break="no" n="114"/>tur. Tria quippe sunt usque ad susceptionem 
+no<lb ed="#P" break="no" n="115"/>vitatis perficienda, quibus baptizantus 
+quasicon<lb ed="#P" break="no" n="116"/>cipitur et nutritur, et usque ad integritatem 
+no<lb ed="#P" break="no" n="117"/>va vite promovetur. Haec autem sunt 
+catechis<lb ed="#P" break="no" n="118"/>Ti, exorcismi, orationes. Primum itaque 
+cate<lb ed="#P" break="no" n="119"/>chizatur baptizandus, ut ad fidem proprio 
+mo<lb ed="#P" break="no" n="120"/>veatur voluntatis arbitrio. Deinde exorcisatur ut
+<lb ed="#P" n="121"/>ab eo diaboli potestas iniqua pellatur. Additur
+<lb ed="#P" n="122"/>eliam oratio ut gratia preveniat et. subsequatur,
+<lb ed="#P" n="123"/>quae vires praebeat libero arbitrio, et qua procul
+<lb ed="#P" n="124"/>fiat universa maligni spiritus illusio. Forma igi-
+<!-- 147.png.txt -->
+<pb ed="#P" n="229"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>tur exorcismi in hunc modum perficitur. 
+Signa<lb ed="#P" break="no" n="2"/>tur primo baptizandus crucis signaculo in fronte,
+<lb ed="#P" n="3"/>in pectore, in oculis, in naribus, in auribus, in
+<lb ed="#P" n="4"/>ore, ut tolius corporis sensus hoc signaculo 
+mu<lb ed="#P" break="no" n="5"/>niantur, cujus virtute omnia nostra sacramenta
+<lb ed="#P" n="6"/>complentur, et omnia diaboli figmenta 
+frustran<lb ed="#P" break="no" n="7"/>tur. Postea datur sal benedictum in os ejus, ut
+<lb ed="#P" n="8"/>sapientia conditus fetore careat iniquitatis, et
+<lb ed="#P" n="9"/>ultra non putrescat a vermibus vitiorum. Deinde
+<lb ed="#P" n="10"/>exsufflatur malignus fortis, ut spiritus spiritu
+<lb ed="#P" n="11"/>pellatur. Postea tanguntur ei aures et nares 
+sali<lb ed="#P" break="no" n="12"/>va, ut tactu supernae sapientis, et aures ejus
+<lb ed="#P" n="13"/>aperiantur ad audiendum verbum Dei, et nares
+<lb ed="#P" n="14"/>similiter ad discernendum odorem vita et mortis
+<lb ed="#P" n="15"/>Hoc est sacramentum apertionis quod Dominus
+<lb ed="#P" n="16"/>in Evangelio significavit, quando aures et os 
+te<lb ed="#P" break="no" n="17"/>tigit surdi et muti, dicens ; Ephpheta, quod est
+<lb ed="#P" n="18"/>adaperire (Marc. vii).
+</p>
+            </div>
+            <div xml:id="hsvhsv-g38789-Dd1e2268">
+               <head xml:id="hsvhsv-g38789-Hd1e2270">Capitulum 11</head>
+               <head xml:id="hsvhsv-g38789-Hd1e2272" type="question-title"/>
+               <p xml:id="hsvhsv-g38789-d1e2274">
+                  <lb ed="#P" n="19"/>Cap. XI. De his qua post exorcizátionem 
+se<lb ed="#P" break="no" n="20"/>quuntur in baptismo.
+</p>
+               <p xml:id="hsvhsv-g38789-d1e2281">
+                  <lb ed="#P" n="21"/>His ergo completis, venit saeerdos ad fontem :
+<lb ed="#P" n="22"/>consecratur fons In. nomine Patris, et Filii, et
+<lb ed="#P" n="23"/>Spiritu sancti ; ut sanctitas sacramenti non ex
+<lb ed="#P" n="24"/>eo qui ministrat, sed ex eo qui sanctiflcat 
+consta<lb ed="#P" break="no" n="25"/>re aciatur, sicut scriptum est: Hic est qui 
+bapti<lb ed="#P" break="no" n="26"/>zat (Joan. 1). Sic enim nec a bono melius datur,
+<lb ed="#P" n="27"/>nec a malo pejus accipitur, quia sanctitas 
+sacra<lb ed="#P" break="no" n="28"/>menti non in merito ministrantium, sed in Dei
+<lb ed="#P" n="29"/>sanctificantis virtute perficitur. Traditur etiam
+<lb ed="#P" n="30"/>nove vite auditoribus symbolum fidei, in quo
+<lb ed="#P" n="31"/>apostolice doctrine forma consistit. Postremo
+<lb ed="#P" n="32"/>oblatus ad baptismum parvulus, et interrogatus
+<lb ed="#P" n="33"/>a sacerdote an abrenuntiet Satans, et omnibus
+<lb ed="#P" n="34"/>operibus ejus, atque omnibus pompis ejus, per
+<lb ed="#P" n="35"/>ora gestantium respondet, ut quis aliena 
+iniqui<lb ed="#P" break="no" n="36"/>tate obligatus est, aliena fide et. confessione 
+sal<lb ed="#P" break="no" n="37"/>vatur. Post abrenuntiationem factam, ungitur
+<lb ed="#P" n="38"/>oleo sacroin pectore tanquam muniatur 
+adver<lb ed="#P" break="no" n="39"/>sus hostem, ne ei deinceps immunda et noxia
+<lb ed="#P" n="40"/>persuadere possit. Ungiter et inter scapulas, ubi
+<lb ed="#P" n="41"/>vigor portandi operis est, ut fortitudinem 
+acci<lb ed="#P" break="no" n="42"/>piat ad portandum onus Domini. Deinde 
+inter<lb ed="#P" break="no" n="43"/>rogatur an credat in Deum Patrem, et Filium, et
+<lb ed="#P" n="44"/>Spiritum sanctum, unam esse Ecclesiam 
+catholi<lb ed="#P" break="no" n="45"/>cam, remissionem peccatorum et vitam aeternam.
+<lb ed="#P" n="46"/>Sub hac igitur fidei responsione, trina mersione 
+<lb ed="#P" n="47"/>sordibus vetustatis abluitur, et novum 
+homi<lb ed="#P" break="no" n="48"/>nem indutus triduanae morti Christi consepelitur,
+<lb ed="#P" n="49"/>sicut ait Apostolus : Quicunque in Christo 
+bap<lb ed="#P" break="no" n="50"/>tizati sumus, in. morte ipsius baptizati 
+su<lb ed="#P" break="no" n="51"/>mus. Consepulti enim sumus cum Christo per
+<lb ed="#P" n="52"/>baptismum in mortem, ut quomodo Christus
+<lb ed="#P" n="53"/>resurrezit a mortuis, ita et nos in novitate
+<lb ed="#P" n="54"/>vita ambulemus (Rom. vi). Trina enim 
+immer<lb ed="#P" break="no" n="55"/>Bio, trina est cogitationis, locutionis et 
+operatio<lb ed="#P" break="no" n="56"/>nis emundatio. Completis autem baptismi 
+sacra<lb ed="#P" break="no" n="57"/>mentis, postquam baptizatus a fonte ascendit, 
+sa<lb ed="#P" break="no" n="58"/>cro chrismate in vertice ungitur, ut spiritum.
+<lb ed="#P" n="59"/>Christi participando merito deinceps Christianus
+<lb ed="#P" n="60"/>appelletur, cohcwres regni et glorise sacra 
+unctio<lb ed="#P" break="no" n="61"/>ne effectus. Exinde traditur Christiano vestis
+<lb ed="#P" n="62"/>candida, ut qui prim: nativitatis decorem vetus-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>tatis pannis obfuscaverat, habitu regenerationis,
+<lb ed="#P" n="64"/>gloriae praeferat indumentum. Tegitur etiam post
+<lb ed="#P" n="65"/>Sacram unctionem ejus caput sacro velamine, ut
+<lb ed="#P" n="66"/>intelligat se diademate regni et sacerdotali 
+digni<lb ed="#P" break="no" n="67"/>tate potiri. Ad ultimum datur cereus accensus in
+<lb ed="#P" n="68"/>manum ejus, quatenus implere doceatur illud
+<lb ed="#P" n="69"/>evangelicum quo dicitur : <quote xml:id="hsvhsv-g38789-Qd1e2391">Sic luceat lux vestra
+<lb ed="#P" n="70"/>coram hominibus ut videant vestra bona 
+ope<lb ed="#P" break="no" n="71"/>ra, et glorificem. Patrem vestrumqui in calis
+<lb ed="#P" n="72"/>est</quote> (Matth. v). Hanc igitur lampadem si 
+inexs<lb ed="#P" break="no" n="73"/>tinguibilem servaverit, inter virgines sapientes
+<lb ed="#P" n="74"/>cum sponso coelesti ad nuptia introibit.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g38789-Dd1e2406">
+               <head xml:id="hsvhsv-g38789-Hd1e2408">Capitulum 12</head>
+               <head xml:id="hsvhsv-g38789-Hd1e2410" type="question-title"/>
+               <p xml:id="hsvhsv-g38789-d1e2412">
+                  <lb ed="#P" n="75"/>Cap. XII. De patrinis.
+</p>
+               <p xml:id="hsvhsv-g38789-d1e2417">
+                  <lb ed="#P" n="76"/>Patrini vocantur qui parvulos ad baptismum
+<lb ed="#P" n="77"/>offerunt, et pro ipsis spondendo quasi 
+fidejusso<lb ed="#P" break="no" n="78"/>resad Deum fiunt. Hi propterea patrini vocantur,
+<lb ed="#P" n="79"/>quia regenerandos ad vitam novam offerunt et
+<lb ed="#P" n="80"/>quodammodo auctores fiunt ipsius 
+regeneratio<lb ed="#P" break="no" n="81"/>nis nove. De quibus placuit patribus ut per 
+sin<lb ed="#P" break="no" n="82"/>gulos baptizandos patrini singuli admitterentur,
+<lb ed="#P" n="83"/>id est unus tantum, sive vir sive mulier. 
+Propte<lb ed="#P" break="no" n="84"/>rea fortassis ne spiritualis cognatio, cui 
+reveren<lb ed="#P" break="no" n="85"/>tiam exhibere oportebat, passim diffusa, in 
+ma<lb ed="#P" break="no" n="86"/>trimonii copula obesse potuisset. Sed quedam
+<lb ed="#P" n="87"/>Ecclesie hanc consuetudinem non servant, 
+plu<lb ed="#P" break="no" n="88"/>res ad susceptionem parvulorum admittentes.
+<lb ed="#P" n="89"/>Hoc similiter sancitum est, ut alium in baptismo
+<lb ed="#P" n="90"/>vel in chrismate, hoc est confirmatione, in 
+filio<lb ed="#P" break="no" n="91"/>lum non suscipiat, is qui baptizatus non est vel
+<lb ed="#P" n="92"/>confirmatus. Sednec monachi compatres 
+autcom<lb ed="#P" break="no" n="93"/>C matres facere possunt, quibue ejusmodi 
+commer<lb ed="#P" break="no" n="94"/>cia familiaritatis prohibentur. Patrini 
+fidejusso<lb ed="#P" break="no" n="95"/>res sunt, pro iis quod in baptismo susceperunt,
+<lb ed="#P" n="96"/>ut eos, cum ad legitimam statem pervenerint,
+<lb ed="#P" n="97"/>admoneant fidem rectam et conversationem 
+bo<lb ed="#P" break="no" n="98"/>nam custodire. Ante omnia symbolum et 
+oratio<lb ed="#P" break="no" n="99"/>nem Dominicam ipsi teneant, et eis insinuent,
+<lb ed="#P" n="100"/>pro quorum fide sponsionem fecerunt.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g38789-Dd1e2475">
+               <head xml:id="hsvhsv-g38789-Hd1e2477">Capitulum 13</head>
+               <head xml:id="hsvhsv-g38789-Hd1e2479" type="question-title"/>
+               <p xml:id="hsvhsv-g38789-d1e2481">
+                  <lb ed="#P" n="101"/>Cap. XIII. De rebaptizatione.
+</p>
+               <p xml:id="hsvhsv-g38789-d1e2486">
+                  <lb ed="#P" n="102"/>Apostolus dicit: <quote xml:id="hsvhsv-g38789-Qd1e2490">Unus Deus, una fidesunum
+<lb ed="#P" n="103"/>baptisma</quote> (Ephes. 1v). Quod ergo unum, 
+gemina<lb ed="#P" break="no" n="104"/>ri non potest, quapropter valde rationabili 
+defini<lb ed="#P" break="no" n="105"/>tione a sanctis Patribus institutum est, ut qui
+<lb ed="#P" n="106"/>semel baptismi sacramentum percepisse 
+cognos<lb ed="#P" break="no" n="107"/>citur, nulla ratione illud iterato accipiat sive in
+<lb ed="#P" n="108"/>Ecclesia, sive extra Ecclesiam, hoc est a 
+Catholi<lb ed="#P" break="no" n="109"/>co, sive ab hsretico, sive denique a fideli, sive
+<lb ed="#P" n="110"/>ab infideli, cujuscunque conditionis, statis, aut
+<lb ed="#P" n="111"/>sexus persona illud acceperit, modo tantum 
+se<lb ed="#P" break="no" n="112"/>cundum rectam Catholici baptismatis formam
+<lb ed="#P" n="113"/>acceperit, ratum constare debebit, nec ulla 
+ratio<lb ed="#P" break="no" n="114"/>ne poterit iterari. Quodenim bonum accepit, 
+qua<lb ed="#P" break="no" n="115"/>re bonum non judicetur etiamsi a bono non 
+acce<lb ed="#P" break="no" n="116"/>pit? Non enim illius erat a quo accepit, vel 
+po<lb ed="#P" break="no" n="117"/>tius per quem accepit, qui bonus non fuit, sed 
+il<lb ed="#P" break="no" n="118"/>lius in cujus nomine accepit qui semper bonus,
+<lb ed="#P" n="119"/>malum dare non potuit. Propter hoc eos qui ab
+<lb ed="#P" n="120"/>hereticis in nomine Trinitatis baptizati sunt,
+<lb ed="#P" n="121"/>cum ad unitatem Ecclesi» redeunt non 
+rebapti<lb ed="#P" break="no" n="122"/>zari, sed vel unctione chrismatis, vel impositione
+<lb ed="#P" n="123"/>manus reconciliari catholice Ecclesie antiqua
+<lb ed="#P" n="124"/>Patrum traditio instituit, sicut pridem ariemee,
+<!-- 148.png.txt -->
+<pb ed="#P" n="230"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>per impositionem manus occidens, perunctionem 
+<lb ed="#P" n="2"/>vero sacri chrismatis ad ingressum Catholica 
+Ec<lb ed="#P" break="no" n="3"/>clesig oriens reformavit. Nam qui solum 
+sacra<lb ed="#P" break="no" n="4"/>mentum foris acceperunt, intus per impositionem.
+<lb ed="#P" n="5"/>manus spiritum accipiunt. Placuit tamen eos qui
+<lb ed="#P" n="6"/>se baptizatos nesciunt, et sui baptismatis testes
+<lb ed="#P" n="7"/>non habent, sine cunctatione baptizari ; quia 
+ite<lb ed="#P" break="no" n="8"/>ratum dic* non debet, quod factum esse nescitur.
+<lb ed="#P" n="9"/>Quieritur etiam de iis qui mimice, id est jocose
+<lb ed="#P" n="10"/>baptizantur, utrum verum et plenum 
+saccramen<lb ed="#P" break="no" n="11"/>tum baptismi percipiant. Sed sciendum quod aliud.
+<lb ed="#P" n="12"/>est aliquid jocose vel lusorie dare, sive accipere ;
+<lb ed="#P" n="13"/>et tamen velle dare aut accipere, et hoc omnino
+<lb ed="#P" n="14"/>intendere, ut detur et accipiatur, quod jocose vel
+<lb ed="#P" n="15"/>datur vel accipitur. Aliud autem aliquid agere
+<lb ed="#P" n="16"/>quod formam illius in opere habeat ; et tamen 
+<lb ed="#P" n="17"/>hoc nolleagere neque intendere ut hoc agatur,
+<lb ed="#P" n="18"/>sed aliud aliquid quodcunque. Ubi ergo intentio
+<lb ed="#P" n="19"/>baptizandi est, etiam si reverentia debita in agen.
+<lb ed="#P" n="20"/>do non est, sacramentum quidem est, quia 
+om<lb ed="#P" break="no" n="21"/>nino agitur, et hoc intenditur ; nec tamen sine
+<lb ed="#P" n="22"/>culpa agentis, quia quod agitur et intenditurnon
+<lb ed="#P" n="23"/>digne agitur. Ridiculum autem omnino est ut,
+<lb ed="#P" n="24"/>ubi intentio agendi nulla constat, opus esse 
+dica<lb ed="#P" break="no" n="25"/>tur, propter speciem quamdam assimilitam 
+ope<lb ed="#P" break="no" n="26"/>ri, non propter hoc assumptam, sed forte 
+prove<lb ed="#P" break="no" n="27"/>nientem ex alio quocunque. Ejusmodi est quod
+<lb ed="#P" n="28"/>quidam imperiti existimant verba illa quae ad.
+<lb ed="#P" n="29"/>conficiendam Eucharistiam instituta sunt : a 
+qua<lb ed="#P" break="no" n="30"/>cunque persona sive in quocunque loco et 
+quali<lb ed="#P" break="no" n="31"/>cunque intentione super panem et vinum prolata.
+<lb ed="#P" n="32"/>effectum consecrationis et sanctificationis hobere,
+<lb ed="#P" n="33"/>quasi sacramenta Dei sic instituta sint, ut 
+nul<lb ed="#P" break="no" n="34"/>lam operandi rationem admittant; sed 
+tumul<lb ed="#P" break="no" n="35"/>tuosa quaedam et violenta atqueirrationabili 
+per<lb ed="#P" break="no" n="36"/>tinacia sine omni intentione aut voluntate 
+ope<lb ed="#P" break="no" n="37"/>rantium ad effectum procedant. Ego fllium meum
+<lb ed="#P" n="38"/>forte ad balnea tuleram. Veni ad aquam non ut
+<lb ed="#P" n="39"/>baptizarem, sed ut balnearem : non ut sacramen-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="40"/>tum darem, sed ut sordes abluerem, vel carnem
+<lb ed="#P" n="41"/>foverem. Posui parvulum meum in aquam, sed
+<lb ed="#P" n="42"/>quia volui ut bene cresceret, et. prodesset, dixi
+<lb ed="#P" n="43"/>forte sicut dixissem in manducando et bibendo,
+<lb ed="#P" n="44"/>Bicctin arando etseminando, sive aliud 
+quod<lb ed="#P" break="no" n="45"/>cunque agendo dixissem, dixi : In nomine 
+Pa<lb ed="#P" break="no" n="46"/>tris, et Filii, et Spiritus sancti. (Tu venis et 
+di<lb ed="#P" break="no" n="47"/>cis mihi, quod baptizatue est filius meus. Ego
+<lb ed="#P" n="48"/>balneatum scio, baptizatum nescio. Quod si 
+id<lb ed="#P" break="no" n="49"/>circo baptizatum putas, quia cum mergerem dixi:
+<lb ed="#P" n="50"/>In nomine Patris, et Filii, et Spiritus sancti; »
+<lb ed="#P" n="51"/>ergo et offa baptizata est quia cum mergerem 
+il<lb ed="#P" break="no" n="52"/>lam dixi : « In nomine Patris, et Filii, et 
+Spiri<lb ed="#P" break="no" n="53"/>tus sancti. » Vide ergo et considera quod 
+rationa<lb ed="#P" break="no" n="54"/>le esse oportet opus ministeriorum Dei, nec 
+prop<lb ed="#P" break="no" n="55"/>ter solam formam prejudicare ubi intentio 
+agen<lb ed="#P" break="no" n="56"/>di nulla est.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g38789-Dd1e2672">
+               <head xml:id="hsvhsv-g38789-Hd1e2674">Capitulum 14</head>
+               <head xml:id="hsvhsv-g38789-Hd1e2676" type="question-title"/>
+               <p xml:id="hsvhsv-g38789-d1e2678">
+                  <lb ed="#P" n="57"/>Cap. XIV. Quare in sola aqua baptismus 
+ce<lb ed="#P" break="no" n="58"/>lebratur.
+</p>
+               <p xml:id="hsvhsv-g38789-d1e2685">
+                  <lb ed="#P" n="59"/>Sciendum est etiam quod in solo elemento
+<lb ed="#P" n="60"/>aque sacramentum baptismi consecrari 
+institu<lb ed="#P" break="no" n="61"/>tum est, quia sola haec plenam habet et perfectam
+<lb ed="#P" n="62"/>mundationem. Alii vero liquores omnes aqua 
+pu<lb ed="#P" break="no" n="63"/>rificantur. Et si quid alio quolibet liquore tactum
+<lb ed="#P" n="64"/>fuerit, aqua abluitur, ut emundetur. Propterea
+<lb ed="#P" n="65"/>in sola aqua sacramentum emundationis constat,
+<lb ed="#P" n="66"/>sicut scriptum est : Nisi quis renatus fuerit ex
+<lb ed="#P" n="67"/>aqua et spiritu sancto, non potest. introire in.
+<lb ed="#P" n="68"/>regnum Dei (Joan. 11).
+</p>
+            </div>
+            <div xml:id="hsvhsv-g38789-Dd1e2711">
+               <head xml:id="hsvhsv-g38789-Hd1e2713">Capitulum 15</head>
+               <head xml:id="hsvhsv-g38789-Hd1e2715" type="question-title"/>
+               <p xml:id="hsvhsv-g38789-d1e2717">
+                  <lb ed="#P" n="69"/>Cap. XV. De forma baptismatis.
+</p>
+               <p xml:id="hsvhsv-g38789-d1e2722">
+                  <lb ed="#P" n="70"/>Baptismi forma jam olim in diluvio praecessit,
+<lb ed="#P" n="71"/>ubi in figura salvandorum octo animae per lignum
+<lb ed="#P" n="72"/>salvate sunt. Similiter et in mari Rubro, ubi aqua
+<lb ed="#P" n="73"/>baptismum, et rubor sanguinem preferebat. 
+Si<lb ed="#P" break="no" n="74"/>militer in aqua aspersionis cui cinis rufe vitulee
+<lb ed="#P" n="75"/>miscebatur, quae carnem Christi figurabat, que
+<lb ed="#P" n="76"/>feminino sexu designatur propter infirmitatem,
+<lb ed="#P" n="77"/>rufa propter sanguinem.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

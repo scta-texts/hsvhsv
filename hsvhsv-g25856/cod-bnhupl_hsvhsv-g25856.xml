@@ -1,0 +1,1147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pars 12</title>
+            <author ref="#HughOfStVictor">Hugh of St. Victor</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Pars 12</title>
+               <date when="2023-03-25">March 25, 2023</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-bnhupl">Patrologia Latina, v. 176</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2023-03-25" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="174"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="hsvhsv-g25856"><!-- l1-p12 -->
+            <head xml:id="hsvhsv-g25856-Hd1e101">Pars 12</head>
+            <head xml:id="hsvhsv-g25856-Hd1e103" type="question-title">
+De unione populi fidelis
+</head>
+            <p xml:id="hsvhsv-g25856-d1e106">
+               <cb ed="#P" n="c"/>
+               <lb ed="#P" n="79"/>PARS DUODECIMA.
+<lb ed="#P" n="80"/>DE LEGE SCRIPTA.
+</p>
+            <div xml:id="hsvhsv-g25856-Dd1e115">
+               <head xml:id="hsvhsv-g25856-Hd1e117">Capitulum 1</head>
+               <head xml:id="hsvhsv-g25856-Hd1e119" type="question-title">
+De unione populi fidelis.
+</head>
+               <p xml:id="hsvhsv-g25856-d1e122">
+                  <cb ed="#P" n="d"/>
+                  <lb ed="#P" n="81"/>Cap. I. De unione populi fidelis.
+</p>
+               <p xml:id="hsvhsv-g25856-d1e129">
+                  <lb ed="#P" n="82"/>Primus status ab Adamusque ad Abraham 
+ma<lb ed="#P" break="no" n="83"/>gis proprie determinatur. Quamvis enim 
+perMoy<lb ed="#P" break="no" n="84"/>sen lex scripta data sit ; ante Moysen tamen 
+ob<lb ed="#P" break="no" n="85"/>servantia legalis in circumcisione exordium 
+sump<lb ed="#P" break="no" n="86"/>sit. Primumillud seculum sub lege naturali, 
+qua<lb ed="#P" break="no" n="87"/>8i in confusione quadam transierat; et qui in eo
+<lb ed="#P" n="88"/>fideles exstiterant, quasi pauca quadam granain
+<lb ed="#P" n="89"/>humano genere dispersa, et ab invicem discreta,
+<lb ed="#P" n="90"/>sola intus fide unita fuerant. Ut ergo ad 
+interio<lb ed="#P" break="no" n="91"/>rem unitatem commendandam exterior 
+condere<lb ed="#P" break="no" n="92"/>tur, et esset in manifesto forma fidei ;ad quam ex
+<lb ed="#P" n="93"/>dispersione suaqui vocandi fuerant invitarentur;
+<cb ed="#P" n="e"/>
+                  <lb ed="#P" n="94"/>propositus est unus ad quem, in uno perficiendo
+<lb ed="#P" n="95"/>qui assumendi postea fuerant, omnes 
+colligeren<lb ed="#P" break="no" n="96"/>tur. Vocatus est Abraham unus ex multis ; 
+uni<lb ed="#P" break="no" n="97"/>tas principium unionis, ut ad sinum illus 
+colli<lb ed="#P" break="no" n="98"/>gerentur quicumque post illum fide illi et. 
+devo<lb ed="#P" break="no" n="99"/>tione jungerentur. Vocatus est ergo ut exiret de
+<lb ed="#P" n="100"/>terra sua, et recederet ab illis quibus unitus 
+fue<lb ed="#P" break="no" n="101"/>rat, nec conjungeretur illis ad quos ibat. Et data
+<lb ed="#P" n="102"/>est illi forma quam transmitteret ad omnes ex
+<lb ed="#P" n="103"/>ipso nascituros; et omnes in ipsa una forma
+<lb ed="#P" n="104"/>unum futuros, ut cum fidelium numerus 
+augere<lb ed="#P" break="no" n="105"/>tur, unitas tamen fidei non multiplicaretur, ut
+<lb ed="#P" n="106"/>primum in illius forma unumessent, qui ex ipso
+<!-- 093.png.txt -->
+<pb ed="#P" n="175"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>nascerentur, postea et unum fierent quiin eadem
+<lb ed="#P" n="2"/>fide ipsi sociarentur. Ex tuno ergo unitas populi
+<lb ed="#P" n="3"/>Dei incopit, et unitas conversationis fidelis, quae
+<lb ed="#P" n="4"/>primum signata est per sacramentum 
+circumei<lb ed="#P" break="no" n="5"/>sionis postea signanda per sacramentum 
+baptis<lb ed="#P" break="no" n="6"/>matis. Primum signaculum in carne sub quo
+<lb ed="#P" n="7"/>uniendi erant, qui in carne unumerant Propterea.
+<lb ed="#P" n="8"/>circumcisio data non erat nisi semini Abrahs,
+<lb ed="#P" n="9"/>ut in carne signarentur quiin carne unirentur.
+<lb ed="#P" n="10"/>Postquam autem ad hanc unitatem accesserunt
+<lb ed="#P" n="11"/>qui secundum carnis generationem ex ipso non
+<lb ed="#P" n="12"/>fuerunt, positum est signaculum unionis extra
+<lb ed="#P" n="13"/>substantiam carnis, quia spiritu et fide unum
+<lb ed="#P" n="14"/>facti sunt, qui unum carne non fuerunt.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g25856-Dd1e226">
+               <head xml:id="hsvhsv-g25856-Hd1e228">Capitulum 2</head>
+               <head xml:id="hsvhsv-g25856-Hd1e230" type="question-title">
+De circumcisione.
+</head>
+               <p xml:id="hsvhsv-g25856-d1e233">
+                  <lb ed="#P" n="15"/>Cap. II. De circumcisione.
+</p>
+               <p xml:id="hsvhsv-g25856-d1e238">
+                  <lb ed="#P" n="16"/>Mandavit itaque Deus Abrahae ut 
+circumcide<lb ed="#P" break="no" n="17"/>ret pellem pr:eputii sui ; ipsi in signum, posteris
+<lb ed="#P" n="18"/>in exemplum, tantum ad priorem statum 
+supe<lb ed="#P" break="no" n="19"/>raddens, quatenus per hoc signaculum populus
+<lb ed="#P" n="20"/>Dei ab infidelibus discerneretur, quo usquo ille
+<lb ed="#P" n="21"/>veniret qui non solum de filiis Abrahte, sed de
+<lb ed="#P" n="22"/>universis gentibus fideles colligeret; ac per hoc,
+<lb ed="#P" n="23"/>Sicut dictum est, non jam per signaculum carnis
+<lb ed="#P" n="24"/>in genere, sed per signaculum baptismatis 
+secer<lb ed="#P" break="no" n="25"/>nerentur in sanctificatione. Sane quicunque 
+inte<lb ed="#P" break="no" n="26"/>rim non de semine Abrah:w fideles exstiterunt;
+<lb ed="#P" n="27"/>huic praeceptioni subjecti non fuerunt. Neque 
+cir<lb ed="#P" break="no" n="28"/>cumcisionis (qua soli semini Abrahae indicta 
+fue<lb ed="#P" break="no" n="29"/>rat) suscipiende debito tenebantur, sed fide 
+ope<lb ed="#P" break="no" n="30"/>rante per dilectionem, sicut et prius sub lege 
+na<lb ed="#P" break="no" n="31"/>turali priusquam circumcisio instituta fuisset ;
+<lb ed="#P" n="32"/>qui justi fuerant sine cireumcisiono salvabantur.
+<lb ed="#P" n="33"/>Modus autem circumcisionis talis erat. 
+Prexcep<lb ed="#P" break="no" n="34"/>tum fuit, ut puer masculus octavo die a nativitate
+<lb ed="#P" n="35"/>sua circumcideretur in carne pr:eputii sui (Gen.
+<lb ed="#P" n="36"/>xvi). Et sunt qui addendum putant cultello de
+<lb ed="#P" n="37"/>petra facto, quod tamen nulla alia auctoritate
+<lb ed="#P" n="38"/>probant, nisi quod Sephora, uxor Moysi, territa
+<lb ed="#P" n="39"/>ab angelo, auctam petram sumpsisse legitur, et
+<lb ed="#P" n="40"/>ea praputium filii sui circumcidisso (Exod. 1v).
+<lb ed="#P" n="41"/>Et Josue, in terram promissionis ingressurus, 
+se<lb ed="#P" break="no" n="42"/>cundo in populo Israel circumcisionis 
+sacramen<lb ed="#P" break="no" n="43"/>tum cultris petrinis innovasse meratur (Josue v.)
+<lb ed="#P" n="44"/>Sed illud in altero quidem ob festinationem 
+ma<lb ed="#P" break="no" n="45"/>gis et trepidationem ; in altero vero ob typum et 
+si<lb ed="#P" break="no" n="46"/>gniticationem veri Jesu, quam per consuetudinem
+<lb ed="#P" n="47"/>factum, non inconvenienter existimatur. Ut 
+os<lb ed="#P" break="no" n="48"/>tenderetur igitur sacramentum circumcisionis ,
+<lb ed="#P" n="49"/>non quemadmodum priora sacramenta ad 
+volun<lb ed="#P" break="no" n="50"/>tatem propositum, sed ex necessitate 
+exsequen<lb ed="#P" break="no" n="51"/>dum, praeceptum comminatione firmatur cum 
+di<lb ed="#P" break="no" n="52"/>citur : Masculus, cujus praputii caro 
+circum<lb ed="#P" break="no" n="53"/>cisa non fuerit, peribit anima illa de populo
+<lb ed="#P" n="54"/>£uo (Gen. xvii). Causa quoque subinfertur, cum
+<lb ed="#P" n="55"/>dicitur : Quia pactum meum irritum fecit (ibid)
+<lb ed="#P" n="56"/>Siergo per pactum Dei irritum factum 
+prievari<lb ed="#P" break="no" n="57"/>cationem primorum parentum intelligimus, cum
+<lb ed="#P" n="58"/>incircumcisus ob pravaricationem pacti 
+peritu<lb ed="#P" break="no" n="59"/>rus dicitur, manifeste datur intelligi 
+sucramen<lb ed="#P" break="no" n="60"/>tum circumcisionis ad hoc institutum ut per 
+ip<lb ed="#P" break="no" n="61"/>sum homo a debito primae prevaricationis 
+libera<lb ed="#P" break="no" n="62"/>retur. Idem enim salutiferae curationis auxilium
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>circumcisio contra originale peccatum in lege 
+coo<lb ed="#P" break="no" n="64"/>perabatur quod nunc baptismus, excepto quod 
+re<lb ed="#P" break="no" n="65"/>gni cobestis januam primi patres intrare non 
+po<lb ed="#P" break="no" n="66"/>terant, propter quod necessaria fuit mors Christi
+<lb ed="#P" n="67"/>quie aditum vitae patefaceret. Tres sane sunt 
+cir<lb ed="#P" break="no" n="68"/>cumcisiones: Una in carne tantum exterius, quae
+<lb ed="#P" n="69"/>sacramentum est. Duae alite sunt quae sunt res, et,
+<lb ed="#P" n="70"/>virtus sacramenti. Altera qui fit in praesenti
+<lb ed="#P" n="71"/>quando anima per depositionem corruptionis 
+cor<lb ed="#P" break="no" n="72"/>pus cireumcidetur ; altera quae in futuro flet, 
+quan<lb ed="#P" break="no" n="73"/>do per depositionem corruptionis corpus 
+circum<lb ed="#P" break="no" n="74"/>cidetur. Prima igitur est in carne, secunda in
+<lb ed="#P" n="75"/>mente, tertia in corpore. Octonarius vero in sacra
+<lb ed="#P" n="76"/>Seriptura aliquando tempus resurrectionis 
+signi<lb ed="#P" break="no" n="77"/>ficat quod post presentem (qui semptem diebus
+<lb ed="#P" n="78"/>currit) vitam sequitur, aliquando tempus gratis,
+<lb ed="#P" n="79"/>in quo quasi post Sabbatum legis, aeterna bona
+<lb ed="#P" n="80"/>servientibus Deo promittuntur. Merito igitur
+<lb ed="#P" n="81"/>prima illa circumcisio quae sacramentum erat 
+il<lb ed="#P" break="no" n="82"/>larum duarum; jussa est fieri octavo die ut 
+os<lb ed="#P" break="no" n="83"/>tenderetur quod in tempore gratiae corda 
+cireum<lb ed="#P" break="no" n="84"/>cidenda erant, per emundationem iniquitatis, et
+<lb ed="#P" n="85"/>in tempore resurrectionis corpora, per 
+depositio<lb ed="#P" break="no" n="86"/>nem corruptionis. Propterea autem solis 
+mascu<lb ed="#P" break="no" n="87"/>lis data est circumcisio carnis; quia sacra 
+Scrip<lb ed="#P" break="no" n="88"/>tura per masculinum sexum enimam, per 
+mulie<lb ed="#P" break="no" n="89"/>brem vero carnem significare solet, ut videlicet
+<lb ed="#P" n="90"/>ostenderetur, quod illa exterior circumcisio 
+ani<lb ed="#P" break="no" n="91"/>mabus sanctificationem contulit, sed carni non
+<lb ed="#P" n="92"/>abstulit corruptionem. Cultellus de petra factus,
+<lb ed="#P" n="93"/>Christum significat. De quo dicit Apostolus : 
+Pe<lb ed="#P" break="no" n="94"/>tra autem erat Christus (I Cor. x), de 
+unoscrip<lb ed="#P" break="no" n="95"/>tum est : Ecce agnus Dei, qui tollit peccata 
+mun<lb ed="#P" break="no" n="96"/>di (Joan. 1.) In carne preputii jussa est fieri, quia
+<lb ed="#P" n="97"/>ad remedium data est contra oríiginalepeccatum;
+<lb ed="#P" n="98"/>quod a parentibus contraximus, per illud 
+mem<lb ed="#P" break="no" n="99"/>brum propagati. Porro feminse in populo 
+circum<lb ed="#P" break="no" n="100"/>cisionis sola fide salvabantur, sacrificiis et 
+obla<lb ed="#P" break="no" n="101"/>tionibus, aliisque legis ceremoniis purificatm ;
+<lb ed="#P" n="102"/>ipsam quoque circumcisionem fide suscipientes,
+<lb ed="#P" n="103"/>et in eis qui carnem illam susceperunt, 
+veneran<lb ed="#P" break="no" n="104"/>do participantes. Masculi qui morte praeventi ad.
+<lb ed="#P" n="105"/>octavam diem pervenire non potuerunt, et ob hoc
+<lb ed="#P" n="106"/>8ine circumcisionis sacramento ab hac vita 
+reces<lb ed="#P" break="no" n="107"/>serunt, sola fide parentum cum oblationibus et
+<lb ed="#P" n="108"/>sacrificiis intervenientibus non improbabiliter
+<lb ed="#P" n="109"/>salvati existimantur, pro eo quod praeceptum 
+cir<lb ed="#P" break="no" n="110"/>cumcisionis non nisi masculis ad octavum diem
+<lb ed="#P" n="111"/>venientibus indictum esse videtur, ac per hoc
+<lb ed="#P" n="112"/>pruvaricationis reos non fuisse, qui 
+contempto<lb ed="#P" break="no" n="113"/>res praecepti non fuerant, quod datum non 
+fue<lb ed="#P" break="no" n="114"/>rat niei pervenientibus ad diem octavum. Prs;
+ci<lb ed="#P" break="no" n="115"/>pue ne miserabilior hic sexus appareat; et ei
+<lb ed="#P" n="116"/>etiam prajudicetur in illo a quo alter sexus 
+ab<lb ed="#P" break="no" n="117"/>solutus omnino fuisse comprobatur. Sed merito
+<lb ed="#P" n="118"/>quieritur, an ii qui diem octavum negligentia
+<lb ed="#P" n="119"/>Sive contemptu parentum, sine sacramento 
+cir<lb ed="#P" break="no" n="120"/>cumcisienis transierunt; postmodum eodom 
+sa<lb ed="#P" break="no" n="121"/>eramento percepto salutis effectum consecuti
+<lb ed="#P" n="122"/>sunt, cum praeceptum divinum hoc sacramentum
+<lb ed="#P" n="123"/>non nisi die octavo celebrandum indixerit. Et 
+po<lb ed="#P" break="no" n="124"/>test fortassis non irretionetilNer cre. quss. -
+<!-- 094.png.txt -->
+<pb ed="#P" n="176"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>cut de gentibus ad ritum legis venientes, hoc 
+sa<lb ed="#P" break="no" n="2"/>cramentum qualibet state ad salutem 
+percepe<lb ed="#P" break="no" n="3"/>runt ita etiam si qui sub lege tempore suo hoc
+<lb ed="#P" n="4"/>non percepissent, ad salutem tamen et remedium
+<lb ed="#P" n="5"/>eis-operantum sit, si illud postmodum 
+suscipien<lb ed="#P" break="no" n="6"/>do priorem negligentiam correxerunt. Sic igitur
+<lb ed="#P" n="7"/>circumcisionis sacramentum semini Abrahae 
+sanc<lb ed="#P" break="no" n="8"/>tificando, et signando pariter datum est ; 
+sancti<lb ed="#P" break="no" n="9"/>ficando, ut justificaretur ; signando, ut a caeteris
+<lb ed="#P" n="10"/>gentibus discerneretur, quatenus singularis 
+ma<lb ed="#P" break="no" n="11"/>neret, et discreta generatio de qua Christus 
+nas<lb ed="#P" break="no" n="12"/>ceretur. Unde consequenter colligitur probabile
+<lb ed="#P" n="13"/>esse illi semini Abrahae circumcisionem ex 
+pre<lb ed="#P" break="no" n="14"/>cepto indictam, de qua Christus nasciturus erat,
+<lb ed="#P" n="15"/>ut videlicet post. Abraham Tsaac, post Isaac 
+Ja<lb ed="#P" break="no" n="16"/>cob, ac deinde duodecim tribus quae de ipso Ja- B 
+<lb ed="#P" n="17"/>cob exortse sunt. Nam et Job secundum quosdam
+<lb ed="#P" n="18"/>de Esau atirpe fuisse creditur, qui tamen 
+circum<lb ed="#P" break="no" n="19"/>cisus fuisse non legitur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g25856-Dd1e529">
+               <head xml:id="hsvhsv-g25856-Hd1e531">Capitulum 3</head>
+               <head xml:id="hsvhsv-g25856-Hd1e533" type="question-title">
+De praeparatione legis
+</head>
+               <p xml:id="hsvhsv-g25856-d1e536">
+                  <lb ed="#P" n="20"/>Cap. III. De praeparatione legis.
+</p>
+               <p xml:id="hsvhsv-g25856-d1e541">
+                  <lb ed="#P" n="21"/>Sacramentum circumcisionis ante legislationem
+<lb ed="#P" n="22"/>datum est : et per ipsum quaedam praeparatio ad
+<lb ed="#P" n="23"/>suscipiendam legem facta est. Quemadmodum
+<lb ed="#P" n="24"/>enim nunc in Novo Testamento, prinum homo
+<lb ed="#P" n="25"/>unda baptismatis ablutus, signum et nomen 
+pro<lb ed="#P" break="no" n="26"/>fessionis suse accipit, ac deinde numero fidelium
+<lb ed="#P" n="27"/>associatus , et praeceptis divinis instructus ad
+<lb ed="#P" n="28"/>complendam professionem suam accedit ; sic 
+an<lb ed="#P" break="no" n="29"/>tiquus ille populus primum quidem per 
+circum<lb ed="#P" break="no" n="30"/>cisionem signatus est, postea per legem 
+informa<lb ed="#P" break="no" n="31"/>tus.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g25856-Dd1e568">
+               <head xml:id="hsvhsv-g25856-Hd1e570">Capitulum 4</head>
+               <head xml:id="hsvhsv-g25856-Hd1e572" type="question-title">
+De sacramentis legis scripto.
+</head>
+               <p xml:id="hsvhsv-g25856-d1e575">
+                  <lb ed="#P" n="32"/>Cap. IV. De sacramentis legis scripto.
+</p>
+               <p xml:id="hsvhsv-g25856-d1e580">
+                  <lb ed="#P" n="33"/>Lex seripta tria continet: Precepta, 
+sacramen<lb ed="#P" break="no" n="34"/>ta, promissa. In praeceptis est meritum, in 
+pro<lb ed="#P" break="no" n="35"/>missis est. premium, in sacramentis est 
+adjuto<lb ed="#P" break="no" n="36"/>rium. Per praecepta eundum fuerat ad promissa.
+<lb ed="#P" n="37"/>Sed quia homo per se infirmus erat, venerunt 
+sa<lb ed="#P" break="no" n="38"/>cramenta media, inter praecepta et promissa quae
+<lb ed="#P" n="39"/>illun adjuvarent, et ad praecepta  
+perfi<lb ed="#P" break="no" n="40"/>cienda et ad obtinenda. Sub promissa lege
+<lb ed="#P" n="41"/>naturali pauca erant sacramenta, sub lege
+<lb ed="#P" n="42"/>scripta utraque multiplicata sunt, et praecepta
+<lb ed="#P" n="43"/>scilicet et sacramenta. Nam cum primum 
+medi<lb ed="#P" break="no" n="44"/>cus Deus ad hominem sgrotum curandum 
+acces<lb ed="#P" break="no" n="45"/>sisset, totum occupaverat morbus, quem totum
+<lb ed="#P" n="46"/>reliquerat salus. Et apposuit in corpore generis 
+<lb ed="#P" n="47"/>humani in primis pauca antidota, et paucis 
+mem<lb ed="#P" break="no" n="48"/>bris, id est paucis personis, ut paulatim morbus
+<lb ed="#P" n="49"/>deficeret et salus cresceret. Postea sub lege 
+scrip<lb ed="#P" break="no" n="50"/>ta, remedia plura contulit, et plures reparavit.
+<lb ed="#P" n="51"/>Duo praecepta fuerunt sub lege naturali et tria
+<lb ed="#P" n="52"/>sacramenta. Duo praecepta: Quod tibi non vis
+<lb ed="#P" n="53"/>fieri, alii ne feceris (Tob. 1v). Et quecunque
+<lb ed="#P" n="54"/>vultis ut. vobis faciant homines, eadem et vos
+<lb ed="#P" n="55"/>facite illis (Matth. vii). Tria sacramenta : 
+deci<lb ed="#P" break="no" n="56"/>mee, oblationes, et sacrificia. Decime in 
+portioni<lb ed="#P" break="no" n="57"/>bus, oblationes in rebus, sacriflcia in animalibus.
+<lb ed="#P" n="58"/>Sub lege scripta multa fuerunt praecepta, et 
+mul<lb ed="#P" break="no" n="59"/>ta sacramenta. Preecepta enim legis scripte, alis
+<lb ed="#P" n="60"/>fuerunt mobilia, aliaimmobilia. Mobilia sunt quae
+<lb ed="#P" n="61"/>ex dispensatione ad tempus sunt ordinata. 
+Im<lb ed="#P" break="no" n="62"/>mobilia sunt quae a natura veniunt, et vel ita
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>mala sunt, ut nullo tempore sine culpa
+<lb ed="#P" n="64"/>fleri possint, vel ita bona, ut nullo tempore 
+pos<lb ed="#P" break="no" n="65"/>sint sine culpa dimitti.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g25856-Dd1e657">
+               <head xml:id="hsvhsv-g25856-Hd1e659">Capitulum 5</head>
+               <head xml:id="hsvhsv-g25856-Hd1e661" type="question-title">
+De immobilibus praeceptis
+</head>
+               <p xml:id="hsvhsv-g25856-d1e664">
+                  <lb ed="#P" n="66"/>Cap. V. De immobilibus praeceptis
+</p>
+               <p xml:id="hsvhsv-g25856-d1e669">
+                  <lb ed="#P" n="67"/>Immobilia ergo sola lex naturalis habuit 
+duo<lb ed="#P" break="no" n="68"/>bus praeceptis comprehensa. In uno bona 
+przci<lb ed="#P" break="no" n="69"/>piendo, in altero mala prohibendo. Haec vero duo
+<lb ed="#P" n="70"/>praecepta naturalis legis per legem scriptam 
+la<lb ed="#P" break="no" n="71"/>tius explicata sunt et distincta, per septem illa
+<lb ed="#P" n="72"/>praecepta quae secunda tabula continebat. In 
+qui<lb ed="#P" break="no" n="73"/>bus ostenditur qualem se exhibere debeat homo
+<lb ed="#P" n="74"/>erga proximum, quemadmodum in tribus 
+prece<lb ed="#P" break="no" n="75"/>dentibus demonstratur, qualem se exhibere 
+de<lb ed="#P" break="no" n="76"/>beat homo erga Deum. Unde et prima tabula 
+dic<lb ed="#P" break="no" n="77"/>ta est, quia excellentiora continet mandata, qua
+<lb ed="#P" n="78"/>pertinent ad dilectionem Dei. Secunda autem quia
+<lb ed="#P" n="79"/>inferioria et proxima post haec praecepta continet
+<lb ed="#P" n="80"/>quae pertinent ad dilectionem proximi. Vel prima
+<lb ed="#P" n="81"/>tabula dicitur, quia in ea continentur praecepta
+<lb ed="#P" n="82"/>quae insinuant fidem ; secunda quia in ea 
+conti<lb ed="#P" break="no" n="83"/>nentur praecepta quae instruunt ad bonam 
+opera<lb ed="#P" break="no" n="84"/>tionem. In prima tabula tria sunt praecepta, quia
+<lb ed="#P" n="85"/>qus fide éreditur Trinitas, est Deus. In secunda
+<lb ed="#P" n="86"/>tabula septem sunt praecepta; quia in praesenti
+<lb ed="#P" n="87"/>vita (quee septem tantum dierum circulo volvitur)
+<lb ed="#P" n="88"/>officia humanitatis proximo exhibentur. Tria 
+ve<lb ed="#P" break="no" n="89"/>ro et septem denarium complent ; quia perfectum
+<lb ed="#P" n="90"/>facit fldes recta, et operatio bona. Primum 
+pre<lb ed="#P" break="no" n="91"/>ceptum primae tabule ad Deum Patrem pertinet,
+<lb ed="#P" n="92"/>Bicut praeceptum primum secundi tabulie ad 
+ho<lb ed="#P" break="no" n="93"/>Q minem patrem, ut utrinque paternitas principii
+<lb ed="#P" n="94"/>auctoritate honoretur. In prima tabula praeceptio
+<lb ed="#P" n="95"/>est et prohibitio, similiter in secunda, ut 
+utrum<lb ed="#P" break="no" n="96"/>que studeas et facere quod debes, et cavere quod
+<lb ed="#P" n="97"/>non debes. In altero namque si offendis, 
+delic<lb ed="#P" break="no" n="98"/>tum est. In altero vero si offendis, peccatum est.
+<lb ed="#P" n="99"/>Facere enim non facienda peccatum est, facienda.
+<lb ed="#P" n="100"/>autem non facere, delictum.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g25856-Dd1e746">
+               <head xml:id="hsvhsv-g25856-Hd1e748">Capitulum 6</head>
+               <head xml:id="hsvhsv-g25856-Hd1e750" type="question-title">
+De tribus praeceptis prima tabula
+</head>
+               <p xml:id="hsvhsv-g25856-d1e753">
+                  <lb ed="#P" n="101"/>Cap. VI. De tribus praeceptis prima tabula.
+<lb ed="#P" n="102"/>Audi Israel: Deus tuus Deus unus est, 
+ip<lb ed="#P" break="no" n="103"/>sum adorabis, et sili soli servies (Deut. vi).
+</p>
+               <p xml:id="hsvhsv-g25856-d1e762">
+                  <lb ed="#P" n="104"/>Non hoc totum de praecepto est quod dicitur,
+<lb ed="#P" n="105"/>quia ante praeceptum per admonitionem ad 
+obe<lb ed="#P" break="no" n="106"/>dientiam auditoris animus praeparatur. Audi,
+<lb ed="#P" n="107"/>Israel, hic nota obedientiam Deus tuus, hic
+<lb ed="#P" n="108"/>nota gratiam ; Deus unus est, hic nota
+<lb ed="#P" n="109"/>doctrinam , quasi diceretur : obedientiam
+<lb ed="#P" n="110"/>exhibe, gratiam  intelige, veritatem 
+agnos<lb ed="#P" break="no" n="111"/>ce. Quod audis, hoc est obedientia quam 
+exi<lb ed="#P" break="no" n="112"/>geris; quod Deus tuus, est gratia qua 
+perve<lb ed="#P" break="no" n="113"/>neris; quod Deus unus, veritas qua illuminaris
+<lb ed="#P" n="114"/>et perficeris. Deum tuum audi qui tibi 
+misericor<lb ed="#P" break="no" n="115"/>diam jam exhibuit, et necdum tamen a te 
+servi<lb ed="#P" break="no" n="116"/>tium accepit, ut scias ab ipso esse utrumque;
+<lb ed="#P" n="117"/>scilicet quod a te exigit opus virtutis, et quod
+<lb ed="#P" n="118"/>tibi promittit premium retributionis. Audi 
+Ie<lb ed="#P" break="no" n="119"/>rael, hoc est, ausculta et acquiesce. Omnis enim
+<lb ed="#P" n="120"/>virtus ab obedientia incipit, quemadmodum 
+om<lb ed="#P" break="no" n="121"/>ne vitium ab inobedientia procedit. Frustra 
+nam<lb ed="#P" break="no" n="122"/>que vel inobedienti gratia, vel contumaci 
+doctri<lb ed="#P" break="no" n="123"/>na, vel non intelligenti praeceptum daretur. 
+Id<lb ed="#P" break="no" n="124"/>circo primum dicit : Audi Israel, ut sis obediens
+<!-- 095.png.txt -->
+<pb ed="#P" n="177"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>Deus tuus, ut devotus existas ; Deus unus est, ut 
+<lb ed="#P" n="2"/>veritatem agnosces. Deinde sequitur praeceptum :
+<lb ed="#P" n="3"/>Ipsum adorabis, hoc pertinet ad fidem ; et ei soli
+<lb ed="#P" n="4"/>servies, hoc pertinet ad operationem. Fides enim
+<lb ed="#P" n="5"/>operans ex dilectione perfectum facit, quia nec
+<lb ed="#P" n="6"/>opus sine fide, nec fides cui tempus suppetit 
+ac<lb ed="#P" break="no" n="7"/>cepta est sine opere. Propterea adora recte 
+cre<lb ed="#P" break="no" n="8"/>dendo, servi bene operando. Quzri autem potest
+<lb ed="#P" n="9"/>an id quod dixit ; ei soli ad utrumque referendum
+<lb ed="#P" n="10"/>sit, ut dicatur : Ipsum solum adorabis, et ei soli
+<lb ed="#P" n="11"/>servies. Sed haec quomodo stare poterit, quia 
+sm<lb ed="#P" break="no" n="12"/>pe in Veteri Testamento, sanctos viros non solum
+<lb ed="#P" n="13"/>angelos adorasse, sed etiam homines legimus ; nec
+<lb ed="#P" n="14"/>tamen propterea alicubi reprehensos invenimus?
+<lb ed="#P" n="15"/>Et in Novo etiam Apostolus fideles ad serviendum
+<lb ed="#P" n="16"/>superioribus et prelatis summopere exhortatur. 
+<lb ed="#P" n="17"/>Sciendum ergo est quod alio modo homines, alio
+<lb ed="#P" n="18"/>modo Deus adorari praecipitur. Usu namque 
+ve<lb ed="#P" break="no" n="19"/>teri superiores quique ab inferioribus odorari 
+di<lb ed="#P" break="no" n="20"/>cebantur, quando eis sive incurvatione genuum,
+<lb ed="#P" n="21"/>sive capitis inclinatione ab his reverentia 
+exhibe<lb ed="#P" break="no" n="22"/>batur. Deum autem adorare, est ei totam mentem
+<lb ed="#P" n="23"/>per humilitatem ac devotionem substernere, et
+<lb ed="#P" n="24"/>ipsum principtum ac finem omnis boni credere.
+<lb ed="#P" n="25"/>Quod ei soli nos debere nemo est sante mentis
+<lb ed="#P" n="26"/>qui ambigat. Unde ipse quoque per prophetam
+<lb ed="#P" n="27"/>de se testatur dicens : Honorem meum [gloriam
+<lb ed="#P" n="28"/>meam]alteri non dabo, et gloriam[laudem]
+me<lb ed="#P" break="no" n="29"/>am sculptilibus (Isai. xri). Deservitute veroad
+<lb ed="#P" n="30"/>ipsum competenter intellegi potest, quia nimirum
+<lb ed="#P" n="31"/>omnis ille rectissime soli Deo servire dicitur, qui
+<lb ed="#P" n="32"/>et secundum Deum homini superiori humiliter se
+<lb ed="#P" n="33"/>subjicit; et ubi causa Dei impugnatur, fideliter
+<lb ed="#P" n="34"/>contradicit. Qui cavet eollicite ne in sua servitute
+<lb ed="#P" n="35"/>vel per timorem hominis contra Deum quid 
+fa<lb ed="#P" break="no" n="36"/>ciat, vel terrens retributionis lucrum in 
+inten<lb ed="#P" break="no" n="37"/>tione, coelesti praemio anteponat. Sed in Greco
+<lb ed="#P" n="38"/>manifestior sententia expressa est. Gr:ca 
+nam<lb ed="#P" break="no" n="39"/>que locutio divinam servitutem ab humana 
+pro<lb ed="#P" break="no" n="40"/>prio vocabulo distinguit, quod latinitas non 
+ha<lb ed="#P" break="no" n="41"/>bet. Ibi enim Dei servitus latria et humana dulia
+<lb ed="#P" n="42"/>vocatur. Et ob hoc idolatre vocati sunt, qui eam
+<lb ed="#P" n="43"/>servitutem quam Deo debuerunt idolis 
+exhibe<lb ed="#P" break="no" n="44"/>bant. Sed Latinalingua utramque sub eodem 
+no<lb ed="#P" break="no" n="45"/>mine servitutem comprehendit, et propterea 
+obs<lb ed="#P" break="no" n="46"/>curior significatio facta est cum dicitur. Ei soli 
+<lb ed="#P" n="47"/>servies, quod in Greco ambiguum non est. Sed
+<lb ed="#P" n="48"/>cum praeceptum ad Patrem pertineat, quare 
+dic<lb ed="#P" break="no" n="49"/>tum est: ei soli servies, quasi etiam Filio et 
+Spi<lb ed="#P" break="no" n="50"/>ritui sancto serviendum nonsit? Sed quod dictum
+<lb ed="#P" n="51"/>est soli non excludit communionem Filii et 
+Spi<lb ed="#P" break="no" n="52"/>ritus sancti, sed quidquid Deus non est. Pater
+<lb ed="#P" n="53"/>autem et Filius et Spiritus sanctus unus Deus
+<lb ed="#P" n="54"/>est, ipse solus adorandus est, eique soli et non
+<lb ed="#P" n="55"/>alteri serviendum est, ea videlicet servitute que
+<lb ed="#P" n="56"/>ei soli debita est. Nam et in Evangelio, cum 
+di<lb ed="#P" break="no" n="57"/>citur: Nemo novit Patrem nisi Filius (Matth.
+<lb ed="#P" n="58"/>X1), non utique Spiritus sanctus a Patris 
+cogni<lb ed="#P" break="no" n="59"/>tione excluditur, cum ipse etiam profunda Dei,
+<lb ed="#P" n="60"/>teste Apostolo, acrutetur (I Cor. 11). Sed est 
+ejus<lb ed="#P" break="no" n="61"/>modi loquendi genus, ut dicatur [nerno, nisi ille
+<lb ed="#P" n="62"/>videlicet qui non eet, hoo quod ille. His pro bre-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>vitate transcursis ad consequens mandatum 
+dis<lb ed="#P" break="no" n="64"/>cutiendum transeamus quod tale est : non 
+assu<lb ed="#P" break="no" n="65"/>mas nomen Dei tui in vanum (Exod. xx ; Deut
+<lb ed="#P" n="66"/>v.) Hoc ad simplicem littere sensum taliter 
+in<lb ed="#P" break="no" n="67"/>telligi debet, ut nomen Dei homo in vanum non
+<lb ed="#P" n="68"/>assumat, id est vel ad mendacium affirmandum
+<lb ed="#P" n="69"/>vel ad idolum venerandum ; acilicet ut neque 
+ido<lb ed="#P" break="no" n="70"/>la nomine divino honoret, neque falsitati nomen
+<lb ed="#P" n="71"/>divinum associet. Mystice autem nomen Dei 
+as<lb ed="#P" break="no" n="72"/>sumere in vanum, est Filium Dei visibilem per.
+<lb ed="#P" n="73"/>humanitatem factum, creaturam existimare.
+<lb ed="#P" n="74"/>In vanum quippe nomen Dei assunit, qui
+<lb ed="#P" n="75"/>Flium Dei :ternum ex tempore co»pisse credit.
+<lb ed="#P" n="76"/>Nomen siquidem Patris Filius dicitur, quia in
+<lb ed="#P" n="77"/>Filio; et per Filium Pater invisibilis 
+manifesta<lb ed="#P" break="no" n="78"/>tur ; non solum quando mundus per ipsum 
+fac<lb ed="#P" break="no" n="79"/>tus est; verum etiam quando peripsum homo
+<lb ed="#P" n="80"/>est redemptus. Sane qui Filium Dei hominem
+<lb ed="#P" n="81"/>factum confitentur, nequaquam in vanum nomen
+<lb ed="#P" n="82"/>Dei assumunt, quia quem credunt hominem per
+<lb ed="#P" n="83"/>id quod assumpsit ex tempore; verum Deum
+<lb ed="#P" n="84"/>agnoscunt, per id quod fuit ex sternitate. 
+Po<lb ed="#P" break="no" n="85"/>test adhuc aliter intelligi quod dictum est : Non
+<lb ed="#P" n="86"/>assumas nomen Dei tui in vanum. In vanum
+<lb ed="#P" n="87"/>namque nomen Dei assumunt, qui Filium Dei ad
+<lb ed="#P" n="88"/>se missum, et pro sua salute incarnatum 
+contem<lb ed="#P" break="no" n="89"/>nunt. Quid est ergo dicere: Neassumasnomen Dei
+<lb ed="#P" n="90"/>tui in vanum, nisi sicut veneraris et adoraseum,
+<lb ed="#P" n="91"/>propter hoc quod. ab eo factus es ; sic adora et
+<lb ed="#P" n="92"/>venerare, propter hoc quod ab eo est redemptus
+<lb ed="#P" n="93"/>quia non minus tibi contulit cum redemit,
+<lb ed="#P" n="94"/>quam cum creavit. Ad eumdem spectat 
+sen<lb ed="#P" break="no" n="95"/>sum, quod ipse Filius in Evangelio discipulis,
+<lb ed="#P" n="96"/>et per discipulos omnibus in se 
+credenti<lb ed="#P" break="no" n="97"/>bus dicit: Creditis in Deum et in. me credite
+<lb ed="#P" n="98"/>(Joan. xiv). Modesta quinem ut decuit pium nos
+<lb ed="#P" n="99"/>admonens insinuatione, ut intelligamus eum non
+<lb ed="#P" n="100"/>solum adorandcm a nobis in sua divinitate qua
+<lb ed="#P" n="101"/>condidit, sed in' humanitate etiam qua redemit.
+<lb ed="#P" n="102"/>"Tertium praeceptum est observaSabbatum (Ezod
+<lb ed="#P" n="103"/>xx) Quatuor Sabbata commemorare videtur
+<lb ed="#P" n="104"/>Scriptüra. Primum illud in quo Deus perfectis
+<lb ed="#P" n="105"/>operibus suis requieviese dicitur. Secundum 
+il<lb ed="#P" break="no" n="106"/>lud quod filis Israel carnaliter custodiendum
+<lb ed="#P" n="107"/>mandatur. Tertium illud quod populo Dei 
+servan<lb ed="#P" break="no" n="108"/>dum praecipitur. Quartum illud quod in 
+promis<lb ed="#P" break="no" n="109"/>sione Sabbatum pro Sabbato suis Deus 
+dilectori<lb ed="#P" break="no" n="110"/>bus pollicetur. Duo igitur sunt Sabbnta exterius
+<lb ed="#P" n="111"/>unum Dei, et unum hominis; et duo interius
+<lb ed="#P" n="112"/>unum Dei, et unum hominis. Sabbatum Dei quo
+<lb ed="#P" n="113"/>exterius ab opere cessare dicitur, sacramentum
+<lb ed="#P" n="114"/>est illius interioris Sabbati ejus, in quo ipsius 
+se<lb ed="#P" break="no" n="115"/>terna immortalis quae seternitas inconcussa 
+beati<lb ed="#P" break="no" n="116"/>tudine perfruens, nullo unquam labore fatigatur.
+<lb ed="#P" n="117"/>Sabbatum hominis quod ei visibiter exterius 
+ser<lb ed="#P" break="no" n="118"/>vandum praecipitur, sacramentum est interioris
+<lb ed="#P" n="119"/>Sabbati, ubi mens sancta per bonam conscientiam
+<lb ed="#P" n="120"/>a servitute peccati quiescens ; in gaudio Spiritus
+<lb ed="#P" n="121"/>sancti jucundatur. Hoc Sabbatum quisquis in
+<lb ed="#P" n="122"/>praesenti vita servaverit, ut nullis consentiat 
+ma<lb ed="#P" break="no" n="123"/>lis, perveniet in futura vita, ad illud sternum
+<lb ed="#P" n="124"/>Dei Sabbatum, ubi nulla sentiet mala. Sicut dic-
+<!-- 096.png.txt -->
+<pb ed="#P" n="178"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>tum est : Et erit Sabbatum pro Sabbato, mensis A.
+<lb ed="#P" n="2"/>sís pro mense (Isa. txvi). Illud itaque 
+praecep<lb ed="#P" break="no" n="3"/>tum specialiter ad Spiritus sancti personam 
+re<lb ed="#P" break="no" n="4"/>ferri videtur, cum dicitur: Observa Sabbatum, ut
+<lb ed="#P" n="5"/>videlicet in praesenti eum suscipiamus, et 
+custo<lb ed="#P" break="no" n="6"/>diamus intra nos in gaudium bone conscientisz,
+<lb ed="#P" n="7"/>quatenus eum in futuro suscipere et possidere
+<lb ed="#P" n="8"/>mereamur, in gaudium vitz. Heec igitursunt 
+prae<lb ed="#P" break="no" n="9"/>cepta tria prima tabul:. In quibus praecipue 
+di<lb ed="#P" break="no" n="10"/>lectio Dei commendatur, et tota Trinitas unus
+<lb ed="#P" n="11"/>Deus aequaliter adoranda et colenda prxcipitur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g25856-Dd1e1119">
+               <head xml:id="hsvhsv-g25856-Hd1e1121">Capitulum 7</head>
+               <head xml:id="hsvhsv-g25856-Hd1e1123" type="question-title">
+De septem aliis praeceptis quae sunt
+secunda tabula
+</head>
+               <p xml:id="hsvhsv-g25856-d1e1126">
+                  <lb ed="#P" n="12"/>Cap. VII. De septem aliis praeceptis quae sunt
+<lb ed="#P" n="13"/>secunda tabula.
+</p>
+               <p xml:id="hsvhsv-g25856-d1e1133">
+                  <lb ed="#P" n="14"/>Septem alia, secunda tabula continebat, qua
+<lb ed="#P" n="15"/>hominem ad dilectionem proximi instituunt; et
+<lb ed="#P" n="16"/>propterea septennario distinguuntur, quia in prae- B 
+<lb ed="#P" n="17"/>senti vita tantum quae septem diebus volvitur:
+<lb ed="#P" n="18"/>nostra charitas pietatis operibus exercetur erga
+<lb ed="#P" n="19"/>proximum ; postea, consummatis operibus et 
+fi<lb ed="#P" break="no" n="20"/>nitis laboribus, per contemplationem pariter cum
+<lb ed="#P" n="21"/>proximo beatificanda in Deum. Amor igitur 
+pro<lb ed="#P" break="no" n="22"/>ximi et temporalis est quandum pertinet ad 
+exhi<lb ed="#P" break="no" n="23"/>bitionem operis, et aeternus quantum pertinet ad
+<lb ed="#P" n="24"/>effectum dilectionis. Primum praeceptum secundae
+<lb ed="#P" n="25"/>tabule ad patrem pertinet hominem, sicut prinum
+<lb ed="#P" n="26"/>primztabulgad Patrem Deum. Utrobique 
+pateni<lb ed="#P" break="no" n="27"/>tas praeponitur, utrobique principii dignitate 
+ho<lb ed="#P" break="no" n="28"/>noratur, quia secundum quemdam modum, gic 
+ha<lb ed="#P" break="no" n="29"/>bemusprincipium nascendi pergenerationem a 
+pa<lb ed="#P" break="no" n="30"/>tre homine, sicut principium existendi per 
+condi<lb ed="#P" break="no" n="31"/>tionem accepimusa Deo Patre; et paternitas homi- (;
+<lb ed="#P" n="32"/>nis sacramentum est et imago divin:e paternitatis ,
+<lb ed="#P" n="33"/>ut discatcor humanum in eo principio quod videt,
+<lb ed="#P" n="34"/>quid debeat illi principioaquoest, etquod non 
+vi<lb ed="#P" break="no" n="35"/>det. Sic ergoest dictum. Honora patrem tuum et
+<lb ed="#P" n="36"/>matrem tuam, utbene sictibi, et sis longavus 
+su<lb ed="#P" break="no" n="37"/>per terram (Exod. xx). Sicut superius dictum est
+<lb ed="#P" n="38"/>in primo praecepto prime tabula, ita et hoc non 
+to<lb ed="#P" break="no" n="39"/>tumad praeceptionem pertinet quod propositum ;
+<lb ed="#P" n="40"/>sedibiquod praeter praeceptum erat promissum est ,
+<lb ed="#P" n="41"/>hicsubjunctum est: <quote xml:id="hsvhsv-g25856-Qd1e1195">Audi, Israel: Deus tuus unus
+<lb ed="#P" n="42"/>est</quote>(Deut. vi). Hoc totum ante praeceptum 
+premitti<lb ed="#P" break="no" n="43"/>tur, ipsum praeceptum postea subinfertur cum
+<lb ed="#P" n="44"/>dicitur: Ipsum adorabis, et ipsi soli servies
+<lb ed="#P" n="45"/>(ibid.). Hic praeceptum praecedit : Honora patrem.
+<lb ed="#P" n="46"/>tuum et matrem tuam (Exod. xx.), deinde
+<lb ed="#P" n="47"/>subjungit: ut bene tibi sit, et sis longzvus 
+su<lb ed="#P" break="no" n="48"/>per terram. Quid est ergo, quod ibi ante 
+procep<lb ed="#P" break="no" n="49"/>tum causa praecepti premittitur; hic post 
+prz<lb ed="#P" break="no" n="50"/>ceptum subinfertur, nisi quia Deus diligendus
+<lb ed="#P" n="51"/>est propter seipsum, et homo propter Deum ?
+<lb ed="#P" n="52"/>Nam et amor parentum, si ad solam carnem 
+res<lb ed="#P" break="no" n="53"/>pixit, spirituale premium non acquirit. Ex Deo
+<lb ed="#P" n="54"/>igitur in nobis prius est, propter quod posten 
+di<lb ed="#P" break="no" n="55"/>ligendus est a nobis, quia ejus gratia, nostra 
+di<lb ed="#P" break="no" n="56"/>lectio prevenitur, et nostra dilectio per ejus 
+gra<lb ed="#P" break="no" n="57"/>tiam excitata subsequitur. In patribus autem car
+<lb ed="#P" n="58"/>nis nostre si ad id solum beneficium nostra 
+di<lb ed="#P" break="no" n="59"/>lectio tenditur, quo carnaliter ab his nostrum
+<lb ed="#P" n="60"/>meritum pravenitur, quia ultra carnis affectum,
+<lb ed="#P" n="61"/>et supra carnis intuitum non proficit, ad 
+perfec<lb ed="#P" break="no" n="62"/>tionem praemii spiritualis non pertingit. Ergo
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>propter vitam aeternitatis, diligendus est auctor
+<lb ed="#P" n="64"/>vitie temporalis, ut scilicet non hoc diligatur, qui
+<lb ed="#P" n="65"/>hanc ab illo, imo per illum, vitam accipimus, sed
+<lb ed="#P" n="66"/>quia per hanc ad illam vitam intraturi sumus.
+<lb ed="#P" n="67"/>Bene ergo cum dictum esset: Honora patrem et.
+<lb ed="#P" n="68"/>matrem, subjuncta est causa, ut bene tibi sit, et
+<lb ed="#P" n="69"/>sis longemus super terram, scilicet. viventium,
+<lb ed="#P" n="70"/>quia hoc diligere debemus in auctore vita» hujus
+<lb ed="#P" n="71"/>quod ab illo per hanc vitam ad futuram vitam
+<lb ed="#P" n="72"/>initiati sumus. Et pulchre honoranti principium
+<lb ed="#P" n="73"/>suum, longevitas promittitur, quia Deo per 
+di<lb ed="#P" break="no" n="74"/>lectionem adhaerentes aeternitatem promerentur.
+<lb ed="#P" n="75"/>Sane quantum spectat ad sensum littere, duobus
+<lb ed="#P" n="76"/>modis parentes nostros honorare debemus, et
+<lb ed="#P" n="77"/>obediendo eis videlicet in omnibus (exceptis his
+<lb ed="#P" n="78"/>in quibus dilectio Dei Patris offenditur) et eos
+<lb ed="#P" n="79"/>quantum faculias nostra suppetit, adjuvando.
+<lb ed="#P" n="80"/>Sed et de patribus spiritalibus, id est prolatis
+<lb ed="#P" n="81"/>nostris idipsum intelligore nihil impedit, quibus
+<lb ed="#P" n="82"/>obedientiam debemus quantum" nostra habet 
+pos<lb ed="#P" break="no" n="83"/>sibilitas, et auxilium imo servitium, quantum
+<lb ed="#P" n="84"/>suppetit facultas. Secundum praeceptum secunda
+<lb ed="#P" n="85"/>tabulie, Non occides (ibid.) Homicidium sit 
+mul<lb ed="#P" break="no" n="86"/>tis modis, manu, lingua, consensu: Manu flt cum
+<lb ed="#P" n="87"/>quis alium actualiter vita privat, vel in locum
+<lb ed="#P" n="88"/>mortis ubi vita privetur priecipitat, ut in 
+carce<lb ed="#P" break="no" n="89"/>rem, vel alium quemlibet talem locum. Lingua
+<lb ed="#P" n="90"/>fit duobus modis, id est, praecipiendo vel 
+sugge<lb ed="#P" break="no" n="91"/>rendo. Jud;i quippe Christum occiderunt, dum
+<lb ed="#P" n="92"/>ut occideretur, judici suggesserunt. Consensu 
+si<lb ed="#P" break="no" n="93"/>militer duobus modis fit homicidium, vel dum
+<lb ed="#P" n="94"/>mortem alteruis desideramus et cupimus, vel si
+<lb ed="#P" n="95"/>dum eum a morte liberare possumus, vitam ejus
+<lb ed="#P" n="96"/>negligimus, id est, adjutorium non impendimus.
+</p>
+               <p xml:id="hsvhsv-g25856-d1e1321">
+                  <lb ed="#P" n="97"/>Tertium praeceptum secunde tabule est: Non
+<lb ed="#P" n="98"/>nmwuchaberis (ibid.), id est non fornicaberis. 
+For<lb ed="#P" break="no" n="99"/>nicatio est omnis illicitus concubitus ; et est 
+du<lb ed="#P" break="no" n="100"/>plex fornicatio. Animae, unde Propheta: 
+Perdi<lb ed="#P" break="no" n="101"/>disti omnes qui fornicantur abs te (Psal.
+<lb ed="#P" n="102"/>LXXIL) Corporis, de qua hic agitur. Hoc enim
+<lb ed="#P" n="103"/>praeceptum et quaedam alia, sub veteri lege 
+tan<lb ed="#P" break="no" n="104"/>tum-inchoata sunt, id est non plene, sed ex parte
+<lb ed="#P" n="105"/>data, propter infirmitatem auditorum, quae pos
+<lb ed="#P" n="106"/>tea, adveniente gratia, consummata sunt. Lex
+<lb ed="#P" n="107"/>enim dicit : Non meechaberis; corporalem tantum
+<lb ed="#P" n="108"/>mochiam prohibens. Christus dicit: Quicungue
+<lb ed="#P" n="109"/>viderit mulierem ad concupiscendam eam,
+<lb ed="#P" n="110"/>jam machatus est eam. in corde suo (Matth.
+<lb ed="#P" n="111"/>v) ; omnem illicitam concupiscentiam tam animo
+<lb ed="#P" n="112"/>quam corporis contradicens.
+</p>
+               <p xml:id="hsvhsv-g25856-d1e1359">
+                  <lb ed="#P" n="113"/>Quartum praeceptum est: Non furtum facies
+<lb ed="#P" n="114"/>(Exod. xx.) Furtum accipitur in hoc loco pro
+<lb ed="#P" n="115"/>qualibet illicita usurpatione rei aliens, sive 
+oc<lb ed="#P" break="no" n="116"/>culta sive manifesta. Qui enim furtum prohibuit,
+<lb ed="#P" n="117"/>rapinam non concessit, cum sit majus peccatum
+<lb ed="#P" n="118"/>(ut testantur sancti) aperte et violenter rapere:
+<lb ed="#P" n="119"/>quam occulte subtrahere, quia majus odium et
+<lb ed="#P" n="120"/>iram excitat. Sub furto etiam comprehenditur
+<lb ed="#P" n="121"/>usura.
+</p>
+               <p xml:id="hsvhsv-g25856-d1e1381">
+                  <lb ed="#P" n="122"/>Quintum praeceptum secunde tabulm. Non 
+fal<lb ed="#P" break="no" n="123"/>sum testimonium dices (ibid). Ut ergo melius
+<lb ed="#P" n="124"/>liqueat, quid sit falsum testimonium, altius in-
+<!-- 097.png.txt -->
+<pb ed="#P" n="179"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>cipiendum est, id est a mendacio. Aliud enim est A
+<lb ed="#P" n="2"/>simplex mendacium in falso testimonio, aliud in
+<lb ed="#P" n="3"/>perjurio, aliud in voto, dum aliquis vovet quod non
+<lb ed="#P" n="4"/>soluit. De quibus omnibus dicendum est. Primum
+<lb ed="#P" n="5"/>autem de simplici mendacio, qua propter 
+ponen<lb ed="#P" break="no" n="6"/>da est descriptio mendacii, quidam mendacium
+<lb ed="#P" n="7"/>sic diffiniendum putant. Mendacium est falsa 
+si<lb ed="#P" break="no" n="8"/>gnificatio cum voluntate fallendi, vel quae 
+pre<lb ed="#P" break="no" n="9"/>sentialiter adest, vel postea advenit. Nam si quis
+<lb ed="#P" n="10"/>alteri promittens ge aliquid daturum, habens 
+vo<lb ed="#P" break="no" n="11"/>luntatem dandi cum promitteret, postea vero 
+mu<lb ed="#P" break="no" n="12"/>tata voluntate dare nollet, mendacium esset, non
+<lb ed="#P" n="13"/>quia in promissione cor duplex fuit, sed quia qui
+<lb ed="#P" n="14"/>promisit postea cor duplicavit. Sic ergo intelligi
+<lb ed="#P" n="15"/>potest quod dictum est. Mendacium est 
+significa<lb ed="#P" break="no" n="16"/>tio falsa, id est oratio vel locutio per quam ille p
+<lb ed="#P" n="17"/>qui loquitur auditori falsum significare intendit,
+<lb ed="#P" n="18"/>et putat. Nam, etsi ita sit ut dicit, mentitur 
+ta<lb ed="#P" break="no" n="19"/>men ille quiloquitur cum opinione et intentione
+<lb ed="#P" n="20"/>fallendi. Jocosa mendacia, et ironiz, et parabole
+<lb ed="#P" n="21"/>mendacia non sunt ; alioquin sancti. 
+reprehensi<lb ed="#P" break="no" n="22"/>Sibiles invenirentur, quia in parabolis et ironis
+<lb ed="#P" n="23"/>multa locuti sunt. Sed ipse Christus in parabolis
+<lb ed="#P" n="24"/>loquebatur ad ipsas turbas, quas utique in 
+ser<lb ed="#P" break="no" n="25"/>mone suo non assumpsisset, si ullum in eis 
+men<lb ed="#P" break="no" n="26"/>dacium constaret. Hoc tantum interest quod 
+jo<lb ed="#P" break="no" n="27"/>cosa mendacia etsi falsitatis reatum non 
+inci<lb ed="#P" break="no" n="28"/>dunt levitatis tamen culpam non evadunt. Est
+<lb ed="#P" n="29"/>adhuc aliud genus mendacii, cum aliquis quasi
+<lb ed="#P" n="30"/>humilitatis causa mentiri videtur, utpote cum se
+<lb ed="#P" n="31"/>peccatorem dicit, et tamen non ita sentit ut dicit (;
+<lb ed="#P" n="32"/>de quo verissime dictum est, quia cum causa 
+hu<lb ed="#P" break="no" n="33"/>militatis quis mentitur, si antequam mentiretur
+<lb ed="#P" n="34"/>peccator non erat; mentiendo efficitur quod non
+<lb ed="#P" n="35"/>erat, quia qui peccatorem se dicit, et non ita 
+cre<lb ed="#P" break="no" n="36"/>dit, veritas in eo non est. Est aliud genus 
+menda<lb ed="#P" break="no" n="37"/>cii cum pro salute vel ita alterius conservanda 
+ali<lb ed="#P" break="no" n="38"/>quis mentitur, quod et ipsum nullo modo 
+appro<lb ed="#P" break="no" n="39"/>bandum est. Male enim mentiendo vitam servat
+<lb ed="#P" n="40"/>in alterius corpore, qui per mendacium veritatem
+<lb ed="#P" n="41"/>exstinguit in suo corde. Potest tamen in 
+hujus<lb ed="#P" break="no" n="42"/>modi aliquando veritas sine culpa celari, quando
+<lb ed="#P" n="43"/>causa salutis nostre sive utilitatis alienae ratio
+<lb ed="#P" n="44"/>exposcit. Longe enim aliud est, quod verum est
+<lb ed="#P" n="45"/>tacere, atque aliud quod falsum est asserere. 
+Ip<lb ed="#P" break="no" n="46"/>8a enim veritas dicit: Multa habeo vobis dicere.
+<lb ed="#P" n="47"/>sed non potestis portare modo (Joan. xvi) ; quod
+<lb ed="#P" n="48"/>utique non dixisset, si veritatem facere semper
+<lb ed="#P" n="49"/>culpa esset. Falsum testimonium est cum quis 
+al<lb ed="#P" break="no" n="50"/>terius mendacio de veritate testimonium prehibet,
+<lb ed="#P" n="51"/>qui non solum mentiendo reus efficitur, sed quia
+<lb ed="#P" n="52"/>etiam ipsum mendacium contra veritatem 
+patro<lb ed="#P" break="no" n="53"/>cinari conatur; quod quidem se sciens fecerit
+<lb ed="#P" n="54"/>damnabilis ompino malitia est; si autem 
+igno<lb ed="#P" break="no" n="55"/>rans, reprehensibilis negligentia. Non omne 
+ju<lb ed="#P" break="no" n="56"/>ramentum malum est, et tamen omne 
+juramen<lb ed="#P" break="no" n="57"/>tum teste veritate a malo est. Qui enim verum
+<lb ed="#P" n="58"/>jurat pro necessitate proximi, aut pro utilitate,
+<lb ed="#P" n="59"/>cum scilicet is cui juraratur aut credere non 
+po<lb ed="#P" break="no" n="60"/>test propter ignorantiam, aut credere recusat
+<lb ed="#P" n="61"/>propter malitiam ; hujusmodi juramentum 
+ma<lb ed="#P" break="no" n="62"/>lum quidem non est illi qui jurat, quia ex neces-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>sitate contestatur veritati; et tamen a malo est
+<lb ed="#P" n="64"/>illius cui jurat, hoc est, vel ex infirmitate si 
+cre<lb ed="#P" break="no" n="65"/>dere aliter non potest, vel si credere contemnit,
+<lb ed="#P" n="66"/>ex perversitate. Qui autem sine causa jurat, etiam
+<lb ed="#P" n="67"/>8i verum jurat, non sine culpa est ; aut quia pro
+<lb ed="#P" n="68"/>levitate arguitur, aut pro contumacia 
+condemna<lb ed="#P" break="no" n="69"/>tur. Qui malum se facturum jurat peccat. In quo
+<lb ed="#P" n="70"/>iamen melius esset. juramentum frangere, quam
+<lb ed="#P" n="71"/>adimplere, ita quidem ut et malum caveat quod
+<lb ed="#P" n="72"/>juravit, et nihilominus culpam agnoscat, in eo
+<lb ed="#P" n="73"/>quod male juravit. Perjurium est mendacium 
+sa<lb ed="#P" break="no" n="74"/>erosancta attestatione inducta confirmantum. Qui
+<lb ed="#P" n="75"/>enim falsum jurat pejerat vel perjurat; in quo
+<lb ed="#P" n="76"/>primum malum est culpa mendacii, cum id quod
+<lb ed="#P" n="77"/>falsum est dicitur. Secundum autem quod ad 
+tu<lb ed="#P" break="no" n="78"/>endam falsitatem testimonium veritatis 
+irreve<lb ed="#P" break="no" n="79"/>renter usurpatur. Qui viderit alium falsum 
+jura<lb ed="#P" break="no" n="80"/>re volentem, particeps peccati efficitur si 
+congen<lb ed="#P" break="no" n="81"/>tit: et si non quantum potest salva veritate ne
+<lb ed="#P" n="82"/>malum perficiatur contradicendo et admonendo
+<lb ed="#P" n="83"/>obsistit. Hic autem considerandum est quod 
+pec<lb ed="#P" break="no" n="84"/>catum fratris cum probare non possumus, 
+publi<lb ed="#P" break="no" n="85"/>care non debemus, ne forte videamur nolle 
+pro<lb ed="#P" break="no" n="86"/>ximum nostrum corrigere, sed magis infamare.
+<lb ed="#P" n="87"/>Propterea admonitio peccantibus adhibenda est
+<lb ed="#P" n="88"/>ubi negantibus testimonium convincens adduci
+<lb ed="#P" n="89"/>non potest. Votum est voluntaria sponsio animi.
+<lb ed="#P" n="90"/>Quisquis Deo votum vovet, reddere debet quod
+<lb ed="#P" n="91"/>vovet, juxta illud Prophete: Vovete et reddite
+<lb ed="#P" n="92"/>Domino (Psal. txxv). Dicit autem Scriptura:
+<lb ed="#P" n="93"/>Vota stultorum frangenda sunt (Eccle. v). Unde
+<lb ed="#P" n="94"/>vota stultorum jntelligimus omnia quae vel mala
+<lb ed="#P" n="95"/>sunt, vel si bona sunt ordinata tamen non sunt,
+<lb ed="#P" n="96"/>et majus malum est quod est ex eis, quam bonum
+<lb ed="#P" n="97"/>quod est in eis. Verbi gratia ; Si mulier nolente
+<lb ed="#P" n="98"/>viro aut vir nolente muliere voveret continentiam.
+<lb ed="#P" n="99"/>aut subjectus sine consilio et licentia prelati sui
+<lb ed="#P" n="100"/>inordinatam proponeret abetinentiam, hujusmodi
+<lb ed="#P" n="101"/>vota quia manifeste stulta essent ; tenenda 
+omni<lb ed="#P" break="no" n="102"/>no non essent. Qui bonum quodcunque vovet si
+<lb ed="#P" n="103"/>postea illud aut implere non potuerit, aut pro
+<lb ed="#P" n="104"/>majori bono perficiendo implere noluerit; 
+pote<lb ed="#P" break="no" n="105"/>rit secundum licentiam eorum quibus 
+dispensa<lb ed="#P" break="no" n="106"/>tio in eum credita est, votum ejus aut laxari aut
+<lb ed="#P" n="107"/>mutari, ita ut in ejusarbitrio non constet vel hoc
+<lb ed="#P" n="108"/>dimittere quod faciendum vovit, vel aliud pro eo
+<lb ed="#P" n="109"/>facere, etiam si majus est quod non vovit.
+</p>
+               <p xml:id="hsvhsv-g25856-d1e1635">
+                  <lb ed="#P" n="110"/>Sextum praeceptum quod et. nonum est: Non
+<lb ed="#P" n="111"/>concupices wxorem proximi twi (Ecod. xx).
+<lb ed="#P" n="112"/>Septimum prwceptum quod et decimum est : Non
+<lb ed="#P" n="113"/>concupisces rem prozimi tu$(ibid). Hic 
+oppo<lb ed="#P" break="no" n="114"/>nendum videtur contra hoc quod superius 
+dic<lb ed="#P" break="no" n="115"/>tum est in eo praecepto quod superius datum est
+<lb ed="#P" n="116"/>de fornicatione cavenda. Non moechaberis, 
+mo<lb ed="#P" break="no" n="117"/>chiam tantum corporalem esse prohibitam ; 
+pos<lb ed="#P" break="no" n="118"/>tea vero per id quod Christus in Evangelio 
+di<lb ed="#P" break="no" n="119"/>cit: Quicunque viderit mulierem ad 
+concupis<lb ed="#P" break="no" n="120"/>cendam eam, jam moechatus estin corde suo; 
+om<lb ed="#P" break="no" n="121"/>nem tam corporalem quam spiritualem moechiam
+<lb ed="#P" n="122"/>esse interdictam. Quomodo enim Evangelium 
+sup<lb ed="#P" break="no" n="123"/>plevit quod lex scripta prius, minus habuit, cum
+<lb ed="#P" n="124"/>idipsum quod Evangelium adjecisse creditur, iw.
+<!-- 098.png.txt -->
+<pb ed="#P" n="180"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>lege scriptum prius inveniatur ? Qui enim dixit :
+<lb ed="#P" n="2"/>Non mechaberis corporalem mochiam 
+prohi<lb ed="#P" break="no" n="3"/>bens ; postea dixit: Non concupisces, 
+spiritua<lb ed="#P" break="no" n="4"/>Jem mochiam omnino cavendam esse ostendens.
+<lb ed="#P" n="5"/>Quid ergonova lex supplevit, quod vetus minus
+<lb ed="#P" n="6"/>habuit ? Lex corporalem moechiam prohibuit,
+<lb ed="#P" n="7"/>concupiscentiam prohibuit. Quid amplius habuit
+<lb ed="#P" n="8"/>Evangelium, quod faceret? Sed sciendum est quod
+<lb ed="#P" n="9"/>vetus lex, quamvis concupiscentiam hominis a re
+<lb ed="#P" n="10"/>aliena cohibuit, in propria tamen minime 
+tempe<lb ed="#P" break="no" n="11"/>ravit. Quia qui dixit: Non concupisces uxorem
+<lb ed="#P" n="12"/>et rem proximi tui, mulieremet rem omnino 
+con<lb ed="#P" break="no" n="13"/>cupiscendam non vetuit, sed ab aliena tantum 
+ap<lb ed="#P" break="no" n="14"/>petitum cohibendum demonstravit. Nova autem
+<lb ed="#P" n="15"/>lex et in propriis temperatum essedebere edocuit,
+<lb ed="#P" n="16"/>ut omnem illicitam concupiscentiam excluderet. B 
+<lb ed="#P" n="17"/>Potest autem et alio intellectu convenienter dici
+<lb ed="#P" n="18"/>veterem legem concupiscentiam uxoris sive rei
+<lb ed="#P" n="19"/>aliene non illam significasse, quae sola voluntate
+<lb ed="#P" n="20"/>agitur ; sed ambitionem et machinationem quiz
+<lb ed="#P" n="21"/>Studio quodam et ad nisu ad implendum 
+deside<lb ed="#P" break="no" n="22"/>rium et ad obtinendum id quod in desiderio est
+<lb ed="#P" n="23"/>exterius opere exercetur. Nova autem lex non 
+so<lb ed="#P" break="no" n="24"/>lum damnavit illicitam concupiscentiam foris in
+<lb ed="#P" n="25"/>studio operis, sed intus quoque damnabilem 
+es<lb ed="#P" break="no" n="26"/>8e ostendit in desiderio voluntatis.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g25856-Dd1e1734">
+               <head xml:id="hsvhsv-g25856-Hd1e1736">Capitulum 8</head>
+               <head xml:id="hsvhsv-g25856-Hd1e1738" type="question-title">
+De ordine praeceptorum Dei
+</head>
+               <p xml:id="hsvhsv-g25856-d1e1741">
+                  <lb ed="#P" n="27"/>Cap. VIII. De ordine praeceptorum Dei.
+</p>
+               <p xml:id="hsvhsv-g25856-d1e1746">
+                  <lb ed="#P" n="28"/>Ordinem autem praeceptorum Dei sine 
+conside<lb ed="#P" break="no" n="29"/>ratione transire non opportet. Nam si ordo 
+vi<lb ed="#P" break="no" n="30"/>vendi est, est utique et ordo praecipiendi. Primum
+<lb ed="#P" n="31"/>ergo attende quod dicitur tibi, ut adores Deum
+<lb ed="#P" n="32"/>tuwm, et servias illi (Deut. vi). Hoc est 
+pri<lb ed="#P" break="no" n="33"/>mum praeceptum. In adoratione agnosce fidem,
+<lb ed="#P" n="34"/>inservitute intellige bonam operationem. Post
+<lb ed="#P" n="35"/>hoc sequitur secundum praeceptum ut nomen Dei
+<lb ed="#P" n="36"/>tui in vanum non assumas (Exod. xx), 
+quate<lb ed="#P" break="no" n="37"/>nus verbum veritatis in ore tuo sit propter 
+veri<lb ed="#P" break="no" n="38"/>tatem, ut post fidem cordis, sequatur confessio oris.
+<lb ed="#P" n="39"/>Primum devotio ad bonam conscientiam ; postea
+<lb ed="#P" n="40"/>exemplum operis, ad bonam famam. Novissime
+<lb ed="#P" n="41"/>verbum praedicationis ad doctrinam. Deinde 
+se<lb ed="#P" break="no" n="42"/>quitur tertium praeceptam et dicitur tibi, ut 
+Sab<lb ed="#P" break="no" n="43"/>batum observes ; hoc est, mentis quietem 
+custo<lb ed="#P" break="no" n="44"/>dias, ut non perturberis ex adversis foris 
+occur<lb ed="#P" break="no" n="45"/>rentibus pro veritate, sed discas esse pacificus,
+<lb ed="#P" n="46"/>etiam inter eos qui pacem oderunt. Predices 
+ve<lb ed="#P" break="no" n="47"/>ritatem, et non omittas charitatem. Hxc sunt tria
+<lb ed="#P" n="48"/>praecepta primeo tabulw de iis quae pertinent ad
+<lb ed="#P" n="49"/>Deum.
+</p>
+               <p xml:id="hsvhsv-g25856-d1e1796">
+                  <lb ed="#P" n="50"/>Postea sequitur secunda tabula, de iis quae 
+ape<lb ed="#P" break="no" n="51"/>ctant ad proximum. Primum praeceptum est 
+se<lb ed="#P" break="no" n="52"/>cunde tabule in quo tibi praecipitur, ut honores
+<lb ed="#P" n="53"/>principium tuum, ut vitam longevam habere
+<lb ed="#P" n="54"/>possis (Exod. xx); quoniam qui non honorat eum
+<lb ed="#P" n="55"/>a quo est, dignus est ut retinere non possit id
+<lb ed="#P" n="56"/>quod est. Secundum praeceptum est: Non 
+occi<lb ed="#P" break="no" n="57"/>des (ibid). Convenienter sane cui in precedenti
+<lb ed="#P" n="58"/>mandato vite longeevitas promittitur, hic ne 
+alie<lb ed="#P" break="no" n="59"/>nam vitam exstinguat prohibetur, ut hoc ex 
+cha<lb ed="#P" break="no" n="60"/>ritate Dei sit, quod principium suum honorans,
+<lb ed="#P" n="61"/>ad vitam qua finem nescit inhiat ; hoc vero ex
+<lb ed="#P" n="62"/>charitate proximi quod ad vite aliens finem nul-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>lo crudelitatis odio se relaxat. Deinde sequitur
+<lb ed="#P" n="64"/>tertium praeceptum : Non machaberis ; et 
+quar<lb ed="#P" break="no" n="65"/>tum : Non furtum facies (ibid). Non 
+mochabe<lb ed="#P" break="no" n="66"/>ris, hoc pertinet ad vitam propriam. Non furtum
+<lb ed="#P" n="67"/>facies, hoc pertinet ad vitam alienam. Supra
+<lb ed="#P" n="68"/>enim jussus est homo et suam et alterius vitam
+<lb ed="#P" n="69"/>conservare, hic jubetur et suam et, alterius vitam
+<lb ed="#P" n="70"/>non Lzdere. Justum enim est ut in via vite 
+cor<lb ed="#P" break="no" n="71"/>ruptionem caveat, quiin patria vitam 
+incorrup<lb ed="#P" break="no" n="72"/>tam exspectat, et qui jam vitam proximi per [
+a<lb ed="#P" break="no" n="73"/>pertam violentiam non opprimit, etiam per 
+frau<lb ed="#P" break="no" n="74"/>dem occultam in his quae ad usum vivendi data
+<lb ed="#P" n="75"/>sunt ei non noceat ; et non solum ipse per se non
+<lb ed="#P" n="76"/>noceat; sed neque nocentibus neque nocere 
+vo<lb ed="#P" break="no" n="77"/>lentibus, sua auctoritate vel attestatione fiduciam
+<lb ed="#P" n="78"/>aut firmamentum prestare presumat. Hoc enim
+<lb ed="#P" n="79"/>in sequenti mandato prohibetur cum dicitur:
+<lb ed="#P" n="80"/>Non falsum testimonium dices (ibid.). Et quia
+<lb ed="#P" n="81"/>ab operere lesionis diu se cohibere non potest,
+<lb ed="#P" n="82"/>qui mentem suam ab intentione et voluntate
+<lb ed="#P" n="83"/>ledendi non cohibet, sequitur et dicit Non
+<lb ed="#P" n="84"/>concupisces uxorem procimi twi; nec 
+con<lb ed="#P" break="no" n="85"/>cupisces rem prozimi tui (ibid). Haec sunt
+<lb ed="#P" n="86"/>decem praecepta, pu: prime perfectionis viam,
+<lb ed="#P" n="87"/>et semitam pandunt directionis: Prima enim 
+per<lb ed="#P" break="no" n="88"/>fectio per bonam operationem hominem in 
+seip<lb ed="#P" break="no" n="89"/>80 dirigit. Secunda per charitatem proximi in 
+la<lb ed="#P" break="no" n="90"/>tum expandit. Tertia per charitatem Dei in 
+al<lb ed="#P" break="no" n="91"/>tum extollit, quia. denarius primse perfectionis
+<lb ed="#P" n="92"/>lineam porrigit. Centenarius secunde expandit
+<lb ed="#P" n="93"/>C latitudinem. Millenarius in altum. summam 
+tol<lb ed="#P" break="no" n="94"/>lit perfectionem. Haec autem in praesenti, de 
+ex<lb ed="#P" break="no" n="95"/>positione decem prieceptorum legis dicta sufficiant.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g25856-Dd1e1902">
+               <head xml:id="hsvhsv-g25856-Hd1e1904">Capitulum 9</head>
+               <head xml:id="hsvhsv-g25856-Hd1e1906" type="question-title">
+De mobilibus et superadditis praeceptis
+</head>
+               <p xml:id="hsvhsv-g25856-d1e1909">
+                  <lb ed="#P" n="96"/>Cap. IX. De mobilibus et superadditis praeceptis
+</p>
+               <p xml:id="hsvhsv-g25856-d1e1914">
+                  <lb ed="#P" n="97"/>Sequitur aliud genus praeceptorum quae 
+mobi<lb ed="#P" break="no" n="98"/>lia vocantur, quoniam naturalibus mandatis 
+se<lb ed="#P" break="no" n="99"/>cundum dispensationem ad tempus superaddita
+<lb ed="#P" n="100"/>sunt, sive pro exercitatione, sive significatione.
+<lb ed="#P" n="101"/>Pro exercitatione quidem ut plurima essent in
+<lb ed="#P" n="102"/>quibus erudiendorum obedientia probaretur, et
+<lb ed="#P" n="103"/>devotio excoleretur. Pro significatione autem ut.
+<lb ed="#P" n="104"/>in eis futurs veritatis signa praepararentur, et.
+<lb ed="#P" n="105"/>peripsa quae corporaliter agenda 
+premcipieban<lb ed="#P" break="no" n="106"/>tur, quae spiritualiter agenda vel credenda erant
+<lb ed="#P" n="107"/>demonstrarentur. Haec autem omnia de mediis
+<lb ed="#P" n="108"/>sumpta sunt ; haec est de iis quae in sua. natura,
+<lb ed="#P" n="109"/>nec ita bona erant ut inevitabiliter debuissent 
+fie<lb ed="#P" break="no" n="110"/>ri; necita mala ut omnino debuissent ex 
+necessita<lb ed="#P" break="no" n="111"/>tevitari. Omnia enim hac qui in hujusmodi 
+man<lb ed="#P" break="no" n="112"/>datis proposita sunt quantum ad suam naturam
+<lb ed="#P" n="113"/>talia fuerunt, qua pro arbitrio agentis sine culpa
+<lb ed="#P" n="114"/>possent fleri, et rursum sine culpa intermitti. 
+Ac<lb ed="#P" break="no" n="115"/>cedens autem mandatum hoc, quae per se media
+<lb ed="#P" n="116"/>erant et ad utrumlibet se habebant, sive 
+preci<lb ed="#P" break="no" n="117"/>piendo, sive prohibendo in alteram partem 
+de<lb ed="#P" break="no" n="118"/>flexit ; ita ut jam ea quae prohibita sunt sine 
+cul<lb ed="#P" break="no" n="119"/>pa non possint fleri, neque rursum ea quae 
+pre<lb ed="#P" break="no" n="120"/>cepta sunt, possint omnino sine culpa dimitti.
+<lb ed="#P" n="121"/>Quod tamen non natura rei facit: sed vis et 
+obe<lb ed="#P" break="no" n="122"/>dientia mandati. Prohibuit lex ne caro cum 
+san<lb ed="#P" break="no" n="123"/>guine comederetur ; non quia hoc quantum ad
+<lb ed="#P" n="124"/>naturam rei malum erat, sed quia malum erat,
+<!-- 099.png.txt -->
+<pb ed="#P" n="181"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>quod in isto significari debuerat. Quasi enim. 
+ca<lb ed="#P" break="no" n="2"/>ro cum sanguine editur, quando quis in opere 
+fu<lb ed="#P" break="no" n="3"/>roris et crudelitatis delectatur. Mandavit etiam
+<lb ed="#P" n="4"/>eadem lexa carne porcina abstinendum ; opera
+<lb ed="#P" n="5"/>scilicet immunditiae vitanda significans. Ad hunc
+<lb ed="#P" n="6"/>modum aliorum quoque animalium tam volucrum
+<lb ed="#P" n="7"/>quam piscium et eorum qua in terra versantur
+<lb ed="#P" n="8"/>quadam ab esu humano excepit. Et multa alia
+<lb ed="#P" n="9"/>qus prima conditio noxia non fecerat secunda
+<lb ed="#P" n="10"/>institutio per dispensationem quasi noxia vitare
+<lb ed="#P" n="11"/>mandavit. Erant autem quaedam alia de his 
+me<lb ed="#P" break="no" n="12"/>diis, quae lex scripta magis per concessionem 
+pro<lb ed="#P" break="no" n="13"/>posuit, quam per praeceptionem vel prohibitionem
+<lb ed="#P" n="14"/>quie fortassis per se mala fuissent, si concessa
+<lb ed="#P" n="15"/>non fuissent. Verbi gratia : Dicit lex ut si. quis
+<lb ed="#P" n="16"/>turpitudinem aliquam in sua uxore invenisset, et 
+<lb ed="#P" n="17"/>ob id illam odio haberet, scriberet ei libellum 
+re<lb ed="#P" break="no" n="18"/>pudii, et sic eam dimitteret (Deut. xxiv) ; quia
+<lb ed="#P" n="19"/>videlicet melius erat utodio habita secundum vo.
+<lb ed="#P" n="20"/>luntatem dimitteretur, quam contra. voluntatem.
+<lb ed="#P" n="21"/>retenta occideretur. Dictum est etiam in lege :
+<lb ed="#P" n="22"/>Juramentum tuum Deo offeras et Jurabis per 
+De<lb ed="#P" break="no" n="23"/>um (Deut. vt, x) ; non quia videlicet jurare 
+per<lb ed="#P" break="no" n="24"/>Deum bonum est, sed idcirco imperfectis 
+juramen<lb ed="#P" break="no" n="25"/>tum conceditur, ut facilius perjurium vitaretur.
+<lb ed="#P" n="26"/>Simul ut etiam nomen Dei venerari discerent, cum
+<lb ed="#P" n="27"/>illud frequentius in assertionem et testimonium
+<lb ed="#P" n="28"/>dictorum suorum acciperent, et non cogerentur
+<lb ed="#P" n="29"/>nomina falsorum deorum ad confirmanda 
+jura<lb ed="#P" break="no" n="30"/>menta sua assumere, quibus non solum 
+permis<lb ed="#P" break="no" n="31"/>sum sed praeceptum fuerat ; ita duntaxat si 
+cau<lb ed="#P" break="no" n="32"/>sa confirmande veritatis expostularet, nomen
+<lb ed="#P" n="33"/>Domini ad testimonium invocare. Simile erat et
+<lb ed="#P" n="34"/>hoc quod permissi sunt pro illata injuria, 
+talio<lb ed="#P" break="no" n="35"/>nem reddere, ne forte vehementiori furore 
+exar<lb ed="#P" break="no" n="36"/>descentes majora illatis conarentur mala referre.
+<lb ed="#P" n="37"/>multasunt alia genera praeceptorum quae in lege
+<lb ed="#P" n="38"/>scripta continentur, decentia quidem ad 
+exterio<lb ed="#P" break="no" n="39"/>rem conversationem, et simul apta ad spiritualem
+<lb ed="#P" n="40"/>significationem. In his ergo omnibus, illam quam
+<lb ed="#P" n="41"/>Apostolus posuit discretionem in elementis 
+exor<lb ed="#P" break="no" n="42"/>dii sermonis Dei significatam notamus. Sunt enim
+<lb ed="#P" n="43"/>tria hic : elementa, exordia, sermo. In elementis
+<lb ed="#P" n="44"/>sonus est, sed sensus non est unde nec exordium
+<lb ed="#P" n="45"/>dicuntur, quia sensus in eis non incipit. 
+Dictio<lb ed="#P" break="no" n="46"/>nes exordia sensuum sunt, unde et dictiones 
+vo<lb ed="#P" break="no" n="47"/>cantur quasi jam aliquid dicentes, et prime 
+par<lb ed="#P" break="no" n="48"/>tes orationis, quia principium intelligenti ab eis
+<lb ed="#P" n="49"/>oritur. In elementis ergo sonus est, et non sensüs;
+<lb ed="#P" n="50"/>in exordio sensus est, sed completus non est ; in
+<lb ed="#P" n="51"/>sermone sensus est, et perfectus. Vide tria hsc
+<lb ed="#P" n="52"/>in Scriptura Dei similia. Dixit Scriptura : Carnem
+<lb ed="#P" n="53"/>cum sanguine non comedetis (Levit. vi1 ; Deut.
+<lb ed="#P" n="54"/>xir) ; hoc est elementum. Subjunxit postea : Non
+<lb ed="#P" n="55"/>occides (Exod. xx), hoc est exordium. Postea
+<lb ed="#P" n="56"/>complevit etiam iram prohibens, hoc est sermo
+<lb ed="#P" n="57"/>(Matth. v). Item dixit carnem porcingm non 
+eden<lb ed="#P" break="no" n="58"/>dam ( Deut. x1v), in hoc fuit elementum. Addidit
+<lb ed="#P" n="59"/>post hoc: Non machaberis (Exod. xx), in hoc
+<lb ed="#P" n="60"/>fuit exordium. Novissime apposuit : Si quis 
+vi<lb ed="#P" break="no" n="61"/>derit mulierem ad concupiscendam eam, jam
+<lb ed="#P" n="62"/>machatus est in. corde suo (Matth. v), etc. In
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>hoc fuit sermonis completio. Precepta igitur ad
+<lb ed="#P" n="64"/>tempus, superaddita, elementa fuerunt. 
+Precep<lb ed="#P" break="no" n="65"/>ta decalogi, exordia. Precepta Novi Testamenti,
+<lb ed="#P" n="66"/>sermo. Prima ex institutione discipling ; 
+secun<lb ed="#P" break="no" n="67"/>da ex veritate nature ; tertia ex perfectione 
+gra<lb ed="#P" break="no" n="68"/>tize. Praecepta immobilia naturaliter priora sunt.
+<lb ed="#P" n="69"/>Precepta mobilia sicut dictum est, significatione
+<lb ed="#P" n="70"/>precedunt; quia in eis primum bonitas 
+forma<lb ed="#P" break="no" n="71"/>tur, quae postea in illis inchoatur ; et novissime -
+<lb ed="#P" n="72"/>per gratiam consummatur. De praeceptis 
+supe<lb ed="#P" break="no" n="73"/>radditis et mobilibus quaedam etiam nunc in 
+tem<lb ed="#P" break="no" n="74"/>pore gratim pro exercitatione retenta sunt, sicut
+<lb ed="#P" n="75"/>eat observantia jejuniorum ; et alia quaedam que
+<lb ed="#P" n="76"/>cum superioribus temporibus fuerunt instituta, .
+<lb ed="#P" n="77"/>pro inde tamen ad praesentium instructionem
+<lb ed="#P" n="78"/>eunt reservata ; et ea potissimum qui ad 
+spiri<lb ed="#P" break="no" n="79"/>tualis studii exercitationem spectant, tempore
+<lb ed="#P" n="80"/>gratiae reservantur : iis quae ad carnales 
+obser<lb ed="#P" break="no" n="81"/>vantias pertinebant abolitis.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g25856-Dd1e2162">
+               <head xml:id="hsvhsv-g25856-Hd1e2164">Capitulum 10</head>
+               <head xml:id="hsvhsv-g25856-Hd1e2166" type="question-title">
+Quod tria sunt genera sacramentorum in lege
+</head>
+               <p xml:id="hsvhsv-g25856-d1e2169">
+                  <lb ed="#P" n="82"/>Cap. X. Quod tria sunt genera sacramentorum in lege.
+</p>
+               <p xml:id="hsvhsv-g25856-d1e2174">
+                  <lb ed="#P" n="83"/>Tria genera sacramentorum inveniuntur fuisse
+<lb ed="#P" n="84"/>sub lege scripta, quaedam specialiter ad 
+reme<lb ed="#P" break="no" n="85"/>dium, quaedam vero ad obsequium, quaedam ad
+<lb ed="#P" n="86"/>cultum divinum. Prima pertinent ad peccatorum
+<lb ed="#P" n="87"/>remissionem ; secunda ad exercendam 
+devotio<lb ed="#P" break="no" n="88"/>nem ; tertia ad colendam pietatem.
+</p>
+               <p xml:id="hsvhsv-g25856-d1e2190">
+                  <lb ed="#P" n="89"/>Prima instituta fuerunt quasi ad necessitatem,
+<lb ed="#P" n="90"/>ut in eis homo sanctificaretur, qualis circumcisio
+<lb ed="#P" n="91"/>fuit, et hosti pro peccato et pro delicto et 
+cste<lb ed="#P" break="no" n="92"/>ra ; quaedam quae specialiter ad emundationem et
+<lb ed="#P" n="93"/>remiesionem instituta fuerunt.
+</p>
+               <p xml:id="hsvhsv-g25856-d1e2204">
+                  <lb ed="#P" n="94"/>Secunda autem quasi ad exercitationem fuerunt
+<lb ed="#P" n="95"/>proposita, ut in eis devotio fidelium exerceretur,
+<lb ed="#P" n="96"/>et meritum augeretur : quales fuerunt hosti; 
+pa<lb ed="#P" break="no" n="97"/>cificorum, quae offerebantur a fidelibus ad 
+recon<lb ed="#P" break="no" n="98"/>ciliandam sibi gratiam divinam.
+</p>
+               <p xml:id="hsvhsv-g25856-d1e2217">
+                  <lb ed="#P" n="99"/>Tertia instituta fuerunt quasi ad 
+preparatio<lb ed="#P" break="no" n="100"/>nem quamdam, ut quasi instrumenta quaedam 
+es<lb ed="#P" break="no" n="101"/>sent ad caetera sacramenta tractanda et 
+sanctifi<lb ed="#P" break="no" n="102"/>canda, quale fuit atrium et tabernaculum, et 
+om<lb ed="#P" break="no" n="103"/>nia utensilia quae continebantur in eis; nec non
+<lb ed="#P" n="104"/>et sacra indumenta ministrantium, et cetera 
+om<lb ed="#P" break="no" n="105"/>nia quae ad exornandum elementum divinum 
+fue<lb ed="#P" break="no" n="106"/>runt instituta. Item sacramenta alia fuerunt quae
+<lb ed="#P" n="107"/>sanctiflcabantur ad emundationem ; alia quae
+<lb ed="#P" n="108"/>tractabantur ad devotionem ; tertia quae 
+exerce<lb ed="#P" break="no" n="109"/>bantur ad venerationem. Prima necessitatis ; 
+se<lb ed="#P" break="no" n="110"/>cunda virtutis ; tertia laudationis. Prima 
+susci<lb ed="#P" break="no" n="111"/>piebantur ad sanctificationem ; secunda 
+tracta<lb ed="#P" break="no" n="112"/>bantur ad devotionem ; tertia exercebantur ad
+<lb ed="#P" n="113"/>laudationem. Iterum sacramenta alia erant in 
+re<lb ed="#P" break="no" n="114"/>bus quibusdam sanctificatis, alia in sacrificiis et
+<lb ed="#P" n="115"/>oblationibus, alia in ministeriis divinis. Sio res
+<lb ed="#P" n="116"/>eadem multis modis ad evidentiam distingul 
+po<lb ed="#P" break="no" n="117"/>test. Sacrificium dicebatur, quando de 
+animali<lb ed="#P" break="no" n="118"/>bus fiebat immolatio. Oblatio vero aliarum 
+qua<lb ed="#P" break="no" n="119"/>rumlibet rerum vocabatur. Sacrificiorum tria
+<lb ed="#P" n="120"/>sunt genera : alia enim sunt holocausta, alia 
+sim<lb ed="#P" break="no" n="121"/>plicia sacrificia, alia pacifica. Holocaustum 
+voca<lb ed="#P" break="no" n="122"/>batur quod vel ex debito, vel sponte oblatum 
+to<lb ed="#P" break="no" n="123"/>tum incendebatur. Sacrificium vocabatur quod
+<lb ed="#P" n="124"/>pro debito institutionis oblatum partim cremaba-
+<!-- 100.png.txt -->
+<pb ed="#P" n="182"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>tur partim reservabatur. Pacifica dicebantur quae 
+<lb ed="#P" n="2"/>sponte offerebantur, sive pro gratiarum actione,
+<lb ed="#P" n="3"/>sive pro praecedentis voti adimpletione, sive pro
+<lb ed="#P" n="4"/>voluntaria et spontanea devotione. Holocaustum
+<lb ed="#P" n="5"/>aliquando flebat de armentis, aliquando de 
+peco<lb ed="#P" break="no" n="6"/>ribus, aliquando de volatilibus. Oblatio aliquando
+<lb ed="#P" n="7"/>de simila fiebat, quae dicebatur sacrificium 
+cru<lb ed="#P" break="no" n="8"/>dum : aliquando de clibano, aliquando de 
+sarta<lb ed="#P" break="no" n="9"/>gine, aliquando de craticula, quod sacrificium
+<lb ed="#P" n="10"/>coctum vocabatur. Sacrificia alia pro peccato
+<lb ed="#P" n="11"/>erant : alia pro delecto ; pro peccato quidem, ut
+<lb ed="#P" n="12"/>peccatum expiaretur ; pro delicto, ut expiaretur
+<lb ed="#P" n="13"/>delictum. Peccatum est quando fit quod fieri non
+<lb ed="#P" n="14"/>debet ; delictum est quando non fit quod fleri 
+de<lb ed="#P" break="no" n="15"/>bet. Et in his quidem omnibus sacramenta cons-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="16"/>tabant. Sciendum vero quod haec omnia non 
+ta<lb ed="#P" break="no" n="17"/>lia sacramenta intelligere debemus, qualia 
+supe<lb ed="#P" break="no" n="18"/>rius sacramenta qui proprie sacramenta 
+dicun<lb ed="#P" break="no" n="19"/>tur, esse debere definivimus ; sed in his et 
+hujus<lb ed="#P" break="no" n="20"/>modi quaedam ob hoc solummodo sacramenta 
+vo<lb ed="#P" break="no" n="21"/>cata ; quia sacrarum rerum signa fuerunt. Sic
+<lb ed="#P" n="22"/>ergo aliud est sacramentum sanctificationem 
+si<lb ed="#P" break="no" n="23"/>gnificans ; tantum, et sanctificatione 
+sanctifi<lb ed="#P" break="no" n="24"/>cans; aliud non sanctificans, sed significans,
+<lb ed="#P" n="25"/>tantum. Et de sacramentis quidem scripta legis
+<lb ed="#P" n="26"/>hactenus dixisse sufficiat ; de promissionibus 
+ve<lb ed="#P" break="no" n="27"/>ro quas in tertia parte prime distinctionis 
+po<lb ed="#P" break="no" n="28"/>suimus ; tractarc propositi praesentis non fuit.
+<lb ed="#P" n="29"/>Sunt igitur tria quae lex scripta continebat: 
+prae<lb ed="#P" break="no" n="30"/>cepta, sacramenta, promissa.
+</p>
+               <p xml:id="hsvhsv-g25856-d1e2350">
+                  <cb ed="#P" n="c"/>
+                  <lb ed="#P" n="31"/>Explicit liber primus.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

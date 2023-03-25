@@ -1,0 +1,1783 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pars 13</title>
+            <author ref="#HughOfStVictor">Hugh of St. Victor</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Pars 13</title>
+               <date when="2023-03-25">March 25, 2023</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-bnhupl">Patrologia Latina, v. 176</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2023-03-25" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="263"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="hsvhsv-g51123"><!-- l2-p13 -->
+            <head xml:id="hsvhsv-g51123-Hd1e101">Pars 13</head>
+            <head xml:id="hsvhsv-g51123-Hd1e103" type="question-title">
+De vitis et virtutibus
+</head>
+            <p xml:id="hsvhsv-g51123-d1e106">
+<!-- 181.png.txt -->
+               <pb ed="#P" n="263"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>PARS TERTIA DECIMA.
+<lb ed="#P" n="2"/>DE VITIS ET VIRTUTIBUS.
+</p>
+            <div xml:id="hsvhsv-g51123-Dd1e119">
+               <head xml:id="hsvhsv-g51123-Hd1e121">Capitulum 1</head>
+               <head xml:id="hsvhsv-g51123-Hd1e123" type="question-title"/>
+               <p xml:id="hsvhsv-g51123-d1e125">
+                  <cb ed="#P" n="b"/>
+                  <lb ed="#P" n="3"/>Cap I. De vitiis et virtutibus, et operibus malis,
+</p>
+               <p xml:id="hsvhsv-g51123-d1e132">
+                  <lb ed="#P" n="4"/>Septem capitalia vitia sive principalia, sive 
+origi<lb ed="#P" break="no" n="5"/>nalia, sacra Scriptura commemorat, quae ideo 
+ca<lb ed="#P" break="no" n="6"/>pitalia vel principalia vel originaliadicuntur, quia
+<lb ed="#P" n="7"/>reliquorum omnium caput sunt et principium et
+<lb ed="#P" n="8"/>origo. Omnia quippe alia ab istis septem vitiis
+<lb ed="#P" n="9"/>oriuntur. Hoc autem interesse videtur inter 
+pec<lb ed="#P" break="no" n="10"/>cata et vitia, quod vitia sunt corruptiones animae,
+<lb ed="#P" n="11"/>ex quibussi ratione non refrenentur, peccata, idest
+<lb ed="#P" n="12"/>actus injustitie oriuntur. Quando autem tentanti
+<lb ed="#P" n="13"/>vitio consensus adhibetur actus injustiae est quod
+<lb ed="#P" n="14"/>peccatum dicitur. Itaque vitium est infirmitas spiri
+<lb ed="#P" n="15"/>tualis corruptionis, peccatum autem ex 
+corruptio<lb ed="#P" break="no" n="16"/>ne, oriensper consensum actusiniquitatis. Itaque
+<lb ed="#P" n="17"/>vitium absqueconsensu infirmitas est, cui in 
+quan<lb ed="#P" break="no" n="18"/>tum infirmitas est misericordiadebetur, praemium
+<lb ed="#P" n="19"/>autem et coronain quantumab actu iniquitatis 
+co<lb ed="#P" break="no" n="20"/>hibetur. Cum consensu vero vitium culpa fit, ubi in
+<lb ed="#P" n="21"/>quantum vitium est malum est, in quantum 
+vo<lb ed="#P" break="no" n="22"/>luntarium est poena dignum est. Vitium ergo est
+<lb ed="#P" n="23"/>in corruptione, peccatum autem inactione. Actus
+<lb ed="#P" n="24"/>vero peccati solo consensu perficitur, etiamsi 
+fo<lb ed="#P" break="no" n="25"/>ris opus non fuerit, quia quod iniquitatis est per
+<lb ed="#P" n="26"/>consensum pravum in sola voluntate 
+com<lb ed="#P" break="no" n="27"/>pletur, etiam tunc cum ab eo quod vult 
+perficien<lb ed="#P" break="no" n="28"/>do foris invita restringitur. Facitenim quod suum
+<lb ed="#P" n="29"/>est totum et quod amplius non facit suum non
+<lb ed="#P" n="30"/>est; nec ab ipsa est quod amplius non facit sed
+<lb ed="#P" n="31"/>contra ipsam. Ita in solo consensu opus 
+judica<lb ed="#P" break="no" n="32"/>tur; cui quidem id quod foris est opus tantum
+<lb ed="#P" n="33"/>in malitia adjicit quantum ipsum qui intus 
+opera<lb ed="#P" break="no" n="34"/>tur, motum voluntatis ad malitiam accendit. Sic
+<lb ed="#P" n="35"/>ergo vitia origo peccatorum sunt, ex quibus 
+nas<lb ed="#P" break="no" n="36"/>cuntur opera iniquitatis. Quae quidem, sicut 
+dic<lb ed="#P" break="no" n="37"/>tum est, absque consensu penam habent, quia
+<lb ed="#P" n="38"/>corruptio sunt, cum consensu autem culpam,
+<lb ed="#P" n="39"/>quia voluntaria sunt. Inquantum enim originalia
+<lb ed="#P" n="40"/>sunt, poena in ipsis exercetur. In quantum 
+volun<lb ed="#P" break="no" n="41"/>taria, pona ipsis debetur. Sunt autem hic: 
+pri<lb ed="#P" break="no" n="42"/>ma, superbia; secunda, invidia ; tertia ira; quarta,
+<lb ed="#P" n="43"/>acidia ; quinta, avaritia ; sexta, gula; septima,
+<lb ed="#P" n="44"/>luxuria. Ex iistria hominem exspoliant, quartum
+<lb ed="#P" n="45"/>flagellat spoliatum ; quintum flagellatum ejicit,
+<lb ed="#P" n="46"/>sextum ejectum seducit, septimum seductum 
+ser<lb ed="#P" break="no" n="47"/>vituti subjicit. Superbia aufert homini Deum, 
+in<lb ed="#P" break="no" n="48"/>vidia proximum, ira seipsum, acidia flagellat
+<lb ed="#P" n="49"/>spoliatum, avaritia flagellatum ejicit; gula 
+ejec<lb ed="#P" break="no" n="50"/>tum seducit, luxuria seductum servituti subjicit.
+<lb ed="#P" n="51"/>Anima rationalis in sanitate sua, vas est solidum
+<lb ed="#P" n="52"/>et integrum nullam habens corruptionem ; quam
+<lb ed="#P" n="53"/>vitia venientia in eam hoc modo vitiant et 
+corrum<lb ed="#P" break="no" n="54"/>punt: per superbiam inflatur, per invidiam 
+ares<lb ed="#P" break="no" n="55"/>cit, per iram crepat, per acidiam frangitur, per
+<lb ed="#P" n="56"/>avaritiam dispergitur, per gulam inficitur, per
+<cb ed="#P" n="c"/>
+                  <lb ed="#P" n="57"/>luxuriam concuicatur, et in lutum redigitur. 
+Su<lb ed="#P" break="no" n="58"/>perbia est amor proprisexcellentiz. Invidia odium.
+<lb ed="#P" n="59"/>felicitatis alien;. Ira irrationabilis perturbatio
+<lb ed="#P" n="60"/>mentis. Acidia est ex confusione mentis nata 
+tris<lb ed="#P" break="no" n="61"/>titia, sive teedium etamaritudo animi immoderata;
+<lb ed="#P" n="62"/>qua jucunditas spiritualis extinguitur; et 
+quo<lb ed="#P" break="no" n="63"/>dam desperationis principio mens in semetipsa
+<lb ed="#P" n="64"/>subvertitur. Avaritia est immoderatus appetitus
+<lb ed="#P" n="65"/>habendi. Gula estimmoderatus appetitus edendi,
+<lb ed="#P" n="66"/>Luxuria est concupiscentia explendae voluptatis
+<lb ed="#P" n="67"/>nimia, velconcubitus desiderium supra modum,
+<lb ed="#P" n="68"/>vel contra rationem effervens. Superbiae duo sunt
+<lb ed="#P" n="69"/>genera. Unum intus, alterum foris. Intus 
+super<lb ed="#P" break="no" n="70"/>bia est, foris jactantia. Superbia in elatione cor-.
+<lb ed="#P" n="71"/>dis ; jactantia in ostentatione operis. Superbiain
+<lb ed="#P" n="72"/>eo quod sibi placet, alienum testimonium despicit.
+<lb ed="#P" n="73"/>Jactantia autem ut magis sibi placeat, alienum
+<lb ed="#P" n="74"/>testimonium requirit. Propterea jactantia per
+<lb ed="#P" n="75"/>levitatem blandem se simulat, superbia vera in
+<lb ed="#P" n="76"/>tumore crudelem demonstrat. Superbia enim 
+ti<lb ed="#P" break="no" n="77"/>meri vult, jactantia amari; et utraque tamen in
+<lb ed="#P" n="78"/>eo quod appetit sibi placens perverse, diverso 
+li<lb ed="#P" break="no" n="79"/>tet modo inordinate convincitur gloriari. Si quis
+<lb ed="#P" n="80"/>igitur superbiam et jactantiam sub uno 
+compu<lb ed="#P" break="no" n="81"/>taverit membro, septem invenit vitia capitalia, de
+<lb ed="#P" n="82"/>quibus peccata omnia, actus iniquitatis et 
+injus<lb ed="#P" break="no" n="83"/>titie opera oriuntur. Peccata autem alia venialia,
+<lb ed="#P" n="84"/>alia criminalia dicuntur. Venialia sunt quae nec
+<lb ed="#P" n="85"/>facile vitari possunt, ut aliquando non flant, 
+ne<lb ed="#P" break="no" n="86"/>que multam turpitudinem vel l:sionem magnam
+<lb ed="#P" n="87"/>habentsi fiant. Criminalia dicuntur quae vel 
+le<lb ed="#P" break="no" n="88"/>Sionem magnam inducunt, vel turpitudinem 
+inge<lb ed="#P" break="no" n="89"/>runt in quibus vel Deus vel proximus multum
+<lb ed="#P" n="90"/>offenditur, vel iese qui facit maculatur. Talia
+<lb ed="#P" n="91"/>sunt homicidia, adulteria, perjuria, furta, etquae
+<lb ed="#P" n="92"/>iis similia adjunguntur, vel continentur in istis ;
+<lb ed="#P" n="93"/>sicut rapins sacrilegia, incestus, et cetera talia.
+<lb ed="#P" n="94"/>Venialia sunt sicut ira levis et transitoria, risus
+<lb ed="#P" n="95"/>et hujusmodi, quae sine deliberatione agentium
+<lb ed="#P" n="96"/>contingunt, sive ex negligentia incaute, sive 
+exin<lb ed="#P" break="no" n="97"/>firmitate praecipitanter.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g51123-Dd1e341">
+               <head xml:id="hsvhsv-g51123-Hd1e343">Capitulum 2</head>
+               <head xml:id="hsvhsv-g51123-Hd1e345" type="question-title"/>
+               <p xml:id="hsvhsv-g51123-d1e347">
+                  <lb ed="#P" n="98"/>Cap. II. De virtutibus et operibus bonis.
+</p>
+               <p xml:id="hsvhsv-g51123-d1e352">
+                  <lb ed="#P" n="99"/>Sicut superius diximus aliud esse vitium, atque
+<lb ed="#P" n="100"/>aliud peccatum quod ex ipso vitio procedit, 
+itain<lb ed="#P" break="no" n="101"/>telligimus aliud esse virtutes, atque aliud opera
+<lb ed="#P" n="102"/>justitime quae ex ipsis oriuntur. Virtus enim quasi
+<lb ed="#P" n="103"/>quiedam sanitas est et integritas animae 
+rationa<lb ed="#P" break="no" n="104"/>lis, cujus corruptio vitium vocatur. 
+Opusverojus<lb ed="#P" break="no" n="105"/>titie est in motu mentis rationalis, qui secundum
+<lb ed="#P" n="106"/>Deum incedit, à cordis conceptione surgens, et
+<lb ed="#P" n="107"/>foras usque ad actionis corporalis completionem
+<lb ed="#P" n="108"/>procedens. Virtutes in Scripturis plurime 
+nume<lb ed="#P" break="no" n="109"/>rantur, maxime vero quae in Evangelio, quasi
+<lb ed="#P" n="110"/>quidam antidota vel sanitate confe. esxNth
+<!-- 182.png.txt -->
+<pb ed="#P" n="264"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>tiorum corruptionem sub eodem numero 
+dispo<lb ed="#P" break="no" n="2"/>nuntur. Prima est humilitas, secunda 
+mansuetu<lb ed="#P" break="no" n="3"/>do, tertia mentis compunetio, quarta desiderium
+<lb ed="#P" n="4"/>justitiae, quinta misericordia, sexta cordis 
+mun<lb ed="#P" break="no" n="5"/>ditia; septima pax mentis interna. Homo igitur
+<lb ed="#P" n="6"/>in peccatis jacens zegrotus est, vitia sunt vulnera,
+<lb ed="#P" n="7"/>Deus medicus, dona Spiritus sancti antidota, 
+vir<lb ed="#P" break="no" n="8"/>tutes sanitates, beatitudines gaudia, per dona
+<lb ed="#P" n="9"/>enim Spiritus santi vitia sanantur. Sanitas 
+vitio<lb ed="#P" break="no" n="10"/>rum integritas est virtutum. Sanus operaiur, 
+ope<lb ed="#P" break="no" n="11"/>rans remuneratur. Sic post virtutes opera bona
+<lb ed="#P" n="12"/>sequuntur, et ex virtutibus opera ipsa oriuntur.
+<lb ed="#P" n="13"/>Sex opera misericordie in Evangelio (Matth. xxv),
+<lb ed="#P" n="14"/>specialiter a Domino enumerantur, in quibus 
+per<lb ed="#P" break="no" n="15"/>fectio bonorum operum significantur. Primum
+<lb ed="#P" n="16"/>est esurientem pascere, secundum sitientem 
+po<lb ed="#P" break="no" n="17"/>tare, tertium hospitem colligere, quartum nudum
+<lb ed="#P" n="18"/>vestire, quintum infirmum visitare, sextum ad
+<lb ed="#P" n="19"/>incarceratum et clausum venire. In iis enim 
+ne<lb ed="#P" break="no" n="20"/>cessitatibus omnis vite human: molestia vel
+<lb ed="#P" n="21"/>comprehenditur vel figaratur, in quibus quisquis
+<lb ed="#P" n="22"/>propter Deum proximo compatitur, misericordiam
+<lb ed="#P" n="23"/>a Deo in sua necessitate meretur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g51123-Dd1e439">
+               <head xml:id="hsvhsv-g51123-Hd1e441">Capitulum 3</head>
+               <head xml:id="hsvhsv-g51123-Hd1e443" type="question-title"/>
+               <p xml:id="hsvhsv-g51123-d1e445">
+                  <lb ed="#P" n="24"/>Cap. III. De timore et amore.
+</p>
+               <p xml:id="hsvhsv-g51123-d1e450">
+                  <lb ed="#P" n="25"/>Sane duo sunt motus cordis, quibus anima 
+ra<lb ed="#P" break="no" n="26"/>tionalis ad omne quod facit agendum impellitur.
+<lb ed="#P" n="27"/>Unusesttimor, alter amor. H:xc duo cum bona sunt.
+<lb ed="#P" n="28"/>omnebonum efficiunt. Per timorem enim mala 
+ca<lb ed="#P" break="no" n="29"/>ventur; per amorem bonaexercentur. Cum autem
+<lb ed="#P" n="30"/>mala sunt, omnium malorum initium et causa
+<lb ed="#P" n="31"/>existunt. Per timorem enim malum a bono 
+rece<lb ed="#P" break="no" n="32"/>ditur; per amorem vero malum mala 
+perpetran<lb ed="#P" break="no" n="33"/>tur. Sunt ergo duo haec quasi porteeduse, per quas
+<lb ed="#P" n="34"/>mors et vita ingrediuntur. Mors quidem quando
+<lb ed="#P" n="35"/>aperiuntur ad malum, vita autem quando ad 
+bo<lb ed="#P" break="no" n="36"/>num referantur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g51123-Dd1e480">
+               <head xml:id="hsvhsv-g51123-Hd1e482">Capitulum 4</head>
+               <head xml:id="hsvhsv-g51123-Hd1e484" type="question-title"/>
+               <p xml:id="hsvhsv-g51123-d1e486">
+                  <lb ed="#P" n="37"/>Cap. IV. Quid sit timor.
+</p>
+               <p xml:id="hsvhsv-g51123-d1e491">
+                  <lb ed="#P" n="38"/>Timor est effectus mentis quo movetur ut 
+su<lb ed="#P" break="no" n="39"/>periori cedat ; amore enim accedit, timore 
+rece<lb ed="#P" break="no" n="40"/>dit. Si in justitia perstitisset homo, ex voluntate
+<lb ed="#P" n="41"/>subjiceretur meliori. Nunc autem ex necessitate
+<lb ed="#P" n="42"/>fortiori subjicitur. Haec est poena illa timoris ex
+<lb ed="#P" n="43"/>qua servilis nominatur. Quando. qui voluntate
+<lb ed="#P" n="44"/>priusmeliori subjicinoluit, nune necessitate 
+for<lb ed="#P" break="no" n="45"/>tiorisubjicitur. Quam profecto poenam tunc 
+chari<lb ed="#P" break="no" n="46"/>tas foras mittit quando subjectionem voluntariam
+<lb ed="#P" n="47"/>facit. Quando magis crescit charitas, tanto magis
+<lb ed="#P" n="48"/>crescit voluntas ; quanto magis crescit voluntas,
+<lb ed="#P" n="49"/>tanto magis decrescit necessitas. Et jam perfecta
+<lb ed="#P" n="50"/>charitate amat ad reverentiam meliorem 
+volun<lb ed="#P" break="no" n="51"/>tarius ; non timet ad pcenam fortiorem invitus.
+<lb ed="#P" n="52"/>Quzrunt de Christo homine quomodo timorem
+<lb ed="#P" n="53"/>Domini habuerit. Sed facile est demonstrare 
+quo<lb ed="#P" break="no" n="54"/>modo voluntarie Patri in quantum ipsehomo erat
+<lb ed="#P" n="55"/>sibi superiori subjiciebatur, et spontanea 
+reve<lb ed="#P" break="no" n="56"/>rentia cedebat illi quem superiorem cognoscebat,
+<lb ed="#P" n="57"/>dicens : Pater major me est (Joan x1). Sicut 
+igi<lb ed="#P" break="no" n="58"/>tur amor cum sit motus mentis naturaliter unus
+<lb ed="#P" n="59"/>Secundum diversasqualitatesdiversa nomina 
+sor<lb ed="#P" break="no" n="60"/>titur; et dicitur aliquando cupiditas; quando
+<lb ed="#P" n="61"/>Scilicet ad mundum est, quando vero ad Deum
+<lb ed="#P" n="62"/>est charitas. Sic timor cum sit motus mentis na-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>turaliter unus, secundum diversos tamen modos
+<lb ed="#P" n="64"/>quibus habetur vel operatur, diversis nominibus
+<lb ed="#P" n="65"/>significatur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g51123-Dd1e557">
+               <head xml:id="hsvhsv-g51123-Hd1e559">Capitulum 5</head>
+               <head xml:id="hsvhsv-g51123-Hd1e561" type="question-title"/>
+               <p xml:id="hsvhsv-g51123-d1e563">
+                  <lb ed="#P" n="66"/>Cap. V. De quatuor timoribus.
+</p>
+               <p xml:id="hsvhsv-g51123-d1e568">
+                  <lb ed="#P" n="67"/>Quatuor sane timores sacra Scriptura discernit:
+<lb ed="#P" n="68"/>servilem mundanum, initialem, filialem. Servilis
+<lb ed="#P" n="69"/>timor est, pro evitanda poena abstinere a malo,
+<lb ed="#P" n="70"/>retenta voluntate mala. Mundanus timor est pro
+<lb ed="#P" n="71"/>evitanda poena abstinere a bono, retenta 
+volun<lb ed="#P" break="no" n="72"/>tate bona. Initialis timor est pro evitande posmna
+<lb ed="#P" n="73"/>cum perverso opereetiam pravas cogitationes 
+re<lb ed="#P" break="no" n="74"/>secare. Filialis timor est homo firmiter adherere
+<lb ed="#P" n="75"/>quia illud amittere nolis. Ex iis quatuor 
+timori<lb ed="#P" break="no" n="76"/>bus duo mali sunt id est servilis etmundanus;duo
+<lb ed="#P" n="77"/>boni, id est initialis et filialis. Servilis timor 
+poe<lb ed="#P" break="no" n="78"/>nam quae ab hominibus infertur metuit; et 
+id<lb ed="#P" break="no" n="79"/>circo et sufficit cessare a malo opere, quia ad 
+ocu<lb ed="#P" break="no" n="80"/>lum famulaturet reatum conscientiae non metuit,
+<lb ed="#P" n="81"/>hominibus placere volens. Mundanus viro timor
+<lb ed="#P" n="82"/>hominibus placere non quaerens tamen displicere
+<lb ed="#P" n="83"/>metuens ; et ipse fingit quod non est; tam 
+men<lb ed="#P" break="no" n="84"/>dax in neganda veritate, quam fallax alter in 
+fal<lb ed="#P" break="no" n="85"/>sitate tegenda. Et uterque in veritate offendit;
+<lb ed="#P" n="86"/>alter quia timide negat quod est ; alter quia 
+per<lb ed="#P" break="no" n="87"/>verse simulat quod nop est. Initialis vero timor
+<lb ed="#P" n="88"/>quia eam quam Deus comminatur ponam 
+decli<lb ed="#P" break="no" n="89"/>nare satagit, nequaquam sibi sufficere videt, ut
+<lb ed="#P" n="90"/>ab illicita se operatione contineat, quia ei qui cor
+<lb ed="#P" n="91"/>intuetur non est satis ad probationem si 
+inno<lb ed="#P" break="no" n="92"/>cens fuerit actio, nisi etiam ipsa cordis cogitatio
+<lb ed="#P" n="93"/>ante ejus oculos sincera atque impolluta appareat.
+<lb ed="#P" n="94"/>Quia ergo illi displicere metuit qui videt totum
+<lb ed="#P" n="95"/>ad perfectam innocentiam coram eo necesse esse
+<lb ed="#P" n="96"/>considerat ut emendet totum. Et ideo iste timor
+<lb ed="#P" n="97"/>initialis dicitur quia sub hoc per bonam 
+volunta<lb ed="#P" break="no" n="98"/>tem et virtus intium capit ; et vitium finem. 
+Nec<lb ed="#P" break="no" n="99"/>dum tamen perfectio est, quia dum aliud agitur,
+<lb ed="#P" n="100"/>et aliud intenditur, ipsum adhuc propter se 
+bo<lb ed="#P" break="no" n="101"/>num non amatur. Tunc accedit charitas; et 
+in<lb ed="#P" break="no" n="102"/>trat per timorem illum, qui dum monstrat quod
+<lb ed="#P" n="103"/>fugere debeamus, periculum quodammodo 
+ape<lb ed="#P" break="no" n="104"/>tere et deciderare facit presidium. Convertit 
+igi<lb ed="#P" break="no" n="105"/>tur cor ad Deum, ut quodammodo de ipso fugiat
+<lb ed="#P" n="106"/>ad ipsum ; hoc est, dum cavet habere iratum, 
+stu<lb ed="#P" break="no" n="107"/>deat habere propitium. Huncsequitur timor 
+fi<lb ed="#P" break="no" n="108"/>lialis qui ex succedente charitate nascitur, ut 
+ip<lb ed="#P" break="no" n="109"/>sum timere nihilaliud sit quam degustatum in
+<lb ed="#P" n="110"/>charitate bonum jam nolle amittere. Et hic 
+qui<lb ed="#P" break="no" n="111"/>dem timor aliquid poen adjunctum habet dum
+<lb ed="#P" n="112"/>inincerto ambulamus;et potestin utramque adhuc
+<lb ed="#P" n="113"/>partem declinare status vite mutabilis. Sed cum
+<lb ed="#P" n="114"/>mutabilites nulla erit, tunc nulla ex incerto 
+sus<lb ed="#P" break="no" n="115"/>picionis poena inerit. Et tunc timor quodammodo
+<lb ed="#P" n="116"/>sine timore erit, ubi et de stabilitate certi erimus;
+<lb ed="#P" n="117"/>et tamen reverentiam Creatori exhibere non 
+de<lb ed="#P" break="no" n="118"/>sistemus.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g51123-Dd1e684">
+               <head xml:id="hsvhsv-g51123-Hd1e686">Capitulum 6</head>
+               <head xml:id="hsvhsv-g51123-Hd1e688" type="question-title"/>
+               <p xml:id="hsvhsv-g51123-d1e690">
+                  <lb ed="#P" n="119"/>Cap. VI. De charitate.
+</p>
+               <p xml:id="hsvhsv-g51123-d1e695">
+                  <lb ed="#P" n="120"/>Geminam nobis sacra Scriptura charitatem
+<lb ed="#P" n="121"/>commendat ; Dei videlicet et proximi. Charitatem
+<lb ed="#P" n="122"/>Dei ut sic ipsum diligamus utin ipso gaudeamus.
+<lb ed="#P" n="123"/>Charitatem proximi ut sic ipsum diligamus, non
+<lb ed="#P" n="124"/>ut in ipso, sed ut cum ipso gaudeamus in Deo.
+<!-- 183.png.txt -->
+<pb ed="#P" n="265"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>Hoc est, ut Deum diligamus propter se ipsum ; 
+<lb ed="#P" n="2"/>proximum autem propter Deum. Deus autem 
+id<lb ed="#P" break="no" n="3"/>circo propter se ipsum diligendus est ; quia ipse
+<lb ed="#P" n="4"/>est bonum nostrum. Proximus autem ideo propter
+<lb ed="#P" n="5"/>Deum diligendus est, quia cum ipso in Deo est.
+<lb ed="#P" n="6"/>bonum nostrum. Illum diligimus ut ad ipsum 
+ve<lb ed="#P" break="no" n="7"/>niamus, et in ipso gaudeamus. Istum diligimus ut
+<lb ed="#P" n="8"/>cum ipso curramus, et cum ipso perveniamus.
+<lb ed="#P" n="9"/>Illum ut gaudium, istum ut gaudii socium ; illum.
+<lb ed="#P" n="10"/>ut requiem, istum ut requiei consortem. Quid est
+<lb ed="#P" n="11"/>Deum diligere? Habere velle. Quid est Deum 
+di<lb ed="#P" break="no" n="12"/>ligere propter seipsum ? Ideo diligere, ut habeas
+<lb ed="#P" n="13"/>ipsum. Quid est proximum diligere propter Deum?
+<lb ed="#P" n="14"/>Ideo diligere quia habet Deum. Sicut diligimus
+<lb ed="#P" n="15"/>hominem propter justitiam, id est quia habet
+<lb ed="#P" n="16"/>justitiam, et sicut diligimus hominem propter 
+sa<lb ed="#P" break="no" n="17"/>pientiam, id est quia habet sapientiam, sic 
+diligi<lb ed="#P" break="no" n="18"/>mus hominem propter Deum, id est quia habet
+<lb ed="#P" n="19"/>Deum; vel si forte nondum habet, quia habiturus
+<lb ed="#P" n="20"/>est eum ; vel ut habeat eum. Sic itaque propter
+<lb ed="#P" n="21"/>Deum hominem diligimus, quem utique propter
+<lb ed="#P" n="22"/>Deum non diligeremus, si Deum non diligeremus.
+<lb ed="#P" n="23"/>Quemadmodum cum hominem propter sapientiam
+<lb ed="#P" n="24"/>diligo, ideo diligo quia ipsam sapientiam diligo ;
+<lb ed="#P" n="25"/>quem profecto non diligerem, si sapientiam propter
+<lb ed="#P" n="26"/>quam ipsam diligo, non diligerem. Ita cum 
+proxi<lb ed="#P" break="no" n="27"/>mum propter Deum diligo. ideo diligo quia Deum
+<lb ed="#P" n="28"/>diligo, propter quem ipsum proximum diligo, quem
+<lb ed="#P" n="29"/>utique non diligerem si Deum propter quem ipsum
+<lb ed="#P" n="30"/>diligo, non diligerem. Sic igitur si bene diligo et
+<lb ed="#P" n="31"/>bonum diligo. Non enim bene diligo nisi cum
+<lb ed="#P" n="32"/>bonum diligo ; et cum bonum quod diligo non ob
+<lb ed="#P" n="33"/>aliud quam propter bonitatem diligo. Si ergo bene
+<lb ed="#P" n="34"/>diligo, sic diligo. Quomodo ? Amicum in Deo, et
+<lb ed="#P" n="35"/>inimicum propter Deum. Quid est amicum diligere
+<lb ed="#P" n="36"/>in Deo ? Ideo diligere quia Deum habet. Non in
+<lb ed="#P" n="37"/>divitiis suis, non in fortitudine sua, non in 
+pul<lb ed="#P" break="no" n="38"/>chritudine sua, sed in justitia sua, in sanctitate
+<lb ed="#P" n="39"/>sua, in bonitate sua. Illa enim etsi a Deo sunt,
+<lb ed="#P" n="40"/>extra Deum diligi possunt ; et sepe cum 
+diligun<lb ed="#P" break="no" n="41"/>tur avertunt et pervertunt mentem diligentium se,
+<lb ed="#P" n="42"/>ut Deum non diligant. Idcirco pro iis laudandus
+<lb ed="#P" n="43"/>est Deus ; quia cum dantur abipso dantur, et dona
+<lb ed="#P" n="44"/>ejus sunt ; sed in iis non est amandus proximus
+<lb ed="#P" n="45"/>quia virtus ejus non sunt, neque bonum faciunt
+<lb ed="#P" n="46"/>ista hominem, etiamsi abundaverint ; neque si
+<lb ed="#P" n="47"/>defuerint, malum. Bonitas autem bonum facit, et
+<lb ed="#P" n="48"/>justitia justum, et veritas verum. Et haec cum
+<lb ed="#P" n="49"/>adsunt adest Deus, quia Deus bonitas est, et 
+jus<lb ed="#P" break="no" n="50"/>titia, et veritas. Ideo in bonitate et justitia et 
+ve<lb ed="#P" break="no" n="51"/>ritate diligendus est homo. Et quando in iatis
+<lb ed="#P" n="52"/>diligitur, in Deo diligitur ; quia Deus bonitas est,
+<lb ed="#P" n="53"/>et justitia et veritas. Si ergo bonum diligimus et
+<lb ed="#P" n="54"/>bene diligimus, boni sumus. Non enim bonos
+<lb ed="#P" n="55"/>facit nisl dilectio bona et dilectio boni. Si autem
+<lb ed="#P" n="56"/>boni sumus nullos amicos habemus nisi bonos, et
+<lb ed="#P" n="57"/>nullos inimicos nisi malos : quia si boni sumus,
+<lb ed="#P" n="58"/>nihil praeter bonum diligimus, et nihil praeter
+<lb ed="#P" n="59"/>malum odimus. Si autem amicos bonos habemus,
+<lb ed="#P" n="60"/>et inimicos malos ; amicos quidem in bonitate sua
+<lb ed="#P" n="61"/>diligere debemus, id est ideo quia boni sunt. 
+Ini<lb ed="#P" break="no" n="62"/>micos autem quia in bonitate diligere non possu-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>mus, quia boni non sunt, tamen propterea 
+dili<lb ed="#P" break="no" n="64"/>gere debemus, ut bonitatem habeant et boni sint.
+<lb ed="#P" n="65"/>Et in iis omnibus non nisi bonitas diligitur,
+<lb ed="#P" n="66"/>quando nihil diligitur nisi propter bonitatem. 
+Si<lb ed="#P" break="no" n="67"/>mili modo cum Deus diligitur, propter se 
+diligi<lb ed="#P" break="no" n="68"/>tur quia ab alio non est, neque aliud ab ipso quod
+<lb ed="#P" n="69"/>diligitur inipso. Cum vero proximus diligitur, non
+<lb ed="#P" n="70"/>propter se diligitur, sed propter Deum. Alter, id
+<lb ed="#P" n="71"/>est amicus, quia Deum habet ; alter, id est 
+inimi<lb ed="#P" break="no" n="72"/>cus ut Deum habeat ; et in iis omnibus non nisi
+<lb ed="#P" n="73"/>Deus diligitur, quia aliud non est quam Deus,
+<lb ed="#P" n="74"/>quod et in illo diligitur quia est, et in isto 
+diligi<lb ed="#P" break="no" n="75"/>tur ut sit. Ergo cum Deus diligitur et proximus
+<lb ed="#P" n="76"/>diligitur, cum Deus diligitur, quare dixitScriptura
+<lb ed="#P" n="77"/>ut et Deum diligas et proximum ? Siin Deo Deum
+<lb ed="#P" n="78"/>B diligis, et in proximo Deum diligis, nec aliud in
+<lb ed="#P" n="79"/>proximo quam in Deo diligis, quare sunt duo
+<lb ed="#P" n="80"/>praecepta charitatis ? Si enim utrobique Deus
+<lb ed="#P" n="81"/>diligitur, in utroque unum impletur, nec opus
+<lb ed="#P" n="82"/>fuerat praeceptum geminari de opere uno. 
+Suffe<lb ed="#P" break="no" n="83"/>cerat si dixisset : Dilige Dominum Deum tuum
+<lb ed="#P" n="84"/>(Deut. v1 ; Matth. xxii). In hoc enim totum est.
+<lb ed="#P" n="85"/>Qui enim vere Deum diligit, ubique diligit. Si vere
+<lb ed="#P" n="86"/>diligitur, diligitur ubicunque invenitur. In seipso,
+<lb ed="#P" n="87"/>in proximo, intus et foris, et sursum et deorsum,
+<lb ed="#P" n="88"/>longe et prope. Si mel dulve est, dulcis est et 
+fa<lb ed="#P" break="no" n="89"/>vus. Si mel diligis, diligis et favum receptaculum
+<lb ed="#P" n="90"/>mellis. Sed cum mel diligitur, ideo diligitur quia.
+<lb ed="#P" n="91"/>dulce ipsum est. Cum vero favus diligitur, ideo
+<lb ed="#P" n="92"/>diligitur, quia dulcedo in ipso est. Mel propter
+<lb ed="#P" n="93"/>QC seipsum diligitur. Favus autem propter mel
+<lb ed="#P" n="94"/>diligitur ; et si forte videris favum non habentem
+<lb ed="#P" n="95"/>mel, vides receptacula ubi mel esse debuerat, et
+<lb ed="#P" n="96"/>dotes vacua esse ; et non placet tibi, quia arida
+<lb ed="#P" n="97"/>sunt, et cupis mel illic esse quod diligis ; etsi
+<lb ed="#P" n="98"/>venerit, amplius diligis. Ita dilige Dominum
+<lb ed="#P" n="99"/>Deum tuum, quia dulcedo est ipse, et bonitas et
+<lb ed="#P" n="100"/>veritas. Proximum autem tuum dilige (Matth.
+<lb ed="#P" n="101"/>xix, xxi), quia receptaculum est dulcedinis,
+<lb ed="#P" n="102"/>bonitatis et veritatis ; et si in eo inveneris quod
+<lb ed="#P" n="103"/>habere debet dulcedinem et bonitatem et 
+verita<lb ed="#P" break="no" n="104"/>tem, dilige in ipso illa et dilige ipsum propter
+<lb ed="#P" n="105"/>illa. Si autem vacuum inveneris bonis suis, dole,
+<lb ed="#P" n="106"/>quia receptaculum inane vides;et opta ut veniant
+<lb ed="#P" n="107"/>ad eum et intrent in eum bona sua, ut flat ipse
+<lb ed="#P" n="108"/>bonus habens bona sua, sine quibus bonus esse
+<lb ed="#P" n="109"/>non potest. Dilige ergo Deum quia bonitas est.
+<lb ed="#P" n="110"/>Dilige proximum quia ex bonitate bonus est ;
+<lb ed="#P" n="111"/>vel si bonus non est, ut sit bonus qui bonus esse
+<lb ed="#P" n="112"/>potest. Qui enim jam esse non possunt boni, 
+dili<lb ed="#P" break="no" n="113"/>gendi non sunt nec proximi sunt, sed alieni et
+<lb ed="#P" n="114"/>remoti et extranei. Non des, inquit, alienis 
+ho<lb ed="#P" break="no" n="115"/>norem tuum, et annos tuos crudeli, ne forte
+<lb ed="#P" n="116"/>impleantur extranei viribus tuis, et labores
+<lb ed="#P" n="117"/>tui sint in domo aliena (Prov. v). Isti ergo sunt
+<lb ed="#P" n="118"/>alieni et extranei nimis remoti et longe facti, 
+qui<lb ed="#P" break="no" n="119"/>bus amplius reditus non patet ad bonum, 
+demno<lb ed="#P" break="no" n="120"/>nes scilicet et homines maligni cum dz:monibus
+<lb ed="#P" n="121"/>damnati. Quid idcirco a nobis amplius diligendi
+<lb ed="#P" n="122"/>non sunt ; quia ab illo bono propter quod diligitur
+<lb ed="#P" n="123"/>omnis qui bene diligitur, irrecuperabiliter 
+cor<lb ed="#P" break="no" n="124"/>ruerunt. Nusquam nobis Scriptura dicit dsexessosn
+<!-- 184.png.txt -->
+<pb ed="#P" n="266"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>diligamus? neque illos homines qui jam cum 
+de<lb ed="#P" break="no" n="2"/>monibus damnati sunt. Illi enim proximi non
+<lb ed="#P" n="3"/>Bunt, sed remoti et alieni facti a nobis. Nos autem
+<lb ed="#P" n="4"/>proximos diligere debemus non alienos ; id est
+<lb ed="#P" n="5"/>homines non demones, et. illos homines qui vel
+<lb ed="#P" n="6"/>per bonitatem non recesserunt, vel per arbitrii
+<lb ed="#P" n="7"/>libertatem redire possunt. Non enim omnino longe
+<lb ed="#P" n="8"/>sunt ; qui etsi abierunt, adhuc redire possunt. Isti
+<lb ed="#P" n="9"/>sunt proximi, quos diligere debemus, vel in Deo
+<lb ed="#P" n="10"/>si non recesserunt, vel propter Deum si redire
+<lb ed="#P" n="11"/>possunt. Quos quando diligimus, vel in eis Deum
+<lb ed="#P" n="12"/>diligimus et optamus cum quod non sunt boni
+<lb ed="#P" n="13"/>esse possint. Propter hoc duo sunt praecepta 
+cha<lb ed="#P" break="no" n="14"/>ritatis ; Dei videlicet et proximi, ut per charitatem
+<lb ed="#P" n="15"/>Dei ipsum bonum diligas ; per charitatem proximi
+<lb ed="#P" n="16"/>bonum quod diligis proximo non invideas. Poteras \\ 
+<lb ed="#P" n="17"/>aliquid diligere, et proximo non diligere ; poteras
+<lb ed="#P" n="18"/>aliquid velle habere, tamen non velle ut illud 
+ha<lb ed="#P" break="no" n="19"/>beret proximus tuus ; in Deo tamen non poteras.
+<lb ed="#P" n="20"/>Non enim poteras diligere Deum nisi diligeres
+<lb ed="#P" n="21"/>proximum tuum ; quia cum invidia et odio Deus
+<lb ed="#P" n="22"/>diligi non potest, tamen quia in aliis rebus hoc
+<lb ed="#P" n="23"/>facere poteras, ut aliquid velles et proximo tuo
+<lb ed="#P" n="24"/>non velles, distinctum est, ut utrumque tibi 
+fa<lb ed="#P" break="no" n="25"/>ciendum esse intelligas, quamvis tamen alterum
+<lb ed="#P" n="26"/>Bine altero facere non possis. Quamvis simul sint,
+<lb ed="#P" n="27"/>tamen duo sunt dilectio Dei et proximi, neque
+<lb ed="#P" n="28"/>ideo debuerunt in prsceptione confundi, quamvis
+<lb ed="#P" n="29"/>non possint in actione separari. Duo igitur sunt
+<lb ed="#P" n="30"/>praecepta charitatis : unum quo Deum diligere
+<lb ed="#P" n="31"/>praecipimur, alterum quo proximum amare 
+ju<lb ed="#P" break="no" n="32"/>bemur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g51123-Dd1e1062">
+               <head xml:id="hsvhsv-g51123-Hd1e1064">Capitulum 7</head>
+               <head xml:id="hsvhsv-g51123-Hd1e1066" type="question-title"/>
+               <p xml:id="hsvhsv-g51123-d1e1068">
+                  <lb ed="#P" n="33"/>Cap. VII. Quare non sunt tria pracepta charitatis.
+</p>
+               <p xml:id="hsvhsv-g51123-d1e1073">
+                  <lb ed="#P" n="34"/>Sed dicis : Quare tria data non sunt praecepta
+<lb ed="#P" n="35"/>charitatis, ut similiter diligat homo seipsum, sicut
+<lb ed="#P" n="36"/>diligere jubetur Deum et proximum ? Sed 
+consi<lb ed="#P" break="no" n="37"/>dera, quod superfluum foret ut illud fieri 
+jubere<lb ed="#P" break="no" n="38"/>tur, ad quod faciendum sic homo pronus fuerat
+<lb ed="#P" n="39"/>ex se, ut illud aut non posset aut non vellet 
+dimit<lb ed="#P" break="no" n="40"/>tere etsi prohiberetur. Non igitur praecipiendum
+<lb ed="#P" n="41"/>homini erat ut se diligeret ; sed timendum vel
+<lb ed="#P" n="42"/>cavendum magis erat ne nimis diligeret. Hoc 
+si<lb ed="#P" break="no" n="43"/>quidem nature insitum erat, ut se odire non
+<lb ed="#P" n="44"/>posset ; secundum quam, nemo carnem suam
+<lb ed="#P" n="45"/>odio habuit (Ephes. v) ; cujus commodum qui
+<lb ed="#P" n="46"/>nature insitus est appetitus inseparabiliter 
+dili<lb ed="#P" break="no" n="47"/>git, et quod adversum est illi, semper detestatur
+<lb ed="#P" n="48"/>et fugit. Tamen quia quaestio aliqua esse videtur
+<lb ed="#P" n="49"/>quare praeceptum non est homini ut diligat 
+seip<lb ed="#P" break="no" n="50"/>sum, sicut mandatum est, ut diligat Deum et
+<lb ed="#P" n="51"/>proximum suum ; considerare nos oportet, si forte
+<lb ed="#P" n="52"/>in his duobus mandatis in quibus de dilectione
+<lb ed="#P" n="53"/>Dei et proximi agitur, ad etiam quod ad 
+diligen<lb ed="#P" break="no" n="54"/>dum se homini vel praecipiendum vel faciendum
+<lb ed="#P" n="55"/>est contineantur. Duo in homine sunt : anima et
+<lb ed="#P" n="56"/>corpus, spiritus et caro. Utrumque Deus fecit et
+<lb ed="#P" n="57"/>utrumque homo a Deo accepit. Quod autem a Deo
+<lb ed="#P" n="58"/>est, totum bonum est, et quod bonum est, totum.
+<lb ed="#P" n="59"/>diligendum est. Itaque diligere debet homo totum
+<lb ed="#P" n="60"/>quod a Deo bonum a Deo accepit ; quia bonitati
+<lb ed="#P" n="61"/>ingratus esset, si quod ab ipsa est bonum non
+<lb ed="#P" n="62"/>diligeret. Bene ergo facit cum diligit corpus suum;
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>ita tamen si bene diligat, id est si in eo diligat in
+<lb ed="#P" n="64"/>quo diligendum est. Similiter cum diligit animam
+<lb ed="#P" n="65"/>suam benefacit. Et melius facit cum diligit 
+ani<lb ed="#P" break="no" n="66"/>mam suam, quam facit cum diligit carnem suam;
+<lb ed="#P" n="67"/>et tanto melius, quanto melior est anima quam
+<lb ed="#P" n="68"/>caro. Itaque in utroque benefacit, cum utrumque
+<lb ed="#P" n="69"/>bene diligit. Corpus quippe diligendum est ad
+<lb ed="#P" n="70"/>necessitatem, anima vero diligenda ad bonitatem.
+<lb ed="#P" n="71"/>Cap. diligenda est ut contra corruptionem 
+fovea<lb ed="#P" break="no" n="72"/>tur ; anima diligenda est ut contra iniquitatem
+<lb ed="#P" n="73"/>custodiatur. Tamen si necessitas alterius 
+incide<lb ed="#P" break="no" n="74"/>rit ; et alterum pati necesse sit, melius est ut caro
+<lb ed="#P" n="75"/>sustineat corruptionem, quam anima faciat 
+iniqui<lb ed="#P" break="no" n="76"/>tatem. Utrumque ergo diligendum est, sed tamen
+<lb ed="#P" n="77"/>magis illud quod melius est, quamvis autem
+<lb ed="#P" n="78"/>utrumque esset diligendum, non tamen utrumque
+<lb ed="#P" n="79"/>ut diligeretur praecipiendum erat. Nam quia per
+<lb ed="#P" n="80"/>nature affectum carnis sue amor sufficienter
+<lb ed="#P" n="81"/>homini inerat, non erat praecepto provocandug, ut
+<lb ed="#P" n="82"/>illum haberet, sed admonitione potius 
+temperan<lb ed="#P" break="no" n="83"/>dus ne nimis haberet, Carnis, inquit Apostolus,
+<lb ed="#P" n="84"/>curam ne feceritis in. desideriis (Rom. xu).
+<lb ed="#P" n="85"/>Carnem quippe suam homo ante peccatum per
+<lb ed="#P" n="86"/>affectum nature dilexit ad necessitatem ; post
+<lb ed="#P" n="87"/>peccatum autem per vitium concupiscentie jam
+<lb ed="#P" n="88"/>nunc diligere consuevit ad superfluitatem, et 
+id<lb ed="#P" break="no" n="89"/>circo in hac parte praecepto non eget, ubi per se
+<lb ed="#P" n="90"/>voluntarius est etiam si non moneatur, sed 
+pro<lb ed="#P" break="no" n="91"/>hibitione potius et comminatione ne in praeceps
+<lb ed="#P" n="92"/>eat si non teneatur. Sic ergo dilectio carnis in 
+pre<lb ed="#P" break="no" n="93"/>cepto ponenda non fuit, de qua constabat quia
+<lb ed="#P" n="94"/>satis haberetur, etiamsi non prwciperetur. De
+<lb ed="#P" n="95"/>dilectione vero animae quzri potest utrum in
+<lb ed="#P" n="96"/>mandato constituta sit ; et si hoc mandatum est
+<lb ed="#P" n="97"/>homini ut diligat animam suam, utrum hoc 
+man<lb ed="#P" break="no" n="98"/>datum aliud ab illis duobus mandatis quae supra
+<lb ed="#P" n="99"/>distincta sunt in dilectione Dei et proximi 
+intel<lb ed="#P" break="no" n="100"/>ligendum sit, aut idem cum illis. Quid est autem
+<lb ed="#P" n="101"/>animam diligere, nisi bonum ejus amare ; sicut
+<lb ed="#P" n="102"/>enim carnem suam amare dicitur qui bonum
+<lb ed="#P" n="103"/>illius amat et commodum appetit ; et odisse qui
+<lb ed="#P" n="104"/>ea quae adversa illi sunt et noxia aut studiose
+<lb ed="#P" n="105"/>agit aut voluntarie sustinet, ita quoque animam
+<lb ed="#P" n="106"/>suam amare dicitur, qui amat ea quiae bona illi
+<lb ed="#P" n="107"/>sunt et salubria ; et quae ad bonum illius 
+coope<lb ed="#P" break="no" n="108"/>rantur et saluti proficiunt. Qui autem quae illi
+<lb ed="#P" n="109"/>nocent amat, non illam amat. Qui diligitinquit,
+<lb ed="#P" n="110"/>iniquitatem, odit animam suam (Psal. x).
+<lb ed="#P" n="111"/>Amas livores, et percussuras et vulnera, et dicis
+<lb ed="#P" n="112"/>amo carnem meam, qualis amor?Tu illam ledere
+<lb ed="#P" n="113"/>et affligere non cessas, etamare te dicis. Si amas
+<lb ed="#P" n="114"/>illam, ama bonum illius. Si amas illam benefac
+<lb ed="#P" n="115"/>illi si potes, opta si non potes. Hoc est amare
+<lb ed="#P" n="116"/>benefacere et bonum velle. Qui persequitur odit,
+<lb ed="#P" n="117"/>qui fovet diligit. Si me diligere vis, sic me dilige;
+<lb ed="#P" n="118"/>alioquin si amicos persequeris, inimicos foves,
+<lb ed="#P" n="119"/>malo te hostem habere quam familiarem. Nos
+<lb ed="#P" n="120"/>amorem vocamus cum bonum diligitur, 
+commo<lb ed="#P" break="no" n="121"/>dum optatur, salus quaeritur. Qui hoc facit 
+dili<lb ed="#P" break="no" n="122"/>git. Si autem hoc est amare, ille profecto animam
+<lb ed="#P" n="123"/>suam dilígit, qui bonum illius diligit, et quod 
+bo<lb ed="#P" break="no" n="124"/>num illi est diligit. Quid est autem aliud bonum
+<!-- 185.png.txt -->
+<pb ed="#P" n="267"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>animae rationalis quam Deus ? Si ergo verum 
+bo<lb ed="#P" break="no" n="2"/>num animae Deus est, ille utique animam suam
+<lb ed="#P" n="3"/>diligitqui Deum diligit, quia anim; suse bonum
+<lb ed="#P" n="4"/>diligit. Quid enim putasti tibi dictum fuisse
+<lb ed="#P" n="5"/>quando tibi dictum est ut Deum diligas ? 
+Fortas<lb ed="#P" break="no" n="6"/>sia existimabas tibi dici, ut Deum tuum diligas
+<lb ed="#P" n="7"/>Sicut diligis vicinum tuum, cognatum tuum,
+<lb ed="#P" n="8"/>amicum vel proximum. Quomodo enim illum 
+di<lb ed="#P" break="no" n="9"/>ligis, nisi quia bonum cupis illi ; et optas et facis
+<lb ed="#P" n="10"/>si potes, et facis quantum potes si diligis quantum
+<lb ed="#P" n="11"/>potes. Tantum enim facis quantum diligis.
+<lb ed="#P" n="12"/>Si tantum potes quantum diligis, tantum
+<lb ed="#P" n="13"/>facis quantum diligis. Si autem minus potes, facis
+<lb ed="#P" n="14"/>tamen quantum potes. Si vero plus potes et minus
+<lb ed="#P" n="15"/>diligis, quantum diligis tantum facis. Quid igitur?
+<lb ed="#P" n="16"/>Ita putas tibi juberi ut Deum tuum diligas, ut
+<lb ed="#P" n="17"/>facias vel cupias illi bonum, et non potius ut 
+cu<lb ed="#P" break="no" n="18"/>pias illum bonum ? Non illum amas ad bonum
+<lb ed="#P" n="19"/>suum, sed amas illum ad bonum tuum, et amas
+<lb ed="#P" n="20"/>illum bonum tuum. Neque enim sic illum amas
+<lb ed="#P" n="21"/>ad bonum tuum, ut ab illo sit bonum tuum, et
+<lb ed="#P" n="22"/>non ille sit bonum tuum. Itaque amas illum ad
+<lb ed="#P" n="23"/>bonum tuum, ut ipse quem amas sit bonum tuum.
+<lb ed="#P" n="24"/>Si enim illum amare vis ad bonum suum, quid
+<lb ed="#P" n="25"/>illi boni dare potes quod tu habeas et ipse non
+<lb ed="#P" n="26"/>habeat, qui totum quod habes ab ipso habes ?
+<lb ed="#P" n="27"/>Oblitus es illi dicere : Deus meus es tuquoniam
+<lb ed="#P" n="28"/>bonorum meorum non eges (Psal. xv). Quid
+<lb ed="#P" n="29"/>ergo illi dabis qui totum habet quod tu habes, et
+<lb ed="#P" n="30"/>plus habet quam tu habes ? Tu pauper es, ille
+<lb ed="#P" n="31"/>dives est. In hoc mundo pauperes dant divitibus,
+<lb ed="#P" n="32"/>et qui plus habent accipere possuut a minus 
+ha<lb ed="#P" break="no" n="33"/>bentibus quod non habent, hi enim qui ditiores
+<lb ed="#P" n="34"/>sunt plus habent, qui tamen totum non habent
+<lb ed="#P" n="35"/>accipere possunt quod non habent. Deus tuus
+<lb ed="#P" n="36"/>alias divitias possidet. Quod tu minus habes ille
+<lb ed="#P" n="37"/>plus habet, et quod aliquid habes ille totum 
+ha<lb ed="#P" break="no" n="38"/>bet. Quomodo ergo illum amas ? Quid illi dabis ?
+<lb ed="#P" n="39"/>Sed dicis:Quamvis dare non possum, tamen optare
+<lb ed="#P" n="40"/>possum. Cupio ut illi bonum eveniat. Possibilitas
+<lb ed="#P" n="41"/>quidem mea parva et exigua est ad illum, affectus
+<lb ed="#P" n="42"/>autem et amor dives in illum. Quod facere non
+<lb ed="#P" n="43"/>possum, velle possum. Facerem quidem si possem,
+<lb ed="#P" n="44"/>Bed quia non possum, facio quod possum. Quid
+<lb ed="#P" n="45"/>facis ? Amo Deum meum. Quomodo amas? Cupio,
+<lb ed="#P" n="46"/>inquis, bonum illi. Quod bonum illi cupere potes, p
+<lb ed="#P" n="47"/>qui extra illum bonum invenire non potes? Deus
+<lb ed="#P" n="48"/>summum bonum est, et in ipso omne bonum est,
+<lb ed="#P" n="49"/>et omne bonum ipse est. Quid cupis illi qui totum
+<lb ed="#P" n="50"/>habet, totum possidet ? Bono bonum optas, 
+jue<lb ed="#P" break="no" n="51"/>titiae rectum, sapientie sensum, perfectioni 
+incre<lb ed="#P" break="no" n="52"/>mentum ? Supervacua pietate moveris. Miserere
+<lb ed="#P" n="53"/>potius tui. Ille satis habet. Tu illum qui optimus
+<lb ed="#P" n="54"/>est meliorem facere vis ? Cum ergo Deum diligis
+<lb ed="#P" n="55"/>tibi diligis, et bonum tuum est quod diligis, et ad
+<lb ed="#P" n="56"/>bonum tuum diligis, quia bonum tuum ipse est.
+<lb ed="#P" n="57"/>quem diligis. Cum diligis justitiam cui diligis ?
+<lb ed="#P" n="58"/>Illi an tibi ? Cum sapientiam diligis, cum 
+verita<lb ed="#P" break="no" n="59"/>tem et bonitatem diligis, cui diligis ? Illis an tibi ?
+<lb ed="#P" n="60"/>Tpsum lumen quod jucundum et delectabile oculis
+<lb ed="#P" n="61"/>est cum diligis, cui diligis ? Ipsis an tibi ? Sic est
+<lb ed="#P" n="62"/>Deus tuus. Cum diligis eum, intellige quod bo-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>num tuum ipse est. Quid est diligere nisi concu
+<lb ed="#P" n="64"/>piscere et habere velle et possidere et frui ? Si
+<lb ed="#P" n="65"/>non habetur, velle habere ; si habetur, velle 
+reti<lb ed="#P" break="no" n="66"/>nere, quamvis verum bonum nunquam diligi
+<lb ed="#P" n="67"/>possit, nisi cum habetur ; nec haberi nisi cum 
+di<lb ed="#P" break="no" n="68"/>ligitur. Bona ista quae foris sunt sepe amantur,
+<lb ed="#P" n="69"/>cum non habentur ; et cum habentur 
+nonnun<lb ed="#P" break="no" n="70"/>quam despiciuntur. Non tale est bonum quod
+<lb ed="#P" n="71"/>Deus est. Si amatur, habetur ; si diligitur, 
+gusta<lb ed="#P" break="no" n="72"/>tur : presens est dilectioni. Si potes diligere,
+<lb ed="#P" n="73"/>potes habere. Si hoc das, hoc recipis. Non aliud
+<lb ed="#P" n="74"/>pro illo quaeritur, nec pro alio aliud datur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g51123-Dd1e1445">
+               <head xml:id="hsvhsv-g51123-Hd1e1447">Capitulum 8</head>
+               <head xml:id="hsvhsv-g51123-Hd1e1449" type="question-title"/>
+               <p xml:id="hsvhsv-g51123-d1e1451">
+                  <lb ed="#P" n="75"/>Cap. VIII. Quod pure et gratis amat qui Deum
+<lb ed="#P" n="76"/>propter se amat.
+</p>
+               <p xml:id="hsvhsv-g51123-d1e1458">
+                  <lb ed="#P" n="77"/>Sed forte mercenarius eris si diligis Deum et
+<lb ed="#P" n="78"/>servis eiut premium ab illo accipias. Dicunt hoc
+<lb ed="#P" n="79"/>stulti quidam, et tam stulti ut seipsos non 
+intel<lb ed="#P" break="no" n="80"/>ligant. Diligimus Deum et servimus illi; sed non
+<lb ed="#P" n="81"/>quirimus premium, ne mercenarii simus ; etiam
+<lb ed="#P" n="82"/>ipsum non quzrimus. Dabit si voluerit, sed nos
+<lb ed="#P" n="83"/>non quizrimus. In tantum enim excutimus manus
+<lb ed="#P" n="84"/>ab omni munere, ut etiam ipsum non queramus
+<lb ed="#P" n="85"/>quem diligimus. Pura enim et gratuita et filiali
+<lb ed="#P" n="86"/>dilectione diligimus, nihil quzrimus. Ipse cogitet
+<lb ed="#P" n="87"/>8i quid dare voluerit, nos nihil requirimus. 
+Dili<lb ed="#P" break="no" n="88"/>gimus ipsum sed non quaerimus aliquid, etiam
+<lb ed="#P" n="89"/>ipsum non quaerimus quem diligimus. Audite
+<lb ed="#P" n="90"/>homines sapientes. Diligimus, inquiunt, ipsum,
+<lb ed="#P" n="91"/>sed non quierimus ipsum. Hoc est dicere 
+diligi<lb ed="#P" break="no" n="92"/>mus ipsum, sed non curamus de ipso. Ego homo
+<lb ed="#P" n="93"/>sic diligi nollem a vobis. Si me sic diligeretis ut.
+<lb ed="#P" n="94"/>de me non curaretis, ego de vestra dilectione non
+<lb ed="#P" n="95"/>curarem. Vos videritis si dignum est ut Deo 
+offe<lb ed="#P" break="no" n="96"/>ratis, quod homo digne respueret. Quomodo
+<lb ed="#P" n="97"/>inquiunt, mercenarii non sumus si Deum propter
+<lb ed="#P" n="98"/>hoc diligimus ut premium ab eo accipiamus. Non
+<lb ed="#P" n="99"/>est gratis hoc amare, neque amor iste filialis ; sed
+<lb ed="#P" n="100"/>mercenarii et servi, qui pretium quaerit pro 
+ser<lb ed="#P" break="no" n="101"/>vitute sua. Qui hoc dicunt virtutem dilectionis
+<lb ed="#P" n="102"/>non intelligunt. Quid est enim diligere nisi ipsum.
+<lb ed="#P" n="103"/>velle habere? Non aliud ab ipso sed ipsum, hoc
+<lb ed="#P" n="104"/>est gratis. Si aliud quareres ab ipso, gratis non
+<lb ed="#P" n="105"/>amares. Nunc autem non aliud queris pro eo
+<lb ed="#P" n="106"/>quod amas, et tamen aliquid quieris et desideras
+<lb ed="#P" n="107"/>in eoipse quod amas. Alioquin non amares si
+<lb ed="#P" n="108"/>non desiderares. Sed aliud est pro ipso, aliud in
+<lb ed="#P" n="109"/>ipso. Si pro ipso aliquid amas, mercenarius ; ai in
+<lb ed="#P" n="110"/>ipso amas et ipsum amas, filius es ; etiam si
+<lb ed="#P" n="111"/>vitam sternam aliud aliquid esse cogitaveris, et
+<lb ed="#P" n="112"/>diversum abipso bono quod Deus est, et pro
+<lb ed="#P" n="113"/>ipso adipiscendo tantum servieris, non est, pura
+<lb ed="#P" n="114"/>servitus, neque dilectio gratuita. Filii illi 
+Zebe<lb ed="#P" break="no" n="115"/>diei qui concessum dextre et sinistre petierunt
+<lb ed="#P" n="116"/>in regno ejus, quiddam aliud cogitaverunt 
+alie<lb ed="#P" break="no" n="117"/>num et diversum a bono isto ; et pro eo 
+adipis<lb ed="#P" break="no" n="118"/>cendo aliquandiu illi adheeserunt, donec increpati
+<lb ed="#P" n="119"/>et mutati veritatem cognoverunt, et intentionem
+<lb ed="#P" n="120"/>correxerunt. Putaverunt enim quod Deo 
+servien<lb ed="#P" break="no" n="121"/>dum esset pro eo quod ipse non esset ; quia non
+<lb ed="#P" n="122"/>intellexerunt ipsum esse bonum, quod solum
+<lb ed="#P" n="123"/>amandum est propter seipsum ; et quidquid
+<lb ed="#P" n="124"/>amandum est prester ipsum amandum est otov.
+<!-- 186.png.txt -->
+<pb ed="#P" n="268"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>ipsum. Quod quidem tanto amatur felicius quanto 
+<lb ed="#P" n="2"/>ardentius. Qui hoc amat, seipsum amat, quia
+<lb ed="#P" n="3"/>bonum suum amat ; et vere amat, quia verum
+<lb ed="#P" n="4"/>bonum amat. Propterea Scriptura non dixit tibi
+<lb ed="#P" n="5"/>teipsum diligas, ne forte errares et putares 
+indul<lb ed="#P" break="no" n="6"/>gendum tibi et studendum iis quae foris sunt
+<lb ed="#P" n="7"/>commoda et carnitus suavia, et existimares
+<lb ed="#P" n="8"/>quodsic te diligere deberes, et occasionem sumeres
+<lb ed="#P" n="9"/>a Scriptura ut solam carnem tuam foveres et 
+ani<lb ed="#P" break="no" n="10"/>mam tuam negligeres ; propter hoc non dixit tibi
+<lb ed="#P" n="11"/>ut teipsum diligas, ne hoc intelligeres, ubi 
+ma<lb ed="#P" break="no" n="12"/>gis diligeres, et hoc negligeres, ubi periculosius
+<lb ed="#P" n="13"/>deperires. Non ergo tibi dixit, ut teipsum diligas,
+<lb ed="#P" n="14"/>nec tamen omnino tacuit, cum dixit ut Deum
+<lb ed="#P" n="15"/>tuum diligas. Cum enim diligis Deum tuum, 
+dili<lb ed="#P" break="no" n="16"/>gis bonum tuum, et melius bonum et melioris 
+<lb ed="#P" n="17"/>bonum. Etcum diligisbonum tuum diligis teipsum,
+<lb ed="#P" n="18"/>qui bonum ipsius diligis, et quod bonum est illi
+</p>
+            </div>
+            <div xml:id="hsvhsv-g51123-Dd1e1612">
+               <head xml:id="hsvhsv-g51123-Hd1e1614">Capitulum 9</head>
+               <head xml:id="hsvhsv-g51123-Hd1e1616" type="question-title"/>
+               <p xml:id="hsvhsv-g51123-d1e1618">
+                  <lb ed="#P" n="19"/>Cap. IX. De mensura diligendi Deum.
+</p>
+               <p xml:id="hsvhsv-g51123-d1e1623">
+                  <lb ed="#P" n="20"/>Quantum autem diligere debeamus bonum 
+nos<lb ed="#P" break="no" n="21"/>trum quod Deus est, Scriptura nobis manifestat,
+<lb ed="#P" n="22"/>cum dicit : Diliges Dominum Deum tuum ex
+<lb ed="#P" n="23"/>toto corde tuo, et ex tota mente tua, et tota
+<lb ed="#P" n="24"/>anima tua (Matth.. xxi). Quasi diceret : Non
+<lb ed="#P" n="25"/>tibi praecipio ut tantum diligas, sed vel tantum
+<lb ed="#P" n="26"/>diligas Deum tuum ; quantum potes, tantum 
+di<lb ed="#P" break="no" n="27"/>lige. Possibilitas tua erit mensura tua. Quanto
+<lb ed="#P" n="28"/>plus amas, tanto plus habes. Et quanto plus
+<lb ed="#P" n="29"/>habes, tanto felicior es. Extendere ergo et dilatare
+<lb ed="#P" n="30"/>quantum potes, ut totum impleatur quod in te 
+<lb ed="#P" n="31"/>est, etiamsi non totum capiatur quod in illo est.
+<lb ed="#P" n="32"/>Noli timere quasi tibi deficere debeat ille si 
+ni<lb ed="#P" break="no" n="33"/>mis capax fueris. Quantumcunque poteris, 
+nun<lb ed="#P" break="no" n="34"/>quam tantum poteris quantum ille est. Si tantum
+<lb ed="#P" n="35"/>posses, tantus esses. Nunc autem crescere in illo
+<lb ed="#P" n="36"/>potes, quare illum non potes. Cresce ergo et
+<lb ed="#P" n="37"/>profice. Quanto major in bono eris, tanto melior
+<lb ed="#P" n="38"/>eris. Si summus esses, optimus esses. Nunc quia
+<lb ed="#P" n="39"/>summous esse non potes, potes esse in summo. Et
+<lb ed="#P" n="40"/>magnum tibi hoc est, et ex hoc tu magnus es, si
+<lb ed="#P" n="41"/>in summo'es ; et tanto utique major quanto 
+al<lb ed="#P" break="no" n="42"/>tior. Ascendis autem cum diligis. Sursum pergis
+<lb ed="#P" n="43"/>in charitate, quia charitas sursum ducit, sicut
+<lb ed="#P" n="44"/>8it Apostolus : Adhuc excellentiorem vobis viam
+<lb ed="#P" n="45"/>demonstro (I Cor. x1). Ascende ergo dum potes.
+<lb ed="#P" n="46"/>Modo tempus est crescendi et perficiendi. Postea
+<lb ed="#P" n="47"/>cum consummabuntur omnia, stabis in eo ad
+<lb ed="#P" n="48"/>quod perveneris, et erit hoc summum tuum in
+<lb ed="#P" n="49"/>illo supra quod non transies amplius. Sed 
+sum<lb ed="#P" break="no" n="50"/>mum illius non erit in quo propterea consistas
+<lb ed="#P" n="51"/>quasi non invenias amplius quo crescas. Idcirco
+<lb ed="#P" n="52"/>ascende dum potes quantum potest, nunquam
+<lb ed="#P" n="53"/>nimis potes ubi nunquam potes totum tuum ex
+<lb ed="#P" n="54"/>toto corde tuo et ex tota anima tua, et ex tota
+<lb ed="#P" n="55"/>mente tua, ut ex illo totum tuum impleatur,
+<lb ed="#P" n="56"/>etiamsi a tuo totum illius non capiatur. Totum
+<lb ed="#P" n="57"/>replet in te, et superabundat in se. Si vas non
+<lb ed="#P" n="58"/>deficit, oleum sufficit. Cor tuum vas est, amor
+<lb ed="#P" n="59"/>illus oleum est. Quandiu vas habes, ille oleum.
+<lb ed="#P" n="60"/>infundere non ceseat, et postea cum tu amplius
+<lb ed="#P" n="61"/>vas non habes, ille adhuc amplius oleum habet.
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="62"/>Propterea noli parcere illi, cape quantum potes,
+<lb ed="#P" n="63"/>dilige quantum sufficis, quia ille non deficit. Dilige
+<lb ed="#P" n="64"/>ex toto corde tuo et ex tota anima tua et ex tota
+<lb ed="#P" n="65"/>mente tua, id est ex toto itellectu tuo, et ex toto
+<lb ed="#P" n="66"/>affectu tuo, et ex tota memoria tua, quantum 
+in<lb ed="#P" break="no" n="67"/>telligis, quantum sapis, quantum sufficis tantum
+<lb ed="#P" n="68"/>dilige. Totum cognitione impleatur, totum 
+dilec<lb ed="#P" break="no" n="69"/>tione afficiatur, totum memoria teneatur. Quantum
+<lb ed="#P" n="70"/>illuminaris, tantum afficiaris, ut totum dulce sit
+<lb ed="#P" n="71"/>quidquid de illo in cognitionem et memoriam 
+ve<lb ed="#P" break="no" n="72"/>nit. Si totum recte probatur, cur non totum 
+dili<lb ed="#P" break="no" n="73"/>gatur ? Quantum ergo innotescere dignatur nobis
+<lb ed="#P" n="74"/>totum diligatur a nobis. Totum quod capere 
+pos<lb ed="#P" break="no" n="75"/>sumus diligamus, et quantum possumus.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g51123-Dd1e1750">
+               <head xml:id="hsvhsv-g51123-Hd1e1752">Capitulum 10</head>
+               <head xml:id="hsvhsv-g51123-Hd1e1754" type="question-title"/>
+               <p xml:id="hsvhsv-g51123-d1e1756">
+                  <lb ed="#P" n="76"/>Cap. X. De mensura diligendi proximum.
+</p>
+               <p xml:id="hsvhsv-g51123-d1e1761">
+                  <lb ed="#P" n="77"/>De dilectione proximi dici nobis Scriptura :
+<lb ed="#P" n="78"/>Dilige proximum tuum sicut teipsum (Matth.
+<lb ed="#P" n="79"/>xxir; Levit. xix). Quod mandatum tunc profecto
+<lb ed="#P" n="80"/>implemus, si veraciter id quod nobis cupimus 
+bo<lb ed="#P" break="no" n="81"/>num, etiam illi cupiamus. In quibus enim 
+nosme<lb ed="#P" break="no" n="82"/>tipsos recte diligimus, proximum nostrum sive
+<lb ed="#P" n="83"/>ad necessitatem corporis sive ad animre salutem,
+<lb ed="#P" n="84"/>sine fictione diligere et quantum rationabiliter
+<lb ed="#P" n="85"/>possumus adjuvare debemus. Quaerunt autem 
+ali<lb ed="#P" break="no" n="86"/>qui si id quod dictum est, et sicut teipsum, 
+secun<lb ed="#P" break="no" n="87"/>dum similitudinem tantum, an etiam secundum
+<lb ed="#P" n="88"/>sequalitatem intelligendum sit. Nam si proximos
+<lb ed="#P" n="89"/>nostros tantum diligere jubemur quantum 
+nos<lb ed="#P" break="no" n="90"/>metipsos, videtur quoddam scrupulosum inde
+<lb ed="#P" n="91"/>oriri quod non leviter explicare possumus. Ecce
+<lb ed="#P" n="92"/>duo sunt quorum alterum perire necesse sit. 
+Da<lb ed="#P" break="no" n="93"/>tur uni optio, quod velit eligat e duobus quorum
+<lb ed="#P" n="94"/>alterum omnino evitari non possit. Si suam 
+salu<lb ed="#P" break="no" n="95"/>tem magis eligit, minus proximum diligit. Si 
+pro<lb ed="#P" break="no" n="96"/>ximi salutem magis eligit : Deum minus diligit
+<lb ed="#P" n="97"/>quam proximum a quo separari propter proximum
+<lb ed="#P" n="98"/>vult. Sed forte dicat quis parem dilectionem 
+fa<lb ed="#P" break="no" n="99"/>cere non posse electionem. Utrumque squaliter
+<lb ed="#P" n="100"/>velle et utrumque sequaliter nolle, nec posse 
+alte<lb ed="#P" break="no" n="101"/>rum alteri praeferre in optione, quae paria omnino
+<lb ed="#P" n="102"/>constant in dilectione. Sic ergo forte quis hanc
+<lb ed="#P" n="103"/>objectionem evitare contendat. Sed quid dicimus?
+<lb ed="#P" n="104"/>Si unum aliquem hominem tantum diligere 
+de<lb ed="#P" break="no" n="105"/>beo quantum meipsum, nonne duos aut tres aut
+<lb ed="#P" n="106"/>quatuor amplius diligere debeo quam meipsum ?
+<lb ed="#P" n="107"/>Sic vadunt questiones hominum, et inquietant
+<lb ed="#P" n="108"/>homines semetipsos cogitationibus suis. Dicunt
+<lb ed="#P" n="109"/>enim : Quod melius est amplius diligendum est ;
+<lb ed="#P" n="110"/>ponamus tres homines, unum hinc, duos inde.
+<lb ed="#P" n="111"/>Dico quia perire necesse est aut unum istum, aut
+<lb ed="#P" n="112"/>duos istos. Dic ergo tu mihi quid eligis, qui 
+pro<lb ed="#P" break="no" n="113"/>ximum tuum tanquam teipsum diligis?Melius est
+<lb ed="#P" n="114"/>perire unum quam duos, quia melius est salvari
+<lb ed="#P" n="115"/>duos quam unum. Ideo, inquis, magis eligo ut
+<lb ed="#P" n="116"/>pereat unus et duo salventur. Ergo vis ut magis
+<lb ed="#P" n="117"/>salventur duo illi, quain iste unus; nonne ergo
+<lb ed="#P" n="118"/>magis diligis illud quod potius eligis ? Ita inquis
+<lb ed="#P" n="119"/>omnino, magis diligo. Vide ergo quid sequatur.
+<lb ed="#P" n="120"/>Superius confessus es quod tantum diligis, vel si
+<lb ed="#P" n="121"/>non diligis tantum diligeredebes proximum tuum,
+<lb ed="#P" n="122"/>quantum teipsum. Si ergo tantum diligis unum
+<lb ed="#P" n="123"/>istum quantum teipsum, et rursum duos illos
+<!-- 187.png.txt -->
+<pb ed="#P" n="269"/>
+                  <cb ed="#P" n="a"/>
+                  <!-- left side clipped -->
+                  <lb ed="#P" n="1"/>iligis quam unum istum, plus utique duos 
+<lb ed="#P" n="2"/>lligis quam teipsum. Et si illos plus dili
+<lb ed="#P" n="3"/>teipsum, quantum videtur plus illos diligis
+<lb ed="#P" n="4"/>Deum propter quos separari vis a Deo, ut
+<lb ed="#P" n="5"/>non habeas neque Deum diligas et pareas,
+<lb ed="#P" n="6"/>salvi fiant. Et fortassis aliquis existimabit
+<lb ed="#P" n="7"/>5di dilectionem habuisse Moysen, qui 
+iras<lb ed="#P" break="no" n="8"/>Jeo pro salute proximorum se opponens,
+<lb ed="#P" n="9"/>1 non dimittis eis hanc noxam, dele me
+<lb ed="#P" n="10"/>ro quem scripsisti (Exod. xxxi). Et 
+Apos<lb ed="#P" break="no" n="11"/>rofratribusanathema esse cupita Christo
+<lb ed="#P" n="12"/>1x), ut illi salvi flant in Christo. Et fortasse
+<lb ed="#P" n="13"/>hocaliquis ad amorem Dei pertinere credat,
+<lb ed="#P" n="14"/>m tantum diligamus, in gloriam ejus in
+<lb ed="#P" n="15"/>potius amplificari quam in nobis 
+coarc<lb ed="#P" break="no" n="16"/>ipiamus. Et propterea pro salute multorum
+<lb ed="#P" n="17"/>m nobis perditionem optamdam, ut potius
+<lb ed="#P" n="18"/>salventur et nos pereamus, quam multi 
+pe<lb ed="#P" break="no" n="19"/>et nos salvemur. Sed considerate quoniam
+<lb ed="#P" n="20"/>onis ordo talis non est, ut ante se diligat
+<lb ed="#P" n="21"/>proximum suum cujus dilectionem a sua.
+<lb ed="#P" n="22"/>e et formare jubetur, cum dicitur : Diliges
+<lb ed="#P" n="23"/>num tuumsicutteipsum. Si enim proximum
+<lb ed="#P" n="24"/>Sicut seipsum diligit, quomodo proximum
+<lb ed="#P" n="25"/>cumseipsum non diligit? Si enim proximum
+<lb ed="#P" n="26"/>diligit sicut seipsum, profecto hoc illi cupit
+<lb ed="#P" n="27"/>at quod sibi. Si autem hoc illi evenire 
+desi<lb ed="#P" break="no" n="28"/>quod sibi, quomodo illius salutem 
+deside<lb ed="#P" break="no" n="29"/>ii sui perditionem optat? Itaque seipsum
+<lb ed="#P" n="30"/>m bene diligere debet, ut postea secundum
+<lb ed="#P" n="31"/>se diligat et proximum suum. Si autem se (; 
+<lb ed="#P" n="32"/>*e vult, ut salvum faciat proximum suum,
+<lb ed="#P" n="33"/>st ordinata dilectio, quia nullam 
+commuta<lb ed="#P" break="no" n="34"/>1 dare potest homo pro anima sua. Hoc
+<lb ed="#P" n="35"/>2rimum requirit a teDeus. ut animam tuam
+<lb ed="#P" n="36"/>i, deinde caetera adjicias. Si quid pro isto
+<lb ed="#P" n="37"/>'olueris, non accipitur nisi dederis et istud.
+<lb ed="#P" n="38"/>3m istud, reliqua cum isto. Non itaque dico
+<lb ed="#P" n="39"/>ut tres aut quatuor homines, sed nec totum
+<lb ed="#P" n="40"/>um contra animam tuam diligere debes. Si
+<lb ed="#P" n="41"/>aliquid plus quam animam tuam diligis,
+<lb ed="#P" n="42"/>psum profecto plus quam Deum deligere
+<lb ed="#P" n="43"/>Obaris; quia animam tuam non diligis nisi
+<lb ed="#P" n="44"/>solo quod bonum illius quod Deus est
+<lb ed="#P" n="45"/>. Idcirco primum dilige animam tuam, 
+di<lb ed="#P" break="no" n="46"/>0 bonum animae tu:e. Deinde dilige etiam
+<lb ed="#P" n="47"/>num tuum sicut teipsum diligendo illi 
+bo<lb ed="#P" break="no" n="48"/>uod diligis tibi. Hoc est enim illum diligere,
+<lb ed="#P" n="49"/>1ili diligere. Nam bonum illius diligere
+<lb ed="#P" n="50"/>; etiamsi illi non diligeres. Posses enim tibi
+<lb ed="#P" n="51"/>*e aut alteri cuilibet et non illi; et ita illum
+<lb ed="#P" n="52"/>iligeres, quamvis bonum diligeres, quia illi
+<lb ed="#P" n="53"/>iligeres. Posses diligere equum illius, 
+vesti<lb ed="#P" break="no" n="54"/>im, domum et agrum, pecuniam, 
+fortitudi<lb ed="#P" break="no" n="55"/>pulchritudinem, aut sapientia illius, 
+quam<lb ed="#P" break="no" n="56"/>um non diligeres, quia tibi diligeres nón
+<lb ed="#P" n="57"/>a bonum illius tibi diligere poteras, et 
+ta<lb ed="#P" break="no" n="58"/>Jlum non diligere, quia tibi diligeres non
+<lb ed="#P" n="59"/>amen verum bonum non poteras tibi 
+dili<lb ed="#P" break="no" n="60"/>nisi illud diligeres et cuperes proximo tuo.
+<lb ed="#P" n="61"/>ixit ergo Scriptura dilectionem istam 
+secun<lb ed="#P" break="no" n="62"/>llam quae in aliis et de aliis est dilectionem;
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>primum praecipiens homini ut Deum diligat, 
+in<lb ed="#P" break="no" n="64"/>tendens utique ut in eo ipso seipsum diligat, quia
+<lb ed="#P" n="65"/>diligere seipsum non aliud estquam bonum suum
+<lb ed="#P" n="66"/>diligere, etbonum suum diligerenonest aliud quam.
+<lb ed="#P" n="67"/>sibi diligere; hoc est, velle illud et desiderare. Quia
+<lb ed="#P" n="68"/>enim omnis qui bonum suum diligit, sibi diligit et
+<lb ed="#P" n="69"/>rursum quia omnis qui Deum diligit bonum suum
+<lb ed="#P" n="70"/>diligit, constat profecto quia nemo Deum diligit
+<lb ed="#P" n="71"/>qui sibi illum non diligit. Et omnis qui diligit, 
+si<lb ed="#P" break="no" n="72"/>bi diligit; quia desiderat et habere cupit quem 
+di<lb ed="#P" break="no" n="73"/>ligit. Item quia non omnis qui bonum alterius
+<lb ed="#P" n="74"/>diligit, illum diligit cujus bonum diligit; quia non
+<lb ed="#P" n="75"/>illi diligit bonum quod diligit. Distinxit Scriptura
+<lb ed="#P" n="76"/>humans menti, secundum ea quae in humanis 
+di<lb ed="#P" break="no" n="77"/>visa aliquoties inveniuntur, id quod divina 
+inse<lb ed="#P" break="no" n="78"/>parabile habent, dicens homini, ut postquam 
+di<lb ed="#P" break="no" n="79"/>ligeret Deum, diligeret et proximum suum, non
+<lb ed="#P" n="80"/>quod illud sine isto facere posset; sed ne posse
+<lb ed="#P" n="81"/>putaret. Primum ergo dixit ut Deum diligeret; ot
+<lb ed="#P" n="82"/>in eo ipso dixit ut sibi diligeret, quia omnis qui
+<lb ed="#P" n="83"/>bonum suum diligit, sibi diligit. Quia vero non
+<lb ed="#P" n="84"/>omnis qui bonum alterius diligit illi diligit cujus
+<lb ed="#P" n="85"/>bouum diligit ; post dilectionem Dei statim 
+sub<lb ed="#P" break="no" n="86"/>junxit dilectionem proximi, ut hic homo proximo
+<lb ed="#P" n="87"/>suo cuperet diligendo illum, quod sibi diligendo
+<lb ed="#P" n="88"/>Deum. Nemo igitur existimet pro eo quod dictum
+<lb ed="#P" n="89"/>est: Dilige proximum tuum sicut teipsum, 
+quem<lb ed="#P" break="no" n="90"/>libet unum hominem se diligere debere quantum
+<lb ed="#P" n="91"/>8e, et duos, aut tres, aut quatuor, plus quamse. Si
+<lb ed="#P" n="92"/>enim tantum se diligit quantum bonum suum 
+dili<lb ed="#P" break="no" n="93"/>git, et tantum bonum suum diligit, quantum diligit
+<lb ed="#P" n="94"/>Deum, consequens erat ut tantum diligeret 
+pro<lb ed="#P" break="no" n="95"/>ximum quantum Deum, ai eum tantum diligeret
+<lb ed="#P" n="96"/>quantum seipsum. Propterea non illi dicitur ut
+<lb ed="#P" n="97"/>illum tantum diligat, sed ut in eo in quo se 
+dili<lb ed="#P" break="no" n="98"/>ligit, illum diligat; et quod sibi cupit, illi cupiat.
+<lb ed="#P" n="99"/>Hoc est enim diligere sicut seipsum, cupere illi et.
+<lb ed="#P" n="100"/>optare quod sibi optat, et cupit bonum, primum
+<lb ed="#P" n="101"/>quidem sibi, deinde illi. Non enim amat illum 
+si<lb ed="#P" break="no" n="102"/>cut se, nisi prius amet se. Et in corporalibus 
+qui<lb ed="#P" break="no" n="103"/>dem bonis quae in tantum aliquando coarctantur,
+<lb ed="#P" n="104"/>ut quod ab uno solo possidetur, ad alterius usum
+<lb ed="#P" n="105"/>transire non possit, nisi ab eo a quo possidetur
+<lb ed="#P" n="106"/>totum recesserit; si gratuita charitate et propter
+<lb ed="#P" n="107"/>spiritualis boni amplorum remunerationem aut
+<lb ed="#P" n="108"/>dilectionem homo se supra debitum non extollat,
+<lb ed="#P" n="109"/>nihil proximo impendere cogitur, quod sine 
+neces<lb ed="#P" break="no" n="110"/>sitate debetur. Nihil enim proximo debet nisi post.
+<lb ed="#P" n="111"/>illud et secundum illud quod sibi debet. Et 
+idcir<lb ed="#P" break="no" n="112"/>cocum utrumque non potest, primum faciat, quod
+<lb ed="#P" n="113"/>primum faciendum est. De reliquo enim ai deest
+<lb ed="#P" n="114"/>effectus, sufficit affectus. Et fortassis propter hunc
+<lb ed="#P" n="115"/>affectum ostendendum, Moyses de libro scripto
+<lb ed="#P" n="116"/>deleri petiit, et Paulus pro fratribus anathema a
+<lb ed="#P" n="117"/>Christo fleri concupivit, non quia Deum propter
+<lb ed="#P" n="118"/>hominem perdere vellent; sed quia Deum, sí fleri
+<lb ed="#P" n="119"/>posset, sine proximo quem diligebant possidere
+<lb ed="#P" n="120"/>vellent. Affectus enim loquebatur, et quasi de 
+di<lb ed="#P" break="no" n="121"/>lectione securus amato et amanti in dulcedine
+<lb ed="#P" n="122"/>dilectionis deseparatione comminabatur; non quia
+<lb ed="#P" n="123"/>illius separationem diligebat, sed quia 
+alteriuscow<lb ed="#P" break="no" n="124"/>junctionem optabat. In eo autem quod proximi bo-
+<!-- 188.png.txt -->
+<pb ed="#P" n="270"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>num amat et proximo bonum amat, bonum suum
+<lb ed="#P" n="2"/>amat et sibi amat, quia bonum sibi est bonum
+<lb ed="#P" n="3"/>proximi sui; si amat illud, et cupit illud illi, quod
+<lb ed="#P" n="4"/>bonum est illi. Verum enim bonum cum invidia
+<lb ed="#P" n="5"/>non possidetur, et cum charitate felicius 
+posside<lb ed="#P" break="no" n="6"/>tur. Sed dicis : Quod majus bonum est, magis 
+di<lb ed="#P" break="no" n="7"/>ligendum est; majus autem bonum est duos 
+sal<lb ed="#P" break="no" n="8"/>vari quam unum : qua propter si optio data fuerit.
+<lb ed="#P" n="9"/>quod malim, ego eligere debeo ut multi salventur
+<lb ed="#P" n="10"/>quam ego solus. Hic ergo non attendis quod 
+ma<lb ed="#P" break="no" n="11"/>jus bonum mihi est, ut salvus fiam ego solus et
+<lb ed="#P" n="12"/>plures pereant, quam ut peream ego solus et multi
+<lb ed="#P" n="13"/>salventur. Quod autem majus bonum mihi est, a
+<lb ed="#P" n="14"/>me plus diligendum est, quia mihi primum 
+insi<lb ed="#P" break="no" n="15"/>tum est ut diligam bonum meum, illud maxime,
+<lb ed="#P" n="16"/>quod verum est bonum; et post illud et secundum
+<lb ed="#P" n="17"/>illud diligam bonum proximi mei. Secundum me
+<lb ed="#P" n="18"/>et post me, aliquid illi debeo, ante me vel contra
+<lb ed="#P" n="19"/>me nihil. Alioquin non staret : Diliges proximum
+<lb ed="#P" n="20"/>tuum sicut teipsum, si illum diligerem odio 
+ha<lb ed="#P" break="no" n="21"/>bens meipsum. Secundum hunc itaque modum
+<lb ed="#P" n="22"/>nonnisi duo sunt praecepta charitatis. Primum de
+<lb ed="#P" n="23"/>dilectione Dei, in quo homo veraciter diligit 
+seip<lb ed="#P" break="no" n="24"/>sum; secundum de dilectione promixi, in quo
+<lb ed="#P" n="25"/>proximum diligit sicut seipsum.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g51123-Dd1e2206">
+               <head xml:id="hsvhsv-g51123-Hd1e2208">Capitulum 11</head>
+               <head xml:id="hsvhsv-g51123-Hd1e2210" type="question-title"/>
+               <p xml:id="hsvhsv-g51123-d1e2212">
+                  <lb ed="#P" n="26"/>Cap. XI. Utrum charitas semel habita amittatur.
+</p>
+               <p xml:id="hsvhsv-g51123-d1e2217">
+                  <lb ed="#P" n="27"/>Quidam de charitate tam multa dicere volunt,
+<lb ed="#P" n="28"/>ut charitatem laudare incipiant contra veritatem;
+<lb ed="#P" n="29"/>et non est tamen laus charitatis ubi est. injuria
+<lb ed="#P" n="30"/>veritatis. Dicunt charitatem talerh ac tantam 
+vir<lb ed="#P" break="no" n="31"/>íutem habere, ut sine illa reliqui virtutes omnes
+<lb ed="#P" n="32"/>quamvis aliquo modo secundum affectum nature
+<lb ed="#P" n="33"/>ad bonum proclivem inesse possint, meritum 
+ta<lb ed="#P" break="no" n="34"/>Ten seterne retributionis apud Deum habere non
+<lb ed="#P" n="35"/>possint. Quod enim sine charitate fit, propter
+<lb ed="#P" n="36"/>Deum non fit, et quod propter Deum non fit, Deus
+<lb ed="#P" n="37"/>remunerare non habet si vult, etiamsi secundum
+<lb ed="#P" n="38"/>aliquid bonum est illud quod fit. Nature enim
+<lb ed="#P" n="39"/>bonum est non gratie; in natura, non supra 
+na<lb ed="#P" break="no" n="40"/>turam. Quod ergo ex natura sola bonum est in
+<lb ed="#P" n="41"/>sola natura et meritum simul et premium illius
+<lb ed="#P" n="42"/>est. Itaque quod sine charitate in solo natura fit
+<lb ed="#P" n="43"/>ad illud quod in Deo est supra naturam premium
+<lb ed="#P" n="44"/>non pertingit. Liquet ergo quod bonum operando
+<lb ed="#P" n="45"/>summum bonum non meretur nisi is solum qui
+<lb ed="#P" n="46"/>id quod facit bonum propter summum bonum
+<lb ed="#P" n="47"/>operatur. Vis mereri Deum, fac quod facis propter
+<lb ed="#P" n="48"/>Deum. Hoc ergo dicunt de charitate, quia virtus
+<lb ed="#P" n="49"/>est virtutum omnium, et placent propter ipsam,
+<lb ed="#P" n="50"/>quie sine ipsa, etsi ad aliquid bona essent, ad 
+sum<lb ed="#P" break="no" n="51"/>mum tamen bonum obtinendum bona esse non
+<lb ed="#P" n="52"/>possent. Heec omnia de charitate dicta libenter
+<lb ed="#P" n="53"/>suscipimus quasi principium bonum sententie
+<lb ed="#P" n="54"/>veracis Sed sequitur aliud quod se quidem 
+conjun<lb ed="#P" break="no" n="55"/>git veritati cum falsum sit ipsum, ut cum illa 
+in<lb ed="#P" break="no" n="56"/>grediatur et pro illa suscipiatur. Sed nos lucem
+<lb ed="#P" n="57"/>discernimus a tenebris, et deridemus obscurum
+<lb ed="#P" n="58"/>quod se lumini ingerit et stare se putat cum 
+lu<lb ed="#P" break="no" n="59"/>mine. Si enim charitas lumen est, error vero et
+<lb ed="#P" n="60"/>stultitia tenebre sunt. Ubi enim charitas est,
+<lb ed="#P" n="61"/>claritas est, et non est in ipsa qui palpando 
+ince<lb ed="#P" break="no" n="62"/>dit. Qui enim in charitate est aut ambulat, aut
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>videt, aut stat et non praesumit ultra quam videt.
+<lb ed="#P" n="64"/>Quandiu vero in lumine est sive stet, sive 
+ambu<lb ed="#P" break="no" n="65"/>let, errare non potest, quía videt ubi est. Qui 
+au<lb ed="#P" break="no" n="66"/>tem presumptione sua se praecipitat, ubi non 
+vi<lb ed="#P" break="no" n="67"/>det perdit claritatem, quia non habet charitatem,
+<lb ed="#P" n="68"/>et quocunque ultra procedit, error totum est. Sic
+<lb ed="#P" n="69"/>leti de charitate mentiuntur, nescientes 
+charita<lb ed="#P" break="no" n="70"/>tem, quis presumere non debuerunt in eo quod
+<lb ed="#P" n="71"/>videre non potuerunt. Dicunt quod charitas semel
+<lb ed="#P" n="72"/>habita deinceps nunquam amplius amittatur. Ego
+<lb ed="#P" n="73"/>igitur illos interrogo si ipsi charitatem nunquam
+<lb ed="#P" n="74"/>perdiderunt, et utinam idcirco charitatem non
+<lb ed="#P" n="75"/>perdissent quia habitam retinuissent. Sed vereor
+<lb ed="#P" n="76"/>quod ideo potius non perdiderunt quia nunquam
+<lb ed="#P" n="77"/>habuerunt. Si autem nunquam habuerunt neque
+<lb ed="#P" n="78"/>gustaverunt, quomodo asserere presumunt quod
+<lb ed="#P" n="79"/>nesciunt? Si autem charitatem aliquando 
+habue<lb ed="#P" break="no" n="80"/>runt, habent adhuc ipsam charitatem quam 
+ha<lb ed="#P" break="no" n="81"/>buerunt, quia secundum sententiam ipsorum 
+se<lb ed="#P" break="no" n="82"/>mel habitam amittere non potuerunt. Si autem
+<lb ed="#P" n="83"/>habent charitatem, ambulant secundum 
+charita<lb ed="#P" break="no" n="84"/>tem, et non operantur iniquitatem. Si autem 
+ope<lb ed="#P" break="no" n="85"/>rantur iniquitatem, non habent charitatem. Si
+<lb ed="#P" n="86"/>enim Deum non diligit qui mundum diligit ,
+<lb ed="#P" n="87"/>etin ea quae in mundo sunt, quomodo non multo
+<lb ed="#P" n="88"/>magis non Deum diligit quia iniquitatem diligit?
+<lb ed="#P" n="89"/>Qui diligit iniquitatem, odit animam suam
+<lb ed="#P" n="90"/>(Psal. x). Qui animam suam odit seipsum non 
+di<lb ed="#P" break="no" n="91"/>ligit, vel si diligit, male diligit, quia secundum
+<lb ed="#P" n="92"/>solam carnem diligit. Qui autem non diligit 
+seip<lb ed="#P" break="no" n="93"/>sum, non diligit proximum sicut seipsum. Qui
+<lb ed="#P" n="94"/>autem non diligit provimum quem videt, 
+quo<lb ed="#P" break="no" n="95"/>modo potest diligere Deum qwem non videt! (I
+<lb ed="#P" n="96"/>Joan. 1v). Isti ergo qui aliquando operantur 
+ini<lb ed="#P" break="no" n="97"/>quitatem dicant quomodo habeant charitatem. An
+<lb ed="#P" n="98"/>forte dicent quia non ipsi operantur iniquitatem,
+<lb ed="#P" n="99"/>Sed peccatum quod habitat in eis? Nam et tales
+<lb ed="#P" n="100"/>fuerunt nonnulli stulti et non intelligentes in
+<lb ed="#P" n="101"/>quod homo est, qui putabant quaedam peccata
+<lb ed="#P" n="102"/>etiam cum deliberatione perpetrata ejusmodi esse,
+<lb ed="#P" n="103"/>ut de ipsis homo veraciter dicere: posset Non ego
+<lb ed="#P" n="104"/>operor, sed peccatum quod inhabitat in me ; non
+<lb ed="#P" n="105"/>attendentes, quod hoc quidem quod homo 
+concu<lb ed="#P" break="no" n="106"/>piscentiam sentit, quia ex necessitate est vitse
+<lb ed="#P" n="107"/>eoruptibilis, non ipse operatur, quod vero 
+concu<lb ed="#P" break="no" n="108"/>Piscentie consentit, quia ex voluntate est, 
+non<lb ed="#P" break="no" n="109"/>nisi ipse operatur. Si ergo per propriam 
+volunta<lb ed="#P" break="no" n="110"/>tem operantur iniquitatem, non habent utique
+<lb ed="#P" n="111"/>charitatem. Et quid dicent? Conveniant 
+conscien<lb ed="#P" break="no" n="112"/>tiam suam, et moderentur scientiam suam. 
+Con<lb ed="#P" break="no" n="113"/>scientia humilietur, ne scientia infletur. Non ergo
+<lb ed="#P" n="114"/>de justitia presumant, ne forte per ipsam false
+<lb ed="#P" n="115"/>justitie presumptionem scientiam veritalis 
+amit<lb ed="#P" break="no" n="116"/>tant. Dicunt quod qui semel charitatem habet,
+<lb ed="#P" n="117"/>deinceps illam amittere non potest, hoc est dicere,
+<lb ed="#P" n="118"/>qui bonus est, malus esse non potest. Quare ergo
+<lb ed="#P" n="119"/>similiter non dicemus quod qui malus est, bonus
+<lb ed="#P" n="120"/>esse non potest, si dicimus quod qui modo bonus
+<lb ed="#P" n="121"/>est, malus esse non potest? Qui enim charitatem
+<lb ed="#P" n="122"/>habet bonus est, et qui charitatem non habet 
+bo<lb ed="#P" break="no" n="123"/>nus non est. Si ergo bonus qui habet non potest
+<lb ed="#P" n="124"/>amittere, neque malus qui non habet potest acqui-
+<!-- 189.png.txt -->
+<pb ed="#P" n="271"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>rere; quod si verum esse constiterit, nec stanti
+<lb ed="#P" n="2"/>timendum est, nec sperandum jacenti. Nos in
+<lb ed="#P" n="3"/>tempore sumus ubi incerta volvuntur omnia, et
+<lb ed="#P" n="4"/>tu mihi de tempore aeternitatem facis? Scriptura
+<lb ed="#P" n="5"/>dicit quod homo nunquam in eodem statu per.
+<lb ed="#P" n="6"/>manet (Job. xiv). Et tu. nescio unde cohtendis
+<lb ed="#P" n="7"/>quod qui stat nunquam cadit? Quare ergo dictum
+<lb ed="#P" n="8"/>est : Qui stat videat ne cadat? (I Cor. x.) 
+Uti<lb ed="#P" break="no" n="9"/>nam verum esset si tamen justum esset si justum
+<lb ed="#P" n="10"/>esset, ut in hac vita omnis qui bonus est, malus
+<lb ed="#P" n="11"/>esse non posset. Sed nunc vita ista hoc non 
+ha<lb ed="#P" break="no" n="12"/>bere debet, in qua et mali exspectantur ut boni
+<lb ed="#P" n="13"/>flant, et boni probantur, si ad iniquitatem non de.
+<lb ed="#P" n="14"/>Glinant. Extra hanc vitam quidam mali sunt, qui
+<lb ed="#P" n="15"/>boni esse non possunt; et boni quidam sunt qui
+<lb ed="#P" n="16"/>similiter mali esse non possunt; quia illi per 
+ma<lb ed="#P" break="no" n="17"/>litiam ligati sunt, isti per gratiam confirmati. Sed
+<lb ed="#P" n="18"/>etin iis quoquenecessitatem natura quae ex seipsa
+<lb ed="#P" n="19"/>mutabilis est nullatenus operatur, quia in aliis,
+<lb ed="#P" n="20"/>ut dictum est, mutabilitatem nature non natura
+<lb ed="#P" n="21"/>sed malitia in deterius coarctat. In aliis quoque
+<lb ed="#P" n="22"/>eamdem nature mutabilitatem non natura, sed.
+<lb ed="#P" n="23"/>gratia in melius confirmat. Qui ergo illic mali
+<lb ed="#P" n="24"/>sunt, boni esse non possunt. Similiter qui boni
+<lb ed="#P" n="25"/>sunt, mali esse non possunt. Hoc enim eeternitatis
+<lb ed="#P" n="26"/>est et immutabilitatis, ut illic de alio in aliud 
+transi<lb ed="#P" break="no" n="27"/>tus esse non possit. Hic autem qunndiu 
+mutabi<lb ed="#P" break="no" n="28"/>liter vivitur, et bonus malus, et malus bonus esse
+<lb ed="#P" n="29"/>potest. Et siforte aliquis ita bonus inveniatur qui
+<lb ed="#P" n="30"/>semper honus sit, idem ipse tamen qui bonus est,
+<lb ed="#P" n="31"/>malus esse potest, quandiu ille qui malus est 
+bo<lb ed="#P" break="no" n="32"/>nus esse potest. Uterque enim sub tempore vere
+<lb ed="#P" n="33"/>vivit, et utriusque conditio una est in tempore.
+<lb ed="#P" n="34"/>Sed dicis : Quid ergo sibi vult auctoritas quae 
+di<lb ed="#P" break="no" n="35"/>cit : Charitas nunquam excidit ? (I Cor. xu.)
+<lb ed="#P" n="36"/>Audi quid : Tu fortassis sic intelligebas, quod ex
+<lb ed="#P" n="37"/>"quo semel haberetur amplius non amitteretur.
+<lb ed="#P" n="38"/>Noluit hoc dicere Scriptura, sed aliud quod tu
+<lb ed="#P" n="39"/>quidem idcirco recte non intellexisti, quia ipsam
+<lb ed="#P" n="40"/>Scripturam non bene inspexisti. Quid ergo? Quid
+<lb ed="#P" n="41"/>dicit Seriptura illa? Nunquid non manent tria
+<lb ed="#P" n="42"/>hac, fides, spes, charitas? (ibid.). Quid est nunc?
+<lb ed="#P" n="43"/>Hoc est in hac vita, quandiu quod non videtur
+<lb ed="#P" n="44"/>creditur, et speratur quod exspectatur, et 
+deside<lb ed="#P" break="no" n="45"/>ratur quod amatur. Cum autem finem acceperit.
+<lb ed="#P" n="46"/>vita haec et omnia facta. fuerint manifesta, quid y
+<lb ed="#P" n="47"/>eri occultum quod credatur quando nihil erit quod
+<lb ed="#P" n="48"/>manifeste non videatur? Quid etiam tunc poterit
+<lb ed="#P" n="49"/>sperari futurum quando omnia praesentia erunt
+<lb ed="#P" n="50"/>et nihil futurum erit? Dictum est quia si vides
+<lb ed="#P" n="51"/>non est fides (Rom. vui); et iterum : quod videt
+<lb ed="#P" n="52"/>quis quid sperat (ibid.). Ergo illic non credes.
+<lb ed="#P" n="53"/>Non dico quia infidelis eris, sed non credes quia
+<lb ed="#P" n="54"/>scies. Similiter dico quod illic non sperabis, 
+ne<lb ed="#P" break="no" n="55"/>que tamen dico, desperabis, sed ideo dico non
+<lb ed="#P" n="56"/>sperabis, quia quod sperasti totum habens nihil
+<lb ed="#P" n="57"/>futurum exspectabis. Nunquid similiter dico quod
+<lb ed="#P" n="58"/>illic non amabis? Ergo quando adhuc non 
+habui<lb ed="#P" break="no" n="59"/>sti dilexisti et no amabis quando habebis ? 
+Ab<lb ed="#P" break="no" n="60"/>Sit! Imo multo magis tunc amabis quando quem
+<lb ed="#P" n="61"/>amabis videbis, et quem videbis habebis. Non
+<lb ed="#P" n="62"/>enim sic est amor iste, ut absens diligatur, et prae-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>sens fastidiatur. Ergo tunc etiam amabilis, et
+<lb ed="#P" n="64"/>multo magis amabis, et remanebit charitas 
+quan<lb ed="#P" break="no" n="65"/>do fides et spes amplius non erunt. Hoc igitur
+<lb ed="#P" n="66"/>vult quod dictum est : Charitas nunquam excidit;
+<lb ed="#P" n="67"/>quoniam hic habetur, et illic retinetur. Sive 
+pro<lb ed="#P" break="no" n="68"/>phetiae evacuabuntur, sive lingue cessabunt, sive
+<lb ed="#P" n="69"/>scientia destruetur. Omnia enim haec in vita 
+tan<lb ed="#P" break="no" n="70"/>tum sunt, etiam ipsa scientia nostra quae modo
+<lb ed="#P" n="71"/>est, tunc non erit. Non quia tunc nulla erit, sed
+<lb ed="#P" n="72"/>quia alia erit. Omnia igitur ista cum ipsa vita 
+ex<lb ed="#P" break="no" n="73"/>cidunt, quia non permanent postea quando 
+vide<lb ed="#P" break="no" n="74"/>bitur qui creditur, et habebitur qui speratur.
+<lb ed="#P" n="75"/>Charitas autem nunquam excidit, quantum hic
+<lb ed="#P" n="76"/>est et illic erit, et non habebit finem unquam 
+di<lb ed="#P" break="no" n="77"/>lectio, sicut finem non habebit unquam inspectio.
+<lb ed="#P" n="78"/>Sicut nunquam separabimur a contemplatione,
+<lb ed="#P" n="79"/>Sic nunquam evacuabimur a dilectione; sed 
+sem<lb ed="#P" break="no" n="80"/>per videbimus et semper diligemus. Sic ergo 
+cha<lb ed="#P" break="no" n="81"/>ritas nunquam excidit quia semper manet. Non
+<lb ed="#P" n="82"/>enim dixit a nullis excidit, sed nunquam excidit
+<lb ed="#P" n="83"/>quia non in omnibus manet, et tamen semper
+<lb ed="#P" n="84"/>manet in quibus manet. Nam si propterea nou
+<lb ed="#P" n="85"/>semper manet quia in omnibus manet, ergo nec
+<lb ed="#P" n="86"/>fides aut spes hic manet, quia non in omnibus
+<lb ed="#P" n="87"/>manet. Multi enim a fide et spe qui in Deum est
+<lb ed="#P" n="88"/>recesserunt, et fidem et spem ipsam quam habere
+<lb ed="#P" n="89"/>coperant deseruerunt; et excidit ab eis fldes et
+<lb ed="#P" n="90"/>spes etiam in hac vita. Nec tamen idcirco minus
+<lb ed="#P" n="91"/>verum fuit quod dictum est : Nunc manent fides,
+<lb ed="#P" n="92"/>Spes et charitas tria haec. Si ergo fideset spes quae
+<lb ed="#P" n="93"/>hic aliquando a quibusdam excidunt tamen hic
+<lb ed="#P" n="94"/>manent, quia hic prorsus nunquam excidunt,
+<lb ed="#P" n="95"/>quoniam in aliis manent; ergo similiter charitas
+<lb ed="#P" n="96"/>que aliquando hic a quibusdam excidit, tamen
+<lb ed="#P" n="97"/>manet semper; quia, quamvis a quodam exciderit,
+<lb ed="#P" n="98"/>nunquam tamen prorsus excidit, quia in aliis
+<lb ed="#P" n="99"/>semper manet. Neque enim idcirco perit, si in me
+<lb ed="#P" n="100"/>perit, et mihi perit. Neque propterea destruitur,
+<lb ed="#P" n="101"/>Si a me evacuatur et in me destruitur, quoniam
+<lb ed="#P" n="102"/>alteri manet quod mihi non manet.
+</p>
+               <p xml:id="hsvhsv-g51123-d1e2664">
+                  <lb ed="#P" n="103"/>Sed dicis iterum : Si ii qui mali sunt futuri et.
+<lb ed="#P" n="104"/>perituri charitatem aliquando habere possunt,
+<lb ed="#P" n="105"/>quomodo charitas fons proprius nominatur, de
+<lb ed="#P" n="106"/>quo non communicat alienus? Qui enim pereunt
+<lb ed="#P" n="107"/>alieni sunt et non pertinent ad nos, neque ad id
+<lb ed="#P" n="108"/>quod nostrum est. Si ergo alieni sunt, quomodo
+<lb ed="#P" n="109"/>de illo quod nostrum est proprium communicare
+<lb ed="#P" n="110"/>possunt? Mirum est. Si enim ii qui aliquando
+<lb ed="#P" n="111"/>fuerunt alieni proximi facti sunt accedendo, quare
+<lb ed="#P" n="112"/>non similiter ii qui proximi sunt alieni fleri 
+pos<lb ed="#P" break="no" n="113"/>suni recedendo? Si enim accedere possunt qui
+<lb ed="#P" n="114"/>longe sunt possunt, etiam recedere qui prope
+<lb ed="#P" n="115"/>sunt. Qui accedunt reconciliantur, qui recedunt
+<lb ed="#P" n="116"/>abalienantur. Si autem qui reconciliati sunt 
+pro<lb ed="#P" break="no" n="117"/>ximi sunt, ergo et qui abalienati sunt alieni sunt,
+<lb ed="#P" n="118"/>tamen quandiu proximi fuerunt non fuerunt 
+alie<lb ed="#P" break="no" n="119"/>ni, sicut ii qui alieni fuerunt priusquam 
+reconci<lb ed="#P" break="no" n="120"/>liarentur proximi non fuerunt. Et qui proximi
+<lb ed="#P" n="121"/>fuerunt quandiu proximi fuerunt de fonte proprio
+<lb ed="#P" n="122"/>communicaverunt. Et similiter qui alieni fuerunt,
+<lb ed="#P" n="123"/>quandiu alieni fuerunt, de fonte proprio non
+<lb ed="#P" n="124"/>communicaverunt. Cum autem ii qui alieni fue-
+<!-- 190.png.txt -->
+<pb ed="#P" n="272"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>runt proximi esse ccperunt, de fonte proprio 
+<lb ed="#P" n="2"/>communicare coeperunt, et similiter qui proximi
+<lb ed="#P" n="3"/>fuerunt postquam abalienari coeperunt, de fonte
+<lb ed="#P" n="4"/>proprio communicare desierunt. Et remanet 
+sem<lb ed="#P" break="no" n="5"/>per fons proprius de quo non communicat alienus.
+<lb ed="#P" n="6"/>Alienus enim communicare non potest; et tamen
+<lb ed="#P" n="7"/>^ qui alienus est proximus esse potest. Charitatem
+<lb ed="#P" n="8"/>malus habere non potest, sed qui malus est bonus
+<lb ed="#P" n="9"/>esse potest. Quando bonus esse incipit, 
+charita<lb ed="#P" break="no" n="10"/>tem habere incipit; et quando bonus esae desinit,
+<lb ed="#P" n="11"/>charitstem habere desinit; et nunquam 
+charita<lb ed="#P" break="no" n="12"/>tem nisi bonus habere potest, quia charitatem
+<lb ed="#P" n="13"/>habere et simul malus esse nemo potest.
+</p>
+               <p xml:id="hsvhsv-g51123-d1e2750">
+                  <lb ed="#P" n="14"/>Dicis interum : Si aliquando charitas semel 
+ha<lb ed="#P" break="no" n="15"/>bita amittitur, quid est quod dicit Scriptura : Qui
+<lb ed="#P" n="16"/>amicus est, semper diligit? (Prov. xvi). Si 
+<lb ed="#P" n="17"/>enim qui diligit amicus est, et qui amicus est
+<lb ed="#P" n="18"/>semper diligit; profecto qui diligit semper diligit;
+<lb ed="#P" n="19"/>qui autem semper diligit; nunquam charitatem
+<lb ed="#P" n="20"/>amittit. Si igitur vera est Scriptura et qui diligit
+<lb ed="#P" n="21"/>semper diligit; qui semel charitatem habet, 
+nun<lb ed="#P" break="no" n="22"/>quam illam amittit. Sic tibi videtur : multa sunt
+<lb ed="#P" n="23"/>talia quae possunt quovis deduci, sed magnum
+<lb ed="#P" n="24"/>nonest si aliquid dicas, sed si hoc quod dicis, utrum.
+<lb ed="#P" n="25"/>sit sic dicendum intelligas. Qui amicus est semper
+<lb ed="#P" n="26"/>diligit. Verum esthocquia amicus semper diligit, et
+<lb ed="#P" n="27"/>inimicus semper odit; et tamen qui amicus est
+<lb ed="#P" n="28"/>inimicus potest esse et odire; et qui inimicus est,
+<lb ed="#P" n="29"/>amicus potest esse, et diligere. Quandiu amicus
+<lb ed="#P" n="30"/>est diligit; et quandiu inimicus est, odit. Sunt
+<lb ed="#P" n="31"/>autem quidam non veri amici qui in prosperitate 
+<lb ed="#P" n="32"/>amare se simulant, et in adversitate probantur
+<lb ed="#P" n="33"/>quales sunt; propter ejusmodi dictum est, quod
+<lb ed="#P" n="34"/>verus amicus semper diligit, hoc est non in 
+pro<lb ed="#P" break="no" n="35"/>speritate tantum, sed etiam in adversitate, hoc est
+<lb ed="#P" n="36"/>semper. Non enim est verus amicus etiam quando
+<lb ed="#P" n="37"/>amicus esse videtur, qui secundum tempus nutat;
+<lb ed="#P" n="38"/>et in utramque partem post fortunam movetur.
+<lb ed="#P" n="39"/>Non talis est ille qui semper diligit, qui hominem
+<lb ed="#P" n="40"/>amat non pecuniam, amicum non lucrum. Qui
+<lb ed="#P" n="41"/>enim propter solam pecuniam amat, quandiu 
+pe<lb ed="#P" break="no" n="42"/>cunia abundat, amat; quando pecunia deficit, 
+di<lb ed="#P" break="no" n="43"/>lectio deflcit, et non est amicus jam qui amicus
+<lb ed="#P" n="44"/>esse videbatur; imo qui prius amicus non fuil,
+<lb ed="#P" n="45"/>sed putabatur, nunc manifeste amicus nec esse
+<lb ed="#P" n="46"/>nec fuisse comprobatur. Illi ergo jure dicitur qui D
+<lb ed="#P" n="47"/>amicus est semper diligit. Si amicus fuisti in pros
+<lb ed="#P" n="48"/>peritate : dilige in adversitate. Quid enim in 
+pro<lb ed="#P" break="no" n="49"/>speritate dilexeris, in adversitate ostendis. Si enirn
+<lb ed="#P" n="50"/>amicum dilexisti, adhuc ipse est, dilige ipsum.
+<lb ed="#P" n="51"/>Cur cesset dilectio, cum quod amatur non 
+aufer<lb ed="#P" break="no" n="52"/>tur. Si autem fortunam dilexisti, non habes jam
+<lb ed="#P" n="53"/>quod diligas, quia fortuna discessit et permansit
+<lb ed="#P" n="54"/>homo solus. Hoc sibi vult quod dictum est, qui
+<lb ed="#P" n="55"/>amicus est semper diligit. Instas adhuc quasi
+<lb ed="#P" n="56"/>majusaliquid adducturus ad comprobandum quod
+<lb ed="#P" n="57"/>charitas semel habita non recedat.
+</p>
+               <p xml:id="hsvhsv-g51123-d1e2848">
+                  <lb ed="#P" n="58"/>Ostendis integram tunicam Christi, quae scindi
+<lb ed="#P" n="59"/>non potuit, etiam quando Christus pati potuit.
+<lb ed="#P" n="60"/>Corpus Christi vulnerabatur, et tamen tunica
+<lb ed="#P" n="61"/>Christi non scindebatur. Magnum est quod affers
+<lb ed="#P" n="62"/>si bene intelligas. Quid est enim tunica Christi
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>nisi Ecclesia Christi; et quid integritas tuniosm
+<lb ed="#P" n="64"/>nisi unitas Ecclesie? Ecce quam bonum et quam
+<lb ed="#P" n="65"/>jucundum habitare fratres in. unum (Psal.
+<lb ed="#P" n="66"/>cxxxr). Quod unum? Manete in dilectione mea
+<lb ed="#P" n="67"/>(Joan. xv). Ergo charitas, unitas est Ecclesise. Et.
+<lb ed="#P" n="68"/>dicit Scriptura : Qui in unitate Ecclesie sunt, 
+pe<lb ed="#P" break="no" n="69"/>rire non possunt, hoc est quod dicere voluisti :
+<lb ed="#P" n="70"/>Qui in charitate sunt, perire non possunt; sive
+<lb ed="#P" n="71"/>charitatem, sive unitatem nomines idem est, quia
+<lb ed="#P" n="72"/>unitas est charitas, et charitas unitas. Qui ergo
+<lb ed="#P" n="73"/>inunitate Ecclesise sunt, semper in charitate sunt;
+<lb ed="#P" n="74"/>et qui in charitate sunt perire omnino non possunt.
+<lb ed="#P" n="75"/>Manifesta est veritas. Nemo fidelis contradicit.
+<lb ed="#P" n="76"/>Nullus in charitate perire potest. Ibi perire non
+<lb ed="#P" n="77"/>potest; sed inde exire et perire potest. Qui ibi
+<lb ed="#P" n="78"/>manet, perditionem non timet. Caveat ipse ne
+<lb ed="#P" n="79"/>egrediatur foras. Intus positis perditio non est,
+<lb ed="#P" n="80"/>sicut iis qui foris sunt salus non est. Qui incipit
+<lb ed="#P" n="81"/>exire incipit perire. Cum autem foris positus ad
+<lb ed="#P" n="82"/>charitatem revertitur, ad ealutem reparatur.
+<lb ed="#P" n="83"/>Quid amplius querie? Fortassis aliam unitatem
+<lb ed="#P" n="84"/>Ecclesi; interpretari voles, de qua veraciter 
+di<lb ed="#P" break="no" n="85"/>cere possis, quod idcirco in illa nullus peribit, 
+quo<lb ed="#P" break="no" n="86"/>niam de illa nullus exibit. Est enim unitas 
+praedesti<lb ed="#P" break="no" n="87"/>nationis de qua dicitur : Novit Dominus qui sunt
+<lb ed="#P" n="88"/>ejus (II Tim. 11). Et verum est quod omnes qui in
+<lb ed="#P" n="89"/>hac unitate sunt, salvi erunt; quoniam ex iis qui
+<lb ed="#P" n="90"/>previsi sunt ad vitam, nullus peribit. Sicut enim 
+di<lb ed="#P" break="no" n="91"/>cit Scriptura: Quos predestinavit, hos et vocavit,
+<lb ed="#P" n="92"/>et quos vocavit hos et justificavit ; et quos 
+jus<lb ed="#P" break="no" n="93"/>tificavit, hos et glorificavit (Rom. vut). Isti ergo
+<lb ed="#P" n="94"/>sunt diligentes Deum quibus omnia cooperantur
+<lb ed="#P" n="95"/>in bonum qui secundum propositum vocati sunt
+<lb ed="#P" n="96"/>sancti (ibid.). Nam qui secundum propoaitum
+<lb ed="#P" n="97"/>vocati non sunt, et qui ad vitam praedestinati non
+<lb ed="#P" n="98"/>sunt, etsi aliquando ad tempus Deum diligant,
+<lb ed="#P" n="99"/>usque ad finem in dilectione Dei non perseverant.
+<lb ed="#P" n="100"/>Qui propter ea amissa charitate pereunt, quoniam
+<lb ed="#P" n="101"/>cum ad iniquitatem ceciderint, ad charitatem non
+<lb ed="#P" n="102"/>resurgunt. Predestinati autem postquam Deum
+<lb ed="#P" n="103"/>diligere coeperint, vel perseveranter diligunt, ut
+<lb ed="#P" n="104"/>a dilectione non cadant, vel cum a dilectione 
+ce<lb ed="#P" break="no" n="105"/>ciderint, iterum ad illam resurgunt, ne pereant.
+<lb ed="#P" n="106"/>Quid tibi videtur? Credis ne ita esse ut dico? 
+For<lb ed="#P" break="no" n="107"/>tassis non tibi sufficiet Apostolus qui hoc dicit,
+<lb ed="#P" n="108"/>propterea non quod ita existimes intelligendum
+<lb ed="#P" n="109"/>esse quod dicit Apostolus non omnes diligentes
+<lb ed="#P" n="110"/>Deum in numero illorum ponere voluit, quibus
+<lb ed="#P" n="111"/>omnia cooperantur in bonum, nisi eos tantum qui
+<lb ed="#P" n="112"/>secundum propositum vocati sunt sancti. 
+Mani<lb ed="#P" break="no" n="113"/>festa est veritas, nisi illam impudenter negare
+<lb ed="#P" n="114"/>volueris. Sed dices fortassis non ita intelligendum
+<lb ed="#P" n="115"/>esse quod dicit Apostolus : Scimus quia Deum
+<lb ed="#P" n="116"/>diligentibus omnia cooperentur in bonum, iis-qui
+<lb ed="#P" n="117"/>secundum propositum vocati sunt sancti. Dicis
+<lb ed="#P" n="118"/>ergo non ita intelligendum esse quasi per id quod.
+<lb ed="#P" n="119"/>subjunxit iis qui secundum propositum vocati
+<lb ed="#P" n="120"/>sunt sancti, determinare voluerit; quibus 
+diligen<lb ed="#P" break="no" n="121"/>tibus Deum omnia cooperantur in bonum, sed
+<lb ed="#P" n="122"/>potius eosdem ipsos diligentes Deum] omnes 
+se<lb ed="#P" break="no" n="123"/>cundum propositum vocatos sanotos. Sic ergo
+<lb ed="#P" n="124"/>fortasais intelligenda putabis verba Apostoli, neo
+<!-- 191.png.txt -->
+<pb ed="#P" n="273"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>mihi credes si dicere voluero, hoc tibi signatum
+<lb ed="#P" n="2"/>esse quod non omnes prizdestinati sunt, qui 
+ali<lb ed="#P" break="no" n="3"/>quando Deum diligunt, quia non permanent in
+<lb ed="#P" n="4"/>eo quod diligunt. Verba Augustinus sunt hsc :
+<lb ed="#P" n="5"/>Si mihi non credis, illi crede, ut mihi credas. Imo
+<lb ed="#P" n="6"/>non mihi sed veritati credas. Audi ergo quod 
+di<lb ed="#P" break="no" n="7"/>cit Apostolus, inquit, cum dixisset : Scimus 
+quo<lb ed="#P" break="no" n="8"/>niam diligentibus Deum omnia cooperantur in
+<lb ed="#P" n="9"/>bonum, sciens nonnulos Deum diligere, et in eo
+<lb ed="#P" n="10"/>bono usque ad finem non manere, mox addidit :
+<lb ed="#P" n="11"/>his qui secundum propositum vocati sunt sancti.
+<lb ed="#P" n="12"/>Hi enim in eo quod diligunt Deum permanent.
+<lb ed="#P" n="13"/>usque in finem. Et qui ad tempus inde deviant
+<lb ed="#P" n="14"/>revertuntur, usque in finem perducunt quod in
+<lb ed="#P" n="15"/>bono esse cooperunt. Ecce habes manifeste quod
+<lb ed="#P" n="16"/>quidam ad tempus charitatem habentes, quia in
+<lb ed="#P" n="17"/>illa usque in finem non perseverant, cadunt et
+<lb ed="#P" n="18"/>pereunt; et rursum quidam qui abilla ad tempus
+<lb ed="#P" n="19"/>cadunt, quia iterum resurgunt, conservantur et
+<lb ed="#P" n="20"/>salvantur. Alii vero, quia ab illa nunquam 
+defl<lb ed="#P" break="no" n="21"/>ciunt, usque in finem perseverant fervore semel
+<lb ed="#P" n="22"/>capti charitatis devotionem perducunt. Quld 
+ma<lb ed="#P" break="no" n="23"/>nifestius queris? Si hoc non vides, quid vides?
+<lb ed="#P" n="24"/>Sed dicis : Quomodo aliquando veram charitatem
+<lb ed="#P" n="25"/>habere potuerunt, qui in ea perseveraturi non
+<lb ed="#P" n="26"/>fuerunt? Mirum est. Ergo fides, fides non fuit,
+<lb ed="#P" n="27"/>quae aliquando fides esse desiit. Quare non 
+simi<lb ed="#P" break="no" n="28"/>liter dicis quod nunquam albusfuit, qui aliquando
+<lb ed="#P" n="29"/>albus esse cessavit? Nonne intelligis quod in eo
+<lb ed="#P" n="30"/>ipso aliquando fllud fuisse dicitur, qui aliquando
+<lb ed="#P" n="31"/>esse illud desiisse memorantur? Quod enim quis
+<lb ed="#P" n="32"/>nunquam fuit nunquam esse desiit. Quapropter
+<lb ed="#P" n="33"/>qui aliquando amare desiit, constat profecto quod
+<lb ed="#P" n="34"/>prius quam amare desineret, amavit. Sed verus,
+<lb ed="#P" n="35"/>inquis, amor non fuit qui ad tempus fuit. Ergonec
+<lb ed="#P" n="36"/>verum odium fuit quod ad tempus fuit. Nec vere
+<lb ed="#P" n="37"/>albus fuit, qui ad tempus albus fuit. Quis hoc 
+di<lb ed="#P" break="no" n="38"/>cat? Ergo vera dilectio fuit, et vere fuit quandiu
+<lb ed="#P" n="39"/>fuit, etiamsi secundum aliquem modum vera non
+<lb ed="#P" n="40"/>fuit, in eo quod desiit, quando jam vere non fuit.
+<lb ed="#P" n="41"/>Si ergo dicis quod vera dilectio non fuit, quae 
+ali<lb ed="#P" break="no" n="42"/>quando dilectio esse cessavit, sic intellige quod.
+<lb ed="#P" n="43"/>quando dilectio esse desiit, vera dilectio non fuit,
+<lb ed="#P" n="44"/>quia in eo ipso quod nutabat et defecit ut 
+dilec<lb ed="#P" break="no" n="45"/>tío non esset, esse coepit, et accepit, ut quod prius
+<lb ed="#P" n="46"/>fuit, jam vera dilectio non esset.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g51123-Dd1e3105">
+               <head xml:id="hsvhsv-g51123-Hd1e3107">Capitulum 12</head>
+               <head xml:id="hsvhsv-g51123-Hd1e3109" type="question-title"/>
+               <p xml:id="hsvhsv-g51123-d1e3111">
+                  <lb ed="#P" n="47"/>Cap. XII. Utrum omnisdilectio Deicharitas sit
+<lb ed="#P" n="48"/>nominanda.
+</p>
+               <p xml:id="hsvhsv-g51123-d1e3118">
+                  <lb ed="#P" n="49"/>Fortassis dices quod quidam ejusmodi dicunt,
+<lb ed="#P" n="50"/>quod ii qui non perseveraturi Deum diligunt, 
+di<lb ed="#P" break="no" n="51"/>lectionem quidem Dei habent, sed charitatem non
+<lb ed="#P" n="52"/>habent ; pro eo quod nonomnenm dilectionem Dei
+<lb ed="#P" n="53"/>charitatem appellandam putant, nisi eam solam
+<lb ed="#P" n="54"/>quae usque in finem perseverat. Sed hoc si quis
+<lb ed="#P" n="55"/>dicere voluerit, qua ratione vel auctoritate 
+pro<lb ed="#P" break="no" n="56"/>bare possit non invenio. Nisi forte idcirco aliud
+<lb ed="#P" n="57"/>dilectionem, aliud charitatem sonare putet, quia
+<lb ed="#P" n="58"/>alterum latinum, alterum grecum vocabulum 
+es<lb ed="#P" break="no" n="59"/>se putet. Sacra Scriptura nobis dicit, quod 
+dilec<lb ed="#P" break="no" n="60"/>tio charitas est, et quod dilectio Dei semper bona
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="61"/>est. Non nobis dicit, quia illud diligit bene facit,
+<lb ed="#P" n="62"/>et quia iste diligit male facit. Augustinus dicit.
+<lb ed="#P" n="63"/>Apostolum scisse quosdam Deum diligere, et. in
+<lb ed="#P" n="64"/>bono usque in finem non permanere; et bonam
+<lb ed="#P" n="65"/>vocat dilectionem Dei, etiam in iis qui non sunt
+<lb ed="#P" n="66"/>permansuri in illa; et isti nescio quot species 
+chari<lb ed="#P" break="no" n="67"/>tatis invenerunt, more pigmentariorum in 
+mun<lb ed="#P" break="no" n="68"/>dinis declamationum stultarum. Dicunt non de
+<lb ed="#P" n="69"/>omni charitate intelligendum, quod dicitur 
+cha<lb ed="#P" break="no" n="70"/>ritas semel habita non amittitur, sed de perfecta
+<lb ed="#P" n="71"/>tantum. Et si ego illos interrogo quae sit illa 
+per<lb ed="#P" break="no" n="72"/>fecta charitas, non mihi respondent, nisi illa
+<lb ed="#P" n="73"/>quae non amittitur. Non enim audent dicere de
+<lb ed="#P" n="74"/>illa; sed de' perfectione charitatis loqui quae
+<lb ed="#P" n="75"/>in futuro habebitur, ne superfluo de illa loqui
+<lb ed="#P" n="76"/>convincantur quae ad hanc vitam non pertinet.
+<lb ed="#P" n="77"/>Ergo non inveniunt quam charitatem hic 
+perfec<lb ed="#P" break="no" n="78"/>tam dicant nisi illam quae non amittitur. Et 
+rur<lb ed="#P" break="no" n="79"/>sum cum assignare volunt quae sit illa charitas
+<lb ed="#P" n="80"/>qui non ammittitur, non inveniunt quid dicant
+<lb ed="#P" n="81"/>nisi illa quae perfecta est. Ita circulum faciunt,
+<lb ed="#P" n="82"/>involventes semetipsos, quia quo exeant non 
+ha<lb ed="#P" break="no" n="83"/>bent. Postremotanta erroris caligine involvuntur,
+<lb ed="#P" n="84"/>ut dum pertinaciter charitatem semel habitam
+<lb ed="#P" n="85"/>contendunt non posse amitti, asserere incipiant
+<lb ed="#P" n="86"/>eam a quibusdam non solum minora peccata, sed
+<lb ed="#P" n="87"/>criminalia quoque et damnabilia ex deliberatione
+<lb ed="#P" n="88"/>perpetrantibus retineri. David adulterum et 
+ho<lb ed="#P" break="no" n="89"/>micidam, charitatem Dei habuisse dicunt, quando
+<lb ed="#P" n="90"/>libidini serviens in uxorem proximi sui 
+violan<lb ed="#P" break="no" n="91"/>dam turpitudini frena relaxavit;et eamdem 
+turpi<lb ed="#P" break="no" n="92"/>tudinem tegendam illum ipsum cujus torum fcede
+<lb ed="#P" n="93"/>vlolaverat, innocentem et justum crudeli 
+prodi<lb ed="#P" break="no" n="94"/>tione exstinxit. Dicant mihi ubi tunc fuit 
+chari<lb ed="#P" break="no" n="95"/>tas non agens peperam, ubi innocens opprimittur,
+<lb ed="#P" n="96"/>non quierensquae suasunt, quando aliena 
+rapiun<lb ed="#P" break="no" n="97"/>tur. Ostendant mihi hic si possunt dilectionem
+<lb ed="#P" n="98"/>qui plenitudo legis est, ubi et praecepta legis
+<lb ed="#P" n="99"/>violantur; et jus nature corrumpitur. Lex 
+di<lb ed="#P" break="no" n="100"/>cit: Non occides. Non machaberis. Non 
+con<lb ed="#P" break="no" n="101"/>cupisces uxorum proximi tui (Rom. xur, Exod.
+<lb ed="#P" n="102"/>xx ; Deut. v). Si charitas hic est, plenitudo legis
+<lb ed="#P" n="103"/>hic est, si plenitudo legis est, quomodo 
+prewvarica<lb ed="#P" break="no" n="104"/>tio esse potest? Si talia facientem charitatem 
+ha<lb ed="#P" break="no" n="105"/>buisse dicunt; quare non etiam in hoc faciendo
+<lb ed="#P" n="106"/>nihil peccasse dicunt, quia Scriptura dicit: Qui
+<lb ed="#P" n="107"/>natus est eae Deo non peccat (I Joan. v);et quia
+<lb ed="#P" n="108"/>rursum alibi dicitur: « Habe charitatem et fac
+<lb ed="#P" n="109"/>quidquid vis? Si. enim hoc verum est quod talia
+<lb ed="#P" n="110"/>facientes charitatem retinere possunt, cum iis qui
+<lb ed="#P" n="111"/>charitatem habent quidquid libet agere 
+concedi<lb ed="#P" break="no" n="112"/>tur, perfecto quidquid egerint, peccatum non esse
+<lb ed="#P" n="113"/>comprobatur. Eant ergo cum charitate sua et 
+fa<lb ed="#P" break="no" n="114"/>ciant quidquid voluerint; quia magnos 
+defenso<lb ed="#P" break="no" n="115"/>res habent alios quidem defendentes, quod 
+cha<lb ed="#P" break="no" n="116"/>ritatem non amittant, alios autem concedentes,
+<lb ed="#P" n="117"/>ut quidquid volunt cum charitate faciant.
+</p>
+               <p xml:id="hsvhsv-g51123-d1e3272">
+                  <lb ed="#P" n="118"/>Sed dicunt: Si David peccando charitatem 
+ami<lb ed="#P" break="no" n="119"/>sit, quomodo ergo verum est quod scriptum est
+<lb ed="#P" n="120"/>de ipso quod spiritus Domini recedebat a 
+Da<lb ed="#P" break="no" n="121"/>vid ab eo die et deinceps? (I Reg. xvr.) Sienim
+<lb ed="#P" n="122"/>charitas recessit, quomodo spiritus Dow vexeisx-
+<!-- 192.png.txt -->
+<pb ed="#P" n="274"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>sit? Quasi vero spiritus Domini secundum multa A.
+<lb ed="#P" n="2"/>alia remanere non potuerit, etiamsi secundum 
+do<lb ed="#P" break="no" n="3"/>num charitatis recesserit. Nonneet inillissive cum
+<lb ed="#P" n="4"/>illus remanet quos cadentes custodit ne pereant,
+<lb ed="#P" n="5"/>quos tamenstantes non custodit ne cadantfJustus
+<lb ed="#P" n="6"/>cum ceciderit non collidetur ; quia Dominus
+<lb ed="#P" n="7"/>supponit manum suam (Psal. xxxvi). Quid 
+er<lb ed="#P" break="no" n="8"/>go?Si presenserat Dominus stanti, quare lapsus
+<lb ed="#P" n="9"/>est ! Et si praesens non erat cadendi, quare 
+colli<lb ed="#P" break="no" n="10"/>sus non est?Si enimteneretur, non haberetur. Item
+<lb ed="#P" n="11"/>8i manus non supponeretur, collideretur. 
+Prop<lb ed="#P" break="no" n="12"/>ter hoc ergo collisus non est ; quia cecidit super
+<lb ed="#P" n="13"/>manum. Si manus super eum cecidisset collisus
+<lb ed="#P" n="14"/>fuisset: Qui ceciderit, inquit, super lapidem
+<lb ed="#P" n="15"/>istum confringetur, super quem autem 
+ceci<lb ed="#P" break="no" n="16"/>derit conteret eum (Matth. xxi). Propter hoc B.
+<lb ed="#P" n="17"/>ergo Dominus manum non jacendi superposuit,
+<lb ed="#P" n="18"/>ut premeret ; sed supposuit, ut relevaret. 
+Suppo<lb ed="#P" break="no" n="19"/>suit ut adjuvando repararet, non superposuit ut
+<lb ed="#P" n="20"/>judicando condemnaret ; sic itaque spiritus 
+Do<lb ed="#P" break="no" n="21"/>mini non recessit a David, quia cum eo erat, ut
+<lb ed="#P" n="22"/>abeuntem reduceret, et poenitentem justificaret et.
+<lb ed="#P" n="23"/>forte cum eo erat, sed in eo non erat. Cum eo
+<lb ed="#P" n="24"/>erat ad custodiam, sed in eo non erat ad 
+justi<lb ed="#P" break="no" n="25"/>tiam. Non enim tunc justus erat David 
+quan<lb ed="#P" break="no" n="26"/>do in tam gravi peccato prostratus erat, neque
+<lb ed="#P" n="27"/>ad eum tunc pertinuit quod scriptum est : Justus
+<lb ed="#P" n="28"/>fn die septies cadit, et tamen justinomen non
+<lb ed="#P" n="29"/>amittit (Prov. xxiv). Propter hoc igitur spiritus
+<lb ed="#P" n="30"/>Dei etsi cum Davidtunc eratut peccando non 
+pe<lb ed="#P" break="no" n="31"/>riret ; nullatenus tamen sic erat, ut damnabiliter
+<lb ed="#P" n="32"/>non peccaret. Simile est quod de Petro asserere
+<lb ed="#P" n="33"/>negante conantut, quod etiam tunc charitatem
+<lb ed="#P" n="34"/>Dei non perdiderat, quando interrogatas 
+Chris<lb ed="#P" break="no" n="35"/>tum se cognovisse negavit. Non enim attendunt
+<lb ed="#P" n="36"/>quod scriptum est : Nemo in spiritu Dei loquens
+<lb ed="#P" n="37"/>dicit : Anathema Jesu: et nemo potest dicere:
+<lb ed="#P" n="38"/>Dominus Jesus, nisi in Spiritu sancto (I Cor.
+<lb ed="#P" n="39"/>xi1). Quod si forte dicere voluerint, quod spiritum
+<lb ed="#P" n="40"/>Dei tunc quidem Petrus intus in corde habui
+<lb ed="#P" n="41"/>sed quod forisloquebatur in spiritu Dei non dixit;
+<lb ed="#P" n="42"/>audiant quod scriptum est : Ex abundantia 
+cor<lb ed="#P" break="no" n="43"/>disos loquitur (Matth. 1; Luc. vi). Ille ergo
+<lb ed="#P" n="44"/>spiritus foris in ore loquebatur, qui intus in 
+cor<lb ed="#P" break="no" n="45"/>de dominabatur. Qui cor regebat, linguam 
+move<lb ed="#P" break="no" n="46"/>bat. Sed dicent forte : Spiritus quidem Dei reces- D
+<lb ed="#P" n="47"/>Bit, sed charitas remansit. Considerate utrum 
+ve<lb ed="#P" break="no" n="48"/>ritas hoc dictum patiatur. Apostolus dicit: 
+Cha<lb ed="#P" break="no" n="49"/>ritus Dei diffusa est in. cordibus nostris per
+<lb ed="#P" n="50"/>Spiritum sanctum qui datus est nobis(Rom. v).
+<lb ed="#P" n="51"/>Nos charitatem non habemus, nisi in 
+quantumSpi<lb ed="#P" break="no" n="52"/>ritum sanctum habemus;ettu dicis:quod recedente
+<lb ed="#P" n="53"/>eLabsenteSpiritu sanctocharitas manet?Et dicunt:
+<lb ed="#P" n="54"/>Quid ergo ? Nulla scintilla pietatis, nulla 
+affec<lb ed="#P" break="no" n="55"/>tio dilectionis in Davidet in Petro remansit, 
+quan<lb ed="#P" break="no" n="56"/>do alter molestia carnalis concupiscentiae victus,
+<lb ed="#P" n="57"/>alter vero imminentis mortis timore fractus, 
+quo<lb ed="#P" break="no" n="58"/>dammodo uterque invitus peccavit. Imo 
+volun<lb ed="#P" break="no" n="59"/>tarie uterque peccavit; quia si voluissent utrique
+<lb ed="#P" n="60"/>non peccassent. Sed quia semet ipsos magis quam
+<lb ed="#P" n="61"/>Deum dilexerunt, suam potius quam Dei 
+volun<lb ed="#P" break="no" n="62"/>tatem impleverunt. Caro aliud suadebat, et aliud
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>Deus praecipiebat ; et elegerunt magis obededire
+<lb ed="#P" n="64"/>carni quam Creatori. Si voluissent, carnis 
+volun<lb ed="#P" break="no" n="65"/>tatem contempsissent, et voluntatem Creatoris
+<lb ed="#P" n="66"/>preposuissent. Sed nundum magistrum bonum
+<lb ed="#P" n="67"/>imitabantur dicentem: Pater, non mea voluntas
+<lb ed="#P" n="68"/>fiat, sed tua (Luc. xxr). Et fieri potest quod 
+ip<lb ed="#P" break="no" n="69"/>sam carnis voluntatem, cujus violentiam 
+sen<lb ed="#P" break="no" n="70"/>sorunt, aut nullam aut non tam violentam esse
+<lb ed="#P" n="71"/>voluerunt; tamen quod eidem tentanti et 
+fati<lb ed="#P" break="no" n="72"/>ganti consenserunt, non nisi volentes facerunt,
+<lb ed="#P" n="73"/>quia magis Creatorem offendere quam ipsam 
+mo<lb ed="#P" break="no" n="74"/>lestiam et fatigationem tolerare voluerunt ; quod
+<lb ed="#P" n="75"/>8i noluissent omnino non fecissent. Ergo in hoc
+<lb ed="#P" n="76"/>volentes id quod caro voluit fecerunt, id quod
+<lb ed="#P" n="77"/>Creator voluit, noluerunt; quia si illud 
+voluis<lb ed="#P" break="no" n="78"/>sent, ad istud faciendum voluntarie non 
+consen<lb ed="#P" break="no" n="79"/>sissent. Cum enim e duobus qua simul fleri non
+<lb ed="#P" n="80"/>possunt unum voluntate eligitur, procul dubio
+<lb ed="#P" n="81"/>alterum in voluntate non esse comprobatur. In
+<lb ed="#P" n="82"/>ea ergo voluntate quacontra Deum carni 
+consen<lb ed="#P" break="no" n="83"/>tire elegerunt, charitatem utique Dei nullatenus
+<lb ed="#P" n="84"/>habuerunt, quamvis tamen in eo ipso quod 
+mag<lb ed="#P" break="no" n="85"/>nam in tentatione violentiam passi sunt aliquam
+<lb ed="#P" n="86"/>in peccato suo excusationem habere possunt. De
+<lb ed="#P" n="87"/>affectu vero pietatis quem hujusmodi peccantes
+<lb ed="#P" n="88"/>nonnunquam habere quando simul et peccare
+<lb ed="#P" n="89"/>consentiunt, et tamen quodammodo in peccato
+<lb ed="#P" n="90"/>quod non deserunt, dolere quodam affici non 
+de<lb ed="#P" break="no" n="91"/>sistunt ; cavendum tamen est omnino ne 
+chari<lb ed="#P" break="no" n="92"/>tatis sive dilectionis Dei nomine dignus 
+existime<lb ed="#P" break="no" n="93"/>tur. Si enim in iis qui ab iniquitate ad justitiam
+<lb ed="#P" n="94"/>convertuntur, affectus quidam et dilectiones 
+praete<lb ed="#P" break="no" n="95"/>ritornm malorum remanent; qui tamen in bono
+<lb ed="#P" n="96"/>proposito constitutis ad iniquitatem non 
+impu<lb ed="#P" break="no" n="97"/>tantur; quare non similiter in iis qui ad 
+iniqui<lb ed="#P" break="no" n="98"/>tatem declinaverunt ex usu prsteritm 
+virtu<lb ed="#P" break="no" n="99"/>tis etiam in malo proposito affectiones 
+quzm<lb ed="#P" break="no" n="100"/>dam amissi sive corrupti boni aliquando super
+<lb ed="#P" n="101"/>esse dicantur, quae quidem sine proposito bone
+<lb ed="#P" n="102"/>voluntatis ex usu sive ex natura inesse possunt ;
+<lb ed="#P" n="103"/>sed sine ipso meritum justitie habere non 
+pos<lb ed="#P" break="no" n="104"/>sunt. Unum enim hoc est propositum scilicet 
+vo<lb ed="#P" break="no" n="105"/>luntatis sive consensus animi ex voluntate 
+sur<lb ed="#P" break="no" n="106"/>gens cui soli judicium est cum Deo, et hoc solum
+<lb ed="#P" n="107"/>8i bonum est non est ad malum quidquid in 
+ho<lb ed="#P" break="no" n="108"/>mine est sive bonum sit sive malum; item si 
+ma<lb ed="#P" break="no" n="109"/>lum est, non est ad bonum quidquid reliquum
+<lb ed="#P" n="110"/>est, sive bonum sive malum. Ad hunc ergo 
+ocu<lb ed="#P" break="no" n="111"/>lum ex quosolo totum corpus lucet respicere 
+de<lb ed="#P" break="no" n="112"/>buerunt, qui in affectionibus nescio qualibus
+<lb ed="#P" n="113"/>quas et incredulis et iniquis aliquoties sive ex 
+na<lb ed="#P" break="no" n="114"/>tura sive ex usu inesse videmus, meritum 
+homi<lb ed="#P" break="no" n="115"/>nis constitunt. Poterant his satis superstitiosce
+<lb ed="#P" n="116"/>questiones finem accipere, si tamen finem accipere
+<lb ed="#P" n="117"/>poterant. Nunc autem quaerunt, etsemper querunt,
+<lb ed="#P" n="118"/>etnunquaminveniunt. Interrogant utrum David et.
+<lb ed="#P" n="119"/>Petrusdamnari debuissent, si ante poenitentiam in
+<lb ed="#P" n="120"/>peccatis sui mortui fuissent. Quae questio quali
+<lb ed="#P" n="121"/>responsione digna sit utinam videre possent!
+Qua<lb ed="#P" break="no" n="122"/>reenim perire non debuissent si in peccatis suis
+<lb ed="#P" n="123"/>mortui fuissent ? Sed perire, inquiunt, non 
+potue<lb ed="#P" break="no" n="124"/>runt quoniam ad vitam predestinati fuerunt.
+<!-- 193.png.txt -->
+<pb ed="#P" n="275"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>Quare ego similiter non peccare non potuerunt, 
+<lb ed="#P" n="2"/>quoniam peccaturi prasciti fuerunt? Si enim 
+pre<lb ed="#P" break="no" n="3"/>destinatio impediri non potest, nec prewscientia
+<lb ed="#P" n="4"/>falli non potest. Si autem prescientia peccandi
+<lb ed="#P" n="5"/>non infert necessitatem, nec predestinatio 
+dam<lb ed="#P" break="no" n="6"/>nationis tollit possibilitatem. Vis adhuc audire
+<lb ed="#P" n="7"/>quid dicat Augustinus; quia mihi non credis, 
+au<lb ed="#P" break="no" n="8"/>di qui sunt qui diligunt, et qui sunt qui 
+perse<lb ed="#P" break="no" n="9"/>veraturi sunt ;et quae sit unitas dilectionis, et
+<lb ed="#P" n="10"/>qus sit unitas predestinationis. Scimus 
+quo<lb ed="#P" break="no" n="11"/>niam diligentibus Deum omnia cooperantur
+<lb ed="#P" n="12"/>in bonum iis qui secundum propositum vocati
+<lb ed="#P" n="13"/>sunt sancti (Rom. vii) ; propositum autem non
+<lb ed="#P" n="14"/>suum sed Dei. Quietiam predestinati atque 
+praesci<lb ed="#P" break="no" n="15"/>ti sunt. Usque adeo proreus omnia, ut etiam si qui
+<lb ed="#P" n="16"/>eorum deviantetetiam exorbitant, hoc ipsu meisfa- p 
+<lb ed="#P" n="17"/>ciat proficere in bonum; quia humiliores redeunt
+<lb ed="#P" n="18"/>atque doctiores. Horum si quisquam perit, fallitur
+<lb ed="#P" n="19"/>Deus; et vitio humano vincitur. Sed nemo eorum
+<lb ed="#P" n="20"/>perit, quia nulla re Deus vincitur aut fallitur.
+<lb ed="#P" n="21"/>Isti signati sunt ad Timotheum ubi cum dictum
+<lb ed="#P" n="22"/>fuisset Hymeneum et Philetum fidem quorumdam
+<lb ed="#P" n="23"/>subvertere, mox additum est: Firmum autem
+<lb ed="#P" n="24"/>fundamentum Dei stat. habens signaculum
+<lb ed="#P" n="25"/>hoc ; scivit Dominus qui sunt ejus (II Tim. 1).
+<lb ed="#P" n="26"/>Horum fides quz; per dilectionem operatur 
+pro<lb ed="#P" break="no" n="27"/>fecto aut omnino non deficit ; aut si qui sunt 
+quo<lb ed="#P" break="no" n="28"/>rum deficit, reparatur antequam vita ista 
+finia<lb ed="#P" break="no" n="29"/>tur; et delela quae intercurrerat iniquitate, 
+us<lb ed="#P" break="no" n="30"/>que in finem perseverantia deputatur. Qui vero
+<lb ed="#P" n="31"/>perseveraturi non sunt, ac sic a fide Christiana et (« 
+<lb ed="#P" n="32"/>conversatione lapsuri sunt, ut tales eos vite 
+hu<lb ed="#P" break="no" n="33"/>jus finis inveniat; procul dubio neque illo 
+tem<lb ed="#P" break="no" n="34"/>pore quo bene pieque vixeruntin istorum 
+nume<lb ed="#P" break="no" n="35"/>ro suntcomputandi. Non enim sünta massa illa per
+<lb ed="#P" n="36"/>ditionis prescientia Deiet praedestinatione 
+discre<lb ed="#P" break="no" n="37"/>ti;etideo nec secundum propositum vocatiac per
+<lb ed="#P" n="38"/>hoc necelecti sedineis vocati de quibus dictum est:
+<lb ed="#P" n="39"/>Multi vocati;non in eisdequibusdictumest:
+Pau<lb ed="#P" break="no" n="40"/>ci vero electi(Matth. xx). Et tamen quis eos neget.
+<lb ed="#P" n="41"/>electos cum credunt et baptizantur, et secundum
+<lb ed="#P" n="42"/>Deum vivunt ? Plane dicuntur electi a 
+nescienti<lb ed="#P" break="no" n="43"/>bus quid futuri sint ; non ab illo qui eos novit
+<lb ed="#P" n="44"/>non habere perseverantiam quae ad beatam vitam
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="45"/>perducit electos. Seitque illas ita stare ut 
+prms<lb ed="#P" break="no" n="46"/>cierit esse casuros.
+</p>
+               <p xml:id="hsvhsv-g51123-d1e3672">
+                  <lb ed="#P" n="47"/>Hic si a me queratur cur eis Deus 
+perseveran<lb ed="#P" break="no" n="48"/>tiam non dederit; qui eam qua christiane 
+vive<lb ed="#P" break="no" n="49"/>rent dilectionem dedit; me ignorare respondeo.
+<lb ed="#P" n="50"/>Respondeant et ipsi si possunt, cur illos Deus
+<lb ed="#P" n="51"/>cum fideliter et pie viverent non tunc de vits 
+hu<lb ed="#P" break="no" n="52"/>jus periculis rapuit, ne malitia mutaret 
+intellec<lb ed="#P" break="no" n="53"/>tum eorum, et ne fictio deciperet animas eorum ?
+<lb ed="#P" n="54"/>Utrum hoc in potestate non habuit, an eorum
+<lb ed="#P" n="55"/>mala futura nescivit? Nempe nihil horum nisi
+<lb ed="#P" n="56"/>perversisime atque insanissime dicitur. De 
+hujus<lb ed="#P" break="no" n="57"/>modi ait Joannes : Eae nobis exierunt, sed non
+<lb ed="#P" n="58"/>erant ex nebis. Quod si fuissent ex nobis,
+<lb ed="#P" n="59"/>permansissent utique nobiscum (I Joan. i1). Et
+<lb ed="#P" n="60"/>quid aliud dicit, nisi non erant filii etiam quando
+<lb ed="#P" n="61"/>erant in professione et nomine filiorum? Non quia
+<lb ed="#P" n="62"/>justitiam simulaverunt, sed quia in ea non 
+per<lb ed="#P" break="no" n="63"/>manserunt. Neque enim ait: Nam si fuissent ex
+<lb ed="#P" n="64"/>nobis, veram non fictam justitiam 
+tenuissentuti<lb ed="#P" break="no" n="65"/>que nobiscum. Sed si fuissent, inquit, ex nobis,
+<lb ed="#P" n="66"/>permanisssent utique nobiscum. In bono utique
+<lb ed="#P" n="67"/>erat ; sed quia in eo non permanserunt, id 
+estus<lb ed="#P" break="no" n="68"/>quein finem non perseveraverunt: non erant,
+<lb ed="#P" n="69"/>inquit, ex nobis, etiam quando erant nobiscum.
+<lb ed="#P" n="70"/>Hoc est non erant ex numero filiorum, etiam
+<lb ed="#P" n="71"/>quando erant in fide filiorum ; quoniam qui vere
+<lb ed="#P" n="72"/>filii sunt presciti et predestinati et secundum
+<lb ed="#P" n="73"/>propositum vocati sunt, ut sint electi. Non enim.
+<lb ed="#P" n="74"/>periit filius promiesionis, sed perditionis. Ac per
+<lb ed="#P" n="75"/>hoc nullus predestinatorum ex bono in malum
+<lb ed="#P" n="76"/>mutatus finit hanc vitam, quoniam sic est 
+ordina<lb ed="#P" break="no" n="77"/>tus et ideo Christo datus, ut non pereat, sed 
+ha<lb ed="#P" break="no" n="78"/>beat vitam seternam. De quibus ait Joannes : 
+Sci<lb ed="#P" break="no" n="79"/>mus quoniam omnis qui natus est ex Deo non
+<lb ed="#P" n="80"/>peccat. David graviter peccavit, sed quia natus
+<lb ed="#P" n="81"/>ex Deo ad societatem filiorum Dei pertinebat, non
+<lb ed="#P" n="82"/>peccavit usque ad mortem, sed veniam 
+poeniten<lb ed="#P" break="no" n="83"/>do meruit. De hoc siquidem peccato ad mortem,
+<lb ed="#P" n="84"/>ante meminit idem Joannes his verbis: Est 
+pec<lb ed="#P" break="no" n="85"/>catum ad mortem (I Joan. v). Et statim 
+sub<lb ed="#P" break="no" n="86"/>juxit: Scimus quoniam omnis qui natus est ex
+<lb ed="#P" n="87"/>Deo non peccat.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

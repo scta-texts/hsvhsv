@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pars 8</title>
+            <author ref="#HughOfStVictor">Hugh of St. Victor</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Pars 8</title>
+               <date when="2023-03-25">March 25, 2023</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-bnhupl">Patrologia Latina, v. 176</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2023-03-25" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="153"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="hsvhsv-g19613"><!-- l1-p8 -->
+            <head xml:id="hsvhsv-g19613-Hd1e101">Pars 8</head>
+            <head xml:id="hsvhsv-g19613-Hd1e103" type="question-title">
+De reparatione hominis
+</head>
+            <p xml:id="hsvhsv-g19613-d1e106">
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="58"/>PARS OCTAVA.
+<lb ed="#P" n="59"/>DE REPARATIONE HOMINIS.
+</p>
+            <div xml:id="hsvhsv-g19613-Dd1e115">
+               <head xml:id="hsvhsv-g19613-Hd1e117">Capitulum 1</head>
+               <head xml:id="hsvhsv-g19613-Hd1e119" type="question-title"/>
+               <p xml:id="hsvhsv-g19613-d1e121">
+                  <cb ed="#P" n="c"/>
+                  <lb ed="#P" n="60"/>Cap. PRIMUM. De eo quod tria sunt 
+consideran<lb ed="#P" break="no" n="61"/>da circa reparationem hominis.
+</p>
+               <p xml:id="hsvhsv-g19613-d1e130">
+                  <lb ed="#P" n="62"/>Prima culpa hominis fuit superbia, quam 
+tri<lb ed="#P" break="no" n="63"/>plex poena subsecuta est. Una quae poena est 
+tan<lb ed="#P" break="no" n="64"/>tum, id est mortalitas corporis. Du: relique et
+<lb ed="#P" n="65"/>pons sunt et culpe, quarum una est 
+concupis<lb ed="#P" break="no" n="66"/>centia carnis ; altera est ignorantia mentis. Quod
+<lb ed="#P" n="67"/>igitur homo tali poena percussus est per quam
+<lb ed="#P" n="68"/>culpa non purgaretur sed augeretur, nisi per 
+gra<lb ed="#P" break="no" n="69"/>tiam postmodum liberatus fuisset; per poenam
+<lb ed="#P" n="70"/>temporalem ad penam aeternam descenderet. Ne
+<lb ed="#P" n="71"/>autem damnandus inveniretur si statim 
+judicare<lb ed="#P" break="no" n="72"/>tur dilatum estjudicium ejus. Etquia divina eum
+<lb ed="#P" n="73"/>misericordia adsalutem praeordinavit ;in hoc 
+tem<lb ed="#P" break="no" n="74"/>pore exspectationis et dilationis locum 
+pceniten<lb ed="#P" break="no" n="75"/>tig et correctionis assignavit, quatenus eum 
+inte<lb ed="#P" break="no" n="76"/>rim per gratiam suam talem efficeret, quem 
+tan<lb ed="#P" break="no" n="77"/>dem non solum misericorditer sed etiam juste ad
+<lb ed="#P" n="78"/>salutem judicare valeret. Tria ergo hic in 
+repara<lb ed="#P" break="no" n="79"/>tione hominisprimo lococonsideranda occurrunt :
+<lb ed="#P" n="80"/>tempus, locus, remedium. Tempus est presens
+<lb ed="#P" n="81"/>vita ab initio mundi usque ad finem s:culi. Locus
+<lb ed="#P" n="82"/>est mundus iste. Remedium in tribus constat : in
+<lb ed="#P" n="83"/>fide, in sacramentis in operibus bonis. Tempus
+<cb ed="#P" n="d"/>
+                  <lb ed="#P" n="84"/>longum, ne imparatus preoccupetur. Locus asper,
+<lb ed="#P" n="85"/>ut prevaricator castigetur. Remedium efficax,
+<lb ed="#P" n="86"/>ut infirmus sanetur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g19613-Dd1e190">
+               <head xml:id="hsvhsv-g19613-Hd1e192">Capitulum 2</head>
+               <head xml:id="hsvhsv-g19613-Hd1e194" type="question-title"/>
+               <p xml:id="hsvhsv-g19613-d1e196">
+                  <lb ed="#P" n="87"/>Cap. II. De quinque locis.
+</p>
+               <p xml:id="hsvhsv-g19613-d1e201">
+                  <lb ed="#P" n="88"/>Quinque sunt loca. Unus in quo est solum 
+bo<lb ed="#P" break="no" n="89"/>num et summum bonum. Unus in quo est solum
+<lb ed="#P" n="90"/>malum et summum malum. Post haec alia duo.
+<lb ed="#P" n="91"/>Alter sub summo in quo eat solum bonum, sed
+<lb ed="#P" n="92"/>non summum. Alter supra imum in quo est 
+80<lb ed="#P" break="no" n="93"/>lum malum, sed nonsummum, in medio unus, in
+<lb ed="#P" n="94"/>quoest etbonum et malum, neutrum summum. In
+<lb ed="#P" n="95"/>coelo est solum bonum et summum ; in inferno
+<lb ed="#P" n="96"/>est solum malum et summum ; in paradiso est
+<lb ed="#P" n="97"/>solum bonum sed non summum ; in igne 
+purga<lb ed="#P" break="no" n="98"/>torio solum malum, sed non summum ; in 
+mun<lb ed="#P" break="no" n="99"/>do est bonum et malum, neutrum summum. 
+Pa<lb ed="#P" break="no" n="100"/>radisus est locus inchoantium et in melius 
+profi<lb ed="#P" break="no" n="101"/>cientium;et ideo ibi solum esse bonum debuit, quia
+<lb ed="#P" n="102"/>ereaturaa maloinitianda non fuit. Non tamen 
+sum<lb ed="#P" break="no" n="103"/>mum esse debuit, quia si summum ibi esset. 
+bo<lb ed="#P" break="no" n="104"/>num illic positis profectus non esset. Collum 
+1o<lb ed="#P" break="no" n="105"/>cus est confirmatorum bonorum et per 
+discipli<lb ed="#P" break="no" n="106"/>namad summum profectum pertingentium. Unum
+<lb ed="#P" n="107"/>solum summumque bonum in eo collocatum est.
+<!-- 072.png.txt -->
+<pb ed="#P" n="154"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>Infernus est locus confirmatorum malorum et 
+<lb ed="#P" n="2"/>disciplinam irrecuperabiliter deserentium ; et ideo
+<lb ed="#P" n="3"/>ibi solum et summum malum positum est. 
+Purgu<lb ed="#P" break="no" n="4"/>torius ignis est locus in prima correctione minus
+<lb ed="#P" n="5"/>correctorum, et in secunda perficiendorum;et ideo
+<lb ed="#P" n="6"/>solum malum habere debuit ut priore pejor 
+es<lb ed="#P" break="no" n="7"/>set ubi et malum simul et bonum consistit. 
+Mun<lb ed="#P" break="no" n="8"/>Qus est locus errantium et reparandorum ; et ideo
+<lb ed="#P" n="9"/>simul et bonum et malum in eo ordinatum est, ut
+<lb ed="#P" n="10"/>per bonum quidem consolationem accipiant; per
+<lb ed="#P" n="11"/>malum vero correctionem. Non tamen summum
+<lb ed="#P" n="12"/>bonum aut summum malum ibi est, ut si quo et per
+<lb ed="#P" n="13"/>sistentes in malo deficere, et recedentes a malo
+<lb ed="#P" n="14"/>proficere possint. Sic igitur coelum in summo est,
+<lb ed="#P" n="15"/>post caelum paradisus, post paradisum mundus,
+<lb ed="#P" n="16"/>postmundum ignia purgatorius, post purgatorium
+<lb ed="#P" n="17"/>infernus. Diabolus ergo qui a summo ceciderat,
+<lb ed="#P" n="18"/>in imum detrusus est propterea quia reparandus
+<lb ed="#P" n="19"/>non erat. Homo autem quia non a summo corruit.
+<lb ed="#P" n="20"/>non est posilus in imo, sed in medio collocatus,
+<lb ed="#P" n="21"/>ut ei locus esset quo ascendere posset per meritum
+<lb ed="#P" n="22"/>justitiae, vel descendere per reatum culpe.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g19613-Dd1e303">
+               <head xml:id="hsvhsv-g19613-Hd1e305">Capitulum 3</head>
+               <head xml:id="hsvhsv-g19613-Hd1e307" type="question-title"/>
+               <p xml:id="hsvhsv-g19613-d1e309">
+                  <lb ed="#P" n="23"/>Cap. III. Quomodo dispositus est homo ad panitentiam,
+<lb ed="#P" n="24"/>Positus est ergo homo in mundo isto in loco
+<lb ed="#P" n="25"/>ponitentiz, spatio peenitendi indulto, ut mala 
+cor<lb ed="#P" break="no" n="26"/>rigeret, bona repararet, ut tendem correctus ad
+<lb ed="#P" n="27"/>judicium veniens ; non pro culpa poenam, sed pro
+<lb ed="#P" n="28"/>justitia gloriam sibi praeparatam acciperet. 
+Res<lb ed="#P" break="no" n="29"/>tat ergo ut dum tempus est consilium exquirat et.
+<lb ed="#P" n="30"/>auxilium requiratcorrectionis et liberationis sud.
+<lb ed="#P" n="31"/>Sed quia ipse per se ad neutrum 
+sufficiensinveni<lb ed="#P" break="no" n="32"/>tur, necesse est ut ille qui per gratiam suam 
+dif<lb ed="#P" break="no" n="33"/>fert judicium, interim per eamdem gratiam 
+osten<lb ed="#P" break="no" n="34"/>dat evadendi consilium ; et post consilium 
+confe<lb ed="#P" break="no" n="35"/>rat auxilium. Sic itaque oportet ut interim 
+depo<lb ed="#P" break="no" n="36"/>mat personam judicis, assumat personam prius
+<lb ed="#P" n="37"/>coneiliatoris, postea auxiliatoris, ita duntaxat ut.
+<lb ed="#P" n="38"/>primo hominem totum sibi dimittat, quatenus et
+<lb ed="#P" n="39"/>ipse homo et ignorantiam suam experiatur et 
+in<lb ed="#P" break="no" n="40"/>telligat se indigere consilio, deinde etiam 
+defec<lb ed="#P" break="no" n="41"/>tum suum sentiat, et agnoscatse opushabere 
+auxi<lb ed="#P" break="no" n="42"/>lio. Tali igitur ratione in tempore naturalis legis
+<lb ed="#P" n="43"/>totus homo dimissus est sibi ; postea in tempore
+<lb ed="#P" n="44"/>scripte legiscognoscenti ignorantiam suam datum
+<lb ed="#P" n="45"/>est consilium ; postremo in tempore gratiae 
+confl<lb ed="#P" break="no" n="46"/>tenti defectum suum praestitum est auxilium. 
+Con<lb ed="#P" break="no" n="47"/>silium erat in ratione satisfactionis. Auxilium erat
+<lb ed="#P" n="48"/>in effectu redemptionis. Ut ergo rationem 
+satis<lb ed="#P" break="no" n="49"/>factionis quam pro peccato suo homo debet 
+resol<lb ed="#P" break="no" n="50"/>vere Creatori evidentius cognoscere possimus :
+<lb ed="#P" n="51"/>causam hominis prius necesseest paulis per 
+atten<lb ed="#P" break="no" n="52"/>tius consideremus. Causa vero haec inter 
+perso<lb ed="#P" break="no" n="53"/>nas tres agenda formatur, scilicet Deum, 
+homi<lb ed="#P" break="no" n="54"/>nem et diabolum.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g19613-Dd1e382">
+               <head xml:id="hsvhsv-g19613-Hd1e384">Capitulum 4</head>
+               <head xml:id="hsvhsv-g19613-Hd1e386" type="question-title"/>
+               <p xml:id="hsvhsv-g19613-d1e388">
+                  <lb ed="#P" n="55"/>Cap. IV. De causa hominis adversus Deum et
+<lb ed="#P" n="56"/>diabolum.
+</p>
+               <p xml:id="hsvhsv-g19613-d1e395">
+                  <lb ed="#P" n="57"/>Hi ergo tres in causa veniunt, homo, Deus et
+<lb ed="#P" n="58"/>diabolus. Diabolus injuriam Deo 
+fecisseconvinci<lb ed="#P" break="no" n="59"/>tur, quia servum ejus hominem et fraudulenter
+<lb ed="#P" n="60"/>abduxit, et violenter tenuit. Homo similiter Deo
+<lb ed="#P" n="61"/>injuriam fecisse convincitur, quia et praeceptum
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="62"/>ejus contempsit et se sub malum alienam ponens
+<lb ed="#P" n="63"/>suae servitutis damnum illi intulit. Item diabolus
+<lb ed="#P" n="64"/>homini injuriam fecisse convincitur, qu:aillum et
+<lb ed="#P" n="65"/>prius bona promittendo decepit, et post mala 
+in<lb ed="#P" break="no" n="66"/>ferendo nocuit. Injuste ergo diabolustenet 
+homi<lb ed="#P" break="no" n="67"/>nem sed homo juste tenetur; quia diabolus 
+nun<lb ed="#P" break="no" n="68"/>quam meruit ut hominem sibi subjectum 
+preme<lb ed="#P" break="no" n="69"/>ret, sed homo meruit per culpam suam ut ab eo
+<lb ed="#P" n="70"/>premi permitteretur. Licet enim ignoraret falsum
+<lb ed="#P" n="71"/>esse quod diabolus promisit, non tamen 
+ignora<lb ed="#P" break="no" n="72"/>vit quod etiam si verum esset contra Creatoris 
+vo<lb ed="#P" break="no" n="73"/>luntatem concupiscere non debuit. Justeergo 
+sub<lb ed="#P" break="no" n="74"/>jectus est homo diabolo quantum pertinet ad 
+cul<lb ed="#P" break="no" n="75"/>pam suam: injusteautem quantum pertinet ad
+<lb ed="#P" n="76"/>diaboli fraudulentiam. Si igitur homo talem 
+pa<lb ed="#P" break="no" n="77"/>B tronum haberet cujus potentia diabolus in 
+cau<lb ed="#P" break="no" n="78"/>sam adduci posset, juste dominio ejus homo 
+con<lb ed="#P" break="no" n="79"/>tradiceret; quia nullam diabolus justam causam
+<lb ed="#P" n="80"/>habuit quare sibi jus in homine vindicare 
+debue<lb ed="#P" break="no" n="81"/>rit. Patronus autem nullus talis inveniri poterat
+<lb ed="#P" n="82"/>nisi solus Deus, sed Deus causam hominis 
+susci<lb ed="#P" break="no" n="83"/>pere noluit, quia homini adhuc pro culpa sua 
+ira<lb ed="#P" break="no" n="84"/>tus fuit. Oportuit ergo ut prius homo Deurn 
+pla<lb ed="#P" break="no" n="85"/>caret, et sic deinde Deo patrocinante cum 
+diabo<lb ed="#P" break="no" n="86"/>lo causam iniret. Sed Deum rationabiliter placare
+<lb ed="#P" n="87"/>non poterat, nisi et damnum quod intulerat 
+res<lb ed="#P" break="no" n="88"/>tauraret, et de contemptusatisfaceret. Homo vero
+<lb ed="#P" n="89"/>nihil habuit quod digne Deo pro ablato 
+damnore<lb ed="#P" break="no" n="90"/>compensaret. Quia si quid de irrationali creatura.
+<lb ed="#P" n="91"/>redderet, pro rationali sublata, minus esset. Sed
+<lb ed="#P" n="92"/>(nec hominem pro homine reddere potuit, quia
+<lb ed="#P" n="93"/>justumet innocentem abstulerat, et neiminem nisi
+<lb ed="#P" n="94"/>peccatorem invenit. Nihil ergo homo invenit. 
+un<lb ed="#P" break="no" n="95"/>de Deum sibi placare posset, quia sivesua, sive
+<lb ed="#P" n="96"/>seipsum daret digna recompensatio non esset. 
+Vi<lb ed="#P" break="no" n="97"/>dens ergo Deus hominem sua virtute 
+jugumdam<lb ed="#P" break="no" n="98"/>nationis non posse evadere, misertus est ejus ; et
+<lb ed="#P" n="99"/>primum gratuito pravenit eum per solam 
+mise<lb ed="#P" break="no" n="100"/>ricordiam ut deinde liberaret per justitiam. Hoc
+<lb ed="#P" n="101"/>est quia homo ex se justitiam evadendi non 
+ha<lb ed="#P" break="no" n="102"/>buit; Deus homini per misericordiam, justitiam
+<lb ed="#P" n="103"/>dedit. Neque enim ereptio hominis perfecte 
+ratio<lb ed="#P" break="no" n="104"/>nabilis esset, nisi ex utraque parte justa fieret;
+<lb ed="#P" n="105"/>hoc et sicut Deus justitiam habuithominem 
+requi<lb ed="#P" break="no" n="106"/>rendi, ita et homo justitiam haberet evadendi.
+<lb ed="#P" n="107"/>Sed hanc justitiam homonunquam habere 
+potuis<lb ed="#P" break="no" n="108"/>set, disi Deus illi per misericordiam guam illam
+<lb ed="#P" n="109"/>tribueret. Ut ergo Deus ab homineplacari posset,
+<lb ed="#P" n="110"/>dedit Deus gratis homini quod homo ex debito
+<lb ed="#P" n="111"/>Deo redderet. Dedit igitur hominihominem quem
+<lb ed="#P" n="112"/>homo pro homine redderet, qui ut digna 
+recom<lb ed="#P" break="no" n="113"/>pensatio fleret priori non solum. zqualis sed 
+ma<lb ed="#P" break="no" n="114"/>jor esset. Ut ergo pro homine redderetur homo
+<lb ed="#P" n="115"/>major homine, factus est Deus homo pro homine;
+<lb ed="#P" n="116"/>et dedit se homo homini, ut se assumeret ab 
+ho<lb ed="#P" break="no" n="117"/>mine. Incarnatus est Deus Dei Filius, et datus est
+<lb ed="#P" n="118"/>hominibus Deus homo Christus. Sicut Isaias ait:
+<lb ed="#P" n="119"/>Puer datus est nobis (Isa. 1x), etc. Quod ergo
+<lb ed="#P" n="120"/>homini datus est Christus, Dei fuit misericordia.
+<lb ed="#P" n="121"/>Quod ab homine redditus est Christus, fuit 
+homi<lb ed="#P" break="no" n="122"/>nis justitia. In nativitate enim Christi juste 
+pla<lb ed="#P" break="no" n="123"/>catus est Deus homini ;quia talis homo inventu
+<!-- 073.png.txt -->
+<pb ed="#P" n="155"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>est pro homine qui non solum, ut dictum est par,
+<lb ed="#P" n="2"/>sed etiam major esset homine. Ideo in nativitate
+<lb ed="#P" n="3"/>Christi angelimundo paceth nuntiabant, dicentes:
+<lb ed="#P" n="4"/>Gloria in excelsis Deo, et in terra paae 
+homini<lb ed="#P" break="no" n="5"/>bus bonce voluntatis (Luc. 11).'Sed adhuc super
+<lb ed="#P" n="6"/>erat homini, ut sicut restaurando damnum 
+pla<lb ed="#P" break="no" n="7"/>caverat iram, ita quoque pro contemptu satisfa
+<lb ed="#P" n="8"/>ciendo dignus fieret evadere ponam. Sed hoc 
+con<lb ed="#P" break="no" n="9"/>venientius fierinon poterat, nisi ut poonam quam
+<lb ed="#P" n="10"/>non debebat sponte et obedienter susciperet, ut
+<lb ed="#P" n="11"/>de pcena quam per inobedientiam meruerat eripi
+<lb ed="#P" n="12"/>dignus fleret. Hanc autem penam homo peccator
+<lb ed="#P" n="13"/>solvere non poterat, qui quamcunque poenam 
+sus<lb ed="#P" break="no" n="14"/>ciperet non nisidigneet juste propter contemptus
+<lb ed="#P" n="15"/>primi reatum sustineret. Ut ergo homo juste 
+de<lb ed="#P" break="no" n="16"/>bitam poenam evaderet, necesse fuit ut talis 
+ho<lb ed="#P" break="no" n="17"/>mo pro homine pcenam susciperet qui nihil 
+po<lb ed="#P" break="no" n="18"/>nae debuisset. Sed talis nullus inveniri poterat ni
+<lb ed="#P" n="19"/>si Christus. Christus ergo nascendo debitum 
+ho<lb ed="#P" break="no" n="20"/>minis patri solvit, et moriendo reatum hominis
+<lb ed="#P" n="21"/>expiavit, ut cum ipse pro homine mortem quam
+<lb ed="#P" n="22"/>non debebat sustineret, juste homo propter ipsum
+<lb ed="#P" n="23"/>mortem quam debebat evaderet, et jam locum 
+calu<lb ed="#P" break="no" n="24"/>mniandi diabolus noninveniret; quia et ipse 
+homi<lb ed="#P" break="no" n="25"/>ni dominari non debuit, et homo liberari dignus
+<lb ed="#P" n="26"/>fuit. Idem itaque etjudicium nostrumet 
+causamfe<lb ed="#P" break="no" n="27"/>cit, sicut scriptum est: Quoniam fecisti judicium
+<lb ed="#P" n="28"/>meum et causam meam (Psal. 1x). Causam 
+nos<lb ed="#P" break="no" n="29"/>tram fecit, quia debitum Patri pro nobis solvit,
+<lb ed="#P" n="30"/>et moriendo reatum expiavit. Judicium vero quia
+<lb ed="#P" n="31"/>descendens ad inferos et portas mortis frangens
+<lb ed="#P" n="32"/>captivitatem quae ibidem tenebatur liberavit. 
+Ju<lb ed="#P" break="no" n="33"/>dicium ergo diaboli adversus Deum factum est
+<lb ed="#P" n="34"/>statim ab initio saeculi. Judicium hominis adver-.
+<lb ed="#P" n="35"/>suae diabolum, in passione Christi. Judicium 
+ho<lb ed="#P" break="no" n="36"/>minis adversus Deum differtur usque in 
+cousum<lb ed="#P" break="no" n="37"/>mationem sreculi. Et ideo homo si prius per 
+Chris<lb ed="#P" break="no" n="38"/>tum Deo conciliari voluerit, post judicium sui 
+si<lb ed="#P" break="no" n="39"/>ne timore damnationis exspectabit.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g19613-Dd1e637">
+               <head xml:id="hsvhsv-g19613-Hd1e639">Capitulum 5</head>
+               <head xml:id="hsvhsv-g19613-Hd1e641" type="question-title"/>
+               <p xml:id="hsvhsv-g19613-d1e643">
+                  <lb ed="#P" n="40"/>Cap. V De discretione judiciorum.
+</p>
+               <p xml:id="hsvhsv-g19613-d1e648">
+                  <lb ed="#P" n="41"/>Quatuor sunt judicia, secundum prescientiam,
+<lb ed="#P" n="42"/>secundum causam, secundum operationem, 
+secun<lb ed="#P" break="no" n="43"/>dum retributionem. Secundum prewscientiam 
+ju<lb ed="#P" break="no" n="44"/>dicati fuimus antequam essemus. Secundum 
+cau<lb ed="#P" break="no" n="45"/>sam judicamur ex quoesse incipimus, quando 
+bo<lb ed="#P" break="no" n="46"/>ni vel mali sumus. Secundum operationem 
+judi<lb ed="#P" break="no" n="47"/>camur, quando operibus foris ostendimus 
+quales<lb ed="#P" break="no" n="48"/>intus apud nos sumus. Secundum retributionem
+<lb ed="#P" n="49"/>judicabimur, quando in percipienda mercede 
+ope<lb ed="#P" break="no" n="50"/>rum cognoscemus quales ab sterno apud Deum
+<lb ed="#P" n="51"/>previsi fuimus. Ex his quatuor judiciis duo sunt.
+<lb ed="#P" n="52"/>occulta : judicium scilicet secundum 
+prescien<lb ed="#P" break="no" n="53"/>tiam, et judicium secundum causam ; et. ideo in
+<lb ed="#P" n="54"/>eis judicium humanum non recipitur. Duo 
+mani<lb ed="#P" break="no" n="55"/>festa, id est judicium secundum operationem ; et
+<lb ed="#P" n="56"/>judicium secundum retributionem. In quorum 
+al<lb ed="#P" break="no" n="57"/>tero, id est judicio secundum operationem, 
+homi<lb ed="#P" break="no" n="58"/>nibus a Deo in prssenti judicandi potestas 
+da<lb ed="#P" break="no" n="59"/>tur. Alterum vero, hoc est judicium secundum 
+re<lb ed="#P" break="no" n="60"/>tributionem, mon ab hominibus, sed a Deo coram
+<lb ed="#P" n="61"/>hominibus judicabitur. Sed judicium secundum
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="62"/>prescientiam occultum est ct immutabile ; 
+judi<lb ed="#P" break="no" n="63"/>cium secundum causam occultum est et. mutabile;
+<lb ed="#P" n="64"/>judicium secundum operationem manifestum et
+<lb ed="#P" n="65"/>mutabile; judicium secundum retributionem 
+ma<lb ed="#P" break="no" n="66"/>nifestum et immutabile. Judicium secundum 
+ope<lb ed="#P" break="no" n="67"/>rationem imago quodammodo est, et 
+sacramen<lb ed="#P" break="no" n="68"/>tum judicii secundum retributionem. Quia illud
+<lb ed="#P" n="69"/>manifestat causam et prescientiam innuit, hoc
+<lb ed="#P" n="70"/>vero manifestabit causam, et confirmabit 
+pres<lb ed="#P" break="no" n="71"/>cientiam. Item considerandum est quod judicium
+<lb ed="#P" n="72"/>alitor fit ubi sententia dictatur, aliter ubi 
+profer<lb ed="#P" break="no" n="73"/>tur. In dictanda quidem sententia omnis judicii
+<lb ed="#P" n="74"/>judicat simul Pater et Filius et Spiritus sanctus.
+<lb ed="#P" n="75"/>In proferenda autem judicat solus Filius, quia
+<lb ed="#P" n="76"/>in divinitate sua cum Patre et Spiritu sancto 
+om<lb ed="#P" break="no" n="77"/>nis judicii sententiam dictare habuit; in 
+huma<lb ed="#P" break="no" n="78"/>nitate sua omnis judicii sententiam proferre solus
+<lb ed="#P" n="79"/>accepit. Propterea humanitas (que sententiam
+<lb ed="#P" n="80"/>dictare non habet) quantum ad dictandam 
+sen<lb ed="#P" break="no" n="81"/>tentiam dixit: Ego non judico quemquam(Joan.
+<lb ed="#P" n="82"/>vir); sed tamen quia proferre habet secundum
+<lb ed="#P" n="83"/>quod dictata est subdit : Sicut audio judico
+<lb ed="#P" n="84"/>(Joan. v). Quod enim intus audit ubi sententia 
+di<lb ed="#P" break="no" n="85"/>ctatur, foris judicat ubi profertur. Hisitaque 
+bre<lb ed="#P" break="no" n="86"/>viter de discretione judiciorum propositis, nunc
+<lb ed="#P" n="87"/>ad ipsam narrationis nostre seriem revertamur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g19613-Dd1e756">
+               <head xml:id="hsvhsv-g19613-Hd1e758">Capitulum 6</head>
+               <head xml:id="hsvhsv-g19613-Hd1e760" type="question-title"/>
+               <p xml:id="hsvhsv-g19613-d1e762">
+                  <lb ed="#P" n="88"/>Cap. VI. Cur Deus homo.
+</p>
+               <p xml:id="hsvhsv-g19613-d1e767">
+                  <lb ed="#P" n="89"/>Factus est itaque Deus homo ut hominem quem
+<lb ed="#P" n="90"/>fecerat liberaret, ut idem esset creator hominis et.
+<lb ed="#P" n="91"/>redemptor. Missus itaque Filius, ut in adoptione
+<lb ed="#P" n="92"/>paterna assensum suum demonstraret. Venit 
+sa<lb ed="#P" break="no" n="93"/>pientia ut. vinceret malitiam, ut hostis qui 
+astu<lb ed="#P" break="no" n="94"/>tia vicerat, prudentia vinceretur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g19613-Dd1e784">
+               <head xml:id="hsvhsv-g19613-Hd1e786">Capitulum 7</head>
+               <head xml:id="hsvhsv-g19613-Hd1e788" type="question-title"/>
+               <p xml:id="hsvhsv-g19613-d1e790">
+                  <lb ed="#P" n="95"/>Cap. VII. Quid ad nos pertinuit passio Christi.
+</p>
+               <p xml:id="hsvhsv-g19613-d1e795">
+                  <lb ed="#P" n="96"/>Suscepit denatura hostiam pro natura, ut 
+deno<lb ed="#P" break="no" n="97"/>atro esset holocaustum offerendum pro nobis, ut in
+<lb ed="#P" n="98"/>hoc ipso ad nospertineret redemptio; quia 
+denos<lb ed="#P" break="no" n="99"/>tro sumpta erat immolatio. Cujus quidem 
+redemp<lb ed="#P" break="no" n="100"/>tionis participes effcirnur, si ipsi redemptori per
+<lb ed="#P" n="101"/>carnem nobis sociato per fidem unimur. Natura
+<lb ed="#P" n="102"/>quidem humana tota per peccatum corrupta 
+fue<lb ed="#P" break="no" n="103"/>rat, ettota propter peccatum damnationi debita
+<lb ed="#P" n="104"/>erat ; et idcirco si tota damnata fuisset, injustitia
+<lb ed="#P" n="105"/>non fuisset. Venit autem gratia et elegit quosdam
+<lb ed="#P" n="106"/>D de massa universitatis per misericordiam ad 
+sa<lb ed="#P" break="no" n="107"/>lutem ; quosdam autem per justitiam deseruit ad
+<lb ed="#P" n="108"/>damnationem. Et quos per misericordiam 
+salva<lb ed="#P" break="no" n="109"/>vit, non sine justitia salvavit, quia in ejus 
+potesta<lb ed="#P" break="no" n="110"/>te erat ut hoc juste facere posset, quos tamen si
+<lb ed="#P" n="111"/>non salvasset juste fecisset ; quia in eorum 
+meri<lb ed="#P" break="no" n="112"/>to erat ut si hoc faceret injustum non esset.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g19613-Dd1e835">
+               <head xml:id="hsvhsv-g19613-Hd1e837">Capitulum 8</head>
+               <head xml:id="hsvhsv-g19613-Hd1e839" type="question-title"/>
+               <p xml:id="hsvhsv-g19613-d1e841">
+                  <lb ed="#P" n="113"/>Cap. VIII. De justitia potestatis et aequitatis.
+</p>
+               <p xml:id="hsvhsv-g19613-d1e846">
+                  <lb ed="#P" n="114"/>Justitia enim alia est secundum debitum 
+facien<lb ed="#P" break="no" n="115"/>tis, ulia secundum meritum patientis, justitia 
+se<lb ed="#P" break="no" n="116"/>cundum debitum facientis est potestatis, justitia
+<lb ed="#P" n="117"/>secundum meritum patientis est :quitatis. 
+Justi<lb ed="#P" break="no" n="118"/>tia potestatis est qua sine injustitia licet facienti
+<lb ed="#P" n="119"/>si velit quod ejus potestati debetur. gJustitia s
+<lb ed="#P" n="120"/>quitatis est qua retribuitur patienti (etiam si 
+no<lb ed="#P" break="no" n="121"/>lit) quod ejus merito debetur. Cum ergo Deus pu-
+<!-- 074.png.txt -->
+<pb ed="#P" n="156"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>nit peccatorem juste facit; quia ejus potestati 
+de<lb ed="#P" break="no" n="2"/>betur ut hoc possit si velit, et juste punitur qui
+<lb ed="#P" n="3"/>patitur ; quia secundum meritum suum et 
+retri<lb ed="#P" break="no" n="4"/>buitur quod ejus merito debetur, et est illic 
+potes<lb ed="#P" break="no" n="5"/>tas justaqua Deus juste facit et ipse justus est. Et
+<lb ed="#P" n="6"/>hic retributio wequa qua peccator juste patitur,
+<lb ed="#P" n="7"/>qua tamen ipse non est justus, sed pcena ejus 
+jus<lb ed="#P" break="no" n="8"/>ta est. Cum vero Deus justificat peccatorem juste
+<lb ed="#P" n="9"/>agit, et justus est justitia potestatis qua ei hoc 
+li<lb ed="#P" break="no" n="10"/>cet. Qui vero justificatur justus est justitia quam
+<lb ed="#P" n="11"/>accipit, sed non in eo quod contra meritum suum
+<lb ed="#P" n="12"/>accipit ; sed tamen injustus non est, quia non 
+fa<lb ed="#P" break="no" n="13"/>eit ipse quod accipit, quia per se non accipit, sed
+<lb ed="#P" n="14"/>patitur tantum quod accipit, et est qui facit quia
+<lb ed="#P" n="15"/>facit, et justiti qua facit : et eat justus qui 
+acci<lb ed="#P" break="no" n="16"/>pit justitiam quam accipit, non tamen quia 
+acci<lb ed="#P" break="no" n="17"/>pit, quia sine justitia sua per solam gratiam 
+jus<lb ed="#P" break="no" n="18"/>titiam accipit.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g19613-Dd1e913">
+               <head xml:id="hsvhsv-g19613-Hd1e915">Capitulum 9</head>
+               <head xml:id="hsvhsv-g19613-Hd1e917" type="question-title"/>
+               <p xml:id="hsvhsv-g19613-d1e919">
+                  <lb ed="#P" n="19"/>Cap. IX. De justitia patiente et cogente.
+</p>
+               <p xml:id="hsvhsv-g19613-d1e924">
+                  <lb ed="#P" n="20"/>Item sciendum est quod justitia alia patiens,
+<lb ed="#P" n="21"/>alia cogens. Justitia patiens est qua si fiataliquid
+<lb ed="#P" n="22"/>justum est ; si non fiat, injustum non est. Justitia
+<lb ed="#P" n="23"/>cogens est qua sic aliquid justefit, ut si non fleret
+<lb ed="#P" n="24"/>injustum esset. Propter quod justitia patiens 
+dis<lb ed="#P" break="no" n="25"/>pensationem habet, justitia cogens necessitatem.
+<lb ed="#P" n="26"/>Sicigitur Deus de massa generis humani 
+quos<lb ed="#P" break="no" n="27"/>dam ad salvationem assumens justitia utitur 
+de<lb ed="#P" break="no" n="28"/>bit» potestatis, quosdam vero ad perditionem 
+de<lb ed="#P" break="no" n="29"/>Serens, justitia utitur licitae sequitatis. Illic de 
+de<lb ed="#P" break="no" n="30"/>bito suo, hic de merito nostro. Si vero eos quos
+<lb ed="#P" n="31"/>nunc ad salvationem assumit desereret injustitia (; 
+<lb ed="#P" n="32"/>non esset, quoniam secundum merita sua 
+recipe<lb ed="#P" break="no" n="33"/>rent justitiam zquitatis. Si autem eos quos nunc
+<lb ed="#P" n="34"/>deserit assumeret, similiter injustitia non essset ;
+<lb ed="#P" n="35"/>quia in eorum salvatione uteretur justitia 
+potes<lb ed="#P" break="no" n="36"/>tatis. Sive igitur in his qui salvantur sive in his
+<lb ed="#P" n="37"/>qui damnantur justitia patiens est per quam illud
+<lb ed="#P" n="38"/>quod fit sic justum est, ut etiam si aliter fieret 
+in<lb ed="#P" break="no" n="39"/>justum non esset. Nam et ii qui secundum merita
+<lb ed="#P" n="40"/>sua juste damnantur, per gratiam Dei juste 
+sal<lb ed="#P" break="no" n="41"/>vari potuissent si Deus voluisset. Et rursum qui
+<lb ed="#P" n="42"/>per gratiam Dei juste salvantur, secundum merita
+<lb ed="#P" n="43"/>8ua juste damnari potuissent si Deus eos salvare
+<lb ed="#P" n="44"/>noluisset. Sic igitur quod voluit utrumque justum
+<lb ed="#P" n="45"/>fuit, ut etiam si aliter voluisset injustum non 
+fuis<lb ed="#P" break="no" n="46"/>set, quia potestas est in voluntate ejus, quia sine
+<lb ed="#P" n="47"/>injustitia facere illi licet quodcunque voluerit.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g19613-Dd1e988">
+               <head xml:id="hsvhsv-g19613-Hd1e990">Capitulum 10</head>
+               <head xml:id="hsvhsv-g19613-Hd1e992" type="question-title"/>
+               <p xml:id="hsvhsv-g19613-d1e994">
+                  <lb ed="#P" n="48"/>Cap. X. Quod aliter Deus redemisse potuisset
+<lb ed="#P" n="49"/>hominem si voluisset.
+</p>
+               <p xml:id="hsvhsv-g19613-d1e1001">
+                  <lb ed="#P" n="50"/>Propter quod veraciter profitemur quod 
+redem<lb ed="#P" break="no" n="51"/>tionem generis humani etiam alio modo Deus 
+per<lb ed="#P" break="no" n="52"/>ficere potuisset si voluisset. Sed quod iste nostra
+<lb ed="#P" n="53"/>infirmitati convenientior fuit ut Deus homo 
+fie<lb ed="#P" break="no" n="54"/>ret, et prohomine mortalitatem hominis assumens
+<lb ed="#P" n="55"/>adspem sux immortalitatishominem reformaret.
+<lb ed="#P" n="56"/>Ut non diffidat jam homo se ad bona illius posse
+<lb ed="#P" n="57"/>ascendere, quem ad sua mala toleranda 
+videtdes<lb ed="#P" break="no" n="58"/>cendisse ; et ut in Deo humanitas glorificata 
+ex<lb ed="#P" break="no" n="59"/>emplum esset glorificationis hominibus. Ut in eo
+<lb ed="#P" n="60"/>quod passttis est videant quid ei retribuere debeant
+<lb ed="#P" n="61"/>in eo autem quod glorificatus est considerent quid
+<lb ed="#P" n="62"/>ab eo debeant exspectare. Ut et ipse sit via in ex-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>emplo, et veritas in promisso, et vita in praemio.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g19613-Dd1e1037">
+               <head xml:id="hsvhsv-g19613-Hd1e1039">Capitulum 11</head>
+               <head xml:id="hsvhsv-g19613-Hd1e1041" type="question-title"/>
+               <p xml:id="hsvhsv-g19613-d1e1043">
+                  <lb ed="#P" n="64"/>CaP. XI. Quaratione instituta sunt sacramenta.
+</p>
+               <p xml:id="hsvhsv-g19613-d1e1048">
+                  <lb ed="#P" n="65"/>Postquam primus parens generis humani 
+prop<lb ed="#P" break="no" n="66"/>ter inobedientiae culpam a paradiso exulans venit.
+<lb ed="#P" n="67"/>in hunc mundum ; diabolus justyrannicum in 
+il<lb ed="#P" break="no" n="68"/>1o exercens, sicut eum prius fraudulenter 
+seduxe<lb ed="#P" break="no" n="69"/>ratjita postmodum violenter possidébat. Sed Dei
+<lb ed="#P" n="70"/>providentia qu:e hunc ad salutem disponebat sic
+<lb ed="#P" n="71"/>juatitie rigorem per misericordiam temperavit, ut
+<lb ed="#P" n="72"/>eum. quidem ad tempus ab illo premi 
+permitte<lb ed="#P" break="no" n="73"/>ret;ettamen ne ab illo in aeternum promeretur
+<lb ed="#P" n="74"/>ex ipsa ei poena remedium pr:pararet. Itaque
+<lb ed="#P" n="75"/>tunc ab ipso mundi exordio sacramenta salutis
+<lb ed="#P" n="76"/>sum homini proposuit quibus eum ab 
+exspecta<lb ed="#P" break="no" n="77"/>tione futureesanctificationis consignaret, quatenus
+<lb ed="#P" n="78"/>Bea quisquis fide recta et spe firma propter 
+obe<lb ed="#P" break="no" n="79"/>dientiam institutionis divinse perciperet, etiam sub
+<lb ed="#P" n="80"/>jugo positus ad consortium libertatis pertineret.
+<lb ed="#P" n="81"/>Proposuit itaque edictum suum informans 
+homi<lb ed="#P" break="no" n="82"/>nem et erudiens, ut quicunque eum salvatorem
+<lb ed="#P" n="83"/>exspectare eligeret, ejusdem sus electionis votum
+<lb ed="#P" n="84"/>in perceptionesacramentorum ejus approbare 
+de<lb ed="#P" break="no" n="85"/>buisset. Proposuit et diabolus sacramenta sua
+<lb ed="#P" n="86"/>quibus suos sibi alligaret, quatenus ab illis qui
+<lb ed="#P" n="87"/>ejus imperium detractabant quanto manifestius
+<lb ed="#P" n="88"/>eos discerneret tanto securius possideret. Coepit
+<lb ed="#P" n="89"/>ergo genus humanum mox in partes contrarias
+<lb ed="#P" n="90"/>dividi ; aliis diaboli sacramenta suscipientibus,
+<lb ed="#P" n="91"/>aliis vero suscipientibus sacramenta Christi. Et
+<lb ed="#P" n="92"/>facte sunt dum familie, una Christi, altera 
+diabo<lb ed="#P" break="no" n="93"/>li. Quid enim verbum incarnatum dixerim, nisi
+<lb ed="#P" n="94"/>regem qui hunc mundum intravit per 
+assump<lb ed="#P" break="no" n="95"/>tam humanitatem cum diabolo bellaturus, et eum
+<lb ed="#P" n="96"/>exinde quasi tyrannum et violenter in alieno 
+do<lb ed="#P" break="no" n="97"/>minantem expulsurus? Et quid omnes priores
+<lb ed="#P" n="98"/>sanctos qui ante incarnationem verbi ab initio
+<lb ed="#P" n="99"/>fuerunt electi appellaverim, nisi milites quosdam
+<lb ed="#P" n="100"/>optimos regem venturum in acie praecedentes 
+ip<lb ed="#P" break="no" n="101"/>8Sisquibustuncsanctificabantursacramentis quasi
+<lb ed="#P" n="102"/>quibusdam armis muniti atque praecincti ? Quid
+<lb ed="#P" n="103"/>item eos qui post incarnationem usque ad finem
+<lb ed="#P" n="104"/>electi subsequuntur, nisi milites alios, non tamen
+<lb ed="#P" n="105"/>alium, sed ipsum suum regem precedentem 
+una<lb ed="#P" break="no" n="106"/>nimiter atque alacriter subsequentes, habentes et.
+<lb ed="#P" n="107"/>ipsi novi arma nova, tamen ab eodem armati et
+<lb ed="#P" n="108"/>contra eumdem pugnaturi? Sive igitur 
+prece<lb ed="#P" break="no" n="109"/>dentes sive subsequentes, unius regis 
+sacramen<lb ed="#P" break="no" n="110"/>ta portantes, uni regi militantes, et unum 
+tyran<lb ed="#P" break="no" n="111"/>num superantes ; illi venturum precedentes, isti
+<lb ed="#P" n="112"/>precedentem subsequentes. Unde patet quod ab
+<lb ed="#P" n="113"/>initio et si non nomine, re tamen Christiani 
+fue<lb ed="#P" break="no" n="114"/>runt. Tria enim sunt tempora per quae praesentia
+<lb ed="#P" n="115"/>seculi spatium decurrit. Primum est tempus 
+na<lb ed="#P" break="no" n="116"/>turalis legis ; secundum tempus scripte legis ;
+<lb ed="#P" n="117"/>tertium tempus gratis. Primum ab Adam usque
+<lb ed="#P" n="118"/>ad Moysen. Secundum a Moyse usque ad 
+Chris<lb ed="#P" break="no" n="119"/>tum. Tertium a Christo usque ad finem smculi.
+<lb ed="#P" n="120"/>Similiter tria sunt genera hominum ;id est 
+ho<lb ed="#P" break="no" n="121"/>mines naturalis legis, homines scripte legis, 
+ho<lb ed="#P" break="no" n="122"/>mines gratie. Homines naturalis legis dici 
+pos<lb ed="#P" break="no" n="123"/>sunt qui sola naturali ratione vitam suam 
+diri<lb ed="#P" break="no" n="124"/>gunt. Vel homines potius homines naturalis legis
+<!-- 075.png.txt -->
+<pb ed="#P" n="157"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>dicuntur qui secundum concupiscentiam in qua A.
+<lb ed="#P" n="2"/>nati sunt ambulant. Homines scripto legis sunt
+<lb ed="#P" n="3"/>ii qui exterioribus praeceptis ad bene vivendum
+<lb ed="#P" n="4"/>informantur. Homines grati: sunt ii qui per 
+ins<lb ed="#P" break="no" n="5"/>pirationem Spiritus sancti afflati et illuminantur
+<lb ed="#P" n="6"/>ut bonum quod faciendum est agnoscant, et 
+in<lb ed="#P" break="no" n="7"/>flammantur ut diligunt, et corroborantur ut 
+per<lb ed="#P" break="no" n="8"/>fiiant. Et ut idem manifestiori distinctione 
+si<lb ed="#P" break="no" n="9"/>gnemus : homines naturalis legis sunt 
+apertema<lb ed="#P" break="no" n="10"/>li, homines scripta legis ficte boni, homines 
+gra<lb ed="#P" break="no" n="11"/>tig vere boni. Ficte boni, sunt tecti ; aperte mali,
+<lb ed="#P" n="12"/>suntdetecti; qui per Gog etMagog significati sunt;
+<lb ed="#P" n="13"/>quod interpretatur tectus et detectus. Et in 
+per<lb ed="#P" break="no" n="14"/>secutionem populi, Dei venturi pradicantur, quia
+<lb ed="#P" n="15"/>hec duo genera hominum semper verebonos per.
+<lb ed="#P" n="16"/>sequuntur. In primo genere continentur pagani ;
+<lb ed="#P" n="17"/>in secundo genere, Judsi ; in tertio genere, 
+Chris<lb ed="#P" break="no" n="18"/>tiani. Ista tria genera hominum abinitio nunquam
+<lb ed="#P" n="19"/>ullo tempore defuerunt. Tempus tamen naturalis
+<lb ed="#P" n="20"/>legis ad aperte malos pertinet, quia illi tunc et 
+nu<lb ed="#P" break="no" n="21"/>mero plures et statu excellentiores fuerunt. 
+Tem<lb ed="#P" break="no" n="22"/>pus scripte legis, ad flcte bonos, quia tune 
+homi<lb ed="#P" break="no" n="23"/>nes in timoreservientes opus mundabant non 
+ani<lb ed="#P" break="no" n="24"/>mum. Tempus grati: ad vere bonos pertinet, qui
+<lb ed="#P" n="25"/>modo etsi numero plures nonsint, tamen statu
+<lb ed="#P" n="26"/>sunt excellentiores, et Dei gratia publice ante 
+fe<lb ed="#P" break="no" n="27"/>runtur, etiam ab iis qui eis moribuscontradicunt.
+<lb ed="#P" n="28"/>Scias ergo quocunquetempore ab initio mundi 
+us<lb ed="#P" break="no" n="29"/>que ad finem, nullum fuisse vel esse vere bonum,
+<lb ed="#P" n="30"/>nisi justificatum per gratiam, gratiam autem 
+nun<lb ed="#P" break="no" n="31"/>quam aliquem adipisci potuisse, nisi per 
+Chris<lb ed="#P" break="no" n="32"/>tum. Ita ut omnes sive precedentes sive 
+subse<lb ed="#P" break="no" n="33"/>quentes uno sanctificationis remedio salvatos
+<lb ed="#P" n="34"/>agnoscas. Aspice ergo castra regis nostri et acies
+<lb ed="#P" n="35"/>exercitus ejus fulgentes in armis spiritalibus,
+<lb ed="#P" n="36"/>quanta praecedentium subsequentiumque 
+populo<lb ed="#P" break="no" n="37"/>rum multitudine stipatus incedat.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g19613-Dd1e1268">
+               <head xml:id="hsvhsv-g19613-Hd1e1270">Capitulum 12</head>
+               <head xml:id="hsvhsv-g19613-Hd1e1272" type="question-title"/>
+               <p xml:id="hsvhsv-g19613-d1e1274">
+                  <lb ed="#P" n="38"/>Cap. XII. De tempore institutionis sacramentorum.
+</p>
+               <p xml:id="hsvhsv-g19613-d1e1279">
+                  <lb ed="#P" n="39"/>Tempus institutionis sacramentorum ab eo 
+in<lb ed="#P" break="no" n="40"/>ecpisse creditur, quo primus parens merito 
+ino<lb ed="#P" break="no" n="41"/>bedientiza gaudiis paradisi expulsus, in hujus 
+vi<lb ed="#P" break="no" n="42"/>tae mortalis exilium cum tota posteritate usque in
+<lb ed="#P" n="43"/>finem prim corruptioni obnoxius tenetur. Ex quo
+<lb ed="#P" n="44"/>enim homo a statu primae incorruptionis lapsus
+<lb ed="#P" n="45"/>in corpore per mortalitatem etin anima 
+perini<lb ed="#P" break="no" n="46"/>quitatem sgrotare coppit ; continuo Deus repa- p
+<lb ed="#P" n="47"/>rando in sacramentis suis medicinam 
+prepara<lb ed="#P" break="no" n="48"/>vit. Quae quidem (prout ratio postulabat et causa)
+<lb ed="#P" n="49"/>diversis temporibus et locis ad curationem illiua
+<lb ed="#P" n="50"/>exhibuit ; alia ante legem, alia sub lege, alia sub
+<lb ed="#P" n="51"/>gratia : diversa quidem in specie unum tamen 
+ef<lb ed="#P" break="no" n="52"/>fectum babentia et unam sanitatem perflcientia.
+<lb ed="#P" n="53"/>Si quis igitur querat tempus institutionis 
+sacra<lb ed="#P" break="no" n="54"/>mentorum, sciat quia quandiu morbus est, 
+tem<lb ed="#P" break="no" n="55"/>pus medicinae est. Presens igitur vita a 
+princi<lb ed="#P" break="no" n="56"/>pio seculi uaque in finem per mortalitatem 
+de<lb ed="#P" break="no" n="57"/>currens, tempus eat morbi, et tempus remedii. In
+<lb ed="#P" n="58"/>ipsa et propter ipsam instituta sunt sacramenta;
+<lb ed="#P" n="59"/>et quaedam a principio ipsius, qute suo tempore
+<lb ed="#P" n="60"/>tucurrerunt et ad sanitatem (quantum ipsis 
+da<lb ed="#P" break="no" n="61"/>tum erat, et per ipsa dandum erat) restituendum
+<lb ed="#P" n="62"/>valuerunt. Et ista sacramenta suo tempore exple-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>to cessaverunt ; et alia pro illis ad eamdem 
+sani<lb ed="#P" break="no" n="64"/>tatem perficiendam successerunt. Et rursum post
+<lb ed="#P" n="65"/>ilaalia quasi novissime adjuncta sunt, quibus
+<lb ed="#P" n="66"/>alia succedere non debuerunt. Vel ut 
+medicamen<lb ed="#P" break="no" n="67"/>ta perfecta quae morbum ipsum consumerent et
+<lb ed="#P" n="68"/>perfectam sanitatem plene restaurarent. Et haec
+<lb ed="#P" n="69"/>omnia facta sunt secundum judicium et 
+dispen<lb ed="#P" break="no" n="70"/>sationem medici, qui morbum ipsum vidit, et 
+qua<lb ed="#P" break="no" n="71"/>lia ei remedia singulis temporibus adhibenda 
+es<lb ed="#P" break="no" n="72"/>sent agnovit. Porrounum sacramentum etiam 
+an<lb ed="#P" break="no" n="73"/>te peccatum hominis institutum invenitur. 
+Con<lb ed="#P" break="no" n="74"/>jugium namque prius etiam quam horno peccaret
+<lb ed="#P" n="75"/>sancitum legitur ubi teste Scriptura: Mulier 
+fac<lb ed="#P" break="no" n="76"/>ta in adjutorium viro ei sociata memoratur (
+Ge<lb ed="#P" break="no" n="77"/>nes. 11). Cujus tamen institutionis causa tunc ad
+<lb ed="#P" n="78"/>remedium non fuit, sed adofficium ; quia morbys
+<lb ed="#P" n="79"/>in homine non fuit qui sanaretur, sed virtus quae
+<lb ed="#P" n="80"/>exercetur. Propter quod ex tribus causis 
+institu<lb ed="#P" break="no" n="81"/>tionis sacramentorum duas tantum hic 
+inveni<lb ed="#P" break="no" n="82"/>mus ; eruditionem scilicet et exercitationem. 
+Hu<lb ed="#P" break="no" n="83"/>miliatio enim ibi necessaria non fuit ubi 
+super<lb ed="#P" break="no" n="84"/>bia nulla fuit ; sed ratio quae erudiretur ad 
+ma<lb ed="#P" break="no" n="85"/>jorem cognitionem et virtusque promoveretur ad.
+<lb ed="#P" n="86"/>majerem perfectionem. Invenitur itaque hoc 
+sa<lb ed="#P" break="no" n="87"/>cramentum singularem habens legem 
+quemad<lb ed="#P" break="no" n="88"/>modum singularem habet institutionem. Et 
+vide<lb ed="#P" break="no" n="89"/>tur ordo postulare priusquam ad ea quae de 
+cae<lb ed="#P" break="no" n="90"/>teris dicenda sunt sacramentis discutiendo 
+acce<lb ed="#P" break="no" n="91"/>damus ; de isto singulariter quaedam quae ad 
+pri<lb ed="#P" break="no" n="92"/>mam institutionem spectare videbuntur 
+przmit<lb ed="#P" break="no" n="93"/>tamus ; his quz? ad secundam ejus institutionem
+<lb ed="#P" n="94"/>pertinent sequenti narrationi reservatis. Habet
+<lb ed="#P" n="95"/>enim hoc sacramentum duplicem institutionem ;
+<lb ed="#P" n="96"/>unam ante peccatum ad officium, alteram post
+<lb ed="#P" n="97"/>peccatum ad remedium. Et secundum illam qua
+<lb ed="#P" n="98"/>singulariter institutum est singulariter tractari
+<lb ed="#P" n="99"/>debet ; et postea secundum illam qua caeteris in
+<lb ed="#P" n="100"/>tempore conjungitur a caeteris in narratione non
+<lb ed="#P" n="101"/>separetur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g19613-Dd1e1421">
+               <head xml:id="hsvhsv-g19613-Hd1e1423">Capitulum 13</head>
+               <head xml:id="hsvhsv-g19613-Hd1e1425" type="question-title"/>
+               <p xml:id="hsvhsv-g19613-d1e1427">
+                  <lb ed="#P" n="102"/>Cap. XIII. De institutione conjugii ante peccatum.
+</p>
+               <p xml:id="hsvhsv-g19613-d1e1432">
+                  <lb ed="#P" n="103"/>Sacramentum conjugii solum ex omnibus 
+sacra<lb ed="#P" break="no" n="104"/>mentis qui ad remedium hominis instituta sunt,
+<lb ed="#P" n="105"/>ante peccatum hominis legitur institutum ; non
+<lb ed="#P" n="106"/>tamen propter peccatum, sed ad sacramentum 
+s0<lb ed="#P" break="no" n="107"/>lum et ad officium. Ad sacramentum 
+proptereru<lb ed="#P" break="no" n="108"/>ditionem, et ad officium propter exercitationem.
+<lb ed="#P" n="109"/>Erant enim duo haec in conjugio ipso : conjugium
+<lb ed="#P" n="110"/>ipsum, et conjugii officium, et utrumque 
+sacra<lb ed="#P" break="no" n="111"/>mentum erat. Conjugium constabat in consensu
+<lb ed="#P" n="112"/>foederis socialis, officium conjugii constabat in
+<lb ed="#P" n="113"/>copula carnis. Conjugium sacramentum fuit 
+cu<lb ed="#P" break="no" n="114"/>jusdam societatis spiritualis quae per dilectionem
+<lb ed="#P" n="115"/>erat inter Deum et animam in qua societate 
+ani<lb ed="#P" break="no" n="116"/>ma sponsa erat et sponsus Deus. Officium 
+conju<lb ed="#P" break="no" n="117"/>gii sacramentum fuitcujuedam societatis quae 
+fu<lb ed="#P" break="no" n="118"/>tura erat per carnem assumptam inter Christum
+<lb ed="#P" n="119"/>et Ecclesiam, in qua societate Christus sponsus
+<lb ed="#P" n="120"/>futurus erat et sponsa Ecclesia. Et qui sponsus
+<lb ed="#P" n="121"/>erat utrobique superior erat, et ejus dilectio per
+<lb ed="#P" n="122"/>pietatem trahebatur ad inferiorem. Quae autem
+<lb ed="#P" n="123"/>sponsa erat, utrobique inferior erat quia sibi
+<lb ed="#P" n="124"/>sufficiens non erat, et per se stare non poterat. Et
+<!-- 076.png.txt -->
+<pb ed="#P" n="158"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>propterea ejus dilectio necessitate magis 
+converte<lb ed="#P" break="no" n="2"/>baturadsuperiorem superior diligendo beneficium.
+<lb ed="#P" n="3"/>prestitit inferiordiligendo beneficium accepit. 
+Hu<lb ed="#P" break="no" n="4"/>jus ergo societatisquee utrinque diloctione mutua
+<lb ed="#P" n="5"/>constabat, sacramentum formatum. est, quando
+<lb ed="#P" n="6"/>conjugium institutum est alterius societatis 
+sa<lb ed="#P" break="no" n="7"/>cramentum, in conjugio alterius societatis, 
+sacra<lb ed="#P" break="no" n="8"/>mentum in conjugii officio. Propterea natura 
+hu<lb ed="#P" break="no" n="9"/>mana duplici qualitate distincta est, ut in viro
+<lb ed="#P" n="10"/>quidem robustior, in femina vero infirmior et 
+alie<lb ed="#P" break="no" n="11"/>naope egens appareret. Kt juncti sunt duo in
+<lb ed="#P" n="12"/>unum, una dilectione et societate una, ut in una
+<lb ed="#P" n="13"/>dilectione essent, et per dilectionem unam in una
+<lb ed="#P" n="14"/>8ocietate manerent. Et vir quidem, ut imago Dei
+<lb ed="#P" n="15"/>fieret in hoc sacramento, pietate ad. dilectionem
+<lb ed="#P" n="16"/>inclinaretur. Femina vero, ut formam anime 
+ra<lb ed="#P" break="no" n="17"/>qionalis exprimeret, necessitate magis et quasl
+<lb ed="#P" n="18"/>respectu commoditatis cujusdam amare 
+persua<lb ed="#P" break="no" n="19"/>deretur. Sic tamen ut utrinque voluntaria esset
+<lb ed="#P" n="20"/>diiectio, quia si voluntaria non esset neque vera
+<lb ed="#P" n="21"/>dilectio nec vere dilectionis sacramentum esse
+<lb ed="#P" n="22"/>posset. Iterum ut aliud sacramentum in hac 
+so<lb ed="#P" break="no" n="23"/>cietate formaretur praecepit Deus ut masculus et
+<lb ed="#P" n="24"/>femina in una carue jungerentur, ut sicut prius
+<lb ed="#P" n="25"/>in sacramento conjugii per dilectionem unum
+<lb ed="#P" n="26"/>erant, ita postmodumin officio conjugii unum 
+fie<lb ed="#P" break="no" n="27"/>rent per unam carnis commistionem. Ut 
+osten<lb ed="#P" break="no" n="28"/>deretur quod qui prius in divinitate per 
+dilectio<lb ed="#P" break="no" n="29"/>nem junctus eratanimz, postmodum per 
+assump<lb ed="#P" break="no" n="30"/>tem carnem junctus est Ecclesi; sus. Iterum ne
+<lb ed="#P" n="31"/>etiosa esset societas conjugalis inter masculum et
+<lb ed="#P" n="32"/>feminam, propterea post sacramentum conjugii
+<lb ed="#P" n="33"/>additum est officium quod in commistione carnis
+<lb ed="#P" n="34"/>expleri debuerat, ut in eo conjuncti exercerentur
+<lb ed="#P" n="35"/>per obedientiam ad virtutem, et fructificarent per
+<lb ed="#P" n="36"/>prolis generationem. In quo officio masculo 
+qui<lb ed="#P" break="no" n="37"/>dem (qui superior erat) datum est quod 
+propa<lb ed="#P" break="no" n="38"/>gandum fuisset de suo seminare, femina autem
+<lb ed="#P" n="39"/>concipere et parere, ut in eadem similitudine 
+de<lb ed="#P" break="no" n="40"/>monstraretur quod in illa invisibilisocietate 
+ani<lb ed="#P" break="no" n="41"/>ma rationalis nullatenus fructificare posset, nisi
+<lb ed="#P" n="42"/>prius semen virtutis a Deo conciperet. Erat 
+ad<lb ed="#P" break="no" n="43"/>huc aliud in natura humana quod per societatem
+<lb ed="#P" n="44"/>conjugii monstrari debuisset. Sio quippe conditus
+<lb ed="#P" n="45"/>est homo, ut quiddam in eo supremum esset, et
+<lb ed="#P" n="46"/>in homine nihil altius esset. Post illud autem
+<lb ed="#P" n="47"/>aliud sub illo esset etsubjecturm illi ; deindealiud
+<lb ed="#P" n="48"/>novissimum in imo constitutum, et in cxteris
+<lb ed="#P" n="49"/>duobus subjectum. Erat quippe in homine ratio
+<lb ed="#P" n="50"/>supprerno loco constituta, solis divinis et. 
+invisi<lb ed="#P" break="no" n="51"/>bilibus intendens et divine voluntati se 
+confor<lb ed="#P" break="no" n="52"/>mans. Post haec alia queam ratio ad corporalia
+<lb ed="#P" n="53"/>et visibilia respiciens, qua eubjiciebatur euperiori,
+<lb ed="#P" n="54"/>et ab illa informata subjectae sibi sensualitati 
+do<lb ed="#P" break="no" n="55"/>minabatur, quae tertio et imo loco fuerat 
+consti<lb ed="#P" break="no" n="56"/>tuta. Sic itaque tria inventa sunt in homine: 
+sa<lb ed="#P" break="no" n="57"/>pientia, prudentia et sensualitas. Sapientia 
+sci<lb ed="#P" break="no" n="58"/>licet hoc est ratio ad divina, prudentia autem hoc
+<lb ed="#P" n="59"/>est ratio ad humana ; sensualitas vero hoc est 
+af<lb ed="#P" break="no" n="60"/>fectus sive appetitus ad terrena. Equibus prima,
+<lb ed="#P" n="61"/>scilicet ratio, regebat tantum et non regebatur.
+<lb ed="#P" n="62"/>Sensualitas ultima regebatur 4antum et non 
+rege<lb ed="#P" break="no" n="63"/>bat. Media vero ratio et a superiori regebatur et
+<lb ed="#P" n="64"/>inferius regebat. Adhanc similitudinem tria 
+ani<lb ed="#P" break="no" n="65"/>malia foris facta sunt. Unum rationale quod 
+do<lb ed="#P" break="no" n="66"/>minabatur, secundum irrationale quod 
+subjicie<lb ed="#P" break="no" n="67"/>batur, tertium rationale similiter quod a 
+supe<lb ed="#P" break="no" n="68"/>riori quidem regebatur, et cum superioreinferiori
+<lb ed="#P" n="69"/>dominabatur. Erat igitur vir imago sapientiz, 
+fe<lb ed="#P" break="no" n="70"/>mina forma prudentig, bestia autem similitudo
+<lb ed="#P" n="71"/>sensualitatis et concupiscientie. Propterea 
+ser<lb ed="#P" break="no" n="72"/>pens feminam peccatum suadendo decepit ; 
+fe<lb ed="#P" break="no" n="73"/>mina vero virum. Decepta ad consensum 
+inclina<lb ed="#P" break="no" n="74"/>vit, quia concupiscentia prudentiee carnis primum
+<lb ed="#P" n="75"/>delectationem peccati suggerit : deinde prudentia
+<lb ed="#P" n="76"/>carnis per delectationem peccati decepta, 
+ratio<lb ed="#P" break="no" n="77"/>nem ad consensum iniquitatistrahit. Propter has
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="78"/>et hujusmodi rationes discreta est humana 
+natu<lb ed="#P" break="no" n="79"/>ra ut in altera parte robustioresset, in altera 
+ve<lb ed="#P" break="no" n="80"/>ro infirmior demonstraretur, ut in eaunum 
+inve<lb ed="#P" break="no" n="81"/>niretur quod regeret, et totum quod regeretur.
+<lb ed="#P" n="82"/>Adjuncta est deinde foris in carne etiam 
+discre<lb ed="#P" break="no" n="83"/>tio sensuum, qui quidem quantum ad virtutem
+<lb ed="#P" n="84"/>sacramenti in conjugio necessaria non fuit, sed
+<lb ed="#P" n="85"/>quia sine ea in officio conjugii ministerium 
+ge<lb ed="#P" break="no" n="86"/>nerandi impleri non potuit. Sic igitur ante 
+pec<lb ed="#P" break="no" n="87"/>catum institutum fuit conjugium et conjugii 
+of<lb ed="#P" break="no" n="88"/>ficium, utrumque ad sacramentum, ut conjugium
+<lb ed="#P" n="89"/>quidem sanctificaretur pura mentis dilectione ;
+<lb ed="#P" n="90"/>officium quoque conjugii impleretur sine carnis
+<lb ed="#P" n="91"/>pollutione. Nunc vero quia per peccatum hominis
+<lb ed="#P" n="92"/>caro humana corrupta est, jam post peccatum,
+<lb ed="#P" n="93"/>carnis commistio sine carnali concupiscentia 
+fie<lb ed="#P" break="no" n="94"/>ri non potest. Fortassis autem aliquem movere
+<lb ed="#P" n="95"/>potest, quare post peccatum homo hoc 
+potissi<lb ed="#P" break="no" n="96"/>mum opus sine peccato explere non potest. Sed
+<lb ed="#P" n="97"/>diligenter consideranti ratio manifesta occurrit.
+<lb ed="#P" n="98"/>Quandiu enim spiritus rationalis creatori suo
+<lb ed="#P" n="99"/>subjectus fuit, nullam in carne sua 
+contradictio<lb ed="#P" break="no" n="100"/>nem invenit ;et erant membra corporis imperio
+<lb ed="#P" n="101"/>animae subjecta, ut nec praeter ipsam aliquando
+<lb ed="#P" n="102"/>Tnoverentur, nec ad aliud contra ipsam. Postquam
+<lb ed="#P" n="103"/>autem spiritus adversus creatorem suum per 
+su<lb ed="#P" break="no" n="104"/>perbiam intumuit, merito in suo inferiori jus 
+an<lb ed="#P" break="no" n="105"/>tique damnationis amisit, ut membra corporis
+<lb ed="#P" n="106"/>jam ejus imperio ad injuriam creatoris 
+ulciscen<lb ed="#P" break="no" n="107"/>dam contradicerent, quae illi nisi per creatorem.
+<lb ed="#P" n="108"/>suum subjecta esse non deberent. Quia vero vita
+<lb ed="#P" n="109"/>humana nullatenus subsistere posset si in 
+mem<lb ed="#P" break="no" n="110"/>bris corporis sui nullam spiritus rationalis 
+potes<lb ed="#P" break="no" n="111"/>tatem haberet, vindictam suam Deus in parte per
+<lb ed="#P" n="112"/>justitiam exercuit, et in partemisericorditer 
+tem<lb ed="#P" break="no" n="113"/>peravit, quatenus simul et culpa plecteretur, et
+<lb ed="#P" n="114"/>natura foveretur. Ut igitur inobedientia 
+manifes<lb ed="#P" break="no" n="115"/>ta fieret unum in corpore humano membrum 
+po<lb ed="#P" break="no" n="116"/>testati anime subtraxit, per quod posteritas in
+<lb ed="#P" n="117"/>carne seminanda fuit, ut omnes qui per illud 
+ge<lb ed="#P" break="no" n="118"/>nerentur se filios inobedientisae esae intelligant, et
+<lb ed="#P" n="119"/>ex sua origine quales et ex qualibus generentur
+<lb ed="#P" n="120"/>agnoscant. Quia ergo in hoc membro per quod
+<lb ed="#P" n="121"/>humana propagatio transire debuit signum 
+ino<lb ed="#P" break="no" n="122"/>bedientiae positdi est, cunctis per illud 
+transeun<lb ed="#P" break="no" n="123"/>tibus manifeste ostenditur quod cum culpa 
+ino<lb ed="#P" break="no" n="124"/>betientis generantur. Quasi enim in ipso titulo
+<!-- 077.png.txt -->
+<pb ed="#P" n="159"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>qui porte inscriptus est per quam transeunt, 
+<lb ed="#P" n="2"/>agnoscunt unde veniunt et quo vadunt. Propter
+<lb ed="#P" n="3"/>hoc ergo cietera membra corporis quae imperium
+<lb ed="#P" n="4"/>rationis sequuntur sine culpa operari possunt ;
+<lb ed="#P" n="5"/>hoc vero membrum in quo concupiscentia 
+pra<lb ed="#P" break="no" n="6"/>cipue regnat, quia nutum voluntatis non 
+sequi<lb ed="#P" break="no" n="7"/>tur;sine culpa non operatur. In tantum enim
+<lb ed="#P" n="8"/>hoc membrum corporis imperium animae non 
+se<lb ed="#P" break="no" n="9"/>quitur ut sicut aliquando non movetur quando
+<lb ed="#P" n="10"/>vult, sic szepe etiam quando non vult moveatur.
+<lb ed="#P" n="11"/>Exinde ergo carnale commercium ab homine 
+ex<lb ed="#P" break="no" n="12"/>erceri non debuit; ex quo illud sine turpi concu-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="13"/>piscentia et carnis libidine exerceri non potuit.
+<lb ed="#P" n="14"/>Ipse enim sibi hoc illicitum fecit, ex quo se talem
+<lb ed="#P" n="15"/>fecit qui illud licite implere non possit. Sed quia
+<lb ed="#P" n="16"/>carnis humane infirmitas turpius ad omnem 
+con<lb ed="#P" break="no" n="17"/>cupiscentiam efílueret si non in parte aliqua 
+lici<lb ed="#P" break="no" n="18"/>te exciperetur ; concessum est postea ad 
+reme<lb ed="#P" break="no" n="19"/>dium, quod prius ad officium solum fuerat 
+insti<lb ed="#P" break="no" n="20"/>tutum. Ut dum per indulgentiam pro majori 
+ma<lb ed="#P" break="no" n="21"/>loevitando agitur, ipsum quod inest ei malum
+<lb ed="#P" n="22"/>infirmitatis, per pudicitiam conjugalem 
+excuse<lb ed="#P" break="no" n="23"/>tur. Et de primaquidem institutione conjugii haec
+<lb ed="#P" n="24"/>in praesenti loco dicta sufficere possunt.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

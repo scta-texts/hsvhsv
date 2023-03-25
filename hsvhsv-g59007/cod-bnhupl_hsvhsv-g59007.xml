@@ -1,0 +1,1235 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pars 16</title>
+            <author ref="#HughOfStVictor">Hugh of St. Victor</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Pars 16</title>
+               <date when="2023-03-25">March 25, 2023</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-bnhupl">Patrologia Latina, v. 176</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2023-03-25" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="290"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="hsvhsv-g59007"><!-- l2-p16 -->
+            <head xml:id="hsvhsv-g59007-Hd1e101">Pars 16</head>
+            <head xml:id="hsvhsv-g59007-Hd1e103" type="question-title">
+De morientibus seu de fine hominis
+</head>
+            <p xml:id="hsvhsv-g59007-d1e106">
+               <cb ed="#P" n="c"/>
+               <lb ed="#P" n="46"/>PARS SEXTA DECIMA.
+<lb ed="#P" n="47"/>DE MORIENTIBUS SEU DE FINE HOMINIS.
+</p>
+            <div xml:id="hsvhsv-g59007-Dd1e115">
+               <head xml:id="hsvhsv-g59007-Hd1e117">Capitulum 1</head>
+               <head xml:id="hsvhsv-g59007-Hd1e119" type="question-title"/>
+               <p xml:id="hsvhsv-g59007-d1e121">
+                  <lb ed="#P" n="48"/>Cap. I. Quod ii qui in Domino moriuntur
+<lb ed="#P" n="49"/>etiam cum parvo merito beati erunt.
+</p>
+               <p xml:id="hsvhsv-g59007-d1e128">
+                  <lb ed="#P" n="50"/>Scriptura dicit : Beati mortui qui in Domino
+<lb ed="#P" n="51"/>moriuntur (Apoc. xiv). In Domino moriuntur
+<lb ed="#P" n="52"/>qui in carne quidem morientes in Domino tamen
+<lb ed="#P" n="53"/>viventes inveniuntur. Quid est in Domino? In 
+fi<lb ed="#P" break="no" n="54"/>de et spe et charitate. Per ista enim vivitur in illa
+<lb ed="#P" n="55"/>vita qua vivitur in Domino. Est quaedam vita
+<lb ed="#P" n="56"/>qua corpus vivit ex anima; et est quaedam vita
+<lb ed="#P" n="57"/>qua anima vivit in Deo; nunc quidem fide, spe et
+<lb ed="#P" n="58"/>dilectione postea vero pro fide et spe 
+comtempla<lb ed="#P" break="no" n="59"/>tione, remanente dilectione. Non igitur nocere
+<lb ed="#P" n="60"/>potest animae si corpus vitam suam perdit, quando
+<lb ed="#P" n="61"/>ipsa vitam suam in fide et spe et charitate 
+persis<lb ed="#P" break="no" n="62"/>tens non amittit. Nemo ergo mihi dicat : qui
+<lb ed="#P" n="63"/>parvam fidem et spem parvam, et parvam 
+chari<lb ed="#P" break="no" n="64"/>tatem habent non salvantur. Ego non mensuro.
+<lb ed="#P" n="65"/>Crescant quantum volunt; quanto majores, tanto
+<lb ed="#P" n="66"/>meliores. Tamen ego illos condemnare non audeo,
+<lb ed="#P" n="67"/>quantumvis parvi sint. Ex quo nati sunt ex Deo,
+<lb ed="#P" n="68"/>filii sunt Dei. Putas quod magnos filios suos Deus
+<lb ed="#P" n="69"/>salvabit, et parvos condemnabit? Scriptura mihi
+<lb ed="#P" n="70"/>dicit : Imperfectum meum viderunt oculi tui,
+<lb ed="#P" n="71"/>et in libro tuo omnes scribentur (Psalm.
+<lb ed="#P" n="72"/>cxxvii1). Si omnes, ergo et parvi et magni. Quid
+<lb ed="#P" n="73"/>eat, oculi tui viderunt? Approbaverunt. Quid est,
+<lb ed="#P" n="74"/>in libro scribentur? Salvabuntur. Ergo imperfecti
+<lb ed="#P" n="75"/>quoque salvabuntur. Qui enim imperfecti sunt
+<lb ed="#P" n="76"/>aliquid sunt; et aliqui sunt, et in numero 
+ponun<lb ed="#P" break="no" n="77"/>tur et. scribuntur. Qui mihi sunt, nulli sunt, nec
+<lb ed="#P" n="78"/>scribi aut numerari habent, qui nihil habent.
+<lb ed="#P" n="79"/>Ergo Omni habenti dabitur et abundabit (Matth.
+<cb ed="#P" n="d"/>
+                  <lb ed="#P" n="80"/>xxv) : Omni habenti meritum, dabitur premium.
+<lb ed="#P" n="81"/>Non dixit habenti magnum meritum, premium
+<lb ed="#P" n="82"/>dabitur, et parvum meritum habenti non dabitur;
+<lb ed="#P" n="83"/>sed omni, inquit, habenti dabitur et abundabit.
+<lb ed="#P" n="84"/>Ergo etiam ille qui parvum meritum habet, cum
+<lb ed="#P" n="85"/>premium acceperit satis habebit, quamvis non
+<lb ed="#P" n="86"/>tantum habebit, quantum qui magnum meritum
+<lb ed="#P" n="87"/>habebit. Solus ille excluditur a percipiendo 
+pre<lb ed="#P" break="no" n="88"/>mio, qui nihil habet de merito. Omnes ergo qui in
+<lb ed="#P" n="89"/>Domino moriuntur beati sunt; quia post meritum
+<lb ed="#P" n="90"/>virtutis, perveniunt ad praemium beatitudinis.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g59007-Dd1e223">
+               <head xml:id="hsvhsv-g59007-Hd1e225">Capitulum 2</head>
+               <head xml:id="hsvhsv-g59007-Hd1e227" type="question-title"/>
+               <p xml:id="hsvhsv-g59007-d1e229">
+                  <lb ed="#P" n="91"/>Cap. II. De exitu animarum.
+</p>
+               <p xml:id="hsvhsv-g59007-d1e234">
+                  <lb ed="#P" n="92"/>Multa queri possunt, si tamen omnia quzri
+<lb ed="#P" n="93"/>debent quae quaeri possunt. Quzrunt homines de
+<lb ed="#P" n="94"/>exitu animarum a corporibus qualiter exeant; et
+<lb ed="#P" n="95"/>quo exeuntes pergant, vel cum pervenerint quo
+<lb ed="#P" n="96"/>pergunt, quid inveniant, vel quid percipiant aut
+<lb ed="#P" n="97"/>sustineant. Sed haec omnia magis timenda sunt,
+<lb ed="#P" n="98"/>quam querenda. Ideo quippe abscondita sunt,
+<lb ed="#P" n="99"/>ne quzrantur aut inveniantur, sed timeantur.
+<lb ed="#P" n="100"/>Quisenim securus esse potest in incertum pergens?
+<lb ed="#P" n="101"/>Hoc autem solum incertum esse non debet, quod
+<lb ed="#P" n="102"/>bonam vitam mala mors sequi non potest. Mala
+<lb ed="#P" n="103"/>enim mors non est nisi ea sola quam mala 
+se<lb ed="#P" break="no" n="104"/>quuntur. Qui ergo bene mori vult, bene vivat,
+<lb ed="#P" n="105"/>quoniam ea qui post mortem veniunt contra ea
+<lb ed="#P" n="106"/>disponuntur; et secundum ea retribuuntur que
+<lb ed="#P" n="107"/>ante mortem in vita praecedunt. Usque ad 
+mor<lb ed="#P" break="no" n="108"/>tem meritum est; post mortem vero premium.
+<lb ed="#P" n="109"/>Mors media est in qua dies Domini incipit. In
+<lb ed="#P" n="110"/>die suo homo sibi relinquit, ut quod vult 
+opere<lb ed="#P" break="no" n="111"/>tur. In die vero Domini jam in potestate sua
+<!-- 209.png.txt -->
+<pb ed="#P" n="291"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>non est homo, sed in illius potestate ad quam
+<lb ed="#P" n="2"/>venit ut remuneretur. Propterea ad hominem
+<lb ed="#P" n="3"/>pertinet utid solum quodsibi commissum est bene
+<lb ed="#P" n="4"/>disponere studeat; illud vero quod non 
+commis<lb ed="#P" break="no" n="5"/>sum sed promissum sibi est illius arbitrio a quo
+<lb ed="#P" n="6"/>illud impleri oportet relinquat. Multi quzrunt de
+<lb ed="#P" n="7"/>exitu animarum quomodo a corporibus 
+egredian<lb ed="#P" break="no" n="8"/>tur animze, sive scilicet hoc modo, ut essentialiter
+<lb ed="#P" n="9"/>etlocaliter foras egrediantur, ut extra esse 
+inci<lb ed="#P" break="no" n="10"/>piant quasi excluss, sive hoc solum illis egredi
+<lb ed="#P" n="11"/>sit, quod sea. vivificatione corporum retrahunt ;
+<lb ed="#P" n="12"/>et quasi ad se colligente8 a vegetatione corporis
+<lb ed="#P" n="13"/>cessant, ut in semetipsis subsistant. Verbi gratia:
+<lb ed="#P" n="14"/>Quando flatus iste corporeus expiratur egreditur
+<lb ed="#P" n="15"/>a corpore, et incipit essentialiter atque localiter
+<lb ed="#P" n="16"/>extra corpus, qui prius essentialiter atque 
+locali<lb ed="#P" break="no" n="17"/>ter intra corpus continebatur. Quando vero
+<lb ed="#P" n="18"/>cortex arescere incipit in arbore, exit humor ab
+<lb ed="#P" n="19"/>illo et contrahitur ad interiora, neque foras 
+egre<lb ed="#P" break="no" n="20"/>ditur, ut extra sit, sed interius remanet in eo quod
+<lb ed="#P" n="21"/>intus est sive in ligno sive in medulla ut in 
+cor<lb ed="#P" break="no" n="22"/>tice ipso non sit. Tamen omnino exita cortice
+<lb ed="#P" n="23"/>ut in cortice jam non sit; neque exit quasi ad 
+ex<lb ed="#P" break="no" n="24"/>teríora effusus, sed exit quasi ad interiora 
+collec<lb ed="#P" break="no" n="25"/>tus. Et si forte humor rursusab interiori suo
+<lb ed="#P" n="26"/>prodeat, ut se iterum effundat in corticem, rursus
+<lb ed="#P" n="27"/>revirescit cortex ille, quoniam humo in ipso est
+<lb ed="#P" n="28"/>in vita ejus. Sic querunt de anima quando exit
+<lb ed="#P" n="29"/>a corpore, utrum hoc solum illi exire sit quod se
+<lb ed="#P" n="30"/>retrahit ad se ad vivificationem corporis; et in
+<lb ed="#P" n="31"/>hoc ipso jam in corpore non est quod corpus 
+vi<lb ed="#P" break="no" n="32"/>wificare cessat. In hoc enim videtur quod jam
+<lb ed="#P" n="33"/>quodammodo extra omne corpus est quod sola in
+<lb ed="#P" n="34"/>semetipsa subsistens ad corporis vivificationem
+<lb ed="#P" n="35"/>effusa non est. Quando vero in corpore non est,
+<lb ed="#P" n="36"/>in loco non est quia locus non est nisi in corpore.
+<lb ed="#P" n="37"/>Quando autem extra corpus est et extra locum
+<lb ed="#P" n="38"/>est, quia inter ipsam et corpus non est locus; et
+<lb ed="#P" n="39"/>sequaliter distat ab omni corpere, quia inter 
+ip<lb ed="#P" break="no" n="40"/>sam et omne corpus nullum est corpus. Si vero
+<lb ed="#P" n="41"/>interipsam et omne corpus nullum est corpus,
+<lb ed="#P" n="42"/>constat profecto quod inter ipsam et omne corpus
+<lb ed="#P" n="43"/>nullus est locus, quia locus non est ubi non est
+<lb ed="#P" n="44"/>corpus. Quando igitur extra omne corpus est,
+<lb ed="#P" n="45"/>quantum ad locum aequaliter prope est omni 
+cor<lb ed="#P" break="no" n="46"/>pori, quia si extra corpus posita uni corpori 
+pro<lb ed="#P" break="no" n="47"/>pior, et alteri remotior esset, inter ipsam profecto
+<lb ed="#P" n="48"/>et corpus spatium esset. Si spatium esset, locus
+<lb ed="#P" n="49"/>esset; si locus esset, corpus esset. Si autem inter
+<lb ed="#P" n="50"/>ipsam et omne corpus corpus esset, extra omne
+<lb ed="#P" n="51"/>corpus corpus esset, quod fleri non potest. Itaque
+<lb ed="#P" n="52"/>dicunt quod anima neque per corpus a corpore
+<lb ed="#P" n="53"/>recedit, neque per corpus ad corpus accedit; et
+<lb ed="#P" n="54"/>ideo nec loco movetur, ut recedat a corpore quod
+<lb ed="#P" n="55"/>est in loco; nec loco movetur, ut accedat ad 
+cor<lb ed="#P" break="no" n="56"/>pus quod est in loco. Inter omnem enim locum et.
+<lb ed="#P" n="57"/>id quod est in nullo loco nullus est locus. Propter
+<lb ed="#P" n="58"/>hoc itaque dictum putant, quod spiritus creatus
+<lb ed="#P" n="59"/>tempore quidem movetar, quia mutabilisest; sed
+<lb ed="#P" n="60"/>loco non movetur, quia nec loco movetur recedena
+<lb ed="#P" n="61"/>a corpore quod est in loco; nec loco movetur 
+ac<lb ed="#P" break="no" n="62"/>cedens ad corpus quod estin loco. Neque enim
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>loco movetur quando recedit a loco, neque iterum
+<lb ed="#P" n="64"/>loco movetur quando accedit ad locum; etiam
+<lb ed="#P" n="65"/>quando in corpore posita anima corpus localiter
+<lb ed="#P" n="66"/>movet, ipsa tamen localiter non movetur. Si enim
+<lb ed="#P" n="67"/>idcirco localiter moveri existimatur, quia in 
+cor<lb ed="#P" break="no" n="68"/>pore est quod localiter movetur, quare non 
+simi<lb ed="#P" break="no" n="69"/>liter sapientia localiter moveri dicatur, quia in
+<lb ed="#P" n="70"/>corde est quod localiter movetur? Nam si dicitur
+<lb ed="#P" n="71"/>quia per animam ipsam in corde est sapientia,
+<lb ed="#P" n="72"/>cum anima ipsa per corpus localiter motum 
+loca<lb ed="#P" break="no" n="73"/>liter moveri dicitur, quare non etiam per ipsam
+<lb ed="#P" n="74"/>animam localiter motam sapientia quae in anima
+<lb ed="#P" n="75"/>est localiter moveri dicatur? Si vero hoc ratio non
+<lb ed="#P" n="76"/>probat ut sapientia localiter moveri dicatur, cum
+<lb ed="#P" n="77"/>sit tamen in anima, quare anima localiter moveri
+<lb ed="#P" n="78"/>B dicetur, quamvis in corpore sit quod localiter
+<lb ed="#P" n="79"/>moveri cernitur? Hujusmodi consideratione 
+pro<lb ed="#P" break="no" n="80"/>bant spiritum localiter non moveri, quamvis in
+<lb ed="#P" n="81"/>corpore sit quod localiter movetur, temporaliter
+<lb ed="#P" n="82"/>tamen moveri, quia vicissitudini eubjacens de alio
+<lb ed="#P" n="83"/>in aliud mutatur. Sed nos inoccultis nimis 
+curio<lb ed="#P" break="no" n="84"/>808 esse non oportet, ne forte plus praesumamus
+<lb ed="#P" n="85"/>quam possimus. Qui sit via spiritus? Deus novit.
+<lb ed="#P" n="86"/>qui fecit eum. Nos autem neque scimus quomodo
+<lb ed="#P" n="87"/>venit neque comprehendimus quomodo recedit.
+<lb ed="#P" n="88"/>Quando flatus iste corporeus attrahitur, 
+corpora<lb ed="#P" break="no" n="89"/>liter et localiter ingreditur; quando autem 
+spira<lb ed="#P" break="no" n="90"/>tur corporaliter et localiter egreditur. Sed alia
+<lb ed="#P" n="91"/>est natura spiritus, alia corporis. Quando primo
+<lb ed="#P" n="92"/>homini data est anima, inspiravit Deus in 
+fa<lb ed="#P" break="no" n="93"/>Q ciem ejus spiraculum vite (Gen. 11.) Et quis
+<lb ed="#P" n="94"/>dicere potest quomodo inspiravit Deus animam
+<lb ed="#P" n="95"/>corpori vivificando sive quia extra creatam ad 
+vi<lb ed="#P" break="no" n="96"/>ficandum immisit, sive quia ibidem fecit ubi 
+po<lb ed="#P" break="no" n="97"/>suit, et ab intus creatam vivificationem prodire
+<lb ed="#P" n="98"/>jussit; nec alia fuit inspiratio quam ipsa 
+vivifi<lb ed="#P" break="no" n="99"/>catio? Si ergo nescitur quomodo inspiratur, 
+quo<lb ed="#P" break="no" n="100"/>modo sciri potest qualiter expiratur? Deus 
+inspi<lb ed="#P" break="no" n="101"/>rat, homo expirat. Deus mittit, homo remittit.
+<lb ed="#P" n="102"/>Qua via mittitur cum accedit, eadem remittur
+<lb ed="#P" n="103"/>cum recedit. Hoc unum scimus quod, recedente
+<lb ed="#P" n="104"/>anima, corpus moritur; et ipsa separatio animee,
+<lb ed="#P" n="105"/>mors corporis est. Hoc nobis sufficit scire quod
+<lb ed="#P" n="106"/>recedit.- Quomodo recedat ex abundanti est
+<lb ed="#P" n="107"/>perscrutari. Multis tamen exemplis didicimus
+<lb ed="#P" n="108"/>in exitu animarum angelorum malorum sive 
+bo<lb ed="#P" break="no" n="109"/>norum praesentiam adesse, qui illas pro meritis
+<lb ed="#P" n="110"/>vel ad tormenta pertrahant, vel ad requiem 
+de<lb ed="#P" break="no" n="111"/>ducant:sedet ipsas animas adhuc in corpore
+<lb ed="#P" n="112"/>positas ante exitum multa aliquando de iis que
+<lb ed="#P" n="113"/>futura sunt super eas; sive ex responso 
+conscien<lb ed="#P" break="no" n="114"/>tie interioris, sive per revelationes, exterius 
+fac<lb ed="#P" break="no" n="115"/>tas, praescissecognovimus. Raptasetiam aliquando
+<lb ed="#P" n="116"/>et iterum adcorpora reducta visiones quasdam et
+<lb ed="#P" n="117"/>revelationes sibi factas narrasse sivede tormentis
+<lb ed="#P" n="118"/>impiorum sive de gaudiis justorum; et in his
+<lb ed="#P" n="119"/>omnibus tamen nihil nisi vel corpore vel 
+corpo<lb ed="#P" break="no" n="120"/>ralibus simile recitasse : flumina, flammas, 
+pon<lb ed="#P" break="no" n="121"/>tes, naves domos, nemora, prata, flores, homines
+<lb ed="#P" n="122"/>nigros, candidos, etc., qualia in hoc mundo videri
+<lb ed="#P" n="123"/>et haberi solent, vel ad gaudium amari vel timeri
+<lb ed="#P" n="124"/>. 8d tormentum. Be quoque wdwNas CAtySE Sos,
+<!-- 210.png.txt -->
+<pb ed="#P" n="292"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>manibus trahi, pedibus deduci, collo suspendi, 
+<lb ed="#P" n="2"/>flagellari, pricipitari, et alia hujusmodi, quae non
+<lb ed="#P" n="3"/>nisi corporali nature convenire omnino possunt.
+<lb ed="#P" n="4"/>Qus omnia si ita illic visibiliter et corporaliter
+<lb ed="#P" n="5"/>essecredimus, praeter alia quae absurda nascuntur,
+<lb ed="#P" n="6"/>ipsas utique animas etiam a corporibus separatas
+<lb ed="#P" n="7"/>corpora esse ad similitudinem corporum membris
+<lb ed="#P" n="8"/>compactas atque distinctas confitemur. Ego 
+qui<lb ed="#P" break="no" n="9"/>dem quod de hac re audivi tacere non debeo. 
+Qui<lb ed="#P" break="no" n="10"/>dam probati testimonii frater narravit mihi se a
+<lb ed="#P" n="11"/>suo abbate veraciter hoc affirmante audisse, quod
+<lb ed="#P" n="12"/>cum aliquando ille ad quosdam fratres eminus
+<lb ed="#P" n="13"/>constitutos visitandos pergeret, in itinere, ut 
+so<lb ed="#P" break="no" n="14"/>let, quodam loco hospitium accepit. Ubi factum
+<lb ed="#P" n="15"/>tunc apud omnes ejusdem loci habitatores celebre
+<lb ed="#P" n="16"/>paucis ante diebus contigisse didicit. Quidam 
+pe<lb ed="#P" break="no" n="17"/>regrinus, orationis causa ad sanctum Jacobum
+<lb ed="#P" n="18"/>pergens in eodem loco hospitatus est. Nocte, ut
+<lb ed="#P" n="19"/>itinerantibus mos est, ante diluculum surrexit,
+<lb ed="#P" n="20"/>egressus de vico in silvam quae eidem vicina erat
+<lb ed="#P" n="21"/>devenit. Ibi a comitibus itineris casu, ut solet,
+<lb ed="#P" n="22"/>discrimine vis disjunctus, deviare coepit. Cumque
+<lb ed="#P" n="23"/>longius processisset, obvium habet quemdam 
+ve<lb ed="#P" break="no" n="24"/>nerandi habitus et vultus virum, a qua 
+interroga<lb ed="#P" break="no" n="25"/>tus quis aut unde esset vel quo pergeret : nomen,
+<lb ed="#P" n="26"/>patriam similiter et causam itineris exposuit. Ille
+<lb ed="#P" n="27"/>8e esse sanctum Jacobum ad quem tenderet 
+pro<lb ed="#P" break="no" n="28"/>testatur. Se jam pridem omnia scisse; nunc vero
+<lb ed="#P" n="29"/>quasi beneplacito et grato venisse obviam 
+devo<lb ed="#P" break="no" n="30"/>tionem laudat, bonum propositum commendat;
+<lb ed="#P" n="31"/>premium apud se magnum parari, nec longe esse
+<lb ed="#P" n="32"/>jam remunerationem. Multis post hac verbis hinc
+<lb ed="#P" n="33"/>inde intercurrentibus, tandem miserias et dolores
+<lb ed="#P" n="34"/>vitae hujus quales aut quanta sint exponit; omne
+<lb ed="#P" n="35"/>quod hic amatur quam cito fugiat; et pari modo
+<lb ed="#P" n="36"/>omne quod timetur vel doletur quomodo aine
+<lb ed="#P" n="37"/>mora transeat. Inter hiec et hujusmodi quasi 
+ra<lb ed="#P" break="no" n="38"/>lionabili persuasione paulatim menti hominis 
+ni<lb ed="#P" break="no" n="39"/>hil sinistrum suspicantis contemplum vite 
+inge<lb ed="#P" break="no" n="40"/>rit, metum rnortis tollit. Postremo testatur nihil
+<lb ed="#P" n="41"/>magis vero virtutis expedire, quam ut hinc exire
+<lb ed="#P" n="42"/>festinet, etsi alia via non detur, manu sua fortiter
+<lb ed="#P" n="43"/>mortem lacessat; et non permittat se in his 
+dolo<lb ed="#P" break="no" n="44"/>ribus diu teneri, qui gaudium sibi paratum esse
+<lb ed="#P" n="45"/>non dubitat. Quid multa? Deceptus fraudulent
+<lb ed="#P" n="46"/>persuasioni assensum praebet, et injecto ferro 
+se<lb ed="#P" break="no" n="47"/>metipsum jugulat. Comites ejus diu per devia
+<lb ed="#P" n="48"/>quaesitum tandem exstinctum inveniunt, ad 
+vi<lb ed="#P" break="no" n="49"/>cum unde exierant cadaver exanime reportant :
+<lb ed="#P" n="50"/>et quia hospes apud quem nocte illa manserat 
+hu<lb ed="#P" break="no" n="51"/>jus sceleris verisimiliter conscius videbatur, 
+eam<lb ed="#P" break="no" n="52"/>dem falsa criminatione ad poenam exposcunt. Ille
+<lb ed="#P" n="53"/>dum innocentiam suam sine causa periclitari 
+cer<lb ed="#P" break="no" n="54"/>neret et divinum auxilium intima cordis 
+devotio<lb ed="#P" break="no" n="55"/>nesibi adesse imploraret, ecce subito qui mortuus
+<lb ed="#P" n="56"/>fuerat surrexit et rem gestam cunctis astantibus
+<lb ed="#P" n="57"/>et mirantibus exponens innocentem absolvit. 
+Re<lb ed="#P" break="no" n="58"/>ferebat se ab eodem angelo malo a quo ad 
+inter<lb ed="#P" break="no" n="59"/>fectionem sui persuasus fuerat ad tormenta 
+de<lb ed="#P" break="no" n="60"/>ductum. Dum duceretur quemdam splendida facie
+<lb ed="#P" n="61"/>virun (ipsum autem sanctum Jacobum fuisse
+<lb ed="#P" n="62"/>aiebat) euntibus occurrisse, eumque ereptum in
+<lb ed="#P" n="63"/>coelum ad thronum judicis deduxisse, illicque, pre-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="64"/>cibus pro ipso fusis, ut vitse denuo redderetur 
+ob<lb ed="#P" break="no" n="65"/>tinuisse. Ibi se multa millia angelorum vidisse
+<lb ed="#P" n="66"/>affirmabat, de quorum tamen statu et facie 
+inter<lb ed="#P" break="no" n="67"/>rogatus nihil in hoc mundo esse dicebat simile 
+il<lb ed="#P" break="no" n="68"/>lis, quo illam quam in ipsis viderat qualitatem
+<lb ed="#P" n="69"/>exprimere potuisset, nisi forte ignem aut lucem ;
+<lb ed="#P" n="70"/>ipsam tamen longe et valde dissimiliter. 
+Memo<lb ed="#P" break="no" n="71"/>rem quidem se esse, sed exprimere nullo modo
+<lb ed="#P" n="72"/>posse quod viderat. Hoc quidem commemorare
+<lb ed="#P" n="73"/>voluimus ne mirum videatur si animabus a 
+cor<lb ed="#P" break="no" n="74"/>poribus egressis, signa quiedam corporalibus 
+si<lb ed="#P" break="no" n="75"/>milia ad demonstrationem spiritualium 
+presen<lb ed="#P" break="no" n="76"/>tantur, quae nisi in talibus et per talia ab 
+anima<lb ed="#P" break="no" n="77"/>bus corpore exutis viderentur; nullo modo ab
+<lb ed="#P" n="78"/>eisdem ad corpora reversis in corpore viventibus
+<lb ed="#P" n="79"/>et corporalia tantum scientibus dicerentur. 
+Quam<lb ed="#P" break="no" n="80"/>vis enim illa aliter ibi a corporibus exute videre
+<lb ed="#P" n="81"/>possent, non tamen hic nobis aliter narrare 
+pos<lb ed="#P" break="no" n="82"/>sent, et manerent semper occulta illa; nec esset
+<lb ed="#P" n="83"/>quod de illis nobis a redeuntibus diceretur, nisi
+<lb ed="#P" n="84"/>exeuntibus, et videntibus secundum ista 
+monatra<lb ed="#P" break="no" n="85"/>retur. Utrum autem animae quae hinc amplius
+<lb ed="#P" n="86"/>non reversure exeunt, secundum hunc. modum
+<lb ed="#P" n="87"/>illa videant aut sentiant, omnino dubium est,
+<lb ed="#P" n="88"/>nisi quod probabilius videtur, quod ille quae in
+<lb ed="#P" n="89"/>corporibus viventes per delectationem rerum 
+vi<lb ed="#P" break="no" n="90"/>silium corporalibus imaginibus afficiuntur, 
+corpo<lb ed="#P" break="no" n="91"/>ribusexeuntesin eisdem illic imaginibus tormenta
+<lb ed="#P" n="92"/>patiuntur. Neque enim omnino corporalem 
+passi<lb ed="#P" break="no" n="93"/>bilitatem exuunt, quando corporalium 
+imagina<lb ed="#P" break="no" n="94"/>tionibus delectationis prave usu im pressis 
+obvo<lb ed="#P" break="no" n="95"/>lute et involute exeunt. Quae vero hic manentes
+<lb ed="#P" n="96"/>se ab eisdem delectationibus et cogitationum
+<lb ed="#P" n="97"/>phantasiis mundare ac spoliare studuerunt; illic
+<lb ed="#P" n="98"/>postmodum postquam a corporibus egrese 
+fue<lb ed="#P" break="no" n="99"/>rint, penam in eis et tormenta non sentiunt;
+<lb ed="#P" n="100"/>quia in hoc ipso quodammodo impassibiles 
+exis<lb ed="#P" break="no" n="101"/>tunt, quod nihil pcena dignum secum fuerunt.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g59007-Dd1e787">
+               <head xml:id="hsvhsv-g59007-Hd1e789">Capitulum 3</head>
+               <head xml:id="hsvhsv-g59007-Hd1e791" type="question-title"/>
+               <p xml:id="hsvhsv-g59007-d1e793">
+                  <lb ed="#P" n="102"/>Cap. III. De penis animarum.
+</p>
+               <p xml:id="hsvhsv-g59007-d1e798">
+                  <lb ed="#P" n="103"/>Quidam putant animas corporalibus pcenis 
+cru<lb ed="#P" break="no" n="104"/>ciari non posse, nisi per corpora et in corporibus
+<lb ed="#P" n="105"/>manentes. Quapropter a corporibus exutas animas
+<lb ed="#P" n="106"/>nullas alias poenas sustinere credunt, nisi eas 
+s0<lb ed="#P" break="no" n="107"/>lum quas conscientia intus accusatrix irrogat. Sed
+<lb ed="#P" n="108"/>verissime auctoritate sacri eloquii et catholice
+<lb ed="#P" n="109"/>veritatis probatur testimonio, corporali et 
+mate<lb ed="#P" break="no" n="110"/>riali igne animas etiam nunc ante susceptionem
+<lb ed="#P" n="111"/>corporum cruciari. Si enim dzemonibus qui sunt.
+<lb ed="#P" n="112"/>spiritus, corporalis ignis praeparatus dicitur, quid
+<lb ed="#P" n="113"/>mirum est si animae a corporibus exuts 
+corpo<lb ed="#P" break="no" n="114"/>rali igne crucientur ? Sed quomodo, inquiunt,
+<lb ed="#P" n="115"/>animae sine corporibus a rebus corporalibus pati
+<lb ed="#P" n="116"/>possunt ? Ecce dicamus : Nescimus quomodo hoc
+<lb ed="#P" n="117"/>fleri possit; nunquid ideo verum non est quod
+<lb ed="#P" n="118"/>noanescimus quomodoest ? Tamen quid mirum est.
+<lb ed="#P" n="119"/>si animae extra corpora patiuntur ? Si lzeduntur
+<lb ed="#P" n="120"/>dum ceduntur indute, cur non liedantur si ce
+<lb ed="#P" n="121"/>dantur exutae ? Si affici possunt quando inter
+<lb ed="#P" n="122"/>ipsas et illud a quo afficiuntur medium est illud
+<lb ed="#P" n="123"/>per quod afficiuntur ; nonne probabile est 
+om<lb ed="#P" break="no" n="124"/>nino multo magis eas affici debere, quando illi a
+<lb ed="#P" n="125"/>quo afficiuntur immediate conjunguntur ? Tamen
+<!-- 211.png.txt -->
+<pb ed="#P" n="293"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>hoc ubique querendum non est, ut. quod jube- A
+<lb ed="#P" n="2"/>mur credere nostra semper ratione discutere 
+co<lb ed="#P" break="no" n="3"/>nemur. Scriptura sacra magistra fidei nostr: hoc
+<lb ed="#P" n="4"/>nobis dicit. Quid amplius quaerimus ? 
+Suscipia<lb ed="#P" break="no" n="5"/>mus, non contradicamus. Beatus Gregorius dicit
+<lb ed="#P" n="6"/>quod in eo ardent quod se ardentes vident. Quid
+<lb ed="#P" n="7"/>sibi vult putatis hoc quod dicit, quod animae in éo
+<lb ed="#P" n="8"/>ipso ardent quod ardorem suum vident? In rebus
+<lb ed="#P" n="9"/>aliis corporalibus non est ita ut ardorem sentiat
+<lb ed="#P" n="10"/>quicunque ignem conspicatur. Quae est ergo visio
+<lb ed="#P" n="11"/>illa anime qua sentit omne quod videt, vel si non
+<lb ed="#P" n="12"/>omne hoc certe quod ad poenam videt ? An quia
+<lb ed="#P" n="13"/>sensus animae quando per corpus egreditur ideo
+<lb ed="#P" n="14"/>diversis modis percipit ; quia per diversa 
+instru<lb ed="#P" break="no" n="15"/>menta percipit, et ob hoc quiedam eminus 
+cone<lb ed="#P" break="no" n="16"/>tituta, corporali sensu non percipit, quia ad 
+per<lb ed="#P" break="no" n="17"/>cipienda illa instrumenta corporis sensus non
+<lb ed="#P" n="18"/>sufficit ? Ibi enim sensus deficit ubi amplius 
+ins<lb ed="#P" break="no" n="19"/>trumentum non sufficit. Propterea illi sensus qui
+<lb ed="#P" n="20"/>instrumenta magis sufficientia habent, majorem
+<lb ed="#P" n="21"/>in percipiendo vim habent. Oculus longe posita
+<lb ed="#P" n="22"/>videt ; tactus vero sentire non potest nisi 
+imme<lb ed="#P" break="no" n="23"/>diate conjuncta. Si instrumentum tangendi sque
+<lb ed="#P" n="24"/>"ut vivendi perspicax esset, eque tactus ut visus
+<lb ed="#P" n="25"/>eminus constituta perciperet. Quid ergo ? Ubi
+<lb ed="#P" n="26"/>instrumentorum diversitas nulla erit, quare non
+<lb ed="#P" n="27"/>omnis sensus zqualis erit, ut videlicet idem sit
+<lb ed="#P" n="28"/>illic videre quod tangere, tangere quod dolere ?
+<lb ed="#P" n="29"/>Hoc tamen non nisi de illis intelligendum est qui
+<lb ed="#P" n="30"/>idcirco a tormentis affici possunt, quia hinc
+<lb ed="#P" n="31"/>exeuntes in corruptione vitiorum secum ferunt
+<lb ed="#P" n="32"/>passibilitatem. Nec tamen quia sensum anime
+<lb ed="#P" n="33"/>eminus affici dicimus, idcirco inter pcenas 
+corpo<lb ed="#P" break="no" n="34"/>rales et ipsam animam quasi aliqua locorum
+<lb ed="#P" n="35"/>spatia collocamus, quia ipsa quae in eui natura
+<lb ed="#P" n="36"/>nulla dimensione tenditur, ubicunque presens est
+<lb ed="#P" n="37"/>sensu per semetipsam etiam praesens, esse 
+proba<lb ed="#P" break="no" n="38"/>tur. Quia enim in ipsa non est locus, inter ipsam
+<lb ed="#P" n="39"/>et locum nullus est locus. Hsc tamen omnia
+<lb ed="#P" n="40"/>quia dictum est ratione humana investigari non
+<lb ed="#P" n="41"/>possunt ; in his mentem solidemus, quae fides non
+<lb ed="#P" n="42"/>dubia probat, quod scilicet peccatrices anime
+<lb ed="#P" n="43"/>quee culpam non correxerunt in hac vita, poonam
+<lb ed="#P" n="44"/>habent post hanc vitam, quae licet qualiter ab illis
+<lb ed="#P" n="45"/>sentiatur à nobis non intelligatur, quid interest
+<lb ed="#P" n="46"/>cum non ideo minus ab illis sentiatur, quamvisa
+<lb ed="#P" n="47"/>nobis non intelligatur ? Nil etenim refert a qui- D.
+<lb ed="#P" n="48"/>bus rebus patiantur, sed quantum patiantur ;
+<lb ed="#P" n="49"/>quia vis doloris non in tormento sed in sensu
+<lb ed="#P" n="50"/>patientis consistit. Quid enim prodesset etiamsi
+<lb ed="#P" n="51"/>elementorum foris cruciantium materia abesset,
+<lb ed="#P" n="52"/>et patientium tamen dolor intus propterea non
+<lb ed="#P" n="53"/>minor esset ? Ut quid ignem ac flammam times,
+<lb ed="#P" n="54"/>nisi quia uri times? Sed si vulnera et plage non
+<lb ed="#P" n="55"/>dolerent, quis arma aut tela timeret ? Vide ergo
+<lb ed="#P" n="56"/>quod omnia haec a quibus dolor esse potest non
+<lb ed="#P" n="57"/>timentur nisi propter ipsum dolorem. Tolle 
+sen<lb ed="#P" break="no" n="58"/>sum doloris, non est quod timeas. Poterat ergo
+<lb ed="#P" n="59"/>Deus etiam sine elementis etiam materialibus
+<lb ed="#P" n="60"/>animabus cruciandis sensum doloris dare ; sed
+<lb ed="#P" n="61"/>dignum est ut in eis puniantur in quibus 
+pecca<lb ed="#P" break="no" n="62"/>verunt prius quidem sine corporibus, sicut in ipsis
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>perverse sunt delectatz;postea vero cum 
+corpori<lb ed="#P" break="no" n="64"/>bus sicut in ipsis per corpora inique sunt operatse
+</p>
+            </div>
+            <div xml:id="hsvhsv-g59007-Dd1e999">
+               <head xml:id="hsvhsv-g59007-Hd1e1001">Capitulum 4</head>
+               <head xml:id="hsvhsv-g59007-Hd1e1003" type="question-title"/>
+               <p xml:id="hsvhsv-g59007-d1e1005">
+                  <lb ed="#P" n="65"/>Cap. IV. De locis poenarum.
+</p>
+               <p xml:id="hsvhsv-g59007-d1e1010">
+                  <lb ed="#P" n="66"/>Sicut peccatoribus cruciandis Deus pcenas 
+cor<lb ed="#P" break="no" n="67"/>porales preparavit, ita etiam ad ipsas posnas
+<lb ed="#P" n="68"/>corporales loca corporalia distinxit. Quia enim ea
+<lb ed="#P" n="69"/>qua foris sunt opera ejus non solum instrumentá
+<lb ed="#P" n="70"/>sed etiam documenta esse debent eorum quae 
+in<lb ed="#P" break="no" n="71"/>visibiliter operatur ; idcirco etiam et in 
+corpora<lb ed="#P" break="no" n="72"/>libus locis et tormenta impiorum et gaudia 
+justo<lb ed="#P" break="no" n="73"/>rum distinxit. Infernus locus tormentorum est.
+<lb ed="#P" n="74"/>Colum locus est gaudiorum. Bene etenim locus
+<lb ed="#P" n="75"/>tormentorum est deorsum et locus gaudiorum
+<lb ed="#P" n="76"/>sursum ; quia et culpa deorsum premit, et justitia
+<lb ed="#P" n="77"/>sursum sustollit. Maxima tormenta locum in infimo
+<lb ed="#P" n="78"/>habent ; maxima gaudia in summo. Media autem
+<lb ed="#P" n="79"/>bona et mala in medio, hoc est in hoc mundo
+<lb ed="#P" n="80"/>mista sunt. Dicitur infernus esse inferior locus, in
+<lb ed="#P" n="81"/>imo terre poenis damnandorum preparatus. De
+<lb ed="#P" n="82"/>quo tamen ornino certum non est in qua parte
+<lb ed="#P" n="83"/>ejus, id est utrum intra concavitatem illius sive
+<lb ed="#P" n="84"/>extrinsecus in aliqua regione ambitus ipeius 
+dis<lb ed="#P" break="no" n="85"/>positus sit; quamvis tamen verisimilius videatur
+<lb ed="#P" n="86"/>infra terram quasi carcerem quemdam, et velut
+<lb ed="#P" n="87"/>ergastulum tenebrarum collocatum. In hoc inferno
+<lb ed="#P" n="88"/>dicunt ignem inexstinguibilem ; et qui ut semper
+<lb ed="#P" n="89"/>ardeat nutrimento non egeat, ab initio mundi
+<lb ed="#P" n="90"/>daemonibus seternaliter cruciandis praeparatum ;
+<lb ed="#P" n="91"/>in quo scilicet igne etiam homines maligni cum.
+<lb ed="#P" n="92"/>demonibus sternam penam passuri sunt, quia.
+<lb ed="#P" n="93"/>eis in hac vita positi ad culpam consenserunt. Ad
+<lb ed="#P" n="94"/>hunc infernum anime sceleratorum a corporibus
+<lb ed="#P" n="95"/>egressestatim retrudi existimantur, sicut ediverso
+<lb ed="#P" n="96"/>perfectorum justorum, et qui ab hac vita purgati
+<lb ed="#P" n="97"/>exeunt sine mora ad coelum (ubi secundum 
+hu<lb ed="#P" break="no" n="98"/>manitatem suam Jesus Christus in dextera Patris
+<lb ed="#P" n="99"/>sedet in gloria) deduci continuo creduntur, sicut
+<lb ed="#P" n="100"/>Scriptum est : Ubicungue fuerit corpus illuc
+<lb ed="#P" n="101"/>congregabuntur aquila (Matth. xxtv ; Luc. xvi).
+<lb ed="#P" n="102"/>Est autem alia posna post mortem quae purgatoria
+<lb ed="#P" n="103"/>dicitur. In qua qui ab hac vita cum quibusdam
+<lb ed="#P" n="104"/>culpis, justi tamen et ad vitam premdestinati
+<lb ed="#P" n="105"/>exierunt, ad tempus cruciantur, ut purgentur,
+<lb ed="#P" n="106"/>cujus locus omnino determinatus non est, nisi quia
+<lb ed="#P" n="107"/>multis exemplis et revelationibus animarum in
+<lb ed="#P" n="108"/>ejusmodi pcena positarum sepe numero 
+monstra<lb ed="#P" break="no" n="109"/>tum est in hoc mundo illam exerceri, et fortassis
+<lb ed="#P" n="110"/>probabilius erit ut in iis potissimum locis singulee
+<lb ed="#P" n="111"/>ponam sustinere oredantur, in quibus culpam
+<lb ed="#P" n="112"/>commiserunt, sicut multissspe documentis 
+pro<lb ed="#P" break="no" n="113"/>batum est. Alia vero si qua sunt harum poenarum
+<lb ed="#P" n="114"/>loca non facile assignantur. Beatus Augustinus
+<lb ed="#P" n="115"/>ex Epistola Petri ostendit quomodo apostate
+<lb ed="#P" n="116"/>Angeli labentes in hujus mundi ima detrusi sunt
+<lb ed="#P" n="117"/>usque ad futuram in die judicii ultimam 
+damna<lb ed="#P" break="no" n="118"/>tionem. Nam quod Petrus carcerem vocat caliginis
+<lb ed="#P" n="119"/>inferi (II Petr. 11), idem Paulus tenebras 
+appel<lb ed="#P" break="no" n="120"/>lasse ostenditur, dicens : Rectores tenebrarum
+<lb ed="#P" n="121"/>harum spiritualia nequitim in calestibus
+<lb ed="#P" n="122"/>(Ephes. vi). Hunc autem carcerem sive tenebras
+<lb ed="#P" n="123"/>istas aerem istum intelligimus esse. Unde et aeriae
+<lb ed="#P" n="124"/>potestates dicuntur, in quo modo ipsi maligni
+<!-- 212.png.txt -->
+<pb ed="#P" n="294"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>spiritus ante ultimi judicii diem et secundum ali4A
+<lb ed="#P" n="2"/>quid ligati sunt, inquantum scilicet conscientia
+<lb ed="#P" n="3"/>future damnationis constringuntur ; et secundum
+<lb ed="#P" n="4"/>aliquid soluti, inquantum videlicet ad tentandos
+<lb ed="#P" n="5"/>homines secundum moderamen divine 
+dispensa<lb ed="#P" break="no" n="6"/>tionis ab illis interim maximis gehennae tormentis
+<lb ed="#P" n="7"/>laxati vacare permittuntur. De inferno autem ubi
+<lb ed="#P" n="8"/>ille aeternus ignis paratus est cruciandis, beatus
+<lb ed="#P" n="9"/>Gregorius in libro Dialogorum testatur hoc 
+veri<lb ed="#P" break="no" n="10"/>Similius judicari, ut, sicut diximus, sub terra esse
+<lb ed="#P" n="11"/>credatur propter Scripturam quae dicit : Nec in
+<lb ed="#P" n="12"/>coelo nec in terra nec sub terra inventum est qui
+<lb ed="#P" n="13"/>librum signatum aperire potuisset (Apoc. v).
+<lb ed="#P" n="14"/>Quaeri autem non inconvenienter potest, utrum
+<lb ed="#P" n="15"/>animae damnandorum, eorum scilicet qui ab 
+im<lb ed="#P" break="no" n="16"/>piis et aceleratissimis quadam vivendi mensura in 
+<lb ed="#P" n="17"/>malitia inferiores fuerunt, egresss a corporibus
+<lb ed="#P" n="18"/>statim ad inferni loca rapiantur ; an vero in 
+ali<lb ed="#P" break="no" n="19"/>quibus aliis locis poenalibus secundum occultam
+<lb ed="#P" n="20"/>Dei dispensationem ab illis gravioribus gehennze
+<lb ed="#P" n="21"/>tormentis adhuc interim differantur, ut videlicet
+<lb ed="#P" n="22"/>quemadmodum boni qui cum culpis quibusdam
+<lb ed="#P" n="23"/>mansionibus detinentur, ut non statim ad gaudia.
+<lb ed="#P" n="24"/>cclorum ascendant, ita quoque minus mali cum
+<lb ed="#P" n="25"/>hinc egrediuntur quamvis damnandi, quibusdam
+<lb ed="#P" n="26"/>tamen levioribus pomis secundum modum seu
+<lb ed="#P" n="27"/>mensuram culparum dispositis non statim ad 
+tor<lb ed="#P" break="no" n="28"/>menta inferni descendant. De perfectis quippe
+<lb ed="#P" n="29"/>bonis dubium non est quin egredientes statim ad
+<lb ed="#P" n="30"/>gaudia transeant. Similiter etiam et de valde
+<lb ed="#P" n="31"/>malis dubium non est, quin exeuntes hinc sine (;
+<lb ed="#P" n="32"/>mora ad inferni tormenta descendant. De 
+imper<lb ed="#P" break="no" n="33"/>fectis quoque bonis certum est quod nunc interim
+<lb ed="#P" n="34"/>quibusdam pcenis usque ad plenam videlicet 
+pur<lb ed="#P" break="no" n="35"/>gationem a. venturis gaudiis differantur. De 
+im<lb ed="#P" break="no" n="36"/>perfectis sive minus malis certum non est ubi
+<lb ed="#P" n="37"/>nunc sint, donec in tempore universalis 
+resurrec<lb ed="#P" break="no" n="38"/>tionis receptis corporibus ad illa tormenta 
+des<lb ed="#P" break="no" n="39"/>cendant ubi semper sint. Nam idcirco ab illia
+<lb ed="#P" n="40"/>differri dicuntur, quia minus mali sunt ; poterunt
+<lb ed="#P" n="41"/>simili ratione non differri credi quia damnandi
+<lb ed="#P" n="42"/>sunt. Quid enim facit dilatio ubi emendatio vel
+<lb ed="#P" n="43"/>purgatio esse non potest ? Quod tamen quia 
+occul<lb ed="#P" break="no" n="44"/>tum omnino est, nequaquam temere definiendum
+<lb ed="#P" n="45"/>est.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g59007-Dd1e1245">
+               <head xml:id="hsvhsv-g59007-Hd1e1247">Capitulum 5</head>
+               <head xml:id="hsvhsv-g59007-Hd1e1249" type="question-title"/>
+               <p xml:id="hsvhsv-g59007-d1e1251">
+                  <lb ed="#P" n="46"/>Cap. V. De qualitate tormentorum gehennalium.
+</p>
+               <p xml:id="hsvhsv-g59007-d1e1256">
+                  <lb ed="#P" n="47"/>Hoc autem valde dignum inquisitione videtur,
+<lb ed="#P" n="48"/>utrum scilicet solus ignis cruciatibus 
+damnando<lb ed="#P" break="no" n="49"/>rum praeparatus sit, propterea quod illum solum
+<lb ed="#P" n="50"/>Veritas commemorat, dicens : Ite, maledicti, in
+<lb ed="#P" n="51"/>ignem cternum (Matth. xxv). Cum enim in hac
+<lb ed="#P" n="52"/>vita non solum ab igne, sed etiam ab aliis 
+ele<lb ed="#P" break="no" n="53"/>mentis porre ac cruciatus proveniant, quare non
+<lb ed="#P" n="54"/>etiam illic iu aliis elementis sicut etin igne pone
+<lb ed="#P" n="55"/>damnandorum consistant ? De tormentis quippe
+<lb ed="#P" n="56"/>impiorum scriptum est : Transeunt a frigoribus
+<lb ed="#P" n="57"/>nivium ad calores ignium (Job. xxiv). Et iterum.
+<lb ed="#P" n="58"/>alibi: Vermis eorum non morietur, et ignis
+<lb ed="#P" n="59"/>eorum non ecstingwetur (Isa. Lxvi). Nam si
+<lb ed="#P" n="60"/>vermem quis ad solam compunctionem 
+conscien<lb ed="#P" break="no" n="61"/>iim peccatricis referri velit, et ob hoc quidem
+<lb ed="#P" n="62"/>ignem corporalem, vermem autem non corporalem,
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>sed spiritualem intelligendum putet, quid est quod
+<lb ed="#P" n="64"/>alibi scriptum est: Vindicta carnis impii ignis et
+<lb ed="#P" n="65"/>vermis ? (Eccli. vir.) Si enim propterea ignis 
+cor<lb ed="#P" break="no" n="66"/>poraliscreditur, quia vindicta carnis est, quare non
+<lb ed="#P" n="67"/>similiter vermis corporalis dicitur, quia in 
+viridic<lb ed="#P" break="no" n="68"/>tam carnis paratus commemoratur ? Propter 
+hu<lb ed="#P" break="no" n="69"/>jusmodi non leviter unum aliquid definiri potest.
+<lb ed="#P" n="70"/>Tamen qui dixerit propterea carnis impii 
+vin<lb ed="#P" break="no" n="71"/>dictam in verme futuram esse et in igne, quia
+<lb ed="#P" n="72"/>impius pro eo quod etiam in carne male vixit, et
+<lb ed="#P" n="73"/>in carne cruciabitur per ignem, et in spiritu per
+<lb ed="#P" n="74"/>conscientie vermem, sane intelliget et. vermem
+<lb ed="#P" n="75"/>non moriturum in seterno cruciatu conscientiae, et
+<lb ed="#P" n="76"/>ignem non exstinguendum in carne. Sed quomodo
+<lb ed="#P" n="77"/>illa frigora nivium et calores ignium 
+interpreta<lb ed="#P" break="no" n="78"/>bimur, ad quae cruciandi impii alternatim 
+tran<lb ed="#P" break="no" n="79"/>sire dicuntur? An forte hoc de illa tantum poena
+<lb ed="#P" n="80"/>intelligendum est, quia nunc in spiritu ante ultimi
+<lb ed="#P" n="81"/>judicii diem cruciantur, ut videlicet per varietatem
+<lb ed="#P" n="82"/>tormentorum ad illam unam et summam poenam
+<lb ed="#P" n="83"/>transeant ; in qua sicut interminabiliter, ita etiam
+<lb ed="#P" n="84"/>invariabiliter subsistant. Ultima quippe 
+damna<lb ed="#P" break="no" n="85"/>torum poena sicut cunctis poenis major esse non
+<lb ed="#P" n="86"/>inconvenienter creditur, ita quoque in eo quod
+<lb ed="#P" n="87"/>ceteris omnibus acrius est et vehementius 
+excru<lb ed="#P" break="no" n="88"/>cians, tormento esse non irrationabiliter putatur.
+<lb ed="#P" n="89"/>Quod propterea fortassis aolum erit ut semper
+<lb ed="#P" n="90"/>summum esse possit, quia quidquid pro illo 
+mu<lb ed="#P" break="no" n="91"/>taretur de illo minueretur. Quidam tamen fuerunt
+<lb ed="#P" n="92"/>qui, sicut dictum est, tormenta gehennzee 
+spiritua<lb ed="#P" break="no" n="93"/>liter tantum et non corporaliter intelligenda 
+pu<lb ed="#P" break="no" n="94"/>taverunt, propterea quod quidam verba 
+acriptu<lb ed="#P" break="no" n="95"/>rarum quasi idem asserentia inveniuntur. Dicunt
+<lb ed="#P" n="96"/>enim quadam scripture quod substantia 
+infero<lb ed="#P" break="no" n="97"/>rum spiritualis est, non corporalis, etsi stridore
+<lb ed="#P" n="98"/>dentium et fletus animarum spiritualia intelligi
+<lb ed="#P" n="99"/>oportet ; flammas quoque et tormenta non 
+cor<lb ed="#P" break="no" n="100"/>poralia, sed spiritualia sunt cogitanda. Ejusmodi
+<lb ed="#P" n="101"/>ambiguitatibus verborum fluctuant qui non sunt
+<lb ed="#P" n="102"/>radicati in fide. Quid enim necesse fuit propterea
+<lb ed="#P" n="103"/>tormenta gehennae spiritualia tantum credere,
+<lb ed="#P" n="104"/>quia substantia inferorum spiritualis et non 
+cor<lb ed="#P" break="no" n="105"/>poralis dicta est ? Quid enim sunt inferi nisi 
+spi<lb ed="#P" break="no" n="106"/>ritus maligni qui a summis ad infima et per 
+cul<lb ed="#P" break="no" n="107"/>pam lapsi sunt et per poenam depressi ? Quorum
+<lb ed="#P" n="108"/>nimirum substantia etiam post culpam non 
+cor<lb ed="#P" break="no" n="109"/>poralis, sed spiritualis esse dicitur ; quia, licet in
+<lb ed="#P" n="110"/>eis voluntas per malitiam ad aliud mutata sit,
+<lb ed="#P" n="111"/>natura tamen etiam post eadem permansit. 
+Ani<lb ed="#P" break="no" n="112"/>marum quoque nunc in inferis damnatarum
+<lb ed="#P" n="113"/>substantia non corporalis, sed spiritualis recte
+<lb ed="#P" n="114"/>perhibetur, quia nunc a corporibus solutae in aola
+<lb ed="#P" n="115"/>spirituali natura illic in tormentis detineutur. Et
+<lb ed="#P" n="116"/>idcirco quod de ipsis in Scriptura sacra secundum.
+<lb ed="#P" n="117"/>naturam rerum corporalium commemoratur, 
+me<lb ed="#P" break="no" n="118"/>rito non corporaliter sed spiritualiter 
+intelligen<lb ed="#P" break="no" n="119"/>dum creditur. Nam si id quod ipse sunt non 
+cor<lb ed="#P" break="no" n="120"/>pus sed spiritus est, quod in ipsis eet, non 
+cor<lb ed="#P" break="no" n="121"/>porale, sed spirituale est intelligendum. In hunc
+<lb ed="#P" n="122"/>ergo modum, veraciter inferorum substantia 
+spi<lb ed="#P" break="no" n="123"/>ritualis et non corporalis existimatur. Sed et illud.
+<lb ed="#P" n="124"/>quoque quod dicitur quod si fletus animarum et
+<!-- 213.png.txt -->
+<pb ed="#P" n="295"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>stridores dentium spiritualiter accipimus, flammas 
+<lb ed="#P" n="2"/>quoque tormentorum in ipsis non corporales, sed
+<lb ed="#P" n="3"/>spiritualescrederedebemus, sic sane intelligi potest
+<lb ed="#P" n="4"/>8i cruciatibus animarum qui ex flammis 
+corpora<lb ed="#P" break="no" n="5"/>libus generari creduntur, non corporaliter, id est.
+<lb ed="#P" n="6"/>mediantibus corporibus in ipsis fieri intelligantur.
+<lb ed="#P" n="7"/>Multa sunt alia quae vel ambigue dicta sunt, vel
+<lb ed="#P" n="8"/>ambigue dici possunt. Sed aliud est rerum veritas,
+<lb ed="#P" n="9"/>aliud verborum varietas. Neque nos oportet
+<lb ed="#P" n="10"/>propter multitudinem dicendi a simplicitate 
+de<lb ed="#P" break="no" n="11"/>viare credendi. Dicit Augustinus in Enchiridio :
+<lb ed="#P" n="12"/>Quod tempus quod inter hominis mortem et 
+ulti<lb ed="#P" break="no" n="13"/>mam resurrectionem positum est, animas abditis
+<lb ed="#P" n="14"/>receptaculis continet sicut unaqueeque digna est.
+<lb ed="#P" n="15"/>vel requie vel erumna. Ergo abdita sunt 
+recepta<lb ed="#P" break="no" n="16"/>cula animarum, nec potest ab homine definiri p 
+<lb ed="#P" n="17"/>quod non potest ab homine sciri. Item qualis sit
+<lb ed="#P" n="18"/>intelligendus ignis ille gehenne, et quemadmodum
+<lb ed="#P" n="19"/>igne corporali incorporei spiritus sive animae
+<lb ed="#P" n="20"/>corporibus solute cruciari possint, non solum
+<lb ed="#P" n="21"/>fidei christiane, sed sacri eloquii auctoritas non
+<lb ed="#P" n="22"/>enodat.
+</p>
+               <p xml:id="hsvhsv-g59007-d1e1484">
+                  <lb ed="#P" n="23"/>Quod corporeus ignis gehenna non tantum
+<lb ed="#P" n="24"/>corpora cruciabit, sed etiam spiritus. 
+Augus<lb ed="#P" break="no" n="25"/>tinus De civitate Dei de eodem.
+</p>
+               <p xml:id="hsvhsv-g59007-d1e1494">
+                  <lb ed="#P" n="26"/>Gehenna, quod etiam stagnum ignis et 
+sulphu<lb ed="#P" break="no" n="27"/>ris dictum est, corporeus ignis erit, et cruciabit
+<lb ed="#P" n="28"/>corpora damnatorum et hominum et demonum ;
+<lb ed="#P" n="29"/>solida hominum, aeria demonum, aut tantum
+<lb ed="#P" n="30"/>hominum corpora cum spiritibus;demonesautem,
+<lb ed="#P" n="31"/>spiritus sine corporibus h:erentes sumendo penam c
+<lb ed="#P" n="32"/>non in percipiendo vitam corporalibus ignibus.
+<lb ed="#P" n="33"/>Cum enim non dicamus, quamvis miris, tamen
+<lb ed="#P" n="34"/>veris modis etiam spiritus incorporeos posse poona
+<lb ed="#P" n="35"/>corporalis ignis affligi ; sispiritus hominum etiam
+<lb ed="#P" n="36"/>ipsi profecto incorporei et tunc potuerunt includi
+<lb ed="#P" n="37"/>corporalibus membris, et tunc poterunt suorum
+<lb ed="#P" n="38"/>corporum vinculis insolubiliter alligari ?
+</p>
+               <p xml:id="hsvhsv-g59007-d1e1525">
+                  <lb ed="#P" n="39"/>Si viventis hominis incorporeus spiritus tenetur
+<lb ed="#P" n="40"/>in corpore, cur non post mortem, cum incorporeus
+<lb ed="#P" n="41"/>sit spiritus, etiam corporeo igne teneatur ? 
+Ete<lb ed="#P" break="no" n="42"/>nim per ignem spiritum teneri dicimus, ut in
+<lb ed="#P" n="43"/>tormento ignis sit videndo atque sentiendo. Ignem
+<lb ed="#P" n="44"/>namque eo ipso patitur quo videt, et quia 
+con<lb ed="#P" break="no" n="45"/>eremari se aspicit concrematur. Sicque fit ut rea
+<lb ed="#P" n="46"/>corporea in corpoream exurat, dum ex igne 
+visi<lb ed="#P" break="no" n="47"/>bili ardor ac dolor invisibilis trahitur, utperignem
+<lb ed="#P" n="48"/>corporeum mens incorporea etiam corporea
+<lb ed="#P" n="49"/>flamma crucietur. Et post pauca : Dum ergo 
+pec<lb ed="#P" break="no" n="50"/>catorem divitem damnatum veritas in ignem 
+per<lb ed="#P" break="no" n="51"/>hibet, quisnam sapiens animas reproborum teneri
+<lb ed="#P" n="52"/>ignibus neget ?
+</p>
+               <p xml:id="hsvhsv-g59007-d1e1558">
+                  <lb ed="#P" n="53"/>Quod ignis gehenna. ad aliquid lucebit et. ad aliquid
+<lb ed="#P" n="54"/>non lucebit. De eodem Gregorius in Moralibus.
+</p>
+               <p xml:id="hsvhsv-g59007-d1e1565">
+                  <lb ed="#P" n="55"/>Ille ultrix flamma vitiorum cremationem habet,
+<lb ed="#P" n="56"/>et lumen non habet. Illic ignis etad consolationem
+<lb ed="#P" n="57"/>non lucet, et tamen ut magis torqueat ad aliquid
+<lb ed="#P" n="58"/>lucet. Nam sequaces quoque suos secum in 
+tor<lb ed="#P" break="no" n="59"/>mento reprobi flamma illustrante visuri sunt,
+<lb ed="#P" n="60"/>quórum vivi amore deliquerunt, quatenus quorum
+<lb ed="#P" n="61"/>vitam carnaliter contra praecepta Conditoris 
+ama<lb ed="#P" break="no" n="62"/>verant, ipsorum quoque intuitus eos in augmento
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>suae damnationis affligat. Sicut electis ignis ardere
+<lb ed="#P" n="64"/>novit ad solatium, et tamen ardere ad supplicium
+<lb ed="#P" n="65"/>nescit, ita e diverso gehennae flamma reprobis, et.
+<lb ed="#P" n="66"/>nequaquam lucet ad consolationis gratiam, et
+<lb ed="#P" n="67"/>tamen lucet ad ponam, ut damnatorum oculis
+<lb ed="#P" n="68"/>ignis supplicii et nulla claritate candeat, et ad
+<lb ed="#P" n="69"/>doloris cumulum electis qualiter crucientur
+<lb ed="#P" n="70"/>ostendat.
+</p>
+               <p xml:id="hsvhsv-g59007-d1e1604">
+                  <lb ed="#P" n="71"/>Quod ignis gehenna ab initio sic creatus est ut
+<lb ed="#P" n="72"/>nutrimento non egeat. Idem in eodem.
+</p>
+               <p xml:id="hsvhsv-g59007-d1e1611">
+                  <lb ed="#P" n="73"/>Omnipotentis. justitia futurorum prescientia
+<lb ed="#P" n="74"/>ab ipsa mundi origine gehenne ignem creavit,
+<lb ed="#P" n="75"/>qui in poena reproborum semel esse inciperet, sed
+<lb ed="#P" n="76"/>ardorem suum etiam sine lignis nunquam finiret.
+<lb ed="#P" n="77"/>Ignis namque corporeus ut esse ignis valeat 
+cor<lb ed="#P" break="no" n="78"/>poreis indiget fomentis, qui cum necesse est ut
+<lb ed="#P" n="79"/>servetur per congesta ligna procul dubio nutritur,
+<lb ed="#P" n="80"/>nec valet niei succensus esse, et nisi refotus 
+sub<lb ed="#P" break="no" n="81"/>sistere. At contra gehennsae ignis, cum sit 
+corpo<lb ed="#P" break="no" n="82"/>reus et universos reprobos corporaliter exurat, nec
+<lb ed="#P" n="83"/>Studio humano succenditur, nec lignis nutritur,
+<lb ed="#P" n="84"/>sed creatus semel durat inexstinguibilis, et 
+suc<lb ed="#P" break="no" n="85"/>censione non indiget, et ardore non caret. Bene
+<lb ed="#P" n="86"/>ergo de iniquo dicitur : Devorabit ewm ignis qui
+<lb ed="#P" n="87"/>non succenditur (Job. xx).
+</p>
+               <p xml:id="hsvhsv-g59007-d1e1647">
+                  <lb ed="#P" n="88"/>Quales sunt purgatorie penc in hac vita et
+<lb ed="#P" n="89"/>quales post. Augustinus De civitate Dei.
+</p>
+               <p xml:id="hsvhsv-g59007-d1e1654">
+                  <lb ed="#P" n="90"/>In hac vita quidem mortali esse quasdam 
+pe<lb ed="#P" break="no" n="91"/>nas purgatorias confitemur, non quibus 
+affligun<lb ed="#P" break="no" n="92"/>tur quorum vita vel non inde fit melior, vel 
+po<lb ed="#P" break="no" n="93"/>ius inde fit pejor: sed illis sunt purgatorie qui
+<lb ed="#P" n="94"/>eis coerciti corriguntur. Ceetere omnes pons 
+si<lb ed="#P" break="no" n="95"/>ve temporales sive sempiterne, sicut 
+unusquis<lb ed="#P" break="no" n="96"/>que divina providentia tractandus est inferuntur;
+<lb ed="#P" n="97"/>vel pro peccatis sive in praeteritis, sive in quibus
+<lb ed="#P" n="98"/>adhuc vivit ille qui plectitur, vel pro exercendis
+<lb ed="#P" n="99"/>declarandisque virtutibus per homineset angelos
+<lb ed="#P" n="100"/>Sive bonos, sive malos. Sed temporales ponas
+<lb ed="#P" n="101"/>alii in hac vita tantum, alii post mortem, alii et
+<lb ed="#P" n="102"/>nunc et tunc, verumtamen ante judicium illud
+<lb ed="#P" n="103"/>severissimum novissimumque patiuntur. Non
+<lb ed="#P" n="104"/>autem venient omnes in sempiternas pcenas, quae
+<lb ed="#P" n="105"/>post illud judicium futurae sunt, qui post mortem
+<lb ed="#P" n="106"/>sustinent temporales. Nam quibusdam quod in
+<lb ed="#P" n="107"/>isto non remittitur, remitti in futuro ssmculo, id
+<lb ed="#P" n="108"/>est, ne futuri sseculi aeterno supplicio puniantur,
+<lb ed="#P" n="109"/>confitemur. Rarissimi sunt autem qui nullas in
+<lb ed="#P" n="110"/>hac vita, sed tantum post eam poenas luant. 
+Fuis<lb ed="#P" break="no" n="111"/>8e tamen aliquos qui usque ad decrepitam 
+senec<lb ed="#P" break="no" n="112"/>tutem ne levissimam quidem febriculam 
+sense<lb ed="#P" break="no" n="113"/>rint, quantamcunque duxerint vitam ; et ipsi 
+no<lb ed="#P" break="no" n="114"/>vimus et audivimus, quanquam vita ipsa 
+morta<lb ed="#P" break="no" n="115"/>lium tota pcena sit. Non enim parva est poena 
+ip<lb ed="#P" break="no" n="116"/>sa insipientia vel imperitia, quae usque adeo 
+fu<lb ed="#P" break="no" n="117"/>gienda merito judicatur, ut per plenas doloribus
+<lb ed="#P" n="118"/>poenas pueri cogantur quaeque artificia vel 
+litte<lb ed="#P" break="no" n="119"/>ras discere, ipsumque discere ad quod poenis 
+adi<lb ed="#P" break="no" n="120"/>guntur tam pcnale est eis, ut nonnunquam ipsas
+<lb ed="#P" n="121"/>ponas per quas compelluntur discere, malint 
+fer<lb ed="#P" break="no" n="122"/>requam discere. Quis autem non exhorreat et
+<lb ed="#P" n="123"/>mori eligat si proponatur ei aut mors per penam,
+<lb ed="#P" n="124"/>aut rursus infantia ? Quae quidem quod non a ri-
+<!-- 214.png.txt -->
+<pb ed="#P" n="296"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>su, sed a fletu orditur, hanc lucem, quid malorum 
+<lb ed="#P" n="2"/>ingressa sit nesciens prophetizat quodammodo.
+<lb ed="#P" n="3"/>Solum quando natus eat ferunt risiase Zoroastrem.
+<lb ed="#P" n="4"/>Nec tamen boni aliquid ei monstruosus risus ille
+<lb ed="#P" n="5"/>portendit. Nam magicarun artium inventor fuisse
+<lb ed="#P" n="6"/>perhibetur. A Nino quippe rege Assyriorum 
+bel<lb ed="#P" break="no" n="7"/>lo superatus occubuit. Verum tanta est Dei 
+mise<lb ed="#P" break="no" n="8"/>ricordia in vasa misericordie quae preparavit in
+<lb ed="#P" n="9"/>gloriam, ut etiam prima hominis etas, id est 
+in<lb ed="#P" break="no" n="10"/>fantia quae sine ullo renisu subjacet carni, , et 
+se<lb ed="#P" break="no" n="11"/>cunda quae pueritia nuncupatur, ubi nondum 
+ra<lb ed="#P" break="no" n="12"/>tio suscepit contra vitia pugnam, et fere sub 
+om<lb ed="#P" break="no" n="13"/>nibus vitiosis delectationibus jacet, quia licet fari
+<lb ed="#P" n="14"/>jam valeat, et ideo infantiam transisse videatur
+<lb ed="#P" n="15"/>non dum in ea est praecepti capax infirmitas mentis
+<lb ed="#P" n="16"/>si sacramenta mediatoris acceperit, etiamsi hanc in 
+<lb ed="#P" n="17"/>eis annis vitam finiat, translata; scilicet a potes"
+<lb ed="#P" n="18"/>tate tenebrarum in regnum Dei non solum ponis
+<lb ed="#P" n="19"/>non preparetur ternis, sed nec illa post 
+mor<lb ed="#P" break="no" n="20"/>tem purgatoria tormenta patiatur. Sufficit enim
+<lb ed="#P" n="21"/>ola spiritualis regeneratio, ne post mortem obsit.
+<lb ed="#P" n="22"/>quod carnalis generatio traxit cum morte. Cum
+<lb ed="#P" n="23"/>autem ventum fuerit ad etatem quae jam 
+pre<lb ed="#P" break="no" n="24"/>ceptum capit, et subdi jam potest legis imperio,
+<lb ed="#P" n="25"/>suscipiendum est bellum contra vitia et 
+geren<lb ed="#P" break="no" n="26"/>dum acriter ne ad damnabilia peccate perducat,
+<lb ed="#P" n="27"/>et si quidem nondum victoriarum consuetudine
+<lb ed="#P" n="28"/>roborata sunt, facilius vincuntur et cedunt. Si
+<lb ed="#P" n="29"/>autem vincere atque imperare consueverunt , 
+la<lb ed="#P" break="no" n="30"/>boriosa difficultate vincuntur. Hoc autem bellum
+<lb ed="#P" n="31"/>nunquam ullum esset, si natura humana per 
+li<lb ed="#P" break="no" n="32"/>berum arbitrium in rectitudine in qua facta est,
+<lb ed="#P" n="33"/>perstitisset. Nunc vero quz» pacem felix habere
+<lb ed="#P" n="34"/>noluit, secum pugnat infelix. Paucissimi autem
+<lb ed="#P" n="35"/>sunt tente felicitatis ut ab ipsa ineunte 
+adoles<lb ed="#P" break="no" n="36"/>centia, nulla damnabilia peccata committant, vel
+<lb ed="#P" n="37"/>in flagitiis vel in facinoribus vel in nefarim 
+cu<lb ed="#P" break="no" n="38"/>jusdam impietatis errore, sed magna spiritus 
+lar<lb ed="#P" break="no" n="39"/>gitate opprimant quidquid in eis posset carnali
+<lb ed="#P" n="40"/>delectatione damnari. Plurimi vero praecepto 
+le<lb ed="#P" break="no" n="41"/>gis accepto cum prius victi fuerunt 
+prevalenti<lb ed="#P" break="no" n="42"/>bus vitiis pravaricatores ejus effecti extunc ad
+<lb ed="#P" n="43"/>gratiam confugiunt adjuvantem, qua fiant et
+<lb ed="#P" n="44"/>amarius pomnitendo et vehementius pugnando
+<lb ed="#P" n="45"/>prius Deo subditi, atque ita carni praeposita 
+men<lb ed="#P" break="no" n="46"/>te victores. Quisquis ergo cupit poenas evadere
+<lb ed="#P" n="47"/>sempiternas, non solum baptizetur, verum et
+<lb ed="#P" n="48"/>justificetur in-Christo ; ac sic vere transeat a 
+dia<lb ed="#P" break="no" n="49"/>bolo ad Christum. Nihil in edificio preponitur
+<lb ed="#P" n="50"/>fundamento. Inveniemus ergo qui possit salvari
+<lb ed="#P" n="51"/>per ignem, si prius invenerimus quid sit habere
+<lb ed="#P" n="52"/>in fundamento Christum. Si quis itaque 
+Chris<lb ed="#P" break="no" n="53"/>tianus diligit meretricem, eique adhzrens unum
+<lb ed="#P" n="54"/>corpus efücitur, jam fundamentum non habet
+<lb ed="#P" n="55"/>Christum. Si quis autem diligit uxorem suam
+<lb ed="#P" n="56"/>secundum Christum, quis ei dubitet in 
+funda<lb ed="#P" break="no" n="57"/>mento esse Christum ? Si vero secundum hoc se
+<lb ed="#P" n="58"/>culum, si carnaliter, si in morbo concupiscentiae
+<lb ed="#P" n="59"/>sicut et gentes quae ignorant Deum, etiam hoc
+<lb ed="#P" n="60"/>secundum veniam concedit Apostolus; imo per
+<lb ed="#P" n="61"/>Apostolum Christus. Potest ergo et iste in 
+fun<lb ed="#P" break="no" n="62"/>damento habere Christum. Si enim nihil ei talis
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>affectionis voluptatisque pra»ponat, quamvis 
+su<lb ed="#P" break="no" n="64"/>peredificet ligna, fenum, stipulam, Christus est
+<lb ed="#P" n="65"/>fundamentum, propter hoc salvus erit per ignem;
+<lb ed="#P" n="66"/>delicias quippe hujus mundi amoresque terrenos
+<lb ed="#P" n="67"/>propter conjugalem quidem copulam non 
+dam<lb ed="#P" break="no" n="68"/>nabiles, tribulationis ignis exurit. Qui amat 
+pa<lb ed="#P" break="no" n="69"/>trem aut matrem aut filiun, aut filiam super
+<lb ed="#P" n="70"/>me, ait Dominus non est me dignus (Matth. x).
+<lb ed="#P" n="71"/>Verum qui has necessitudines sic amat 
+carnali<lb ed="#P" break="no" n="72"/>ter, ut tamen Christo Domino non preponat, 
+ma<lb ed="#P" break="no" n="73"/>litque ipsis carere quam Christo, si ad hunc 
+fue<lb ed="#P" break="no" n="74"/>rit articulum tentationis adductus, per ignem erit
+<lb ed="#P" n="75"/>salvus, quia et earum amissione tantum necesse
+<lb ed="#P" n="76"/>est urat dolor quantum heserat amor. Ac per
+<lb ed="#P" n="77"/>hoc ei qui zedificavit erit :edificatio ista damnosa,
+<lb ed="#P" n="78"/>quia non habebit quod superedificavit, et eorum
+<lb ed="#P" n="79"/>amissione cruciabitur quibus fruendo utique 
+lz<lb ed="#P" break="no" n="80"/>labatur. Videin Apostoli verbis hominem 
+sdifi<lb ed="#P" break="no" n="81"/>cantem super fundamentum, lapides pretiosos
+<lb ed="#P" n="82"/>aurum, argentum (ICor. ut). Qui sine uxore
+<lb ed="#P" n="83"/>est, inquit, cogitat quae sunt Dei quomodo 
+pla<lb ed="#P" break="no" n="84"/>ceat Deo (I Cor vi) Vide alium eedificantem 
+Li<lb ed="#P" break="no" n="85"/>gna, fenum, stipulam (I Cor. i). Qui autem
+<lb ed="#P" n="86"/>matrimonio junctus est, inquit, cogitat qua
+<lb ed="#P" n="87"/>sunt mundi, quo placeat uxori (I Cor. v1). 
+Va<lb ed="#P" break="no" n="88"/>sa figuli probat fornaz, et homines justos 
+ten<lb ed="#P" break="no" n="89"/>tatio tribulationis (Eccli. xxvi) ; et 
+uniuscu<lb ed="#P" break="no" n="90"/>jusque opus quale fuerit ignis probabit sic 
+cu<lb ed="#P" break="no" n="91"/>jus opus permanserit (I Cor. u1) ; permanet enim.
+<lb ed="#P" n="92"/>quod quisque cogitat quae sunt Dei quomodo 
+pla<lb ed="#P" break="no" n="93"/>ceat Deo (I Cor. vit). quod superedificavit, 
+mer<lb ed="#P" break="no" n="94"/>cedem accipiet (I Cor. ur), id est unde 
+cogi<lb ed="#P" break="no" n="95"/>tavit, hoc sumet. Si cujus opus arserit, 
+dam<lb ed="#P" break="no" n="96"/>num patietur (ibid.) ; quoniam quod dilexerat
+<lb ed="#P" n="97"/>non habebit: Ipse autem salvus erit (ibid.);
+<lb ed="#P" n="98"/>quia nulla eum tribulatio ab illius fundamenti
+<lb ed="#P" n="99"/>stabilitate semovit. Si tamen quasi per ignem
+<lb ed="#P" n="100"/>(ibid.) Quod enim sine illiciente amore non 
+ha<lb ed="#P" break="no" n="101"/>buit sine urente dolore non perdit. Ecce, 
+quan<lb ed="#P" break="no" n="102"/>tum mihi videtur, inventus est ignis, qui nullum
+<lb ed="#P" n="103"/>eorum damnet. sed unum ditet, alterum 
+damni<lb ed="#P" break="no" n="104"/>ficet, ambos probet. Nullas quidem pcenas nisi
+<lb ed="#P" n="105"/>purgatorias voluit esse post mortem, quoniam
+<lb ed="#P" n="106"/>terris superiora sunt elementa aer, aqua, ignis.
+<lb ed="#P" n="107"/>Exaliquo horum mundetur per expiatorias 
+pc<lb ed="#P" break="no" n="108"/>nas quod terrena cogitatione contractum est. 
+Un<lb ed="#P" break="no" n="109"/>de gentilis poeta :
+<quote xml:id="hsvhsv-g59007-Qd1e1976">Aliae panduntur inanes
+<lb ed="#P" n="110"/>Suspensc ad ventos : aliis sub gurgite vasto
+<lb ed="#P" n="111"/>Infectum eluitur scelus, aut exuritur igni.</quote>
+                  <ref xml:id="hsvhsv-g59007-Rd1e1983">Virg. AEneid. lib. v1, v. 7A0 et seq.</ref>
+                  <lb ed="#P" n="112"/>Injustum enim putant ut pro peccatis quamlibet
+<lb ed="#P" n="113"/>magnis parvo scilicet tempore perpetratis poena
+<lb ed="#P" n="114"/>quisque damnetur seterna, quasi ullius id usquam
+<lb ed="#P" n="115"/>justitia attendat ut tanta mora temporis quisque
+<lb ed="#P" n="116"/>puniatur quanta mora temporis, unde puniretur
+<lb ed="#P" n="117"/>admisit. Nunquid in vinculis tandiu quisque 
+judi<lb ed="#P" break="no" n="118"/>candus est esse debere quandiu fecit unde meruit
+<lb ed="#P" n="119"/>alligari, cum justissime annosaa pcenas servus in
+<lb ed="#P" n="120"/>compedibus pendat qui verbo aut ictu celerrime
+<lb ed="#P" n="121"/>tsangeunte vel lacessivit Dominum vel plagavit?
+<!-- 215.png.txt -->
+<pb ed="#P" n="297"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>Quod ergo de sempiterno supplicio damnatorum per 
+<lb ed="#P" n="2"/>suum prophetam Dominus dixit fiet omnino flet:
+<lb ed="#P" n="3"/>Vermis eorum non morietur ; et ignis eorum
+<lb ed="#P" n="4"/>non ezxstinguetur (Isa. . xvi). Utrumque horum
+<lb ed="#P" n="5"/>scilicet ignem atque vermem volunt quidam ad
+<lb ed="#P" n="6"/>animae ponas non ad corporis pertinere quia
+<lb ed="#P" n="7"/>scriptum est : Sicut tinea vestimentum et vermis
+<lb ed="#P" n="8"/>lignum, sic mceror excruciat cor viri(Prov. xxv).
+<lb ed="#P" n="9"/>Qui vero penas et anime et corporis in illo sup.
+<lb ed="#P" n="10"/>plicio futuras non dubitant, igne uri corpus ; 
+ani<lb ed="#P" break="no" n="11"/>mam autem rodi quodammodo verme mcoeroris
+<lb ed="#P" n="12"/>affirmant. Quod etsi credibilius dicitur, quía 
+uti<lb ed="#P" break="no" n="13"/>que absurdum est ibi dolorem aut corporis aut
+<lb ed="#P" n="14"/>animae defuturum. Ego tamen facilius existimo
+<lb ed="#P" n="15"/>ut ad corpus dicam. utrumque pertinere quam
+<lb ed="#P" n="16"/>neutrum. Legitur quippe in Veteribus Scripturis : B.
+<lb ed="#P" n="17"/>Vindicta carnis impiivermis et ignis (Eccli. vi)
+<lb ed="#P" n="18"/>Potuit brevius dici vindicta impii. Cur ergo 
+dic<lb ed="#P" break="no" n="19"/>tum est carnis impii nisi quia utrumque, id est.
+<lb ed="#P" n="20"/>vermis et ignis pcena erit carnis? Quomodo ergo
+<lb ed="#P" n="21"/>verum est, inquiunt, quod ait Christus noster: In
+<lb ed="#P" n="22"/>qua mensura mensi fueritis in eadem 
+reme<lb ed="#P" break="no" n="23"/>tietur vobis (Marc. 1v) ; si temporale peccatum
+<lb ed="#P" n="24"/>supplicio punitur :terno?Necattendunt non 
+prop<lb ed="#P" break="no" n="25"/>ter sequale spatium temporis, sed propter 
+vicissi<lb ed="#P" break="no" n="26"/>tudinem mali, id estut qui mala fecerit patiatur 
+dic<lb ed="#P" break="no" n="27"/>tam fuisse eamdem mensuram. De judiciis enim et
+<lb ed="#P" n="28"/>condemnationibus Dominus loquebatur. Proinde
+<lb ed="#P" n="29"/>qui judicat et condemnat injuste, si judicatur et
+<lb ed="#P" n="30"/>condemnatur juste in eadem mensura recipit,
+<lb ed="#P" n="31"/>quemvis non hoc quod dedit. Judicio enim fecit (;
+<lb ed="#P" n="32"/>et judicio patitur, quamvis damnatione fecerit,
+<lb ed="#P" n="33"/>quod iniquum est, patitur quod justum est. Nec
+<lb ed="#P" n="34"/>quisquam existit qui censeat tam cito nocentium
+<lb ed="#P" n="35"/>finienda esse tormenta, quam cito factum est 
+ho<lb ed="#P" break="no" n="36"/>micidium, adulterium vel sacrilegium vel 
+quod<lb ed="#P" break="no" n="37"/>libet aliud scelus, non temporis longitudine sed
+<lb ed="#P" n="38"/>iniquitatis et impietatis magnitudinemetiendum.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g59007-Dd1e2098">
+               <head xml:id="hsvhsv-g59007-Hd1e2100">Capitulum 6</head>
+               <head xml:id="hsvhsv-g59007-Hd1e2102" type="question-title"/>
+               <p xml:id="hsvhsv-g59007-d1e2104">
+                  <lb ed="#P" n="39"/>Cap. VI. De cura pro mortuis agenda eae 
+Au<lb ed="#P" break="no" n="40"/>gustino in Enchiridio.
+</p>
+               <p xml:id="hsvhsv-g59007-d1e2111">
+                  <lb ed="#P" n="41"/>Neque negandum est defunctorum animas 
+pie<lb ed="#P" break="no" n="42"/>tate suorum viventium revelari, cum pro illis 
+sa<lb ed="#P" break="no" n="43"/>crificium mediatoris offertur, vel eleemosynre in
+<lb ed="#P" n="44"/>Ecclesia fiunt. Sed eis hac prosunt qui cum. 
+vi<lb ed="#P" break="no" n="45"/>verent haec sibi ut possint prodesse meruerunt.
+<lb ed="#P" n="46"/>Est enim quidam vivendi modus nec tam bonus
+<lb ed="#P" n="47"/>ut non requirat ista post mortem ; nec tam 
+ma<lb ed="#P" break="no" n="48"/>lus ut ei ista non prosint post mortem. Est enim
+<lb ed="#P" n="49"/>talis in bono ut haec non requirat ; et est rursus
+<lb ed="#P" n="50"/>talis in malout nec habens valeat cum ab hac
+<lb ed="#P" n="51"/>vita transierit adjuvari. Quocirca omne meritum
+<lb ed="#P" n="52"/>comparatur, quo possit post hanc vitam relevari
+<lb ed="#P" n="53"/>quispiam velgravari. Nemoautem se speret quod
+<lb ed="#P" n="54"/>hic neglexerit cum obierit apud Deum promereri
+<lb ed="#P" n="55"/>Non igitur illa quz» pro defunctis frequentat. 
+Ec<lb ed="#P" break="no" n="56"/>clesia commendandis, illi apostolice sententis
+<lb ed="#P" n="57"/>sunt adversa qua dictum est: Omnes enim 
+as<lb ed="#P" break="no" n="58"/>tabimus ante tribunal Christi ut referat 
+unus<lb ed="#P" break="no" n="59"/>quisque secundum ea. qu per corpus gessit,
+<lb ed="#P" n="60"/>sive bonum sive malum (II Cor. v) quia hoc
+<lb ed="#P" n="61"/>etiam meritum sibi quisque cum in corpore 
+vive<lb ed="#P" break="no" n="62"/>ret comparavit, ut ei possint ista prodesse. Non
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>enim omnibus possunt. Et cur non omnibus nisi
+<lb ed="#P" n="64"/>propter differentiam vitae quam quisque gessit in
+<lb ed="#P" n="65"/>corpore? Quum ergosacrificia sive altarissive. 
+qua<lb ed="#P" break="no" n="66"/>rumcunque eleemosynarum pro baptizatis 
+de<lb ed="#P" break="no" n="67"/>functis omnibus offeruntur, pro valde bonis gra--
+<lb ed="#P" n="68"/>tiarum actiones sunt, pro non valde malis 
+propi<lb ed="#P" break="no" n="69"/>tiationes, pro valde malis etiamsi nulla sunt 
+ad<lb ed="#P" break="no" n="70"/>jumenta mortuorum qualescunque vivorum 
+con<lb ed="#P" break="no" n="71"/>solationes sunt. Quibus autem prosunt aut ad
+<lb ed="#P" n="72"/>hoc prosunt, ut sit vera remissio, aut certe ut 
+to<lb ed="#P" break="no" n="73"/>lerabilior fiat ipsa damnatio.
+</p>
+               <p xml:id="hsvhsv-g59007-d1e2187">
+                  <lb ed="#P" n="74"/>Cap. VII. Quibus prosit post. mortem, vel quomodo
+<lb ed="#P" n="75"/>quod pro illis fit. Augustinus De civitatc Dei.
+</p>
+               <p xml:id="hsvhsv-g59007-d1e2195">
+                  <lb ed="#P" n="76"/>Est itaque quidam modus vite nec tam male
+<lb ed="#P" n="77"/>ut iis qui in ea vivunt nihil prosit ad 
+capessen<lb ed="#P" break="no" n="78"/>dum regnum calorum largitas eleemosynarum *
+<lb ed="#P" n="79"/>quibus etiam justorum sustentatur inopia. Et
+<lb ed="#P" n="80"/>fiunt amici qui eis in aeterna tabernacula 
+susci<lb ed="#P" break="no" n="81"/>piant, nec tam bonae ut ad tantam beatitudinem
+<lb ed="#P" n="82"/>adipiscendam eis ipsa sufficiat, nisi eorum 
+meri<lb ed="#P" break="no" n="83"/>tis quos amicos fecerunt misericordiam 
+conse<lb ed="#P" break="no" n="84"/>quantur. Mirari autem soleo etiam apud 
+Virgi<lb ed="#P" break="no" n="85"/>lium reperiri ietam sententiam ubi Dominus ait :
+<lb ed="#P" n="86"/>Facite vobis amicos de mammona iniquitatis,
+<lb ed="#P" n="87"/>ut ipsi recipiant vos in cterna habitacula
+<lb ed="#P" n="88"/>(Luc. xvi. Nam cum Elisios campos poeta ille
+<lb ed="#P" n="89"/>describeret, ubi putant habitare animas 
+beato<lb ed="#P" break="no" n="90"/>rum, non solum ibi posuit eos qui propriis 
+meri<lb ed="#P" break="no" n="91"/>tis ad illas sedes pervenire potuerunt, sed 
+adje<lb ed="#P" break="no" n="92"/>cit atque ait :
+<quote xml:id="hsvhsv-g59007-Qd1e2234">Quique sui memores alios fecere merendo.</quote>
+                  <ref xml:id="hsvhsv-g59007-Rd1e2236">Vina. JEneid. lib. vr, v. 664.</ref>
+                  <lb ed="#P" n="93"/>idest qui promeruerunt alios, eosque sui 
+memo<lb ed="#P" break="no" n="94"/>res promerendo fecerunt. Prorsus tanquam 
+dioco<lb ed="#P" break="no" n="95"/>retur eis quod frequentatur ore Christiano cum
+<lb ed="#P" n="96"/>8e cuiquesanctorum humilis quisque commendat,
+<lb ed="#P" n="97"/>etdicit: Memor esto mei atque ut esse possit
+<lb ed="#P" n="98"/>promerendo efficit. Sed quis iste sit modus et
+<lb ed="#P" n="99"/>quie sint ista peccata quae ita impediunt 
+perven<lb ed="#P" break="no" n="100"/>tionem ad regnum Dei, ut tamen sanctorum 
+ami<lb ed="#P" break="no" n="101"/>corum meritis impetrent indulgentiam : 
+difficili<lb ed="#P" break="no" n="102"/>mum est invenire, periculosissimum definire.
+<lb ed="#P" n="103"/>Ego certe usque ad hoc tempus cum inde 
+satage<lb ed="#P" break="no" n="104"/>rem ad eorum indaginem pervenire non potui.
+<lb ed="#P" n="105"/>Nunc vero dum venialis iniquitatis etiamsi 
+per<lb ed="#P" break="no" n="106"/>severet ignoratur modus ; profecto et studium
+<lb ed="#P" n="107"/>in meliora proficiendi orando et instando 
+vigilan<lb ed="#P" break="no" n="108"/>tius adhibetur et faciendi de mammona 
+iniquita<lb ed="#P" break="no" n="109"/>tis sanctos amicos cura non spernitur. Verum 
+ig<lb ed="#P" break="no" n="110"/>ta liberatio quae fit sive suis quibusque 
+orationi<lb ed="#P" break="no" n="111"/>bus sive intercedentibus sanctis, id agit utin
+<lb ed="#P" n="112"/>ignem non mittatur aeternum ; non ut cum fuerit
+<lb ed="#P" n="113"/>missus post quantumcunque tempus indeeruatur.
+</p>
+               <p xml:id="hsvhsv-g59007-d1e2284">
+                  <lb ed="#P" n="114"/>De eodem idem libro secundo.
+</p>
+               <p xml:id="hsvhsv-g59007-d1e2289">
+                  <lb ed="#P" n="115"/>Non existimemus ad mortuos pro quibus 
+cu<lb ed="#P" break="no" n="116"/>ram gerimus pervenire nisi quod pro eis aive 
+al<lb ed="#P" break="no" n="117"/>taris sive orationum sive eleemosynarum 
+sacri<lb ed="#P" break="no" n="118"/>ficiis solemniter suplicamus, quamvis non pro
+<lb ed="#P" n="119"/>quibus fiunt omnibus prosunt, sed iis tantum pro
+<lb ed="#P" n="120"/>quibus dum vivunt comparatur ut prosint. Sed
+<!-- 216.png.txt -->
+<pb ed="#P" n="298"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>quia non discernimus qui sint, oportet ea 
+prore<lb ed="#P" break="no" n="2"/>generatis omnibus facere, ut nullus eorum 
+pre<lb ed="#P" break="no" n="3"/>termittatur ad quos haec beneficia possint et 
+de<lb ed="#P" break="no" n="4"/>beant pervenire. Melius enim supererunt ista iis
+<lb ed="#P" n="5"/>quibus nec obsunt nec prosunt, quam eis 
+dee<lb ed="#P" break="no" n="6"/>runt quibus prosunt. Diligentius tamen facti
+<lb ed="#P" n="7"/>hoc quisque pro necessariis suis quod pro illofiat
+<lb ed="#P" n="8"/>similiter a suis. Corpori autem humano quidquid
+<lb ed="#P" n="9"/>impenditur nori est praesidium salutis sed 
+huma<lb ed="#P" break="no" n="10"/>nitatis officium, secundum affectum quo nemo
+<lb ed="#P" n="11"/>unquam carnem suam odio habet. Unde oportet
+<lb ed="#P" n="12"/>ut qui potest pro carne proximi curam gerat, cum
+<lb ed="#P" n="13"/>ille inde recesserit qui gerebat.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g59007-Dd1e2340">
+               <head xml:id="hsvhsv-g59007-Hd1e2342">Capitulum 8</head>
+               <head xml:id="hsvhsv-g59007-Hd1e2344" type="question-title"/>
+               <p xml:id="hsvhsv-g59007-d1e2346">
+                  <lb ed="#P" n="14"/>Cap. VIII. De ezsequiis idem in eodem libro primo.
+</p>
+               <p xml:id="hsvhsv-g59007-d1e2351">
+                  <lb ed="#P" n="15"/>Curatio funeris, conditio sepulture ; pompa 
+ex<lb ed="#P" break="no" n="16"/>sgequiarum, magissunt vivorum solatia quam 
+mor<lb ed="#P" break="no" n="17"/>tuorum subsidia. Si aliquid prodest impio 
+sepul<lb ed="#P" break="no" n="18"/>tura pretiosa, oberit vilis aut nulla pio. 
+Preecla<lb ed="#P" break="no" n="19"/>ras exsequias in conspectu hominum, purpurato
+<lb ed="#P" n="20"/>illi diviti exhibuit famulorum turba; sed multo
+<lb ed="#P" n="21"/>clariores in conspectu Domini ulceroso illi 
+pau<lb ed="#P" break="no" n="22"/>peri ministerium praebuit angelorum, qui eum
+<lb ed="#P" n="23"/>extulerunt nor in marmoreum tumulum, sed in
+<lb ed="#P" n="24"/>Abrahz; gremiu m.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g59007-Dd1e2376">
+               <head xml:id="hsvhsv-g59007-Hd1e2378">Capitulum 9</head>
+               <head xml:id="hsvhsv-g59007-Hd1e2380" type="question-title"/>
+               <p xml:id="hsvhsv-g59007-d1e2382">
+                  <lb ed="#P" n="25"/>Cap. IX. De sacrificío pro defunctis. Gregorius
+<lb ed="#P" n="26"/>in Dialog.
+</p>
+               <p xml:id="hsvhsv-g59007-d1e2389">
+                  <lb ed="#P" n="27"/>Si culpe postmortem insolubiles non sunt, 
+mul<lb ed="#P" break="no" n="28"/>torum solet animas etiam post mortem 
+sacraobla<lb ed="#P" break="no" n="29"/>tio hostis salutaris :djuvare.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g59007-Dd1e2400">
+               <head xml:id="hsvhsv-g59007-Hd1e2402">Capitulum 10</head>
+               <head xml:id="hsvhsv-g59007-Hd1e2404" type="question-title"/>
+               <p xml:id="hsvhsv-g59007-d1e2406">
+                  <lb ed="#P" n="30"/>Cap. X. Quibus prosit. Idem in eodem.
+</p>
+               <p xml:id="hsvhsv-g59007-d1e2411">
+                  <lb ed="#P" n="31"/>Sed sciendum est quía illis sacre victime 
+mor<lb ed="#P" break="no" n="32"/>tuis prosunt, qui hic bene vivendo obtinuerunt,
+<lb ed="#P" n="33"/>ut eos etiam post mortem bona adjuvent : quc
+<lb ed="#P" n="34"/>hic pro ipsis ab illis fiunt. Eec namque 
+singula<lb ed="#P" break="no" n="35"/>riter victima ab seterno interitu animam salvat,
+<lb ed="#P" n="36"/>qus illam nobis unigeniti mortem reprewsentat.
+<lb ed="#P" n="37"/>Qui licet surgens a mortuis jam non moritur,
+<lb ed="#P" n="38"/>et mors ei ultra non dominabitur (Rom. v1), 
+ta<lb ed="#P" break="no" n="39"/>men in seipso immortaliter atque 
+incorruptibili<lb ed="#P" break="no" n="40"/>ter vivens pro nobis iterum hoc mysterio sacre
+<lb ed="#P" n="41"/>oblationis immolatur. Ejus quippe ibi corpus 
+su<lb ed="#P" break="no" n="42"/>mitur, ejus caro populi salute partitur; ejus 
+san<lb ed="#P" break="no" n="43"/>guis nonin manus infidelium sed in ora fidelium
+<lb ed="#P" n="44"/>funditur. Hinc ergo pensemus quale sit pro nobis
+<lb ed="#P" n="45"/>hoc sacrificium quod pro oblatione nostra 
+pas<lb ed="#P" break="no" n="46"/>ionem unigeniti Filii semper imitatur. Quis
+<lb ed="#P" n="47"/>enim fidelium habere dubium possit in ipsa 
+im<lb ed="#P" break="no" n="48"/>molationis hora ad sacerdotis vocem coelo aperiri
+<lb ed="#P" n="49"/>in illo Jesu mysterio angelorum choros ades-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="50"/>se summis ima sociari, terrena. colestibus 
+jun<lb ed="#P" break="no" n="51"/>gi ; unum quoque ex visibilibus atque 
+invisibili<lb ed="#P" break="no" n="52"/>bus fleri ?
+</p>
+            </div>
+            <div xml:id="hsvhsv-g59007-Dd1e2464">
+               <head xml:id="hsvhsv-g59007-Hd1e2466">Capitulum 11</head>
+               <head xml:id="hsvhsv-g59007-Hd1e2468" type="question-title"/>
+               <p xml:id="hsvhsv-g59007-d1e2470">
+                  <lb ed="#P" n="53"/>Cap. XI. Utrum anima sciunt qua in hoc
+<lb ed="#P" n="54"/>soeculo geruntur.
+</p>
+               <p xml:id="hsvhsv-g59007-d1e2477">
+                  <lb ed="#P" n="55"/>Quaerunt non nulli de animabus carne solutis.
+<lb ed="#P" n="56"/>utrum cognitionem habeant eorum quae in hac
+<lb ed="#P" n="57"/>vita geruntur, maxime illorum qui jam in gaudio
+<lb ed="#P" n="58"/>Domini sui et in abscondito faciei ejus, veri 
+lu<lb ed="#P" break="no" n="59"/>minis illustratione I:tantur. Adjiciunt 
+quoqueil<lb ed="#P" break="no" n="60"/>lud de animabus sanctorum quod multi in 
+quees<lb ed="#P" break="no" n="61"/>tionem adducunt, an preces supplicantium 
+au<lb ed="#P" break="no" n="62"/>diunt; et cum ad intercedendum invocantur,
+<lb ed="#P" n="63"/>utrum vota postulantium usque ad ipsorum 
+co<lb ed="#P" break="no" n="64"/>gnitionem perveniünt. Difficile est de hujusmodi
+<lb ed="#P" n="65"/>judicare. Quomodo enim scientia nostra certa 
+es<lb ed="#P" break="no" n="66"/>8e potest de ipsis, qui eam quam de nobis habent
+<lb ed="#P" n="67"/>scientiam nec capere possumus nec investigare ?
+<lb ed="#P" n="68"/>Hoc unumcertum est sanctorum animasin 
+secre<lb ed="#P" break="no" n="69"/>to divingecontemplationis constitutas eorum quae
+<lb ed="#P" n="70"/>foris aguntur tantum scire quantum illis vel ad
+<lb ed="#P" n="71"/>gaudium vel nobis ad auxilium prodesse constat.
+<lb ed="#P" n="72"/>Nos intercessores quaerimus apud Deum. Quid
+<lb ed="#P" n="73"/>amplius vis ? Times ne forte non orent, qui 
+sem<lb ed="#P" break="no" n="74"/>per orant ? Quomodo non orabunt pro te quando
+<lb ed="#P" n="75"/>tu oras, qui quando tu non oras, orare tamen
+<lb ed="#P" n="76"/>non cessant ? Sed non audiunt, inquis ; et ego
+<lb ed="#P" n="77"/>in ventum verba infundo, non audientibus et non
+<lb ed="#P" n="78"/>intelligentibus loquens. Ecce [dicamus. Non 
+au<lb ed="#P" break="no" n="79"/>diunt sancti verba postulantium, neque ad 
+bea<lb ed="#P" break="no" n="80"/>titudinem illorum attinet, ista nosse quae foris
+<lb ed="#P" n="81"/>aguntur. Ecce dicamus. Non audiunt. Nunquid
+<lb ed="#P" n="82"/>Deus non audit ? Quid ergo labores investigare,
+<lb ed="#P" n="83"/>quid audiunt et quantum audiant sancti quos
+<lb ed="#P" n="84"/>oras, cum ipse Deus audiat propter quem oras?
+<lb ed="#P" n="85"/>Ipse videt humilitatem tuam, qui remuneraturus
+<lb ed="#P" n="86"/>est devotionem tuam. Tamen si audiunt et 
+quan<lb ed="#P" break="no" n="87"/>tum audiant, quid est audire nisi scire ? Unum
+<lb ed="#P" n="88"/>enim est lumen in quo et audiunt ad 
+percipien<lb ed="#P" break="no" n="89"/>dum ; et vident ad cognoscendum. In quo si quid
+<lb ed="#P" n="90"/>forte foris agitur quod modo interim non audiunt,
+<lb ed="#P" n="91"/>autnon vident mysterium est dispensationis non
+<lb ed="#P" n="92"/>detrimentum felicitatis. Inveniuntur tamen 
+qui<lb ed="#P" break="no" n="93"/>dam sanctorum Patrum quaedam ita dixisse 
+qua<lb ed="#P" break="no" n="94"/>8i nihil sit in creaturis quod non videant qui 
+vi<lb ed="#P" break="no" n="95"/>dent omnia videntem. Ego amplius judicare non
+<lb ed="#P" n="96"/>presumo, nisi hoc solum quoniam tantum vident
+<lb ed="#P" n="97"/>quantum illi placitum est quam vident et in quo
+<lb ed="#P" n="98"/>vident.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

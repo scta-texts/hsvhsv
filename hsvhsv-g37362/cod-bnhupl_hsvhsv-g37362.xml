@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pars 4</title>
+            <author ref="#HughOfStVictor">Hugh of St. Victor</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Pars 4</title>
+               <date when="2023-03-25">March 25, 2023</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-bnhupl">Patrologia Latina, v. 176</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2023-03-25" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="217"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="hsvhsv-g37362"><!-- l2-p4 -->
+            <head xml:id="hsvhsv-g37362-Hd1e101">Pars 4</head>
+            <head xml:id="hsvhsv-g37362-Hd1e103" type="question-title">
+De indumentis sacris
+</head>
+            <p xml:id="hsvhsv-g37362-d1e106">
+               <cb ed="#P" n="c"/>
+               <lb ed="#P" n="36"/>PARS QUARTA.
+<lb ed="#P" n="37"/>DE INDUMENTIS SACRIS.
+</p>
+            <div xml:id="hsvhsv-g37362-Dd1e115">
+               <head xml:id="hsvhsv-g37362-Hd1e117">Capitulum 1</head>
+               <head xml:id="hsvhsv-g37362-Hd1e119" type="question-title"/>
+               <p xml:id="hsvhsv-g37362-d1e121">
+                  <cb ed="#P" n="d"/>
+                  <lb ed="#P" n="38"/>Cap. I. Quot et qua sunt indumenta sacra.
+</p>
+               <p xml:id="hsvhsv-g37362-d1e128">
+                  <lb ed="#P" n="39"/>Nosse oportet Christi sacerdotes et ministros,
+<lb ed="#P" n="40"/>quoniam idcirco singularis eis in sacro ministerio
+<lb ed="#P" n="41"/>habitus attribuitur, ut per id quod foris apparet,
+<lb ed="#P" n="42"/>quales intus esse debeant, ostendatur. Sacrarium
+<lb ed="#P" n="43"/>autem vestium ritus : partim a Veteri Testamento
+<lb ed="#P" n="44"/>assumptus est, partim a Patribus novis adjectus.
+<lb ed="#P" n="45"/>Legimus (Lev. viu) quod Moyses Aaron fratrem
+<lb ed="#P" n="46"/>suum cum filiis suis ad ostium tabernaculi 
+testi<lb ed="#P" break="no" n="47"/>monii sanctificandum applicuit, et lotum aqua,
+<lb ed="#P" n="48"/>tunica byssina vestivit; deinde zona pracinxit, et
+<lb ed="#P" n="49"/>vestivit eum tunicam interiorem, et imposuit ei
+<lb ed="#P" n="50"/>superhumerale, et cinxit eum secundum facturam
+<lb ed="#P" n="51"/>superhumeralis, etimposuit supereum logion, id est.
+<lb ed="#P" n="52"/>rationale, in quo erat manifestatio et veritas; sed
+<lb ed="#P" n="53"/>mitram imposuit super caput ejus, et super 
+mi<lb ed="#P" break="no" n="54"/>tram in fronte ipsius laminam auream, in qua
+<lb ed="#P" n="55"/>scriptum erat nomen Dei. Septem si predicta 
+enu<lb ed="#P" break="no" n="56"/>meres instrumenta pontiflcicalis ornatus 
+inve<lb ed="#P" break="no" n="57"/>nies scilicet tunicam byssinam, zonam, tunicam
+<lb ed="#P" n="58"/>interiorem, superhumerale, rationale, mitram, et
+<lb ed="#P" n="59"/>laminam auream, quibus si feminalia linea, quae
+<lb ed="#P" n="60"/>ritu sacro circa renes pontificis stringebantur,
+<lb ed="#P" n="61"/>adjeceris, octo sunt sacerdotalia indumenta.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g37362-Dd1e181">
+               <head xml:id="hsvhsv-g37362-Hd1e183">Capitulum 2</head>
+               <head xml:id="hsvhsv-g37362-Hd1e185" type="question-title"/>
+               <p xml:id="hsvhsv-g37362-d1e187">
+                  <lb ed="#P" n="62"/>Cap. II. De tunica byssina.
+</p>
+               <p xml:id="hsvhsv-g37362-d1e192">
+                  <lb ed="#P" n="63"/>Tunica byssina est quae Grece <foreign>ssdspw</foreign>, id est.
+<lb ed="#P" n="64"/>talaris appellatur; quia a collo usque ad talos 
+ex<lb ed="#P" break="no" n="65"/>tenditur, quae in novo quidem sacerdotio non de
+<lb ed="#P" n="66"/>bysso solum, sed etiam de lino contexitur; quae
+<lb ed="#P" n="67"/>membris corporis modificata a*que aptata, nihil
+<lb ed="#P" n="68"/>superfluum aut dissolutum in vita sacerdotis esse
+<lb ed="#P" n="69"/>debere ostendit. Haec ob speciem candoris nomen
+<lb ed="#P" n="70"/>Albe sortitur, quo munditiam significat 
+ministro<lb ed="#P" break="no" n="71"/>rum Dei. Sicut scriptum est : Byssinum sunt
+<lb ed="#P" n="72"/>justificationes sanctorum (Apoc. xix). Caroquip-
+<cb ed="#P" n="e"/>
+                  <lb ed="#P" n="73"/>pe hominis munditiam quam ex natura non 
+ha<lb ed="#P" break="no" n="74"/>bet, studio bono adnitente acquirit per gratiam,
+<lb ed="#P" n="75"/>ut secundum Apostolum minister Christi, corpus
+<lb ed="#P" n="76"/>suum castiget, et in servitutem redigat (I Cor.
+<lb ed="#P" n="77"/>IX), quemadmodum byssus vel linum candorem
+<lb ed="#P" n="78"/>quem ex natura non babuit, per studium et 
+indu<lb ed="#P" break="no" n="79"/>striam multis tunsionibus et quasi quadam 
+vexa<lb ed="#P" break="no" n="80"/>tione attritum acquirit.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g37362-Dd1e240">
+               <head xml:id="hsvhsv-g37362-Hd1e242">Capitulum 3</head>
+               <head xml:id="hsvhsv-g37362-Hd1e244" type="question-title"/>
+               <p xml:id="hsvhsv-g37362-d1e246">
+                  <lb ed="#P" n="81"/>Cap. III. De zona.
+</p>
+               <p xml:id="hsvhsv-g37362-d1e251">
+                  <lb ed="#P" n="82"/>Hiec vestis, id est tunica linea circa renes 
+for<lb ed="#P" break="no" n="83"/>titer astringitur, ut castitas sacerdotis nullo 
+in<lb ed="#P" break="no" n="84"/>centivorum sstu dissolvatur, sicut scriptum est :
+<lb ed="#P" n="85"/>Bint lumbi vestri pracincti (Luc. v). Vestis 
+quip<lb ed="#P" break="no" n="86"/>pe eandida munditiam, zona vero continentiam
+<lb ed="#P" n="87"/>significat, ut illic non sordescat, hic non effluat
+<lb ed="#P" n="88"/>vita spiritualis. Haec zona in Veteri Testamento
+<lb ed="#P" n="89"/>quatuor coloribus distincta invenitur, id est 
+bya<lb ed="#P" break="no" n="90"/>80, purpura, hyacintho, cocco, quos varia 
+inter<lb ed="#P" break="no" n="91"/>pretatione sive ad quatuor elementa, quorum
+<lb ed="#P" n="92"/>complexione natura humana constat, ut totum
+<lb ed="#P" n="93"/>quod hominis est stringatur et cohibeatur a fluxu
+<lb ed="#P" n="94"/>vitiorum, sive quatuor principales virtutes animi,
+<lb ed="#P" n="95"/>quibus homo ex omni parte cingi debet et muniri,
+<lb ed="#P" n="96"/>referendos existimant.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g37362-Dd1e287">
+               <head xml:id="hsvhsv-g37362-Hd1e289">Capitulum 4</head>
+               <head xml:id="hsvhsv-g37362-Hd1e291" type="question-title"/>
+               <p xml:id="hsvhsv-g37362-d1e293">
+                  <lb ed="#P" n="97"/>Cap. IV. De feminalibus lineis.
+</p>
+               <p xml:id="hsvhsv-g37362-d1e298">
+                  <lb ed="#P" n="98"/>Ob ejusdem castitatis et continentis signum
+<lb ed="#P" n="99"/>qua per tunicam et zonam designatur, hoc est
+<lb ed="#P" n="100"/>etiam quod inter caetera sacra indumenta, 
+femi<lb ed="#P" break="no" n="101"/>minalia linea circa renes ad sacrum ministerium
+<lb ed="#P" n="102"/>ingredientium applicari jubentur; non tam ad
+<lb ed="#P" n="103"/>turpitudinis velandae (quae solitis quotidiani usus
+<lb ed="#P" n="104"/>indumentis tegebatur) necessitatem, quam ob
+<lb ed="#P" n="105"/>conservands castitatis et. munditie 
+signiflcatio<lb ed="#P" break="no" n="106"/>nem. Neque vero existimandum in illo priori 
+po<lb ed="#P" break="no" n="107"/>pulo viros discooperta, aut non velata carne pu-
+<!-- 136.png.txt -->
+<pb ed="#P" n="218"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>doris solitos incedere, ut intraturi ad sancta tunc A
+<lb ed="#P" n="2"/>demum verenda tegere juberentur. Sed voluit
+<lb ed="#P" n="3"/>sermo Dei in sacro officio ministros Dei ad 
+te<lb ed="#P" break="no" n="4"/>genda infirma corporis proprium ac singulare
+<lb ed="#P" n="5"/>operimentum habere, ut per hoc ostenderet 
+pudi<lb ed="#P" break="no" n="6"/>citiam et castimoniam illorum praecipue cum
+<lb ed="#P" n="7"/>sancta tractarent, unicam et singularem esse de.
+<lb ed="#P" n="8"/>bere. Unde ministri novi sacerdotii hoc 
+operi<lb ed="#P" break="no" n="9"/>mentum in sacro officio singulare non 
+assu<lb ed="#P" break="no" n="10"/>munt, quibus est injuncta servande castitatis
+<lb ed="#P" n="11"/>quotidiana necessitas, sicut quotidie est 
+offe<lb ed="#P" break="no" n="12"/>rendi concessa potestas. Ministri vero veteris 
+figu<lb ed="#P" break="no" n="13"/>rae, tempore offerendi sacrificii femoralia sumunt,
+<lb ed="#P" n="14"/>quie ministerio expleto iterum solvunt; quoniam
+<lb ed="#P" n="15"/>contactu carnis vetus lex sancta tractaturog
+<lb ed="#P" n="16"/>prohibuit, quos rursus expleta vice ad operam B 
+<lb ed="#P" n="17"/>carnalis commercii relaxavit. Reliqua autem duo,
+<lb ed="#P" n="18"/>id est tunica linea et zona, Veteris et Novi
+<lb ed="#P" n="19"/>Testamenti sacerdotibus communia esse 
+noscun<lb ed="#P" break="no" n="20"/>tur, quamvis nostrum sacerdotium zonam 
+qua<lb ed="#P" break="no" n="21"/>tuor coloribus inter textam non requirat, fortassis
+<lb ed="#P" n="22"/>superstitionis vitandae causa aut inopia artificii
+<lb ed="#P" n="23"/>inductum, contentum pura acsimplici continentia.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g37362-Dd1e380">
+               <head xml:id="hsvhsv-g37362-Hd1e382">Capitulum 5</head>
+               <head xml:id="hsvhsv-g37362-Hd1e384" type="question-title"/>
+               <p xml:id="hsvhsv-g37362-d1e386">
+                  <lb ed="#P" n="24"/>Cap. V. De interiori tunica.
+</p>
+               <p xml:id="hsvhsv-g37362-d1e391">
+                  <lb ed="#P" n="25"/>Sequitur quartum indumentum, tunica interior,
+<lb ed="#P" n="26"/>sive hyacinthina, qua in Veteri etin Novo 
+Testa<lb ed="#P" break="no" n="27"/>mento soli utuntur pontifices. Et merito pontifex
+<lb ed="#P" n="28"/>duabusinduitur tunicis, qui debet de thesauro suo
+<lb ed="#P" n="29"/>proferre nova et vetera; propter quod et ipsa 
+tu<lb ed="#P" break="no" n="30"/>nica secunda interior appellatur, vel hyacinthina
+<lb ed="#P" n="31"/>cujus color speciem coli sereni imitatur, ut per
+<lb ed="#P" n="32"/>hoc intelligi detur, quod pontifex plus debet de
+<lb ed="#P" n="33"/>colestibus cogitare quam de terrenis. Rectua
+<lb ed="#P" n="34"/>ordo : prius in tunica linea et zona et 
+feminali<lb ed="#P" break="no" n="35"/>bus exprimitur munditia carnis; deinde per 
+tu<lb ed="#P" break="no" n="36"/>nicam interiorem vel hyacinthinam significatur
+<lb ed="#P" n="37"/>munditia cordis.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g37362-Dd1e423">
+               <head xml:id="hsvhsv-g37362-Hd1e425">Capitulum 6</head>
+               <head xml:id="hsvhsv-g37362-Hd1e427" type="question-title"/>
+               <p xml:id="hsvhsv-g37362-d1e429">
+                  <lb ed="#P" n="38"/>Cap. VI. De superhumerali.
+</p>
+               <p xml:id="hsvhsv-g37362-d1e434">
+                  <lb ed="#P" n="39"/>Quinta vestis est superhumerale, quod Hebraice
+<lb ed="#P" n="40"/>vocatur Ephot. Hoc in Testamento Veteri soli
+<lb ed="#P" n="41"/>pontifices utebantur; eisdem quibus et zona 
+fue<lb ed="#P" break="no" n="42"/>rat distincta coloribus. Sub gratia autem hoc 
+ve<lb ed="#P" break="no" n="43"/>stimentum tam sacerdotibus quam pontificibus
+<lb ed="#P" n="44"/>commune est. Quod autem per quatuor colores in
+<lb ed="#P" n="45"/>zona significari diximus, idipsum in 
+superhume<lb ed="#P" break="no" n="46"/>rali per eosdem quatuor colores significatum in- D
+<lb ed="#P" n="47"/>venimus. Significat autem superhumerale 
+forti<lb ed="#P" break="no" n="48"/>tudinem operum, et patientiam laborum, pro eo
+<lb ed="#P" n="49"/>quod ad portenda onera humeri supponuntur.
+<lb ed="#P" n="50"/>ldeirco in ipso superhumerali duobus lapidibus
+<lb ed="#P" n="51"/>pretiosis, quorum unus a dextro humero, alter
+<lb ed="#P" n="52"/>vero a sinistro superpositus fuerat; nomina 
+duo<lb ed="#P" break="no" n="53"/>decim patriarcharum inscripta erant, sex in uno,
+<lb ed="#P" n="54"/>et sex in altero, quia per nomina patriarcharum
+<lb ed="#P" n="55"/>memoria sanctorum intelligitur, quam sacerdos
+<lb ed="#P" n="56"/>a dextris et a sinistris, id est in prosperis et. 
+ad<lb ed="#P" break="no" n="57"/>versis cordi impressam semper habere et portare
+<lb ed="#P" n="58"/>debet. Nostrum vero sacerdotium superhumerale
+<lb ed="#P" n="59"/>Similiter intextum non habet ut vetus, pro eo
+<lb ed="#P" n="60"/>quod Christiana religio magis simplici veritati
+<lb ed="#P" n="61"/>studere debeat quam superstitioni.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g37362-Dd1e487">
+               <head xml:id="hsvhsv-g37362-Hd1e489">Capitulum 7</head>
+               <head xml:id="hsvhsv-g37362-Hd1e491" type="question-title"/>
+               <p xml:id="hsvhsv-g37362-d1e493">
+                  <cb ed="#P" n="b"/>
+                  <lb ed="#P" n="62"/>Cap. VII. De rationali quod Grace logion dicitur.
+</p>
+               <p xml:id="hsvhsv-g37362-d1e500">
+                  <lb ed="#P" n="63"/>Sequitur deinde rationale sive logion, quod 
+pe<lb ed="#P" break="no" n="64"/>ctori pontificis superimponitur, ut in ejus corde
+<lb ed="#P" n="65"/>Sapientiam et discretionem inesse debere 
+osten<lb ed="#P" break="no" n="66"/>datur. In ipso autem rationali posita sunt 
+mani<lb ed="#P" break="no" n="67"/>festatio et veritas, ut in doctrina sua pontifex nec
+<lb ed="#P" n="68"/>aliud quam veritas suggerit, efficere priesumat,
+<lb ed="#P" n="69"/>neque id quod a veritate intus hauserit ratione
+<lb ed="#P" n="70"/>et opere approbare et manifestare desistat. 
+No<lb ed="#P" break="no" n="71"/>tandum vero quod ad invicem concatenantur ra:
+<lb ed="#P" n="72"/>tionaleetsuperhumerale, quia cohaerere et 
+concor<lb ed="#P" break="no" n="73"/>dare debent, ratio et opera, ut quod mentis 
+intel<lb ed="#P" break="no" n="74"/>lectu percipimus opere impleamus. Deinde etiam
+<lb ed="#P" n="75"/>quia non prius rationale quam superhumerale
+<lb ed="#P" n="76"/>nominatur, quoniam in schola virtutum opera
+<lb ed="#P" n="77"/>praecedunt, ut sapientiam apprehendas, sicut
+<lb ed="#P" n="78"/>scriptum est : A mandatis tuis intellexi (Psal.
+<lb ed="#P" n="79"/>cxvim). Et iterum : Qua cepit Jesus facere et
+<lb ed="#P" n="80"/>docere (Act. 1. Postea manifestatio sequitur post
+<lb ed="#P" n="81"/>rationale, ne docere praesumas quod prius non
+<lb ed="#P" n="82"/>didiceris. Huic etiam concordat quod in ipso 
+ra<lb ed="#P" break="no" n="83"/>tionali duodecim lapides inserti erant duodecim
+<lb ed="#P" n="84"/>patriarcharum nominainscripta in se continentes,
+<lb ed="#P" n="85"/>quia pontifex sanctorum Patrum exempla 
+impres<lb ed="#P" break="no" n="86"/>sa memorite habere debet, et secundum ipsa 
+fac<lb ed="#P" break="no" n="87"/>ta sua moderari.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g37362-Dd1e558">
+               <head xml:id="hsvhsv-g37362-Hd1e560">Capitulum 8</head>
+               <head xml:id="hsvhsv-g37362-Hd1e562" type="question-title"/>
+               <p xml:id="hsvhsv-g37362-d1e564">
+                  <lb ed="#P" n="88"/>Cap. VIII. De mitra qua cydaris dicitur vel
+<lb ed="#P" n="89"/>tiara, et de lamina aurea.
+</p>
+               <p xml:id="hsvhsv-g37362-d1e571">
+                  <lb ed="#P" n="90"/>Post caetera ornamenta superimponitur capiti
+<lb ed="#P" n="91"/>pontificis mitra, quae alio nomine cydaris veltiara
+<lb ed="#P" n="92"/>vocatur; qua quinque sensuum qui in capite 
+se<lb ed="#P" break="no" n="93"/>dem habent regimen significatur. Minister ergo
+<lb ed="#P" n="94"/>bene vitam suam regens caput suum Christum
+<lb ed="#P" n="95"/>ornat. Quia autem sicut ait Apostolus : Caput
+<lb ed="#P" n="96"/>Christi Deus est (I Cor. x1); convenienter 
+orna<lb ed="#P" break="no" n="97"/>mento capitis; novissime lamina aurea 
+superim<lb ed="#P" break="no" n="98"/>ponitur, cui inscriptum est nomen Dei, quod 
+He<lb ed="#P" break="no" n="99"/>braice ineffabile vocatur. Ut per hoc significetur
+<lb ed="#P" n="100"/>Deum sicut conditorem omnium ita etiam 
+recto<lb ed="#P" break="no" n="101"/>rem esse universorum; et ad honorem et gloriam
+<lb ed="#P" n="102"/>ejus referendum quidquid a sacerdotibus et 
+mi<lb ed="#P" break="no" n="103"/>nistris sacris bene fuerit dispensatum. Heec igitur
+<lb ed="#P" n="104"/>indumenta octo esse debere Moyses in Exodo
+<lb ed="#P" n="105"/>(cap. xxvir) constituit. Sed in Levitico (cap.
+<lb ed="#P" n="106"/>vir) de eisdem indumentis tractans de octavo, id
+<lb ed="#P" n="107"/>est de feminalibus, tacuit; fortassis quia ad 
+ge<lb ed="#P" break="no" n="108"/>nitalia nostra et verecunda lex manum non 
+mit<lb ed="#P" break="no" n="109"/>tit, qui voluntarium Deo castitatis sacrificium
+<lb ed="#P" n="110"/>offerre debemus, sicut scriptum est ; De 
+virgini<lb ed="#P" break="no" n="111"/>bus praeceptum Domini non habeo (I Cor. vii).
+<lb ed="#P" n="112"/>t ipse Deus de voluntariis ennuchis loquens 
+ad<lb ed="#P" break="no" n="113"/>jecit : Qui potest capere capiat (Matth. XIX). Ac.
+<lb ed="#P" n="114"/>si diceret : feminalibus ego non vestio, neo 
+cui<lb ed="#P" break="no" n="115"/>quam necessitatem impono. Qui vult esse sacerdos
+<lb ed="#P" n="116"/>ipse se vestiat, et ingressuris ad sancta, ad 
+ve<lb ed="#P" break="no" n="117"/>renda legenda woluntarie munimentum castitatis
+<lb ed="#P" n="118"/>assumat. Notandum vero quod sacerdotibus 
+infe<lb ed="#P" break="no" n="119"/>rioris ordinis, neque tunica datur hyacinthina,
+<lb ed="#P" n="120"/>neque superhumerale, neque rationale, neque 
+la<lb ed="#P" break="no" n="121"/>mina aurea; quibus soli utuntur pontifices, id est
+<lb ed="#P" n="122"/>summi sacerdotes; sed tantum poderis et mitra
+<lb ed="#P" n="123"/>et zona qua stringitur poderis ipsa, id est tunica
+<!-- 137.png.txt -->
+<pb ed="#P" n="219"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>byssina; quia frunguntur quidem sacerdotio, aed 
+<lb ed="#P" n="2"/>non in illa dignitate qua funguntur sacerdotio
+<lb ed="#P" n="3"/>qui octo indumentis decorantur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g37362-Dd1e662">
+               <head xml:id="hsvhsv-g37362-Hd1e664">Capitulum 9</head>
+               <head xml:id="hsvhsv-g37362-Hd1e666" type="question-title"/>
+               <p xml:id="hsvhsv-g37362-d1e668">
+                  <lb ed="#P" n="4"/>Cap. IX. De indumentis novi sacerdotii.
+</p>
+               <p xml:id="hsvhsv-g37362-d1e673">
+                  <lb ed="#P" n="5"/>Haec sunt autem indumenta quae a Veteri 
+ins<lb ed="#P" break="no" n="6"/>trumento novum sacerdotium assumpsit. Tunica
+<lb ed="#P" n="7"/>linea, zona, superhumerale, tunica interior, 
+ra<lb ed="#P" break="no" n="8"/>tionale, et mitra; sed tunica interiori, rationali
+<lb ed="#P" n="9"/>80li utuntur pontifices. Laminam auream novum
+<lb ed="#P" n="10"/>sacerdotium non habet, pro qua nunc frontibus
+<lb ed="#P" n="11"/>fidelium signum crucis imprimitur; quoniam 
+au<lb ed="#P" break="no" n="12"/>ro legis sanguis Evangelii pretiosior est.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g37362-Dd1e694">
+               <head xml:id="hsvhsv-g37362-Hd1e696">Capitulum 10</head>
+               <head xml:id="hsvhsv-g37362-Hd1e698" type="question-title"/>
+               <p xml:id="hsvhsv-g37362-d1e700">
+                  <lb ed="#P" n="13"/>Cap. X. De stola vel orario.
+</p>
+               <p xml:id="hsvhsv-g37362-d1e705">
+                  <lb ed="#P" n="14"/>Haec sunt quae veteribus novainstitutio adjecit.
+<lb ed="#P" n="15"/>Stola quae alio nomine orarium vocatur, quae 
+col<lb ed="#P" break="no" n="16"/>lo sacerdotis superimponitur, ut eum jugum 
+Do<lb ed="#P" break="no" n="17"/>mini assumpsisse significet, qua; n collo per 
+an<lb ed="#P" break="no" n="18"/>teriora descendens dextrum latus ornat et. 
+sinis<lb ed="#P" break="no" n="19"/>trum, ut doceat ipsum per arma justitie a 
+dex<lb ed="#P" break="no" n="20"/>tris et a sinistris, id est in prosperis et in 
+adver<lb ed="#P" break="no" n="21"/>sis debere esse munitum, sicut scriptum est : 
+Pa<lb ed="#P" break="no" n="22"/>tientia vobis necessaria est, ut reportetis 
+pro<lb ed="#P" break="no" n="23"/>missiones (Hebr. x). Et iterum: Qui 
+persevera<lb ed="#P" break="no" n="24"/>verit usque in finem hic salvus erit (Matth. x,
+<lb ed="#P" n="25"/>xxiv). Inde est quod stola cum zona poderis 
+qui<lb ed="#P" break="no" n="26"/>busdam nexibus colligatur, quia virtutes 
+virtuti<lb ed="#P" break="no" n="27"/>bus sociantur, ne aliquo tentationis impulsu 
+mo<lb ed="#P" break="no" n="28"/>veantur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g37362-Dd1e741">
+               <head xml:id="hsvhsv-g37362-Hd1e743">Capitulum 11</head>
+               <head xml:id="hsvhsv-g37362-Hd1e745" type="question-title"/>
+               <p xml:id="hsvhsv-g37362-d1e747">
+                  <lb ed="#P" n="29"/>Cap. XI. De planeta vel casula.
+</p>
+               <p xml:id="hsvhsv-g37362-d1e752">
+                  <lb ed="#P" n="30"/>Sic igitur sacerdote Domini ornato, per 
+tuni<lb ed="#P" break="no" n="31"/>cam munditia, per zonam continentia, per super- c 
+<lb ed="#P" n="32"/>humerale justitia, per stolam patientia, cunctis
+<lb ed="#P" n="33"/>postremo casula superponitur, quae charitatem.
+<lb ed="#P" n="34"/>significat, sicut scriptum est: Adhuc 
+eccellen<lb ed="#P" break="no" n="35"/>tiorem viam vobis demonstro (I Cor. xu). Si
+<lb ed="#P" n="36"/>linguis hominum loquar et angelorum, 
+chari<lb ed="#P" break="no" n="37"/>tatem autem non habeam nihil sum;etc.(I Cor,
+<lb ed="#P" n="38"/>xir).
+</p>
+            </div>
+            <div xml:id="hsvhsv-g37362-Dd1e775">
+               <head xml:id="hsvhsv-g37362-Hd1e777">Capitulum 12</head>
+               <head xml:id="hsvhsv-g37362-Hd1e779" type="question-title"/>
+               <p xml:id="hsvhsv-g37362-d1e781">
+                  <lb ed="#P" n="39"/>Cap. XII. De mappa vel manipula.
+</p>
+               <p xml:id="hsvhsv-g37362-d1e786">
+                  <lb ed="#P" n="40"/>Quia vero mentibus bene compositis, et divino
+<lb ed="#P" n="41"/>cultui mancipatis aliquoties negligentia subrepit,
+<lb ed="#P" n="42"/>necesse est ut ad eam detergendam jugis 
+adhi<lb ed="#P" break="no" n="43"/>beatur diligentia, qua velut quaedam ab oculis
+<lb ed="#P" n="44"/>demergens pituita sepius emundetur. Propter
+<lb ed="#P" n="45"/>quod in sinistra manu quaedam apponitur 
+map<lb ed="#P" break="no" n="46"/>pula, quae sepe fluentem oculorum pituitam y, 
+<lb ed="#P" n="47"/>tangat, et oculorum lipitudinem abstergat.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g37362-Dd1e807">
+               <head xml:id="hsvhsv-g37362-Hd1e809">Capitulum 13</head>
+               <head xml:id="hsvhsv-g37362-Hd1e811" type="question-title"/>
+               <p xml:id="hsvhsv-g37362-d1e813">
+                  <lb ed="#P" n="48"/>Cap. XIII. De dalmatica.
+</p>
+               <p xml:id="hsvhsv-g37362-d1e818">
+                  <lb ed="#P" n="49"/>Utuntur praeterea levite alio indumento quod
+<lb ed="#P" n="50"/>dalmatica dicitur, a regione quidem ubi primus
+<lb ed="#P" n="51"/>ejus usus institutus putatur nomen, colobio 
+ve<lb ed="#P" break="no" n="52"/>ro quo apostoli et quidam apostolorum 
+successo<lb ed="#P" break="no" n="53"/>res usi fuisse leguntur, adjectis manicis formam
+<lb ed="#P" n="54"/>trahens. Significat autem dalmatica propter sui
+<lb ed="#P" n="55"/>latitudinem curam proximorum, quae se extendit
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="56"/>per dilectionem, ut pluribus proficiat. Ad unum
+<lb ed="#P" n="57"/>ergo finem tendit, et significatio dalmaticee in 
+le<lb ed="#P" break="no" n="58"/>vitis et significatio casule in presbyteris ; quia
+<lb ed="#P" n="59"/>utrisque cura et sollicitudo proximorum 
+injungi<lb ed="#P" break="no" n="60"/>tur, per dilectionem adimplenda.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g37362-Dd1e850">
+               <head xml:id="hsvhsv-g37362-Hd1e852">Capitulum 14</head>
+               <head xml:id="hsvhsv-g37362-Hd1e854" type="question-title"/>
+               <p xml:id="hsvhsv-g37362-d1e856">
+                  <lb ed="#P" n="61"/>Cap. XIV. De standaiis et caligis byssinis sive lineis.
+</p>
+               <p xml:id="hsvhsv-g37362-d1e861">
+                  <lb ed="#P" n="62"/>Utuntur autem episcopi et cardinales 
+presby<lb ed="#P" break="no" n="63"/>teri sandaliis, quae calceamenta sunt 
+praedicafo<lb ed="#P" break="no" n="64"/>rum. Habent autem haec desubtus soleam 
+inte<lb ed="#P" break="no" n="65"/>gram, ne pes terram contingat ; desuper vero*
+<lb ed="#P" n="66"/>constant ex corio perloca perforato, quia 
+gres<lb ed="#P" break="no" n="67"/>sus predicatorum et subtus muniti esse debent
+<lb ed="#P" n="68"/>ne terrenis polluantur, et desuper aperti, ut ad
+<lb ed="#P" n="69"/>cclestia cognoscenda revelentur. Quod autem locis
+<lb ed="#P" n="70"/>quibusdam aperiuntur, hoc significat quod 
+evan<lb ed="#P" break="no" n="71"/>gelica praedicatio nec omnibus revelari debet, nec
+<lb ed="#P" n="72"/>ab omnibus abscondi, sicut scriptum est: 
+Vobisda<lb ed="#P" break="no" n="73"/>tum estnosse mysterium regni Dei, cateris 
+au<lb ed="#P" break="no" n="74"/>tem in parabolis (Luc. vii). Illic quippe 
+san<lb ed="#P" break="no" n="75"/>dalia aperiuntur, ubi mysteria regni Dei 
+cognos<lb ed="#P" break="no" n="76"/>cuntur. Prius autem quam sandalia in pedibus
+<lb ed="#P" n="77"/>assumant, induuntur caligis byssinis vel lineis
+<lb ed="#P" n="78"/>usque ad genua protensis, et ibidem constrictis
+<lb ed="#P" n="79"/>per quod significatur quod rectos gressus debent
+<lb ed="#P" n="80"/>facere pedibus suis ; et. genua debilia, id est 
+ne<lb ed="#P" break="no" n="81"/>gligentiis resoluta roborare, et sic ad. 
+predican<lb ed="#P" break="no" n="82"/>dum Evangelium festinare.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g37362-Dd1e911">
+               <head xml:id="hsvhsv-g37362-Hd1e913">Capitulum 15</head>
+               <head xml:id="hsvhsv-g37362-Hd1e915" type="question-title"/>
+               <p xml:id="hsvhsv-g37362-d1e917">
+                  <lb ed="#P" n="83"/>Cap. XV. De baculo episcopi, et annulo
+</p>
+               <p xml:id="hsvhsv-g37362-d1e922">
+                  <lb ed="#P" n="84"/>Utuntur pontifices baculis et annulis. Baculus
+<lb ed="#P" n="85"/>per rectitudinem suam justifiam significat 
+prae<lb ed="#P" break="no" n="86"/>latorum, qua subjectos regere debent. Qui idcirco
+<lb ed="#P" n="87"/>subtus acumen habet, ut rebelles per 
+increpatio<lb ed="#P" break="no" n="88"/>nem pungat ; desuper recurvus est, ut per 
+conso<lb ed="#P" break="no" n="89"/>lationem mites trahat. Annulus eacramentum 
+fl<lb ed="#P" break="no" n="90"/>dei significat, quo sponsa Christi Ecclesia 
+subar<lb ed="#P" break="no" n="91"/>rata est, cujus custodes et praedagogi episcopi
+<lb ed="#P" n="92"/>sunt et prelati, pro signo ferentes hoc in 
+testi<lb ed="#P" break="no" n="93"/>monium illi.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g37362-Dd1e947">
+               <head xml:id="hsvhsv-g37362-Hd1e949">Capitulum 16</head>
+               <head xml:id="hsvhsv-g37362-Hd1e951" type="question-title"/>
+               <p xml:id="hsvhsv-g37362-d1e953">
+                  <lb ed="#P" n="94"/>Cap. XVI. De pallio archiepiscopi.
+</p>
+               <p xml:id="hsvhsv-g37362-d1e958">
+                  <lb ed="#P" n="95"/>Archiepiscopi utuntur pallio quod significat
+<lb ed="#P" n="96"/>torquem auream, quam solebant legitime 
+certan<lb ed="#P" break="no" n="97"/>tes accipere. Circulo autem quo humeri 
+cons<lb ed="#P" break="no" n="98"/>tringuntur, timor et disciplina Domini 
+intelligi<lb ed="#P" break="no" n="99"/>tur, quo se et subditos sibi regere debent. Per
+<lb ed="#P" n="100"/>duas vero lineas ex utraque parte, id est, ante et
+<lb ed="#P" n="101"/>retro a summo deorsum pendentes; predicatio
+<lb ed="#P" n="102"/>utriusque Testamenti, vel dilectio Dei et proximi
+<lb ed="#P" n="103"/>figuratur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g37362-Dd1e981">
+               <head xml:id="hsvhsv-g37362-Hd1e983">Capitulum 17</head>
+               <head xml:id="hsvhsv-g37362-Hd1e985" type="question-title"/>
+               <p xml:id="hsvhsv-g37362-d1e987">
+                  <lb ed="#P" n="104"/>Cap. XVII. De vasis sacris.
+</p>
+               <p xml:id="hsvhsv-g37362-d1e992">
+                  <lb ed="#P" n="105"/>Hsc autem sunt qux de vasis sacris in 
+minis<lb ed="#P" break="no" n="106"/>terio divino breviter attigimus. Ara crucem 
+ai<lb ed="#P" break="no" n="107"/>gnificat ; calix sepulcrum ; patena lapidem ; 
+eor<lb ed="#P" break="no" n="108"/>poralis palla sindonem qua involutum est corpus
+<lb ed="#P" n="109"/>Christi.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

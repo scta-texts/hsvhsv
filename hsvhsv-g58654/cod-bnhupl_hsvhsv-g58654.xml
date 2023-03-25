@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pars 15</title>
+            <author ref="#HughOfStVictor">Hugh of St. Victor</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Pars 15</title>
+               <date when="2023-03-25">March 25, 2023</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-bnhupl">Patrologia Latina, v. 176</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2023-03-25" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="289"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="hsvhsv-g58654"><!-- l2-p15 -->
+            <head xml:id="hsvhsv-g58654-Hd1e101">Pars 15</head>
+            <head xml:id="hsvhsv-g58654-Hd1e103" type="question-title">
+De unctione infirmorum
+</head>
+            <p xml:id="hsvhsv-g58654-d1e106">
+               <cb ed="#P" n="c"/>
+               <lb ed="#P" n="23"/>PARS QUINTA DECIMA.
+<lb ed="#P" n="24"/>DE UNCTIONE INFIRMORUM.
+</p>
+            <div xml:id="hsvhsv-g58654-Dd1e115">
+               <head xml:id="hsvhsv-g58654-Hd1e117">Capitulum 1</head>
+               <head xml:id="hsvhsv-g58654-Hd1e119" type="question-title"/>
+               <p xml:id="hsvhsv-g58654-d1e121">
+                  <cb ed="#P" n="d"/>
+                  <lb ed="#P" n="25"/>Cap. I. De tribus generibus olei, et excellentia
+<lb ed="#P" n="26"/>chrismatis.
+</p>
+               <p xml:id="hsvhsv-g58654-d1e130">
+                  <lb ed="#P" n="27"/>Tria sunt genera olei sancti. Primum est oleum
+<lb ed="#P" n="28"/>unctionis. Secundum est oleum principalis 
+chris<lb ed="#P" break="no" n="29"/>matis. Tertium est oleum, quod dicitur oleum
+<lb ed="#P" n="30"/>infirmorum. ChrismaGrecedicitur, unctio Latine.
+<lb ed="#P" n="31"/>Et tamen omne oleum ad unctionem faciendam
+<lb ed="#P" n="32"/>sanctificetur; non omne oleum principalis 
+chris<lb ed="#P" break="no" n="33"/>matis vocatur, nisi illud solum quo principalis
+<lb ed="#P" n="34"/>unctio perficitur, quod etiam singulariter chrisma
+<lb ed="#P" n="35"/>nominatur. Chrisma enim est oleum cum balsamo
+<lb ed="#P" n="36"/>mistum, quo unguntur capita regum et 
+pontifi<lb ed="#P" break="no" n="37"/>cum : quo etiam baptizatos sacerdos ungit in 
+ver<lb ed="#P" break="no" n="38"/>tice, sicut eodem pontifex per impositionem manus
+<lb ed="#P" n="39"/>confirmandos ungit in fronte. Hoc itaque oleum
+<lb ed="#P" n="40"/>cum balsamo mistum, chrisma vocatur, sive oleum
+<lb ed="#P" n="41"/>principalis unctionis. Haec enim unctio quae 
+chris<lb ed="#P" break="no" n="42"/>mate fit principalis unctio dicitur, quia in ea
+<lb ed="#P" n="43"/>principaliter Paracletus datur. Unde et propter
+<lb ed="#P" n="44"/>abundantiam gratie duos liquores mistos habet :
+<lb ed="#P" n="45"/>oleum scilicet et balsamum. Oleum conscientis,
+<lb ed="#P" n="46"/>balsamum fang; oleum quo intus conscientia 
+pe<lb ed="#P" break="no" n="47"/>rungitur, balsamum cujus odore foris proximi res
+<lb ed="#P" n="48"/>perguntur. Oleum intus ad pacem cum Deo; 
+balsa<lb ed="#P" break="no" n="49"/>mum foris ad exemplum cum proximo. Est aliud
+<lb ed="#P" n="50"/>oleum quod dicitur oleum unctionis, quo 
+catechu<lb ed="#P" break="no" n="51"/>meni et neophyti unguntur in pectore et inter
+<lb ed="#P" n="52"/>scapulas ad sacramentum baptismi percipiendum.
+<lb ed="#P" n="53"/>Tertium genus olei est quod dicitur oleum 
+infir<lb ed="#P" break="no" n="54"/>morum, quod ad presens sacramentum pertinet.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g58654-Dd1e194">
+               <head xml:id="hsvhsv-g58654-Hd1e196">Capitulum 2</head>
+               <head xml:id="hsvhsv-g58654-Hd1e198" type="question-title"/>
+               <p xml:id="hsvhsv-g58654-d1e200">
+                  <lb ed="#P" n="55"/>Cap. II. Quando et a quo instituta est unctio D
+<lb ed="#P" n="56"/>infirmorum.
+</p>
+               <p xml:id="hsvhsv-g58654-d1e207">
+                  <lb ed="#P" n="57"/>Sacramentum unctionis infirmorum ab apostolis
+<lb ed="#P" n="58"/>institutum legitur (5). Jacobus enim apostolus in
+<lb ed="#P" n="59"/>Epistola sua scribens sic ait : Infirmatur quis
+<lb ed="#P" n="60"/>in vobis? inducat presbyteros Ecclesie ut orent
+<lb ed="#P" n="61"/>pro eo, ungentes eum oleo sacro; si in peccatis
+<lb ed="#P" n="62"/>est, dimittentur ei, et oratio salvabit infirmum
+<lb ed="#P" n="63"/>(Jacob. v). In quo ostenditur duplici ex causa
+<lb ed="#P" n="64"/>sacramentum hoc institum, et ad peccatorum 
+sci<lb ed="#P" break="no" n="65"/>licet remissionem, et ad corporalis infirmitatis
+<lb ed="#P" n="66"/>allevationem. Unde constat quod qui hanc unc-
+<cb ed="#P" n="e"/>
+                  <lb ed="#P" n="67"/>tionem fideliter et devote percipit, per eam sine
+<lb ed="#P" n="68"/>dubio et in corpore et in anima allevationem et
+<lb ed="#P" n="69"/>consolationem accipere meretur; si tamen 
+expe<lb ed="#P" break="no" n="70"/>dit ut in utroque allevetur, quod si forte corporis
+<lb ed="#P" n="71"/>sanitatem et valetudinem habere ili non expedit;
+<lb ed="#P" n="72"/>illam procul dubio quae est animae sanitatem et
+<lb ed="#P" n="73"/>allevationem hujus unctionis perceptione acquirit.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g58654-Dd1e251">
+               <head xml:id="hsvhsv-g58654-Hd1e253">Capitulum 3</head>
+               <head xml:id="hsvhsv-g58654-Hd1e255" type="question-title"/>
+               <p xml:id="hsvhsv-g58654-d1e257">
+                  <lb ed="#P" n="74"/>Cap. III. Utrum iterari possit hoc sacramentum.
+</p>
+               <p xml:id="hsvhsv-g58654-d1e262">
+                  <lb ed="#P" n="75"/>Quaerunt quidam an unctio infirmorum iterari
+<lb ed="#P" n="76"/>possit, cum baptismus, confirmatio et alia 
+quae<lb ed="#P" break="no" n="77"/>dam sacramenta, semel suscepta, denuo non 
+ite<lb ed="#P" break="no" n="78"/>rentur. Sed mihi interim ratio nulla occurrit
+<lb ed="#P" n="79"/>quare convenienter iterari non posait hoc 
+sacra<lb ed="#P" break="no" n="80"/>mentum. Qui enim baptizatus est, ideo 
+baptiza<lb ed="#P" break="no" n="81"/>tus est, ut christianus sit. Qui autem semel 
+chri<lb ed="#P" break="no" n="82"/>Cstianus factus est amplius christianus hic esse
+<lb ed="#P" n="83"/>non potest, etiam si malus fiat; quia et 
+christia<lb ed="#P" break="no" n="84"/>nus malus esse potest; nec tamen christianus
+<lb ed="#P" n="85"/>esse desinit, etiam si bonus esse desinit. 
+Przete<lb ed="#P" break="no" n="86"/>rea quisemel baptizatus est denuo non baptizatur,
+<lb ed="#P" n="87"/>etiam si de malo ad bonum convertatur. Qui 
+au<lb ed="#P" break="no" n="88"/>tem oleo ungitur ideo ungitur utei peccata 
+dimit<lb ed="#P" break="no" n="89"/>tantur, et infirmitas allevetur. Sed qui justificatur
+<lb ed="#P" n="90"/>potest iterum peccare, et qui sanatur potest 
+ite<lb ed="#P" break="no" n="91"/>rum segrotare. Qui autem christianus efficitur,
+<lb ed="#P" n="92"/>quia quod habet sacramentum nominis perdere
+<lb ed="#P" n="93"/>non potest, recipere non potest. Non sic est 
+sacra<lb ed="#P" break="no" n="94"/>mentum unctionis : spiritalis est quaedam 
+medi<lb ed="#P" break="no" n="95"/>cina corporis et animae, languores mitigans et
+<lb ed="#P" n="96"/>sanans. Nam oleum membra dolentia sanat. Ita
+<lb ed="#P" n="97"/>oleum ad utrumque curandum prodest ; si 
+mor<lb ed="#P" break="no" n="98"/>bus non revertitur medicina non iteretur. Si 
+au<lb ed="#P" break="no" n="99"/>tem morbus non potest cohiberi, quare deberet
+<lb ed="#P" n="100"/>medicina prohiberi? Si unctio iterari non potest,
+<lb ed="#P" n="101"/>nec oratio iterari potest. Utraque enim illic 
+com<lb ed="#P" break="no" n="102"/>memorata sunt. Orent, inquit, pro eo, wungentes
+<lb ed="#P" n="103"/>eum oleo sacro; si in peccatis est, dimittentur
+<lb ed="#P" n="104"/>ei;et oratio salvabit infirmum (Jacob. v). Sed
+<lb ed="#P" n="105"/>fortassis dices quod unctio non pertinet nisi ad
+<lb ed="#P" n="106"/>peccatorum remissionem; et oratio non pertinet
+<lb ed="#P" n="107"/>nisi ad. corporis allevationem, quia dictum est :
+<lb ed="#P" n="108"/>oratio salvabit infirmum. Verte quolibet. Sed di-
+</p>
+               <p xml:id="hsvhsv-g58654-d1e338">
+<!-- 208.png.txt -->
+                  <pb ed="#P" n="290"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>cis, quod unctio confert peccatorum remissionem : 
+<lb ed="#P" n="2"/>et oratio infirmitatis allevationem. Ego verum
+<lb ed="#P" n="3"/>esse confiteor, sic tamen ut conversam non 
+ne<lb ed="#P" break="no" n="4"/>ges; quia unctio confert corporis allevationem,
+<lb ed="#P" n="5"/>et oratio peccatorum remissionem. Utrumque 
+va<lb ed="#P" break="no" n="6"/>dit ad utrumque. Utrumque operatur ut 
+utrum<lb ed="#P" break="no" n="7"/>que utrinque operatur et utrumque alteri 
+coope<lb ed="#P" break="no" n="8"/>ratur, et unum effectum habet utrumque. Quod
+<lb ed="#P" n="9"/>insacramento non dividitur, in virtute sacramenti
+<lb ed="#P" n="10"/>non separatur; tamen quia unctio membrorum
+<lb ed="#P" n="11"/>dolorem sanat, et contra corporis infirmitatem
+<lb ed="#P" n="12"/>magis prodesse videtur : ideo fortassis dixit oratio
+<lb ed="#P" n="13"/>salvabit infirmum, ut in utroque utrumque 
+intel<lb ed="#P" break="no" n="14"/>ligas, et non putes unctionem magis ad sanitatem
+<lb ed="#P" n="15"/>corporis pertinere, quam ad peccatorum 
+remis<lb ed="#P" break="no" n="16"/>sionem. Prius anima curatur, postea corpus 
+sa<lb ed="#P" break="no" n="17"/>natur. Propter correctionem animae infirmatum
+<lb ed="#P" n="18"/>est corpus. Ideo ad sanitatem corporis 
+obtinen<lb ed="#P" break="no" n="19"/>dam, prius curanda est anima. Et si forte corpus
+<lb ed="#P" n="20"/>ad pristinam sospitatem non convalescit, nihil
+<lb ed="#P" n="21"/>periculi est, si tantum anima suam sanitatem
+<lb ed="#P" n="22"/>receperit. Quare ergo negetur quod unctionis
+<lb ed="#P" n="23"/>sacramentum super infirmum iterari possit; ad
+</p>
+               <p xml:id="hsvhsv-g58654-d1e398">
+                  <cb ed="#P" n="b"/>
+                  <lb ed="#P" n="24"/>reparandam ssepius sanitatem et adimpetrandam
+<lb ed="#P" n="25"/>saepius peccatorum remissionem, cum negari non
+<lb ed="#P" n="26"/>possit pro eadem corporis sanitate, et similiter
+<lb ed="#P" n="27"/>pro peccatorum remissione, sepius iterandam
+<lb ed="#P" n="28"/>esse orationem? Et ut sacramentis idem 
+demon<lb ed="#P" break="no" n="29"/>stremus, quis dicat hominem aqua aspersionis
+<lb ed="#P" n="30"/>semellustratum amplius aspergi non posse; et
+<lb ed="#P" n="31"/>quod majus est sacramento corporis et sanguinis
+<lb ed="#P" n="32"/>Christi semel percepto amplius illud suscipere
+<lb ed="#P" n="33"/>non debere? Sed si forte ad haec respondendum
+<lb ed="#P" n="34"/>existimes, quia corpus semel consecratum denuo
+<lb ed="#P" n="35"/>in eodem sacramento non benedicitur, neque
+<lb ed="#P" n="36"/>aspersionis benedictio sepius in eadem aqua
+<lb ed="#P" n="37"/>reiteratur, vide quod similiter idem oleum post
+<lb ed="#P" n="38"/>unam consecrationem alia rursum benedictione
+<lb ed="#P" n="39"/>aut consecratione non sanctificatur: et tamen
+<lb ed="#P" n="40"/>Sicut ille qui corporis Christi sacramentum jam
+<lb ed="#P" n="41"/>percepit, nequaquam idcirco a percipiendo 
+ite<lb ed="#P" break="no" n="42"/>rum eo prohibetur, aic ei qui unctionis 
+sacra<lb ed="#P" break="no" n="43"/>mentum accepit, si necesse fuerit et causa sive
+<lb ed="#P" n="44"/>devotio expostulet, ut illud iterum percipiat 
+ra<lb ed="#P" break="no" n="45"/>tionabiliter non contradicitur.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

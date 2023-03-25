@@ -1,0 +1,1412 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pars 3</title>
+            <author ref="#HughOfStVictor">Hugh of St. Victor</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Pars 3</title>
+               <date when="2023-03-25">March 25, 2023</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-bnhupl">Patrologia Latina, v. 176</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2023-03-25" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="109"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="hsvhsv-g10047"><!-- l1-p3 -->
+            <head xml:id="hsvhsv-g10047-Hd1e101">Pars 3</head>
+            <head xml:id="hsvhsv-g10047-Hd1e103" type="question-title">De cognitione divinitatis</head>
+            <p xml:id="hsvhsv-g10047-d1e106">
+<!-- 027.png.txt -->
+               <pb ed="#P" n="109"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>PARS TERTIA.
+<lb ed="#P" n="2"/>DE COGNITIONE DIVINITATIS.
+</p>
+            <div xml:id="hsvhsv-g10047-Dd1e119">
+               <head xml:id="hsvhsv-g10047-Hd1e121">Capitulum 1</head>
+               <head xml:id="hsvhsv-g10047-Hd1e123" type="question-title"/>
+               <p xml:id="hsvhsv-g10047-d1e125">
+                  <lb ed="#P" n="3"/>Cap. I. Qualiter ab initio Deus agnitus est, et A.
+<lb ed="#P" n="4"/>quod unus, et quod trinus.
+</p>
+               <p xml:id="hsvhsv-g10047-d1e132">
+                  <lb ed="#P" n="5"/>Scriptura dicit: Dewm nemo vidit unquam
+<lb ed="#P" n="6"/>Joan. I) ; tamen fides quod non videt credit. Et
+<lb ed="#P" n="7"/>exhocmeritum fidei constat non vidisse et credere.
+<lb ed="#P" n="8"/>Unde pulchrum illud dictum est : Nam « si vides,
+<lb ed="#P" n="9"/>non est fides. » Credit ergo fides quod non vidit ;
+<lb ed="#P" n="10"/>et non vidit quidem quod credit. Et vidit tamen
+<lb ed="#P" n="11"/>aliquid per quod admonita est et excitata 
+crede<lb ed="#P" break="no" n="12"/>re quod non vidit. Deus enim sic ab initio 
+noti<lb ed="#P" break="no" n="13"/>tiam sui ab hominetemperavit, ut sicut nunquam
+<lb ed="#P" n="14"/>quid esset totum poterat comprehendi, sic quia 
+es<lb ed="#P" break="no" n="15"/>set nunquam prorsus posset ignorari.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10047-Dd1e159">
+               <head xml:id="hsvhsv-g10047-Hd1e161">Capitulum 2</head>
+               <head xml:id="hsvhsv-g10047-Hd1e163" type="question-title"/>
+               <p xml:id="hsvhsv-g10047-d1e165">
+                  <lb ed="#P" n="16"/>Cap. II. Quare Deus nec totus sciri, nec totus
+<lb ed="#P" n="17"/>ignorari potest.
+</p>
+               <p xml:id="hsvhsv-g10047-d1e172">
+                  <lb ed="#P" n="18"/>Propterea quippe Deus a principio nec totus
+<lb ed="#P" n="19"/>conscientie humans manifestus esse voluit, nec
+<lb ed="#P" n="20"/>totus absconditus ; nesi totus manifestus esset,
+<lb ed="#P" n="21"/>meritum fides non haberet, nec infidelitas locum.
+<lb ed="#P" n="22"/>Infidelitas enim de manifesto convinceretur; et 
+fi<lb ed="#P" break="no" n="23"/>des de occulto non exerceretur. Si vero 
+abscondi<lb ed="#P" break="no" n="24"/>ius totus esset, fides quidem ad scientiam non
+<lb ed="#P" n="25"/>adjuvaretur, etinfidelitas de ignorantia 
+excusare<lb ed="#P" break="no" n="26"/>tur. Quocirca oportuit ut proderet se occultum
+<lb ed="#P" n="27"/>Deus ne totus celaretur et prorsus nesciretur ; et
+<lb ed="#P" n="28"/>rursum ad eliquid proditum se etagnitum 
+occul<lb ed="#P" break="no" n="29"/>taretne totus manifestaretur, utaliquid esset quod
+<lb ed="#P" n="30"/>cor hominis enutriret cognitum, et rursusaliquid
+<lb ed="#P" n="31"/>quod abscontidum provocaret.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10047-Dd1e207">
+               <head xml:id="hsvhsv-g10047-Hd1e209">Capitulum 3</head>
+               <head xml:id="hsvhsv-g10047-Hd1e211" type="question-title"/>
+               <p xml:id="hsvhsv-g10047-d1e213">
+                  <lb ed="#P" n="32"/>Cap. III. Quibus modis cognitio Dei ad
+<lb ed="#P" n="33"/>hominem venit.
+</p>
+               <p xml:id="hsvhsv-g10047-d1e220">
+                  <lb ed="#P" n="34"/>Et illud nunc primum considerandum est 
+quo<lb ed="#P" break="no" n="35"/>modo primum Deus occultus et absconditus 
+etla<lb ed="#P" break="no" n="36"/>tens interim a corde humano deprensus est, ut
+<lb ed="#P" n="37"/>sciri potuisset quia Deus est, vel quoderat credi.
+<lb ed="#P" n="38"/>Modi sunt duoet vise dux, et manifestationes duse
+<lb ed="#P" n="39"/>quibus a principio cordi humano latens proditus
+<lb ed="#P" n="40"/>estet judicatus occultus Deus; partim scilicet
+<lb ed="#P" n="41"/>ratione humana, partim revelatione divina. Et 
+ra<lb ed="#P" break="no" n="42"/>tio quidem humana duplici investigatione Deum
+<lb ed="#P" n="43"/>deprehendit ; partim videlicet in se, partim in iis
+<lb ed="#P" n="44"/>quae erant extra se. Similiter et revelatio divina
+<lb ed="#P" n="45"/>duplici insinuatione eum qui nesciebatur vel 
+du<lb ed="#P" break="no" n="46"/>bie credebatur et non cognitum indicavit, et 
+par<lb ed="#P" break="no" n="47"/>lim creditum asseruit. Nam humanam 
+ignoran<lb ed="#P" break="no" n="48"/>tiam nunc intus peraspirationem illuminans edo- p
+<lb ed="#P" n="49"/>cuit, tunc veroforis vel per doctrinae eridutionem
+<lb ed="#P" n="50"/>instruxit, vel per miraculorum ostentionem 
+con<lb ed="#P" break="no" n="51"/>finnavit. Utrumque manifestationis divine 
+mo<lb ed="#P" break="no" n="52"/>dum quo vel ratione humana Deus 
+abhomineco<lb ed="#P" break="no" n="53"/>gnitus est, vel revelatione divina homini 
+mani<lb ed="#P" break="no" n="54"/>festatus, exponit Apostolus dicens : Quod notum
+<lb ed="#P" n="55"/>Dei erat, manifestum est in illis; Deus enim
+<lb ed="#P" n="56"/>illis revelavit (Rom. I). Et deinde subjungit : 
+In<lb ed="#P" break="no" n="57"/>visibilia enim ipsius a creatura mundi perea
+<lb ed="#P" n="58"/>qua facta sunt intellecta conspiciuntur (Ibid.).
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="59"/>Cum enim dicit:Quod notum Dei erat, id est 
+nos<lb ed="#P" break="no" n="60"/>cibile de Deo, ostendit nec totum absconditum,
+<lb ed="#P" n="61"/>nec totum manifestum. Cum vero dicit: 
+manifes<lb ed="#P" break="no" n="62"/>tum est in illis, et non dicit, manifestum est illis,
+<lb ed="#P" n="63"/>ostendit plane quoniam uon solum revelatione
+<lb ed="#P" n="64"/>divina quefacta illis fuerat, sed etiam 
+rationehu<lb ed="#P" break="no" n="65"/>Tana in illis qure erat, notum illis factum erat.
+<lb ed="#P" n="66"/>Cum autem subjungit : Deus autemillis revelavit,
+<lb ed="#P" n="67"/>ostendit quia ratio humanaad haec sublimia et 
+al<lb ed="#P" break="no" n="68"/>ta investiganda et intelligenda infirma et 
+insuf<lb ed="#P" break="no" n="69"/>ficiens omnino fuisset, nisi divina revelatio illiin
+<lb ed="#P" n="70"/>adjutorium et firmamentum cognoscends 
+verita<lb ed="#P" break="no" n="71"/>tis adjuncta fuisset. Postea ostenso eo qui intus
+<lb ed="#P" n="72"/>erat investigationis vel revelationis modo, statim
+<lb ed="#P" n="73"/>deillo qui foris sit utroque, sententiam simul
+<lb ed="#P" n="74"/>subjungit, dicens : Invisibilia enim ipsius a 
+crea<lb ed="#P" break="no" n="75"/>tura mundi per ea quae facta sunt intellecta 
+cons<lb ed="#P" break="no" n="76"/>piscientur. Invisibilia enim Dei qui intus erantet
+<lb ed="#P" n="77"/>abscondita erant, per ea quae foris erant et nota
+<lb ed="#P" n="78"/>erant visibilia sunt visa vel in conditione rerum
+<lb ed="#P" n="79"/>a ratione humana, vel in gubernatione et 
+admi<lb ed="#P" break="no" n="80"/>nistratione visibiliafacta sunt revelatione divina.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10047-Dd1e328">
+               <head xml:id="hsvhsv-g10047-Hd1e330">Capitulum 4</head>
+               <head xml:id="hsvhsv-g10047-Hd1e332" type="question-title"/>
+               <p xml:id="hsvhsv-g10047-d1e334">
+                  <lb ed="#P" n="81"/>Cap. IV. Quod Deus trinus et unus ; et quid in
+<lb ed="#P" n="82"/>unitate et quid. in trinitate.
+</p>
+               <p xml:id="hsvhsv-g10047-d1e341">
+                  <lb ed="#P" n="83"/>Ita ergo ab initio proditus est Deus conscientiae
+<lb ed="#P" n="84"/>humans et adjuta fides indiciis veritatis confessa
+<lb ed="#P" n="85"/>est Deum essa, et ipsum unum. Deinde etiam 
+tri<lb ed="#P" break="no" n="86"/>num esse. Et in unitate quidem confessa est 
+seter<lb ed="#P" break="no" n="87"/>nitatem et immensitatem; in :teruitateautem 
+in<lb ed="#P" break="no" n="88"/>commutabilitatem ; in immensitate autem 
+sim<lb ed="#P" break="no" n="89"/>plicitatem, hoc est :ternitatem eine tempore, et
+<lb ed="#P" n="90"/>immensitatem sine quantitate. In Trinitate vero
+<lb ed="#P" n="91"/>confessa est communionem unitatis, sequalitatem
+<lb ed="#P" n="92"/>immensitatis, comvitatem eeternitatis. Et 
+commu<lb ed="#P" break="no" n="93"/>nionem quidem unitatis sine divisione; 
+squali<lb ed="#P" break="no" n="94"/>tatem immensitatissine diminutione ; cozvitatern.
+<lb ed="#P" n="95"/>feternitatis sine ordine vel successione. Hoc est
+<lb ed="#P" n="96"/>singulis in unitatetotum, in immensitateplenum,
+<lb ed="#P" n="97"/>in wternitate perfectum.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10047-Dd1e377">
+               <head xml:id="hsvhsv-g10047-Hd1e379">Capitulum 5</head>
+               <head xml:id="hsvhsv-g10047-Hd1e381" type="question-title"/>
+               <p xml:id="hsvhsv-g10047-d1e383">
+                  <lb ed="#P" n="98"/>Cap. V. Explicatio propositarum discretionom.
+</p>
+               <p xml:id="hsvhsv-g10047-d1e388">
+                  <lb ed="#P" n="99"/>Nunc oportet per singula qui proposita sunt
+<lb ed="#P" n="100"/>currentem considerare, qualiter mens humana
+<lb ed="#P" n="101"/>qui» tam longe a Deo est, tanta de Deo potuerit
+<lb ed="#P" n="102"/>comprehendere, vel ratione propria directa, vel
+<lb ed="#P" n="103"/>revelatione divinina adjuta. Et primum usquequo
+<lb ed="#P" n="104"/>ipsa humana ratio ex insito sibi lumine veritatis
+<lb ed="#P" n="105"/>convaluerit, dignum est consideratione ; ne si vel
+<lb ed="#P" n="106"/>totum homini detur negare convincamur gratiam,
+<lb ed="#P" n="107"/>aut si tollatur totum ignorantiam excusare. 
+Ita<lb ed="#P" break="no" n="108"/>que utrumque modum humane investigationis
+<lb ed="#P" n="109"/>ordine prosequamur, quo ratio hominis vel per
+<lb ed="#P" n="110"/>8e directa velab iis quae extra se naturalia erant
+<lb ed="#P" n="111"/>visibilia admonita, ad verum cognoscendum 
+eni<lb ed="#P" break="no" n="112"/>sa est.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10047-Dd1e422">
+               <head xml:id="hsvhsv-g10047-Hd1e424">Capitulum 6</head>
+               <head xml:id="hsvhsv-g10047-Hd1e426" type="question-title"/>
+               <p xml:id="hsvhsv-g10047-d1e428">
+<!-- 028.png.txt -->
+                  <pb ed="#P" n="110"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>Cap. VI. De illo cognitionis genere quo mens 
+<lb ed="#P" n="2"/>rationalis in se Deum videre potest.
+</p>
+               <p xml:id="hsvhsv-g10047-d1e441">
+                  <lb ed="#P" n="3"/>Et primum quodin ea erat (quoniam et hoc illi
+<lb ed="#P" n="4"/>erat primumet principale speculum veritatis 
+con<lb ed="#P" break="no" n="5"/>templand:;) inspiciamus. In eo igitur primum et.
+<lb ed="#P" n="6"/>principaliter invisibilis Deus (quantum ad mani
+<lb ed="#P" n="7"/>festationem expositum est) videri poterat quod
+<lb ed="#P" n="8"/>lius imagini et similitudini proximum et 
+cogna<lb ed="#P" break="no" n="9"/>tum magis factumerat. Hocautem ipsa ratio erat.
+<lb ed="#P" n="10"/>et mens ratione utens quo ad primam 
+similitudi<lb ed="#P" break="no" n="11"/>nem Dei facta erat, ut per se invenire posseteum
+<lb ed="#P" n="12"/>a quo facta erat.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10047-Dd1e466">
+               <head xml:id="hsvhsv-g10047-Hd1e468">Capitulum 7</head>
+               <head xml:id="hsvhsv-g10047-Hd1e470" type="question-title"/>
+               <p xml:id="hsvhsv-g10047-d1e472">
+                  <lb ed="#P" n="13"/>Cap. VII. Quod se ipsam esse videt mens
+<lb ed="#P" n="14"/>rationalis.
+</p>
+               <p xml:id="hsvhsv-g10047-d1e479">
+                  <lb ed="#P" n="15"/>Non enim (ut id loquamur quod primum 
+occur<lb ed="#P" break="no" n="16"/>rit) et scientibus nihil minus esse potest, seipsam B 
+<lb ed="#P" n="17"/>esse aliquid ignorare potest, cum ex hisomnibus
+<lb ed="#P" n="18"/>quae in se (hoc est in corpore suo) visibilia videt
+<lb ed="#P" n="19"/>nihil se esse vel esse posse videt. Secernit ergo
+<lb ed="#P" n="20"/>et dividit se per se ab eo toto quod visibile videt.
+<lb ed="#P" n="21"/>in se ; et invisibilem omnino se esse videt ; in eo
+<lb ed="#P" n="22"/>quod se videt, et tamen videri se non posse videt.
+<lb ed="#P" n="23"/>Videt ergo invisibilia esse; quae tamen visibiliter
+<lb ed="#P" n="24"/>non videt, quia se invisibilem esse videt et tamen
+<lb ed="#P" n="25"/>visibiliter non videt.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10047-Dd1e506">
+               <head xml:id="hsvhsv-g10047-Hd1e508">Capitulum 8</head>
+               <head xml:id="hsvhsv-g10047-Hd1e510" type="question-title"/>
+               <p xml:id="hsvhsv-g10047-d1e512">
+                  <lb ed="#P" n="26"/>Cap. VIII Et quod se capisse intelligit.
+</p>
+               <p xml:id="hsvhsv-g10047-d1e517">
+                  <lb ed="#P" n="27"/>Cum ergo de se dubitare non possit quoniam
+<lb ed="#P" n="28"/>est (quia se ignorare non potest) cogitur ex se et
+<lb ed="#P" n="29"/>hoc credere quod aliquando se co»pisse meminit ;
+<lb ed="#P" n="30"/>quoniam non semper est, quia se nescire non 
+po<lb ed="#P" break="no" n="31"/>test cum est. Cum ergo per se et in se co»pisse et. 
+<lb ed="#P" n="32"/>initium habuisse videat, nec hoc ignorare potest.
+<lb ed="#P" n="33"/>Quoniam cum non fuit, sibi ipsi ut esset initium
+<lb ed="#P" n="34"/>et subsistentiam daro omnino non potuit.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10047-Dd1e539">
+               <head xml:id="hsvhsv-g10047-Hd1e541">Capitulum 9</head>
+               <head xml:id="hsvhsv-g10047-Hd1e543" type="question-title"/>
+               <p xml:id="hsvhsv-g10047-d1e545">
+                  <lb ed="#P" n="35"/>Cap. IX. Quod Deus est e quod sine principio est.
+<lb ed="#P" n="36"/>Ut ergo inciperet quod non erat ab alio factum
+<lb ed="#P" n="37"/>est qui erat. Quem idcirco ipsum esse ab alio non
+<lb ed="#P" n="38"/>ccepisse necesse est ; quoniam qui ab alio esse 
+ac<lb ed="#P" break="no" n="39"/>cepit primus omnibus existendi auctor esse non
+<lb ed="#P" n="40"/>potuit. Non ergo ab alio accipere esse potuit qui
+<lb ed="#P" n="41"/>omnibus esse dedit, quem propterea semper fuisse
+<lb ed="#P" n="42"/>etnunquam copisse fateri oportet ; quoniam omne
+<lb ed="#P" n="43"/>quod aliquando esse incopit auctorem habuit per
+<lb ed="#P" n="44"/>quem coepit. Constat ergo nec dubitari ullo modo
+<lb ed="#P" n="45"/>potest quod ille per quem ccpit quod non semper
+<lb ed="#P" n="46"/>fuit nunquam capit, sed semper fuit. Illum 
+au<lb ed="#P" break="no" n="47"/>tem rerum auctorem et primum principium hoc
+<lb ed="#P" n="48"/>modo ratio investigat ; et inventum pietas 
+vene<lb ed="#P" break="no" n="49"/>ratur, et adorandum fides pradicat Deum.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10047-Dd1e581">
+               <head xml:id="hsvhsv-g10047-Hd1e583">Capitulum 10</head>
+               <head xml:id="hsvhsv-g10047-Hd1e585" type="question-title"/>
+               <p xml:id="hsvhsv-g10047-d1e587">
+                  <lb ed="#P" n="50"/>Cap. X. Ejusdem rei argumentum foris in creaturis.
+</p>
+               <p xml:id="hsvhsv-g10047-d1e592">
+                  <lb ed="#P" n="51"/>Hoc autem ratio inventum in se probat, et in
+<lb ed="#P" n="52"/>his quae videt extra se; quia ortum et occasum
+<lb ed="#P" n="53"/>habentia cuncta, sineauctorenec originem 
+habe<lb ed="#P" break="no" n="54"/>re possent nec reparationem. Quae in toto 
+aliquan<lb ed="#P" break="no" n="55"/>do coepisse idcirco dubium esse non potest ; quia
+<lb ed="#P" n="56"/>et in partibus suis sine cessatione quotidie et 
+ori<lb ed="#P" break="no" n="57"/>ri videtur quod non est et praeterire quod est. 
+Om<lb ed="#P" break="no" n="58"/>ne autem quod mutabile est, aliquando non 
+fuis<lb ed="#P" break="no" n="59"/>8e necesse est ; quia quod stare non potuit cum
+<lb ed="#P" n="60"/>prossens fuit, indicat se aliquando non fuisse 
+prius<lb ed="#P" break="no" n="61"/>quam fuit. Sic respondent qui foris sunt iis que
+<lb ed="#P" n="62"/>intus videntur ad veritatem comprobandam et
+<cb ed="#P" n="b"/>
+                  <!-- this column has corrupted right side -->
+                  <lb ed="#P" n="63"/>auctorem suum natura clamat quae seab
+<lb ed="#P" n="64"/>tam ostendit.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10047-Dd1e630">
+               <head xml:id="hsvhsv-g10047-Hd1e632">Capitulum 11</head>
+               <head xml:id="hsvhsv-g10047-Hd1e634" type="question-title"/>
+               <p xml:id="hsvhsv-g10047-d1e636">
+                  <lb ed="#P" n="65"/>Cap XI Quod Deus est trinus et u
+</p>
+               <p xml:id="hsvhsv-g10047-d1e641">
+                  <lb ed="#P" n="66"/>Itaque ratio per rationem Deum esse
+<lb ed="#P" n="67"/>et venit alia ratio quae non solum esse D
+<lb ed="#P" n="68"/>unum esse cttrinum comprobaret ; at pri
+<lb ed="#P" n="69"/>se deinde per ea quae erant. extra se fact
+<lb ed="#P" n="70"/>dum se. Una pietas, una devotio, una
+<lb ed="#P" n="71"/>Dominum unum et Deum unum. Sic dixi
+<lb ed="#P" n="72"/>comprobavit in se, ne schisma mentium
+<lb ed="#P" n="73"/>plura principia: etnon esset certa salus. E
+<lb ed="#P" n="74"/>esse et consonum magis veritati et consei
+<lb ed="#P" n="75"/>natur: principium unum etfinem unum
+<lb ed="#P" n="76"/>habere possent conversionem quae ab ill
+<lb ed="#P" n="77"/>rent omnia. Alioqui dissipationem esse 
+<lb ed="#P" n="78"/>tatis sine capite et principio et moderatore
+<lb ed="#P" n="79"/>mavit illi natura foris, et contestata est
+<lb ed="#P" n="80"/>dem veritatem ; et dixit opus unum et a
+<lb ed="#P" n="81"/>unum ; et concordia una consilium unum
+<lb ed="#P" n="82"/>administratio providentiam unam. Et m:
+<lb ed="#P" n="83"/>tus est Deus unus, creator unus, moderat
+<lb ed="#P" n="84"/>et rector; quia totum unum ei un
+<lb ed="#P" n="85"/>lum.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10047-Dd1e688">
+               <head xml:id="hsvhsv-g10047-Hd1e690">Capitulum 12</head>
+               <head xml:id="hsvhsv-g10047-Hd1e692" type="question-title"/>
+               <p xml:id="hsvhsv-g10047-d1e694">
+                  <lb ed="#P" n="86"/>Cap. XII Quod Deus vere et summe 1
+</p>
+               <p xml:id="hsvhsv-g10047-d1e699">
+                  <lb ed="#P" n="87"/>Approbavit haec ratio et acquievit, et di:
+<lb ed="#P" n="88"/>unus, nec collectione diversorum ne turl
+<lb ed="#P" n="89"/>ceret ; nec compositione partium, nemasi
+<lb ed="#P" n="90"/>maret ; nec similitudine multorum, ne pl
+<lb ed="#P" n="91"/>superflua vel singularitas imporfecta ap
+<lb ed="#P" n="92"/>Omnis enim unitas in similitudine sola coi
+<lb ed="#P" n="93"/>Plurimorum, aut imperfectionem ostendit
+<lb ed="#P" n="94"/>si minus habent singula, aut superfluam (
+<lb ed="#P" n="95"/>tionem in toto, si perfecta sunt universa.
+<lb ed="#P" n="96"/>est in his omnibusunitas vera, sedzemula.
+<lb ed="#P" n="97"/>lum hoc unitatem, quia quodammodo ap.
+<lb ed="#P" n="98"/>quant ei ; sed non contingunt ad illam, qt
+<lb ed="#P" n="99"/>unum non est ;et quod sunt vere unum no
+<lb ed="#P" n="100"/>sed uniuntur tantum et accedunt ad se. E
+<lb ed="#P" n="101"/>lis simul esse et convenire in unum, unur
+<lb ed="#P" n="102"/>Nec tamen unum vere sunt; quoniam ess
+<lb ed="#P" n="103"/>ternon sunt, necestunum totum quod sunt
+<lb ed="#P" n="104"/>autem unum oportet esse, et essentialiter
+<lb ed="#P" n="105"/>esse, et immutabiliter unumesse, et summi
+<lb ed="#P" n="106"/>ease. Quod enim essentialiter unum est, ver:
+<lb ed="#P" n="107"/>est: quod immutabiliterunum est, summe
+<lb ed="#P" n="108"/>est. Quod autem inutroque bonum est, me:
+<lb ed="#P" n="109"/>utrumque quam alterum tantum. Et bonc
+<lb ed="#P" n="110"/>essentialiter unum esse; et immutabiliter
+<lb ed="#P" n="111"/>esse; et utrumque esse melius est. Deus
+<lb ed="#P" n="112"/>summum bonum est, et non potest deesse
+<lb ed="#P" n="113"/>mo bono bonum quod melius est. Et suade
+<lb ed="#P" n="114"/>optimo dare, quod melius est bonum. Et :
+<lb ed="#P" n="115"/>fatetur Deum suum et auctorem suum, et :
+<lb ed="#P" n="116"/>pium suum unum esse ; quoniam hoc meli
+<lb ed="#P" n="117"/>et vere unum esse ; quoniam substantialitc
+<lb ed="#P" n="118"/>et summe unum esse;quoniam invariabilit:
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10047-Dd1e772">
+               <head xml:id="hsvhsv-g10047-Hd1e774">Capitulum 13</head>
+               <head xml:id="hsvhsv-g10047-Hd1e776" type="question-title"/>
+               <p xml:id="hsvhsv-g10047-d1e778">
+                  <lb ed="#P" n="119"/>Cap XIII. Quod immutabilis est Deu.
+</p>
+               <p xml:id="hsvhsv-g10047-d1e783">
+                  <lb ed="#P" n="120"/>Et ascendit et transitut probat quoniam i
+<lb ed="#P" n="121"/>et quoniam variari et mutari non potest De
+<lb ed="#P" n="122"/>nino. Non enim augeri potest qui immenst
+<lb ed="#P" n="123"/>nec minui qui unus est. Nec loco mutari qv
+<lb ed="#P" n="124"/>que est ; nec tempore qui aeternus est. Neo:
+<!-- 029.png.txt -->
+<pb ed="#P" n="111"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>tione qui sapientissimus est ; nec affectu qui 
+op<lb ed="#P" break="no" n="2"/>timus est.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10047-Dd1e808">
+               <head xml:id="hsvhsv-g10047-Hd1e810">Capitulum 14</head>
+               <head xml:id="hsvhsv-g10047-Hd1e812" type="question-title"/>
+               <p xml:id="hsvhsv-g10047-d1e814">
+                  <lb ed="#P" n="3"/>Cap. XIV. Quod. rationem creatura. recte 
+con<lb ed="#P" break="no" n="4"/>siderata adjuvat ad cognoscendum Deum.
+</p>
+               <p xml:id="hsvhsv-g10047-d1e821">
+                  <lb ed="#P" n="5"/>Clamat creatura foris et probat ipsa rationem
+<lb ed="#P" n="6"/>hane, et commendat quoniam ita est. Et 
+demon<lb ed="#P" break="no" n="7"/>strat summa pulchritudo operis perfectam esse
+<lb ed="#P" n="8"/>sapientiam conditoris. Kt apponit se 
+perseveran<lb ed="#P" break="no" n="9"/>tia decoris ipsius. Et quod non minuitur quod
+<lb ed="#P" n="10"/>institutum est primum bonum. Et dicit quod
+<lb ed="#P" n="11"/>lerna est sapientia ejus et minui omnino non
+<lb ed="#P" n="12"/>potest, nec decrescit aliquando plenitudo sensus
+<lb ed="#P" n="13"/>illius a consummatione. Et exit ratione cum 
+at<lb ed="#P" break="no" n="14"/>lestatione alia ; et videt quoniam voluntas Dei
+<lb ed="#P" n="15"/>aeterna est ; et ita sentire bonum est. Et quoniam
+<lb ed="#P" n="16"/>hoc probat opus ejus quod non mutatur ; et ordo 
+<lb ed="#P" n="17"/>universitatis idem perseverans. Et adjicit ipsa
+<lb ed="#P" n="18"/>rationem, quoniam nihil novum Deo est ut illud
+<lb ed="#P" n="19"/>lunc vel nunc amare incipiat quod prius non 
+no<lb ed="#P" break="no" n="20"/>verit; aut oblivisci sicut homo dilectionis 
+anti<lb ed="#P" break="no" n="21"/>qua, ut in memoriam non veniat quod prius 
+co<lb ed="#P" break="no" n="22"/>gnitum fuerat ; auterrare bonum existimans quod
+<lb ed="#P" n="23"/>malum est, ut diligat illud quod non oportet ; et
+<lb ed="#P" n="24"/>postea, quasi poenitens et mutans cor et affectum
+<lb ed="#P" n="25"/>varians cum ceperit agnoscere errorem suum.
+<lb ed="#P" n="26"/>Quia haec digna Deo non sunt, nec probat ratio
+<lb ed="#P" n="27"/>ut ita sentiamus de illo qui sapiens est et bonus
+<lb ed="#P" n="28"/>€t perfectus; et non invenitur mutabilitas in
+<lb ed="#P" n="29"/>*0 ulla, cum omnia genera mutabilitatis fuerint
+<lb ed="#P" n="30"/>in consideratione adducta ; sive quae in 
+corpori<lb ed="#P" break="no" n="31"/>bus inveniuntur, sive quae spirituum naturam 
+<lb ed="#P" n="32"/>contingunt.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10047-Dd1e886">
+               <head xml:id="hsvhsv-g10047-Hd1e888">Capitulum 15</head>
+               <head xml:id="hsvhsv-g10047-Hd1e890" type="question-title"/>
+               <p xml:id="hsvhsv-g10047-d1e892">
+                  <lb ed="#P" n="33"/>Cap. XV. Quibus modis corpora mutantur.
+</p>
+               <p xml:id="hsvhsv-g10047-d1e897">
+                  <lb ed="#P" n="34"/>Omne enim corpus aut loco mutatur, aut forma,
+<lb ed="#P" n="35"/>ut tempore. Et qui forma mutantur : aut 
+aug<lb ed="#P" break="no" n="36"/>mentum suscipiunt, ad diminutionem, aut 
+alte<lb ed="#P" break="no" n="37"/>rationem. Et quaealterationem quidem suscipiunt
+<lb ed="#P" n="38"/>non illis accedere quidquam videtur quod non
+<lb ed="#P" n="39"/>erat, aut quod erat recedere probatur; sed quod
+<lb ed="#P" n="40"/>erat tantum alteratur, et aliter habetur. Et non
+<lb ed="#P" n="41"/>fit sine loco hoc quoniam partes locum 
+transmu<lb ed="#P" break="no" n="42"/>tent in eodem consistente toto ; et non fit tamen
+<lb ed="#P" n="43"/>nisi secundum locnm ; nec tamen dicitur 
+secun<lb ed="#P" break="no" n="44"/>dum locum propter totum quod locum mutat, sed
+<lb ed="#P" n="45"/>apparet tantum forma alia in toto propter parfes
+<lb ed="#P" n="46"/>que locum mutaverunt. Et ideo haec mutatio 
+se<lb ed="#P" break="no" n="47"/>tandum formam dicitur; quoniam hmc in toto
+<lb ed="#P" n="48"/>manifeste videtur. Et non dicitur secundum locum
+<lb ed="#P" n="49"/>(cam tamen in partibus secundum locum sit) 
+quo<lb ed="#P" break="no" n="50"/>niam haec manifeste non videtur. Et non est
+<lb ed="#P" n="51"/>forma aliquid omnino nisi dispositio partium in
+<lb ed="#P" n="52"/>ioto;etcum haec mutatur (quia partes locum
+<lb ed="#P" n="53"/>mutant) mutatur forma in toto, quia dispositio
+<lb ed="#P" n="54"/>partium. mutatur quae est forma totius. Et ita
+<lb ed="#P" n="55"/>mutatio forme in toto fleri non potest sine 
+mu<lb ed="#P" break="no" n="56"/>tatione loci in partibus. Sed non dicitur mutatio
+<lb ed="#P" n="57"/>loci nisi cum totum locum mutot consistentibus
+<lb ed="#P" n="58"/>partibus in toto. Sic mutatio temporis sequitur
+<lb ed="#P" n="59"/>mutationem loci et forme; et non est unquam.
+<lb ed="#P" n="60"/>sine ipsis in corpore. Quoniam secundum has 
+80<lb ed="#P" break="no" n="61"/>lum ordo inest ; et successio qui tempus vocatur.
+<lb ed="#P" n="62"/>Item considerandum est quoniam ex his tribus
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>mutationibus duae extrinsecus fiunt ; quoniam
+<lb ed="#P" n="64"/>non mutant esse rei, sed circa rem aliquid ; hoc
+<lb ed="#P" n="65"/>est mutatio loci et temporis. Iterum prima 
+muta<lb ed="#P" break="no" n="66"/>tio secundam et. tertiam infert, quoniam causa
+<lb ed="#P" n="67"/>illarum est. Secunda autem tertiam, quoniam
+<lb ed="#P" n="68"/>causa illius est. Tertia vero tantum infertur et
+<lb ed="#P" n="69"/>non infert, quoniam effectus solum est. Sola 
+au<lb ed="#P" break="no" n="70"/>tem mutatio formae intrinseca vocatur; quoniam
+<lb ed="#P" n="71"/>non circa rem, sed in ipsa re mutat aliquid: ét
+<lb ed="#P" n="72"/>ipsa tamen non fit sine mutatione loci et temporis.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10047-Dd1e987">
+               <head xml:id="hsvhsv-g10047-Hd1e989">Capitulum 16</head>
+               <head xml:id="hsvhsv-g10047-Hd1e991" type="question-title"/>
+               <p xml:id="hsvhsv-g10047-d1e993">
+                  <lb ed="#P" n="73"/>Cap. XVI. Quibus modis spiritus mutantur.
+</p>
+               <p xml:id="hsvhsv-g10047-d1e998">
+                  <lb ed="#P" n="74"/>Post has mutationes corporum (quibus 
+subja<lb ed="#P" break="no" n="75"/>cent quae corporaliter mutantur omnia) 
+transi<lb ed="#P" break="no" n="76"/>mus ad spiritualem creaturam, mutabilitatem
+<lb ed="#P" n="77"/>ipsius considerantes ; si quarum mutationum illi
+<lb ed="#P" n="78"/>conveniat, et si qua alia mutatio quae extra 
+cor<lb ed="#P" break="no" n="79"/>porum naturam sit, in illam cadat. Et videmus
+<lb ed="#P" n="80"/>quod spiritus omnino nec augmento partium
+<lb ed="#P" n="81"/>crescere potest quoniam corpus non est, nec 
+de<lb ed="#P" break="no" n="82"/>crescere diminutione, quoniam simplex natura
+<lb ed="#P" n="83"/>est ; et tamen affectu et cognitione mutatur 
+spi<lb ed="#P" break="no" n="84"/>ritus. Et transit de hoc in illud; et variatur et
+<lb ed="#P" n="85"/>vicissitudinem suscipit gaudii, doloris et 
+poenitu<lb ed="#P" break="no" n="86"/>dinis et voluntatis; et crescit scientia et oblivio
+<lb ed="#P" n="87"/>in eum cadit ; et variat cogitationes et 
+succeden<lb ed="#P" break="no" n="88"/>ter intelligit; et est quasi forms mutatio ista in
+<lb ed="#P" n="89"/>eo mutatio scientizet affectus. Et sequitur istam
+<lb ed="#P" n="90"/>temporalis mutatio; et subjacet tempori propter
+<lb ed="#P" n="91"/>ista quae variantur in eo. Nec ambiguum hoc
+<lb ed="#P" n="92"/>ulli est de spiritu creato, quoniam tempore 
+va<lb ed="#P" break="no" n="93"/>riatur secundum haec quae eadem non permanet
+<lb ed="#P" n="94"/>in ipso. De mutatione vero loci magna inter 
+con<lb ed="#P" break="no" n="95"/>quirentes ambiguitas generatur ; quoniam sunt
+<lb ed="#P" n="96"/>qui dicunt nullum spiritum mutari loco posse:
+<lb ed="#P" n="97"/>quoniam locus proprie corporis sedes sit et 
+capa<lb ed="#P" break="no" n="98"/>citas corporis quae determinatur secundum 
+cor<lb ed="#P" break="no" n="99"/>pus ; aliquando quod in illa est, aliquandoin quo
+<lb ed="#P" n="100"/>est ipsa. Et non est corpus locus ; quoniam locus
+<lb ed="#P" n="101"/>non est aliquid, nec ponit aliquid locus; sed quasi
+<lb ed="#P" n="102"/>inane et vacuum ubi corpus est vel esse potest,
+<lb ed="#P" n="103"/>et non est corpus ipse. Nec tamen vocatur locus
+<lb ed="#P" n="104"/>nisi determinatus per corpus; vel quod in ipso
+<lb ed="#P" n="105"/>est secundum finem dimensionis ubi desinit 
+cor<lb ed="#P" break="no" n="106"/>pus et ultra non est ; sive secundum corpus quod
+<lb ed="#P" n="107"/>locum continet, sive secundum ipsius corporis cire
+<lb ed="#P" n="108"/>cumscriptionem ; quoniam intra ipsam corpus
+<lb ed="#P" n="109"/>non est. Ita nihil posse esse in loco nisi quod 
+di<lb ed="#P" break="no" n="110"/>mensionem habet corporalem et 
+circumscriptio<lb ed="#P" break="no" n="111"/>nem; quoniam locus secundum dimensionem
+<lb ed="#P" n="112"/>corporis constat et circumscriptionem ; et non
+<lb ed="#P" n="113"/>posse ullo modo hoc spiritui convenire qui 
+corpo<lb ed="#P" break="no" n="114"/>ralis quantitatis expers est. Propterea corpori
+<lb ed="#P" n="115"/>80li in loco esse et loco mutari et tempore. 
+Spiri<lb ed="#P" break="no" n="116"/>tui autem creato in loco non esse ; quoniam 
+cor<lb ed="#P" break="no" n="117"/>pus non est, nec loco mutari sed tempore. 
+Spiri<lb ed="#P" break="no" n="118"/>tum autem creatorem nec in loco esse nec loco
+<lb ed="#P" n="119"/>mutari, quoniam corpus non est, nec tempore
+<lb ed="#P" n="120"/>mutari, quoniam invariabilis omnino est. 
+Prop<lb ed="#P" break="no" n="121"/>terea soli corpori recte assignari; et hoc aliquid
+<lb ed="#P" n="122"/>esse quoniam definitum est. et hic alicubi esse
+<lb ed="#P" n="123"/>quoniam circumscriptum est ; et nunc aliquanda
+<lb ed="#P" n="124"/>esse quoniam variabile est. Spiritui vero creato
+<!-- 030.png.txt -->
+<pb ed="#P" n="112"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>convenire ; et hoc aliquid esse quoniam definitus 
+<lb ed="#P" n="2"/>est, etnuncaliquando essequoniam variabilis est ;
+<lb ed="#P" n="3"/>sed non hic alicubi esse quoniam circumscriptus
+<lb ed="#P" n="4"/>non est, qui dimensionis capax non est. 
+Creato<lb ed="#P" break="no" n="5"/>rem vero spiritum : nec hoc aliquid esse quod 
+de<lb ed="#P" break="no" n="6"/>finitus non est, nec hic alicubi esse quod 
+circum<lb ed="#P" break="no" n="7"/>Scriptus non est, nec nunc aliquando esse 
+quo<lb ed="#P" break="no" n="8"/>niam invariabilis est ; presentem tamen veraciter
+<lb ed="#P" n="9"/>etessentialiter omni quod hoc aliquid est, et omni
+<lb ed="#P" n="10"/>quod hic alicubi est, et omni quod nune aliquan.
+<lb ed="#P" n="11"/>do est ; quoniam in omnibus est, et ubique est
+<lb ed="#P" n="12"/>et semper est. Semper sine tempore, ubique sine
+<lb ed="#P" n="13"/>loco, in omnibus sine termino et definitione. Et
+<lb ed="#P" n="14"/>nos quidem horum considerationem sublimem
+<lb ed="#P" n="15"/>nequaquam falsitatis arguimus ; verba tamen 
+su<lb ed="#P" break="no" n="16"/>pra capacitatem et possibilitatem minorum, 
+etsim<lb ed="#P" break="no" n="17"/>plicium intelligentiae fortia nimis judicamus.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10047-Dd1e1155">
+               <head xml:id="hsvhsv-g10047-Hd1e1157">Capitulum 17</head>
+               <head xml:id="hsvhsv-g10047-Hd1e1159" type="question-title"/>
+               <p xml:id="hsvhsv-g10047-d1e1161">
+                  <lb ed="#P" n="18"/>Cap. XVII. Quod Deus essentialiter est, et vere
+<lb ed="#P" n="19"/>est ; et in. omni creatura sive natura, sine
+<lb ed="#P" n="20"/>sui definitione; et in omni loco, sine 
+cir<lb ed="#P" break="no" n="21"/>cumscriptione ; et in omni tempore, sine 
+vi<lb ed="#P" break="no" n="22"/>cissitudine vel mutatione.
+</p>
+               <p xml:id="hsvhsv-g10047-d1e1174">
+                  <lb ed="#P" n="23"/>Censemus autem et omnino ita oportere 
+appro<lb ed="#P" break="no" n="24"/>bamus multo sanius et commodius veraciter 
+af<lb ed="#P" break="no" n="25"/>firmandum quod Deus substantialiter sive 
+essen<lb ed="#P" break="no" n="26"/>tialiter et proprie et vere : et in omni re sive 
+na<lb ed="#P" break="no" n="27"/>tura, sive essentia est sine sui definitione ; et in
+<lb ed="#P" n="28"/>omni loco sine  circumscriptione ; et in
+<lb ed="#P" n="29"/>omni tempore sine mutabilitate. Nam id quod
+<lb ed="#P" n="30"/>quidam insipientes, imo solam carnem sapientes
+<lb ed="#P" n="31"/>et quae carnis sunt solum considerantes 
+existi<lb ed="#P" break="no" n="32"/>mant quasi corporalium sordium et pollutionum
+<lb ed="#P" n="33"/>inquinationes Deum contingere possint si rebus
+<lb ed="#P" n="34"/>omnibus essentialiter vel substantialiter inesse
+<lb ed="#P" n="35"/>dicatur; tam frivolum est ut [nec responsione sit
+<lb ed="#P" n="36"/>dignum cum et ipse Spiritus creatus corporeis
+<lb ed="#P" n="37"/>sordibus inquinari non possit. Si enim spiritus
+<lb ed="#P" n="38"/>Sordes corpore contingunt, dicant ipsi quomodo
+<lb ed="#P" n="39"/>anima humana in carne posita immaculata esse
+<lb ed="#P" n="40"/>possit, cum carnis humanae sordibus nulla 
+inqui<lb ed="#P" break="no" n="41"/>natio vel pollutio major inveniri possit? Dicant
+<lb ed="#P" n="42"/>decarne leprosi (cujus etiam contactum homo
+<lb ed="#P" n="43"/>sine horrore sustinere non potest) quomodo 
+ani<lb ed="#P" break="no" n="44"/>mam sanctam et justam non inquinet, quae in
+<lb ed="#P" n="45"/>tantum in ea sine pollutione vivit, ut ex ea etiam
+<lb ed="#P" n="46"/>a pollutione emundetur ? Postremo respondeant
+<lb ed="#P" n="47"/>utrum potius concedendum de Deo existimant,
+<lb ed="#P" n="48"/>quod nusquam sit Deus, an quodubiquesit. Quod
+<lb ed="#P" n="49"/>8i ab urdum est omnino confiteri quod Deus 
+nus<lb ed="#P" break="no" n="50"/>quam est, cogantur necesse est, ipsi suo judicio
+<lb ed="#P" n="51"/>id quod ad dictum etiam commodius et pulchrius
+<lb ed="#P" n="52"/>suscipitur, confiteri quod alicubi est. Qui enim
+<lb ed="#P" n="53"/>vocibus servire elegerunt potius quam veritati, et
+<lb ed="#P" n="54"/>id solum respuendum putant quod aures 
+vulga<lb ed="#P" break="no" n="55"/>ritatis obhorrent, justum est ut in hoc quoque a
+<lb ed="#P" n="56"/>sententia sua non declinent. Dicant ergo si hoc
+<lb ed="#P" n="57"/>auribus efferrre priesumant quod Deus nusquam
+<lb ed="#P" n="58"/>est; et non statim ex eo consequi arbitrentur,
+<lb ed="#P" n="59"/>quoniam quod nusquam est ipsum omnino nihil
+<lb ed="#P" n="60"/>est. Si ergo convenienter dici non potest quod
+<lb ed="#P" n="61"/>Deus nusquam est, quem esse et verius omnibus
+<lb ed="#P" n="62"/>quie sunt esse necesse est credi, dicant ubi est. Si
+<cb ed="#P" n="b"/>
+                  <!-- right side of column is corrupted -->
+                  <lb ed="#P" n="63"/>enim alicubi est, et ubique non est, est ubi
+<lb ed="#P" n="64"/>et est ubi non est ; et jam localisfit Deus ;
+<lb ed="#P" n="65"/>mino et fine concluditur quod omnino impc
+<lb ed="#P" n="66"/>est. Fatendum est itaque et sine dubitatio
+<lb ed="#P" n="67"/>fitendum quod divina natura quae pro im
+<lb ed="#P" n="68"/>tate sui nusquam deesse potest in omni
+<lb ed="#P" n="69"/>raciter et essentialiter est ; nec tamen loc«
+<lb ed="#P" n="70"/>prehenditur ullo, quoniam omnino incircur
+<lb ed="#P" n="71"/>tibilis eat. Est ergo ubi est totum quae cc
+<lb ed="#P" n="72"/>totum et penetrat totum ; nec sine ea esse
+<lb ed="#P" n="73"/>aliquid ex omnibus quae facia sunt ab es
+<lb ed="#P" n="74"/>nec pro sui simplicitate dividi, nec pro st
+<lb ed="#P" n="75"/>tate maculari, nec pro sui immensitate ull
+<lb ed="#P" n="76"/>comprehendi potest.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10047-Dd1e1299">
+               <head xml:id="hsvhsv-g10047-Hd1e1301">Capitulum 18</head>
+               <head xml:id="hsvhsv-g10047-Hd1e1303" type="question-title"/>
+               <p xml:id="hsvhsv-g10047-d1e1305">
+                  <lb ed="#P" n="77"/>Cap. XVIII. Quomodo spiritus creati 
+<lb ed="#P" n="78"/>sint ; et quomodo corpora,
+</p>
+               <p xml:id="hsvhsv-g10047-d1e1312">
+                  <lb ed="#P" n="79"/>Sane de spiritu creato hoc commodius d
+<lb ed="#P" n="80"/>ad intelligentiam hoc accomodatius esse fa
+<lb ed="#P" n="81"/>ut non solum in loco esse, sed localem es
+<lb ed="#P" n="82"/>nuntiemus sine dubitatione. In loco quider
+<lb ed="#P" n="83"/>niam hicalicubi presens cernitur; locale
+<lb ed="#P" n="84"/>quoniam cum sit alicubi non ubique inv
+<lb ed="#P" n="85"/>Omne enim quod definitum est, secundum t
+<lb ed="#P" n="86"/>locale est; quoniam in eo ipso quod finem
+<lb ed="#P" n="87"/>minum habet locum habet, et determinat
+<lb ed="#P" n="88"/>Bicut determinatum est in loco. Sed cor[
+<lb ed="#P" n="89"/>mensionem habens loco circumscribitur; qu
+<lb ed="#P" n="90"/>ei secundum locum principium medium «
+<lb ed="#P" n="91"/>assignantur. Spiritus vero quoniam dimen:
+<lb ed="#P" n="92"/>non capit (sed definitione sola terminatu
+<lb ed="#P" n="93"/>cumscriptionem quidem non recipit loc;
+<lb ed="#P" n="94"/>Ten loco quodammodo concluditur, quonia
+<lb ed="#P" n="95"/>hic alicubi praesens sit totus, alibi non inv
+<lb ed="#P" n="96"/>Itaque corpus locale est, quoniam loco oii
+<lb ed="#P" n="97"/>cribitur ; spiritus autem quoniam in loco pe
+<lb ed="#P" n="98"/>sentiam nature et operationis concluditur
+<lb ed="#P" n="99"/>lis et ipse jure nominantur. Spiritus autem!
+<lb ed="#P" n="100"/>tus, quoniam omni loco praesens est, neo
+<lb ed="#P" n="101"/>ullo in loco concludi aut circumscribi pote
+<lb ed="#P" n="102"/>raciter in omni loco esse dicitur; nec tame
+<lb ed="#P" n="103"/>lis aliquando ratione ulla appellatur. Non
+<lb ed="#P" n="104"/>tamen quosdam ab omni spiritu locum un
+<lb ed="#P" n="105"/>liter removere voluisse; quoniam secundi
+<lb ed="#P" n="106"/>mensionem solum et circumscriptionem «x
+<lb ed="#P" n="107"/>lem locum constare probaverunt. Sed hori
+<lb ed="#P" n="108"/>D supra diximus, consideratio nimis a cor
+<lb ed="#P" n="109"/>existimatione et possibilitate recessit. Ma,
+<lb ed="#P" n="110"/>tem ea ponenda in usum loquendi quae 8e :
+<lb ed="#P" n="111"/>accomodant ; et nihil a latere ingerant alie:
+<lb ed="#P" n="112"/>veritate.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10047-Dd1e1389">
+               <head xml:id="hsvhsv-g10047-Hd1e1391">Capitulum 19</head>
+               <head xml:id="hsvhsv-g10047-Hd1e1393" type="question-title"/>
+               <p xml:id="hsvhsv-g10047-d1e1395">
+                  <lb ed="#P" n="113"/>Cap. XIX. Ratio qualiter Deus non .
+<lb ed="#P" n="114"/>unus sea trinus sit.
+</p>
+               <p xml:id="hsvhsv-g10047-d1e1402">
+                  <lb ed="#P" n="115"/>Nunc diximus quomodo ratio vera proba
+<lb ed="#P" n="116"/>Deus unus est, et quae ad unitatem deitati
+<lb ed="#P" n="117"/>tant vera esse considerat. Deinde etiam ar
+<lb ed="#P" n="118"/>commendat quod non solum unus, sed et
+<lb ed="#P" n="119"/>est Deus. Et habet hujus quoque investigt
+<lb ed="#P" n="120"/>et considerationis bone a Deo exemplaria
+<lb ed="#P" n="121"/>Deus enim quiin se videri non potuit, i
+<lb ed="#P" n="122"/>opere manifestatus est ; et vidit eum ratio 
+<lb ed="#P" n="123"/>na non in se ; quia invisibilis fuit ; sed 1n :
+<!--NOTE: right side of text in above column is cut off -->
+<!-- 031.png.txt -->
+<pb ed="#P" n="113"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>tudine sua quoniam ad hoc facta est ut videatur 
+<lb ed="#P" n="2"/>in ea Deus.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10047-Dd1e1438">
+               <head xml:id="hsvhsv-g10047-Hd1e1440">Capitulum 20</head>
+               <head xml:id="hsvhsv-g10047-Hd1e1442" type="question-title"/>
+               <p xml:id="hsvhsv-g10047-d1e1444">
+                  <lb ed="#P" n="3"/>Cap. XX. De verbo extrinseco et intrinseco.
+</p>
+               <p xml:id="hsvhsv-g10047-d1e1449">
+                  <lb ed="#P" n="4"/>Nam sicut sapientia hominis non videtur nisi
+<lb ed="#P" n="5"/>sb ipso homine donec exeat et manifestetur per
+<lb ed="#P" n="6"/>verbum, ita sapientia Dei invisibilis fuit et non
+<lb ed="#P" n="7"/>potuit cognosci nisi ab ipso solo cujus erat, donec
+<lb ed="#P" n="8"/>manifestata est per opus suum. Et erat ipsa 
+sa<lb ed="#P" break="no" n="9"/>pientia. verbum. Sed quasi verbum intrinsecumet
+<lb ed="#P" n="10"/>absconditum quod omnino sciri non posset nisi per
+<lb ed="#P" n="11"/>verbum extrinsecum manifestaretur ; 
+quemadmo<lb ed="#P" break="no" n="12"/>dum cogitatio hominis quasi intrinsecum verbum
+<lb ed="#P" n="13"/>illius est quod latet et absconditum est donec 
+re<lb ed="#P" break="no" n="14"/>veetur per prolatianem oris; et est ipsa prolatio
+<lb ed="#P" n="15"/>weis verbum similiter ut verbum est cogitatio
+<lb ed="#P" n="16"/>cordis. Sed verbum quod manifestum est prodit 
+<lb ed="#P" n="17"/>et revelat verbum quod occultum est. Sic et in
+<lb ed="#P" n="18"/>Deo verbum intrinsecum et occultum et 
+invisibi<lb ed="#P" break="no" n="19"/>le verbum fuit cordis ejus ; et sapientia erat hoc
+<lb ed="#P" n="20"/>verbum et invisibile, donec manifestatum est per
+<lb ed="#P" n="21"/>verbum extrinsecum quod visibile factum est,
+<lb ed="#P" n="22"/>quod erat opus ejus. Sicut per verbum oris 
+ma<lb ed="#P" break="no" n="23"/>tifestatum est verbum cordis ; sic loquitur omnis
+<lb ed="#P" n="24"/>natura ad auctorem suum, et indicat quod factum
+<lb ed="#P" n="25"/>est opificem intelligendi sensum habentibus.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10047-Dd1e1501">
+               <head xml:id="hsvhsv-g10047-Hd1e1503">Capitulum 21</head>
+               <head xml:id="hsvhsv-g10047-Hd1e1505" type="question-title"/>
+               <p xml:id="hsvhsv-g10047-d1e1507">
+                  <lb ed="#P" n="26"/>Cap. XXI. Quod imago Dei in rationali 
+crea<lb ed="#P" break="no" n="27"/>tura expressior est, et vestigium Trinitatis
+<lb ed="#P" n="28"/>invenitur in ipsa.
+</p>
+               <p xml:id="hsvhsv-g10047-d1e1516">
+                  <lb ed="#P" n="29"/>Et sunt in his simulaera quaedam quasi de
+<lb ed="#P" n="30"/>longe significantia et habentia similitudinem pro
+<lb ed="#P" n="31"/>parte. Quaedam vero expressa imagine, et perfecta.
+<lb ed="#P" n="32"/>emulatione consignata, claram demonstrationem
+<lb ed="#P" n="33"/>eficiunt. In his ergo citius quod invisibile Dei
+<lb ed="#P" n="34"/>est agnoscitur in quibus evidentius manifesta 
+de<lb ed="#P" break="no" n="35"/>flaratione demonstratur. Ea namque perfectius
+<lb ed="#P" n="36"/>auctorem suum manifeslant ; quae illius 
+similitu<lb ed="#P" break="no" n="37"/>dini vicinius appropinquant. Hoc autem est ipsa
+<lb ed="#P" n="38"/>rationalis creatura, quae excellenteret proprie ad.
+<lb ed="#P" n="39"/>illius similitudinem facta est; quae tunc citius
+<lb ed="#P" n="40"/>creatorem suum (quem non videt) agnoscit, cum
+<lb ed="#P" n="41"/>*eipsam ad illius imaginem factam intelligit. ln
+<lb ed="#P" n="42"/>hoc ergo primum Trinitatis vestigium inventum
+<lb ed="#P" n="43"/>est cum agnoscere coepit ipsa quod erat in ae, ei
+<lb ed="#P" n="44"/>ex eo consideravit quod erat supra se. Vidit enim
+<lb ed="#P" n="45"/>quod ex ipsa nascitur sapientia quae est in ipsa ;
+<lb ed="#P" n="46"/>etdiligit ipsa sapientiam suam, et proceditamorex
+<lb ed="#P" n="47"/>ipa;etsapientiasuaquo amateam genitam de se, et
+<lb ed="#P" n="48"/>inse manentem non dividit a se. Et apparent
+<lb ed="#P" n="49"/>tria quaedam in uno: mens, sapientia et amor : et.
+<lb ed="#P" n="50"/>tsi mens et sapientia de mente; et de mente et
+<lb ed="#P" n="51"/>sapientia amor; et surgit Trinitas quedam, et
+<lb ed="#P" n="52"/>unitas non recedit, et sunt simul Trinitas et 
+uni<lb ed="#P" break="no" n="53"/>tassecundum potestatem et imaginis virtutem.
+<lb ed="#P" n="54"/>Et conscendit mens ab istis per haec illuminata, et
+<lb ed="#P" n="55"/>considerat crentorem suum sapientem esse et 
+sa<lb ed="#P" break="no" n="56"/>pientiam habere, et ex ipso esse sapientiam suam ;
+<lb ed="#P" n="57"/>Dec fuisse unquam sine sapientia, quoniam semper
+<lb ed="#P" n="58"/>sspiens fuit. Et quod semper sapientiam suam
+<lb ed="#P" n="59"/>ipse dilexit et semper amorem habuit ad 
+sapien<lb ed="#P" break="no" n="60"/>tim suam, et erat coseternus amor sterno et 
+cote<lb ed="#P" break="no" n="61"/>ternae sapientiae illius.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10047-Dd1e1591">
+               <head xml:id="hsvhsv-g10047-Hd1e1593">Capitulum 22</head>
+               <head xml:id="hsvhsv-g10047-Hd1e1595" type="question-title"/>
+               <p xml:id="hsvhsv-g10047-d1e1597">
+                  <cb ed="#P" n="b"/>
+                  <lb ed="#P" n="62"/>Cap. XXII. Quomodo tres personc sint 
+essen<lb ed="#P" break="no" n="63"/>tia sive substantia una.
+</p>
+               <p xml:id="hsvhsv-g10047-d1e1606">
+                  <lb ed="#P" n="64"/>Rursum considerat quod non potest in Deo esse
+<lb ed="#P" n="65"/>aliquid diversum ab ipso, et quod unum est 
+to<lb ed="#P" break="no" n="66"/>tum quod est; et propterea vero est Trinitas, et
+<lb ed="#P" n="67"/>unitas manet. Quia enim ibi est qui a nullo est,
+<lb ed="#P" n="68"/>et est ibi qui ab illo est, et pariter cum utroque
+<lb ed="#P" n="69"/>qui ab utroque est, Trinitas est. Neque enim qui
+<lb ed="#P" n="70"/>a nullo est, esse potest ille qui ab alio est ; et qui
+<lb ed="#P" n="71"/>ab utroque est, vel ille qui a nullo est, vel qui ab
+<lb ed="#P" n="72"/>illo tantum est, esse potest. Itaque Trinitas est
+<lb ed="#P" n="73"/>vera, et unitas manet perfecta, quoniam in Deo
+<lb ed="#P" n="74"/>nihilesse potest quod Deus non est. Natura 
+si<lb ed="#P" break="no" n="75"/>quidem indivisa et unitas vera scissionem 
+prohi<lb ed="#P" break="no" n="76"/>bet ; discretio vero et proprietas Trinitatem docet.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10047-Dd1e1638">
+               <head xml:id="hsvhsv-g10047-Hd1e1640">Capitulum 23</head>
+               <head xml:id="hsvhsv-g10047-Hd1e1642" type="question-title"/>
+               <p xml:id="hsvhsv-g10047-d1e1644">
+                  <lb ed="#P" n="77"/>Cap. XXIII. De discretione nominum in. Trinitate.
+</p>
+               <p xml:id="hsvhsv-g10047-d1e1649">
+                  <lb ed="#P" n="78"/>Posuitque nomina fides quibus significaretur
+<lb ed="#P" n="79"/>quod creditur; et dictus est Pater in Trinitate,
+<lb ed="#P" n="80"/>quia ab ipso Filius erat, qui de ipsius substantia
+<lb ed="#P" n="81"/>erat. Qui enim gignit et de sua substantia gignit ;
+<lb ed="#P" n="82"/>id quod ipse est, gignit. Et propterea a quo erat
+<lb ed="#P" n="83"/>quicum ipso erat idem quod ipse erat. Pater 
+dic<lb ed="#P" break="no" n="84"/>tus est ; quia ab ipsoerat Filius. Qui autem ab
+<lb ed="#P" n="85"/>utroque erat, utriusque Filius non erat, ne duo
+<lb ed="#P" n="86"/>essent patres unius Filii ; et Pater qui Filius 
+di<lb ed="#P" break="no" n="87"/>ceretur, et confunderetur Trinitatis discretio ; sed
+<lb ed="#P" n="88"/>Spiritus sanctus Patris et Filii, procedens a 
+Pa<lb ed="#P" break="no" n="89"/>tre et Filio. Et professa est fides catholica Patrem
+<lb ed="#P" n="90"/>et Filium et Spiritum sanctum. Et est. Pater qui
+<lb ed="#P" n="91"/>Filium habet; et Filius qui Patrem : Spiritus
+<lb ed="#P" n="92"/>Sanctus qui a Patre est et Filio. Et est quidem
+<lb ed="#P" n="93"/>Pater Spiritus, quoniam Deus est. Et est Pater
+<lb ed="#P" n="94"/>similiter sanctus, quoniam Deus est. Sed voluit
+<lb ed="#P" n="95"/>fides unam in Trinitate personam distinguere, cum
+<lb ed="#P" n="96"/>diceret Spiritum sanctum. Ipse enim est qui ad
+<lb ed="#P" n="97"/>sanctificationem datur, cum inspiratur 
+sanctifi<lb ed="#P" break="no" n="98"/>candis. Et non tantum venit sine Patre et Filio,
+<lb ed="#P" n="99"/>quoniam Trinitas est indivisa.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10047-Dd1e1700">
+               <head xml:id="hsvhsv-g10047-Hd1e1702">Capitulum 24</head>
+               <head xml:id="hsvhsv-g10047-Hd1e1704" type="question-title"/>
+               <p xml:id="hsvhsv-g10047-d1e1706">
+                  <lb ed="#P" n="100"/>Cap. XXIV. Quomodo Spiritus sanctus a. 
+Pa<lb ed="#P" break="no" n="101"/>tre et Filio mittitur aeterna processione ab
+<lb ed="#P" n="102"/>illis, et temporali adventu ad nos.
+</p>
+               <p xml:id="hsvhsv-g10047-d1e1715">
+                  <lb ed="#P" n="103"/>Sed inspirari a Patre et Filio: hoc est illi 
+ve<lb ed="#P" break="no" n="104"/>nientem esse a Patre et Filio. Quod aeternum illi
+<lb ed="#P" n="105"/>est ne nomen sit perfunctionis qui datur ex 
+tem<lb ed="#P" break="no" n="106"/>pore et accipitur ; quia temporale non est illi esse
+<lb ed="#P" n="107"/>a Patre et Filio, sed aeternum. Pro quo dari 
+dici<lb ed="#P" break="no" n="108"/>tur: cum venit a Patre et Filio ; quia est a Patre
+<lb ed="#P" n="109"/>et Filio quod aeternum est, et non temporale illi.
+<lb ed="#P" n="110"/>Sicut Spiritus sanctus donum Dei est ; quia donum
+<lb ed="#P" n="111"/>est Patris et Filii. Et cum datur ex tempore 
+da<lb ed="#P" break="no" n="112"/>tur et datur a Patre et Filio; et dari a Patre et
+<lb ed="#P" n="113"/>Filio, non aliud illi est quam cum datur esse a
+<lb ed="#P" n="114"/>Patre et Filio ; ex eo quod aeternum illi est a 
+Pa<lb ed="#P" break="no" n="115"/>tre et Filio. Et est in Trinitate Pater, et Filius et
+<lb ed="#P" n="116"/>Spiritus sanctus. Pater a seipso ; Filius, a solo
+<lb ed="#P" n="117"/>Patre ; Spiritus sanctus a Patre et Filio. Et quia
+<lb ed="#P" n="118"/>una natura et una substantia; una trinitas est
+<lb ed="#P" n="119"/>in una natura et una substantia. Et cum mens
+<lb ed="#P" n="120"/>una quae discreta sunt et propriain trinitate 
+con<lb ed="#P" break="no" n="121"/>siderat, tria invenit, et tres confitetur. Cum vero
+<lb ed="#P" n="122"/>quod idem est tribus attendere ccpit unum 
+os<lb ed="#P" break="no" n="123"/>tenditur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10047-Dd1e1764">
+               <head xml:id="hsvhsv-g10047-Hd1e1766">Capitulum 25</head>
+               <head xml:id="hsvhsv-g10047-Hd1e1768" type="question-title"/>
+               <p xml:id="hsvhsv-g10047-d1e1770">
+<!-- 032.png.txt -->
+                  <pb ed="#P" n="114"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>Cap. XXV. Quare tria illa ineffabilia in 
+dei<lb ed="#P" break="no" n="2"/>tati persona tres dicuntur, et tria in huma
+<lb ed="#P" n="3"/>nitate non dicuntur.
+</p>
+               <p xml:id="hsvhsv-g10047-d1e1786">
+                  <lb ed="#P" n="4"/>Et surgit rursus ex adverso alia dubietas, et
+<lb ed="#P" n="5"/>pulsat mentem profundo rerum caligantium ; et
+<lb ed="#P" n="6"/>exit quaestio et interrogat seipsam ratio; quare
+<lb ed="#P" n="7"/>tria illa quo in Deitate reperta sunt. personae 
+di<lb ed="#P" break="no" n="8"/>cantur; cum in trinitate illa quam in. semetipsa
+<lb ed="#P" n="9"/>primum mens reperit tria similiter inventa sint,
+<lb ed="#P" n="10"/>nec tamen tres personas in se mentem 
+rationa<lb ed="#P" break="no" n="11"/>lem continere, aut tribus personis constare 
+ani<lb ed="#P" break="no" n="12"/>mam rationalis consideratio patiatur. Et 
+diligen<lb ed="#P" break="no" n="13"/>ter conquirat ratio quare ita sit, cum nec ita esse
+<lb ed="#P" n="14"/>dubitare liceat, nec quomodo sit facile scire 
+pos<lb ed="#P" break="no" n="15"/>sit. Et tamen videt aliquid ex eo quod totum non
+<lb ed="#P" n="16"/>videt, nec ignorare permittitur quod non sinitur
+<lb ed="#P" n="17"/>apprehendere. Videt eniin quoniam qui in 
+men<lb ed="#P" break="no" n="18"/>te sunt non vere idem sunt quod est ipsa mens.
+<lb ed="#P" n="19"/>Separantur enim a mente haec aliquando ; et cum
+<lb ed="#P" n="20"/>adfuerint recedunt, et redeunt iterum cum 
+abie<lb ed="#P" break="no" n="21"/>rint et variantur circa ipsam, nec vere sunt idem
+<lb ed="#P" n="22"/>cum ipsa, sed quasi affectiones quaedam et formsze
+<lb ed="#P" n="23"/>ipsius, quibus non sit hoc aliquid esse, sed ad
+<lb ed="#P" n="24"/>"esse tantnm ei quod est hoc aliquid. Itaque cum
+<lb ed="#P" n="25"/>sit homo ipse persona, haec autem tantum 
+affec<lb ed="#P" break="no" n="26"/>tiones quaedam adh:zerentes persone et circa 
+ip<lb ed="#P" break="no" n="27"/>sam existentes inveniantur; non est omnino eis
+<lb ed="#P" n="28"/>proprium esse persona, sed persona inesse 
+tan<lb ed="#P" break="no" n="29"/>tum. Cum autem qui in Deo sunt aliud ab ipso
+<lb ed="#P" n="30"/>esse non possunt, quasi nec accidentia aut 
+affec<lb ed="#P" break="no" n="31"/>tiones ex tempore mutabiles sive separabiles 
+na<lb ed="#P" break="no" n="32"/>tura incommutabili essentis, et cui idem sit 
+to<lb ed="#P" break="no" n="33"/>tum esse quod est : Convenire tria in eo 
+veraci<lb ed="#P" break="no" n="34"/>ter praedicantur, et tribus unumesse ; et proprium
+<lb ed="#P" n="35"/>idem esse zeternum et perfectum asseritur. Et 
+di<lb ed="#P" break="no" n="36"/>cuntur tria tres persone, non tres essentiz; quia.
+<lb ed="#P" n="37"/>natura in tribus est perfecta singulis, et tribus in
+<lb ed="#P" n="38"/>divisa. Et ideo dicuntur personz, quia Deus sunt
+<lb ed="#P" n="39"/>et unus Deus tres, quia una deitas in tribus.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10047-Dd1e1868">
+               <head xml:id="hsvhsv-g10047-Hd1e1870">Capitulum 26</head>
+               <head xml:id="hsvhsv-g10047-Hd1e1872" type="question-title"/>
+               <p xml:id="hsvhsv-g10047-d1e1874">
+                  <lb ed="#P" n="40"/>Cap. XXVI. Quare potentia Patri attribuitur, sapientia.
+<lb ed="#P" n="41"/>Filio, bonitas sive benignitas Spiritui sancto.
+</p>
+               <p xml:id="hsvhsv-g10047-d1e1881">
+                  <lb ed="#P" n="42"/>Attribuitur Patri potentia, et Filio sapientia, et
+<lb ed="#P" n="43"/>Spiritui sancto bonitas sive benignitas. Et 
+dis<lb ed="#P" break="no" n="44"/>cernuntur quae communia sunt. In quibus non
+<lb ed="#P" n="45"/>dicitur quidem quod non est ; tamen quod est 
+ta<lb ed="#P" break="no" n="46"/>cetur, ne credatur quod non est. Dicitur enim.
+<lb ed="#P" n="47"/>Pater potens: et est Pater potens; et non solus
+<lb ed="#P" n="48"/>Pater, quia potens est Pater et Filius et Spiritus
+<lb ed="#P" n="49"/>Sanctus; et non tres potentes, sed unus potens.
+<lb ed="#P" n="50"/>Quia potentia una in natura una, et. substantia
+<lb ed="#P" n="51"/>una. Et est Filius sapiens, sed non solus, quia
+<lb ed="#P" n="52"/>sapiens est Pater, et Filius, et Spiritus sanctus ;
+<lb ed="#P" n="53"/>et non tres sapientes, sed unus sapions. Quia 
+sa<lb ed="#P" break="no" n="54"/>pientia una in natura una et substantia una. Et
+<lb ed="#P" n="55"/>dicitur Spiritus sanctus benignus et bonus; et
+<lb ed="#P" n="56"/>est quidem benignus et. bonus Spiritus sanctus ;
+<lb ed="#P" n="57"/>sed non solus Spiritus benignus et bonus est, sed
+<lb ed="#P" n="58"/>bonus est et benignus Pater, et Filius, et Spiritus
+<lb ed="#P" n="59"/>sanctus. Nec tamen tres benigni et tres boni, sed
+<lb ed="#P" n="60"/>unus benignus et unus bonus; quia benignitas
+<lb ed="#P" n="61"/>una, et bonitas una in natura una, et substantia
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="62"/>una. Sed cavit Scriptura conscientiae humane ne
+<lb ed="#P" n="63"/>erraret in Deo suo similia hominibus qui non
+<lb ed="#P" n="64"/>erant in ipso arbitrans, quoniam ab omnibus
+<lb ed="#P" n="65"/>sumpta erant vocabuln quedam, non ad omnem
+<lb ed="#P" n="66"/>similitudinem sed ad significanda quae Dei erant
+<lb ed="#P" n="67"/>supra homines ; et erat aliquid simile ibi ne 
+imi<lb ed="#P" break="no" n="68"/>tatio aliena esset, sed non totum, no idem 
+crede<lb ed="#P" break="no" n="69"/>retur quod in tantum differebat ; et dictus in 
+dei<lb ed="#P" break="no" n="70"/>tate Pater, quoniam ibi erat a quo erat qui de
+<lb ed="#P" n="71"/>sua substantia erat. Sicut qui gignit desua 
+subs<lb ed="#P" break="no" n="72"/>tantia gignit, et non est qui gignit ipse quem 
+gi<lb ed="#P" break="no" n="73"/>gnit, sed alter ab altero. Et non altera natura 
+gi<lb ed="#P" break="no" n="74"/>gnentis et geniti. Et erat in hoc similitudo 
+in<lb ed="#P" break="no" n="75"/>ter divina et humana ; et propterea ex hoc dictus
+<lb ed="#P" n="76"/>est Pater et Filius, quia genuit ifle, et iste genitus
+<lb ed="#P" n="77"/>est. Et non est qui genuit Pater, iste qui genitus
+<lb ed="#P" n="78"/>est Filius; et tamen quia natura una est 
+gignen<lb ed="#P" break="no" n="79"/>tis et geniti; et substantia una non alius est. 
+gi<lb ed="#P" break="no" n="80"/>gnens a genito, quia Deus est; et Deus unus, 
+gi<lb ed="#P" break="no" n="81"/>gnens et genitus, quia deitas una gignentis et 
+ge<lb ed="#P" break="no" n="82"/>niti. Propterea unum inventi sunt in illo quod
+<lb ed="#P" n="83"/>Deus erant ; quia unum erant totum quod erant ;
+<lb ed="#P" n="84"/>sed non unus in uno, quia Pater erat qui a nullo
+<lb ed="#P" n="85"/>erat; et Filius qui a Patre erat ; et Spiritus 
+sanc<lb ed="#P" break="no" n="86"/>tus, qui ab utroque erat, qui Filius non erat; 
+quo<lb ed="#P" break="no" n="87"/>niam ab utroque erat et zqualiter erat, et dictse
+<lb ed="#P" n="88"/>sunt tres personae tria haec ; quia unumquodque
+<lb ed="#P" n="89"/>trium totum hoc erat ; et persona erat ; nec tamen
+<lb ed="#P" n="90"/>una persona, quia unum hoc totum ; sed tres 
+per<lb ed="#P" break="no" n="91"/>sonze, quia tria in hoc uno, et hoc unum totum:
+<lb ed="#P" n="92"/>et haectria tres persong, et hoc unum unus Deus ;
+<lb ed="#P" n="93"/>et hiec tría hoc uncm, et tres personae unus Deus :
+<lb ed="#P" n="94"/>Pater, et Filius, et Spiritus sanctus. Dictus est
+<lb ed="#P" n="95"/>ergo Pater quia de sua substantia Filium genuit,
+<lb ed="#P" n="96"/>et erat in hoc similitudo. Sed ne putaretur prior
+<lb ed="#P" n="97"/>Pater Filio sicut semper in hominibus est; et 
+nun<lb ed="#P" break="no" n="98"/>quam aliter esse potest nisi Pater Filium 
+antece<lb ed="#P" break="no" n="99"/>dat ; propterea potens dictus est Pater non quod
+<lb ed="#P" n="100"/>solus erat, quia potens erat et Filius et Spiritua
+<lb ed="#P" n="101"/>sanctus; sed solus dicendus erat potens, quia de
+<lb ed="#P" n="102"/>ipso solo magis dubitari poterat quasi de priore
+<lb ed="#P" n="103"/>et antiquo et annorum numerositate defecto. Et
+<lb ed="#P" n="104"/>dictus est Filius sapiens, non quod solus erat, sed
+<lb ed="#P" n="105"/>quia de ipsa solo magis dubitari poterat quasi de
+<lb ed="#P" n="106"/>posteriore et aetate adhuc immaturo et sensu 
+im<lb ed="#P" break="no" n="107"/>perfecto. Idcirco dictus est pater potens, ne putetur
+<lb ed="#P" n="108"/>prior Filio; et Filius sapiens, ne credatur Patre
+<lb ed="#P" n="109"/>posterior; et Spiritus sanctus bonussive benignus,
+<lb ed="#P" n="110"/>ne crudelis existimaretur Deus et consternaretur
+<lb ed="#P" n="111"/>ad eum conscientia humana, si Spiritum habere
+<lb ed="#P" n="112"/>diceretur Deus, et non additum fuisset sanctus vel
+<lb ed="#P" n="113"/>benignus. Quoniam spiritus per se rigorem 
+quem<lb ed="#P" break="no" n="114"/>dam significare videtur, et crudelem denotare.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10047-Dd1e2046">
+               <head xml:id="hsvhsv-g10047-Hd1e2048">Capitulum 27</head>
+               <head xml:id="hsvhsv-g10047-Hd1e2050" type="question-title"/>
+               <p xml:id="hsvhsv-g10047-d1e2052">
+                  <lb ed="#P" n="115"/>Cap. XXVII. Alia ratio quare illa quo 
+secun<lb ed="#P" break="no" n="116"/>dum substantiam dicuntur et communia
+<lb ed="#P" n="117"/>sunt : personaliter sunt discreta.
+</p>
+               <p xml:id="hsvhsv-g10047-d1e2061">
+                  <lb ed="#P" n="118"/>Preterea propter simulacrum suum quo est 
+in<lb ed="#P" break="no" n="119"/>venta Trinitas summa et ipsum similiter 
+trinita<lb ed="#P" break="no" n="120"/>tem preweferebat quasi vestigium quoddam et 
+ima<lb ed="#P" break="no" n="121"/>ginemineffabilis Trinitatis. Etin ipso hoc ita erat ;
+<lb ed="#P" n="122"/>quoniam in menterationali quasi potentia qusdam
+<!-- 033.png.txt -->
+<pb ed="#P" n="115"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>et vis quredam erat ex qua esse posset quod 
+non<lb ed="#P" break="no" n="2"/>dum erat. Et ex ea natus est intellectus qui solum
+<lb ed="#P" n="3"/>sapientia ejus erat ; et sine ipso men: ientia non
+<lb ed="#P" n="4"/>erat: et processit novissime amor sive gaudium.
+<lb ed="#P" n="5"/>mentis ad sapientiam suam ; et ipsc solum dileetio
+<lb ed="#P" n="6"/>erat, quia sine ipso in mente et sapientia dilectio
+<lb ed="#P" n="7"/>non erat. Et gositasunt hwenomina ad 
+proprieta<lb ed="#P" break="no" n="8"/>tem, quia unumquodque per se erat ; et distincta.
+<lb ed="#P" n="9"/>sunt tria haec : primum potentia a qua. sapientia.
+<lb ed="#P" n="10"/>erat ; deinde ipsa sapientia, quc de potentia nata
+<lb ed="#P" n="11"/>fuerat; novissime amor qui de potentia simul et
+<lb ed="#P" n="12"/>sapientia processerat. Et distinguebantur hacc,
+<lb ed="#P" n="13"/>quia prorsus h:ec idem non erant qui 
+separaban<lb ed="#P" break="no" n="14"/>tur ad invicem, et non constabant in uno. 
+Prop<lb ed="#P" break="no" n="15"/>terea in mente rationali aliud potentia erat quia
+<lb ed="#P" n="16"/>prior erat sine sapientia et adhue sapientia non
+<lb ed="#P" n="17"/>erat. Et vennit postea sapientia, et eum potentia
+<lb ed="#P" n="18"/>esse coepit, quasi aliud in alio. Et erant jam duo,
+<lb ed="#P" n="19"/>potentia et sapientia : et additum est tertium. Et.
+<lb ed="#P" n="20"/>tria esse coeperunt, potentia, ct sapientia, et amor.
+<lb ed="#P" n="21"/>Et non erat potentia de aliquo, et de ipsa sapientia.
+<lb ed="#P" n="22"/>erat; amor autem de potentia, et sapientia 
+prax<lb ed="#P" break="no" n="23"/>cesserat. Et non erat potentia sapientia, quia 
+po<lb ed="#P" break="no" n="24"/>lentia, ante sapientiam erat et de. ipsa sapientia
+<lb ed="#P" n="25"/>exierat. Neque rursum amor potentia vel 
+sapion<lb ed="#P" break="no" n="26"/>tia dici poterat ; quia processerat tantum ab ipsis,
+<lb ed="#P" n="27"/>et ipsa aliquando sine ipso extiterant. Et erant
+<lb ed="#P" n="28"/>tria haec discreta in anima ; et in his tribus 
+Tri<lb ed="#P" break="no" n="29"/>nitas animae inventa est. Et. ascendit anima ab
+<lb ed="#P" n="30"/>his ad summam Trinitatem, et invenit ibi Patrem
+<lb ed="#P" n="31"/>qui ad nullo erat, sicutinse potentia ; et filium qui
+<lb ed="#P" n="32"/>a Patre erat, sicut in se sapientia; et Spiritum
+<lb ed="#P" n="33"/>sanctum qui a Patre et Filio erat, sicut in se 
+di<lb ed="#P" break="no" n="34"/>lectio a potentia et sapientia processerat. Et ideo
+<lb ed="#P" n="35"/>potentiam Patri tribuit, quia in se similitudo 
+fue<lb ed="#P" break="no" n="36"/>rat illius ; et sapientiam Filio, quoniam hac in se
+<lb ed="#P" n="37"/>imago illiuserat, quae a potentia orta erat ; et 
+di<lb ed="#P" break="no" n="38"/>lectionem Spiritui sancto attribuit, quoniam in
+<lb ed="#P" n="39"/>se a potentia et sapientia processit, sicut Spiritus
+<lb ed="#P" n="40"/>sanctus a Patre et Filio, quae dilectioest Patris et
+<lb ed="#P" n="41"/>Filii. Et sic quidem distinxit veritatem ad 
+imaygi<lb ed="#P" break="no" n="42"/>nem per quam invenerat veritatem, ut quod hic
+<lb ed="#P" n="43"/>proprium inventum est ad significationem, illic
+<lb ed="#P" n="44"/>quasi singulare diceretur ad proprietatem. Et 
+ta<lb ed="#P" break="no" n="45"/>men quia Deo totum quod est, esse unum est; et
+<lb ed="#P" n="46"/>non potest diversum inveniri quod in simplici
+<lb ed="#P" n="47"/>matura idem est, neque unius esse potest quod
+<lb ed="#P" n="48"/>alterius non est, ubi idem est unusest quod alter
+<lb ed="#P" n="49"/>est. Cum enim potentia Patris aliud non sit quam
+<lb ed="#P" n="50"/>essentia ejus, neque sapientia Filii aliud quam
+<lb ed="#P" n="51"/>essentia ejus, neque amor Spiritus sancti aliud
+<lb ed="#P" n="52"/>quam essentia ejus, necesse omnino est ubi una
+<lb ed="#P" n="53"/>est essentia unam esse potentiam, unam 
+sapien<lb ed="#P" break="no" n="54"/>tiam, et unam dilectionem ; et communem esse,
+<lb ed="#P" n="55"/>tt totam esse, et proprie esse, et :qualiter esse.
+<lb ed="#P" n="56"/>Itaque potentia Patris est, ct Filii est, et Spiritus
+<lb ed="#P" n="57"/>sancti est, et proprie est, et «qualiter cst. Et su*
+<lb ed="#P" n="58"/>pientia Filii est, et Patris est , et Spiritus sancti
+<lb ed="#P" n="59"/>est, et proprie est, et aequaliter est ; et amor sivo
+<lb ed="#P" n="60"/>bonitas Spiritus sancti est, et Patris est, et Filii
+<lb ed="#P" n="61"/>est, et proprie est, et aequaliter est. Et quia Deo
+<lb ed="#P" n="62"/>habere idem est quod esse, et omne quod in Deo
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>est, aliud quam Deus esae non polest, Pater 
+po<lb ed="#P" break="no" n="64"/>tentia est ct Filius potentia est, et Spiritus 
+sanc<lb ed="#P" break="no" n="65"/>tus potentia est ; et una potentia quia una 
+essen<lb ed="#P" break="no" n="66"/>tia. Similiter Pater sapientia est, et Filius 
+sa<lb ed="#P" break="no" n="67"/>pientia, et Spiritus sanctus sapientia : et una 
+sa<lb ed="#P" break="no" n="68"/>pientia. quia essentia una. Et Pater est dilectio,
+<lb ed="#P" n="69"/>et Filius dileetio, et Spiritus sanctus dilectio: et
+<lb ed="#P" n="70"/>dilectio una, quia essentia una. Sed Pater 
+po<lb ed="#P" break="no" n="71"/>tentia estet potentia nullius st, quia a nullo est;
+<lb ed="#P" n="72"/>similiter et sapientia est Pater ct nullius 
+sapien<lb ed="#P" break="no" n="73"/>tia est, quia a nullo est. Dilectio est Pater et 
+nul<lb ed="#P" break="no" n="74"/>lius est dilectio, quia a nullo est. Filius autem .
+<lb ed="#P" n="75"/>potentia est et Patris potentia est, quia a. Patro
+<lb ed="#P" n="76"/>est. Sapientia Filius est, et sapientia Patris est,
+<lb ed="#P" n="77"/>quia a Patre ost. Spiritus sanctus est dilectio 
+Pa<lb ed="#P" break="no" n="78"/>tris et Filii, quia a Patre eL Filio est. Ubi 
+diligen<lb ed="#P" break="no" n="79"/>ter eavendum ne communione confundatur quod
+<lb ed="#P" n="80"/>distinguendum est, neque singularitate 
+listingua<lb ed="#P" break="no" n="81"/>tur, quod proprium est: hoc est cum personas
+<lb ed="#P" n="82"/>in Trinitate distinguere volumus, non 
+attribua<lb ed="#P" break="no" n="83"/>mus uni quod alteri commune est, neque cum
+<lb ed="#P" n="84"/>substantiae unitatem demonstrare assignemus 
+al<lb ed="#P" break="no" n="85"/>teri, quod uni proprium est.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10047-Dd1e2268">
+               <head xml:id="hsvhsv-g10047-Hd1e2270">Capitulum 28</head>
+               <head xml:id="hsvhsv-g10047-Hd1e2272" type="question-title"/>
+               <p xml:id="hsvhsv-g10047-d1e2274">
+                  <lb ed="#P" n="86"/>Cap. XXVIII. Quod vest igium Trinitatis non solum in.
+<lb ed="#P" n="87"/>rationali creatura sed, etiam in corporea reperitur,
+</p>
+               <p xml:id="hsvhsv-g10047-d1e2281">
+                  <lb ed="#P" n="88"/>Ecce demonstravimus vestigium aliquod 
+Tri<lb ed="#P" break="no" n="89"/>nitatis summae quantum valet rhtio humana de
+<lb ed="#P" n="90"/>modico quod suum est, et datum est illi et est in
+<lb ed="#P" n="91"/>illa, et modicum est ad perfectum totum. Tria
+<lb ed="#P" n="92"/>enim invenit in se et ex his Trinitatem 
+depre<lb ed="#P" break="no" n="93"/>hendit quae erat suprase. Et contestata est illi
+<lb ed="#P" n="94"/>natura foris, sicut de unitate deitatis. Et 
+appa<lb ed="#P" break="no" n="95"/>ruerunt tria foris signa Trinitatis, sed non imago
+<lb ed="#P" n="96"/>ut illa quae intus erant : et hiec ipsa imperfecta
+<lb ed="#P" n="97"/>similitudine erant. Erat enim potentia intus, et
+<lb ed="#P" n="98"/>sapientia, et amor. Et tria h»c imago erant 
+po<lb ed="#P" break="no" n="99"/>tentim Creatoris ; et sapientize, et amoris, quia
+<lb ed="#P" n="100"/>hie erant et ibi erant. Sed hic in imagine erant,
+<lb ed="#P" n="101"/>ibi in veritate ; tamen utrobique erant, et idem
+<lb ed="#P" n="102"/>erant, quia hoc hic erat quod ibi erat. Sed quod
+<lb ed="#P" n="103"/>hiceratimago erat, quod ibi erat veritas erat.
+<lb ed="#P" n="104"/>Foris autem potentia non erat, sed signum 
+tan<lb ed="#P" break="no" n="105"/>ium ; neque sapientia sed signum tantum ; 
+ne<lb ed="#P" break="no" n="106"/>que amor vel bonitas, sed signum tantum ; nec
+<lb ed="#P" n="107"/>et ipsa signa, neque potentia erant neque 
+sa<lb ed="#P" break="no" n="108"/>pientia neque amor sicut intus, sed signa tantum
+<lb ed="#P" n="109"/>potentiz, sapienti: et amoris. Potentic. enim 
+si<lb ed="#P" break="no" n="110"/>gnum fuit rerum immensitas ; sapientie 
+pul<lb ed="#P" break="no" n="111"/>chritudo ; bonitatis utilitas. Et non erant'ipsa
+<lb ed="#P" n="112"/>Signa potentin vel sapientia, vel bonitas ; sed
+<lb ed="#P" n="113"/>tantum signa eorum attestantia, his quae intus
+<lb ed="#P" n="114"/>erant propria. Kt probata est Trinitas vera in
+<lb ed="#P" n="115"/>operibus suis ; nec potuit ratio his adjicere 
+quid<lb ed="#P" break="no" n="116"/>quam quae perfecta erant, neque tollere aliquid
+<lb ed="#P" n="117"/>qua constabant discreta. Sunt enim tria hec
+<lb ed="#P" n="118"/>qu: omne rationale perficiunt, nec sine his 
+per<lb ed="#P" break="no" n="119"/>fectum est aliquid. Similiter ad omnem effectum.
+<lb ed="#P" n="120"/>concurrunt tria hrec, quorum siquid defuerit, 
+ni<lb ed="#P" break="no" n="121"/>hilabsolvitur; el si adsint pariter omnia 
+con<lb ed="#P" break="no" n="122"/>summantur. Hsc gunt potentia, scientia et 
+vo<lb ed="#P" break="no" n="123"/>luntas ; ex quibus si tollas unum aliquod, per-
+<!-- 034.png.txt -->
+<pb ed="#P" n="116"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>fectionem imminuis; si cuncta pariter constituas,
+<lb ed="#P" n="2"/>nihil deesse confiteris. His ergo et ipse rerum
+<lb ed="#P" n="3"/>conditor opera sua perfecit, et constat ipse 
+per<lb ed="#P" break="no" n="4"/>fectus, quoniam in ipso perfecta sunt quae neque
+<lb ed="#P" n="5"/>in parte augeri possunt, quia plenasunt ; neque
+<lb ed="#P" n="6"/>in toto consummari, quia perfecta sunt ; neque
+<lb ed="#P" n="7"/>in unitate dividi, quia. unum sunt.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10047-Dd1e2384">
+               <head xml:id="hsvhsv-g10047-Hd1e2386">Capitulum 29</head>
+               <head xml:id="hsvhsv-g10047-Hd1e2388" type="question-title"/>
+               <p xml:id="hsvhsv-g10047-d1e2390">
+                  <lb ed="#P" n="8"/>Cap. XXIX. Quod in his tribus omnia.
+</p>
+               <p xml:id="hsvhsv-g10047-d1e2395">
+                  <lb ed="#P" n="9"/>Et quaecunque de Deo dicuntur, et creduntur 
+ve<lb ed="#P" break="no" n="10"/>raciter in Deo: ad haec tria referuntur et constat
+<lb ed="#P" n="11"/>in histribus in ipso, quibus, ut dictum est, si
+<lb ed="#P" n="12"/>quid tollas perfectum non est quod relinquitur ; si
+<lb ed="#P" n="13"/>quid adjicere coneris, majus non est quod 
+expli<lb ed="#P" break="no" n="14"/>catur. Si enim fortem dicis et incorruptum et 
+in<lb ed="#P" break="no" n="15"/>commutabilem et invincibilem et caetera quae 
+si<lb ed="#P" break="no" n="16"/>milia sunt, hic totum hoc potentis est ; si 
+provi<lb ed="#P" break="no" n="17"/>dum, si inspectorem, si scrutantem occulta, et
+<lb ed="#P" n="18"/>intelligentem, hoc totum sapientie; est ; si pium,
+<lb ed="#P" n="19"/>8i mansuetum, si misericordem, si patientem, 
+to<lb ed="#P" break="no" n="20"/>tum hoc bonitatis est. Et non potest his adjicere
+<lb ed="#P" n="21"/>veritas quidquam, quia totum in his continetur
+<lb ed="#P" n="22"/>quod perfectum est et verum : ideo tria haec 
+ve<lb ed="#P" break="no" n="23"/>ritatem monstraverunt in simulacro perfecto et
+<lb ed="#P" n="24"/>persuaserunt nihil adjiciendum tribus ; quia hoc
+<lb ed="#P" n="25"/>perfectum est, et nihil tollendum quoniam aic
+<lb ed="#P" n="26"/>constat consummatum : et tria hiec in Deo erant
+<lb ed="#P" n="27"/>unum ; et Deo unum erant, sed distincta inventa
+<lb ed="#P" n="28"/>sunt hic ubi non erant unum ; et. propterea 
+Tri<lb ed="#P" break="no" n="29"/>nitatis imago facta sunt. Et secuta est 
+considera<lb ed="#P" break="no" n="30"/>tio proprietatem inventam hic usque ad 
+ineffa<lb ed="#P" break="no" n="31"/>bilem Trinitatem ; et distinxit ibi proprium quod
+<lb ed="#P" n="32"/>proprium hic erat tentum, et differens inventum
+<lb ed="#P" n="33"/>est ; ibi autem in uno erattotum et unum totum.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10047-Dd1e2453">
+               <head xml:id="hsvhsv-g10047-Hd1e2455">Capitulum 30</head>
+               <head xml:id="hsvhsv-g10047-Hd1e2457" type="question-title"/>
+               <p xml:id="hsvhsv-g10047-d1e2459">
+                  <lb ed="#P" n="34"/>Cap. XXX. Recapitulatio supra dictorum.
+</p>
+               <p xml:id="hsvhsv-g10047-d1e2464">
+                  <lb ed="#P" n="35"/>Nunc ergo diximus quomodo ratio humana
+<lb ed="#P" n="36"/>primum et in se Deum esse reperit et extra se
+<lb ed="#P" n="37"/>approbavit et quomodo adjudicavit ; quod unus
+<lb ed="#P" n="38"/>est Deus, et simplex natura ; et immensus et 
+z<lb ed="#P" break="no" n="39"/>ternus. Magnus et non quantitate ; simplex, et
+<lb ed="#P" n="40"/>non parvitate. Et quod trinus est sine divisione
+<lb ed="#P" n="41"/>unitatis ; et unus sine confusione Trinitatis. Et
+<lb ed="#P" n="42"/>quomodo Trinitas summa inventa est per eam
+<lb ed="#P" n="43"/>qus erat imago illius in nobis ; et quomodo 
+ar<lb ed="#P" break="no" n="44"/>guit non esse personas, tria in nobis ; et in Deo
+<lb ed="#P" n="45"/>tria esse personas, quia Deus sunt. Et. quomodo
+<lb ed="#P" n="46"/>tribus nihil adjici potest quia perfecta sunt ; nec
+<lb ed="#P" n="47"/>demi aliquid, quia discreta sunt. Et quomodo
+<lb ed="#P" n="48"/>distincta sunt quae in Deo sunt et secundum ea
+<lb ed="#P" n="49"/>quae discreta sunt in nobis ; quoniam imago
+<lb ed="#P" n="50"/>sunt ad illa et demonstraverunt Trinitatem ; et.
+<lb ed="#P" n="51"/>haec quidem secundum rationis judicium 
+conje<lb ed="#P" break="no" n="52"/>cimus in unum, quoniam ita veritatem 
+approba<lb ed="#P" break="no" n="53"/>vit. Siquidem additum est ex his quae 
+superemi<lb ed="#P" break="no" n="54"/>nent rationi et non contigit ad ea sufficere, 
+quo<lb ed="#P" break="no" n="55"/>niam secundum rationem formantur. Alia enim
+<lb ed="#P" n="56"/>sunt ex ratione, alia secundum rationem, alia 
+su<lb ed="#P" break="no" n="57"/>pra rationem : et praeter haec quae sunt contra 
+ra<lb ed="#P" break="no" n="58"/>tionem. Ex ratione sunt necessaria, secundum 
+ra<lb ed="#P" break="no" n="59"/>tionem sunt probabilia, supra rationem 
+mirabi<lb ed="#P" break="no" n="60"/>lia, contra rationem incredibilia. Et duo quidem
+<lb ed="#P" n="61"/>extrema omnino fidem non capiunt. Quae enim
+<lb ed="#P" n="62"/>sunt ex ratione omnino nota sunt et credi non
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>possunt, quoniam sciuntur. Qute vero contra 
+ra<lb ed="#P" break="no" n="64"/>tionem sunt nulla similiter rationo credi possunt,
+<lb ed="#P" n="65"/>quoniam non suscipiunt ullam rationem, nec 
+ac<lb ed="#P" break="no" n="66"/>quiescit his ratio aliquando. Ergo, quae 
+secun<lb ed="#P" break="no" n="67"/>dum rationem sunt et quae sunt supra rationem,
+<lb ed="#P" n="68"/>tantummodo suscipiunt fidem. Et in primo 
+qui<lb ed="#P" break="no" n="69"/>dem genere, fides ratione adjuvatur et ratio fide
+<lb ed="#P" n="70"/>perficitur, quoniam secundum rationem sunt quae
+<lb ed="#P" n="71"/>creduntur. Quorum veritatem si ratio non 
+com<lb ed="#P" break="no" n="72"/>prehendit, fidei tamen illorum non contradicit.
+<lb ed="#P" n="73"/>Iniis qu; supra rationem sunt, non adjuvatur
+<lb ed="#P" n="74"/>fides ratione ulla; quoniam non capit ea ratio
+<lb ed="#P" n="75"/>quie fides credit, et tamen est aliquid quo ratio
+<lb ed="#P" n="76"/>admonetur venerari filem quam non 
+compre<lb ed="#P" break="no" n="77"/>hendit. Quae dicta sunt ergo, et secundum 
+ratio<lb ed="#P" break="no" n="78"/>nem, fuerunt probabilia rationi, et sponte 
+ac<lb ed="#P" break="no" n="79"/>quievit eis. Quae vero supra rationem fuerunt ex
+<lb ed="#P" n="80"/>divina revelatione prodita sunt ; et non operata
+<lb ed="#P" n="81"/>est in eis ratio, sed castigata tamen ne ad illa
+<lb ed="#P" n="82"/>contenderet. Nunc ergo sequitur demonstrare
+<lb ed="#P" n="83"/>quantum his quae in ratiocinando proposita sunt,
+<lb ed="#P" n="84"/>et conducta probabiliter revelatio divina 
+adjece<lb ed="#P" break="no" n="85"/>rit, et quae per inspirationem manifestata, et
+<lb ed="#P" n="86"/>quie per doctrinam asserta sunt ; ot que» per 
+mi<lb ed="#P" break="no" n="87"/>racula approbata, ex his quantum videbitur et
+<lb ed="#P" n="88"/>possibile erit.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10047-Dd1e2587">
+               <head xml:id="hsvhsv-g10047-Hd1e2589">Capitulum 31</head>
+               <head xml:id="hsvhsv-g10047-Hd1e2591" type="question-title"/>
+               <p xml:id="hsvhsv-g10047-d1e2593">
+                  <lb ed="#P" n="89"/>Cap. XXXI. Brevis summa eorum qua 
+supra<lb ed="#P" break="no" n="90"/>dicta sunt cum adjectione quorumdam.
+</p>
+               <p xml:id="hsvhsv-g10047-d1e2600">
+                  <lb ed="#P" n="91"/>Ante omnem creaturam Creator erat solus 
+qui<lb ed="#P" break="no" n="92"/>dem, sed tamen non solitarius, quia cum ipso
+<lb ed="#P" n="93"/>erat sapientia sua in qua omnia ab sterno per
+<lb ed="#P" n="94"/>providentiam fuerunt quae ab ipso in tempore
+<lb ed="#P" n="95"/>per essentiam facta sunt. Solus fuit quando 
+ni<lb ed="#P" break="no" n="96"/>hil praeter ipsum fuit; ct tamen solitarius non
+<lb ed="#P" n="97"/>fuit, quia aliena societate non eguit qui sibi 
+suf<lb ed="#P" break="no" n="98"/>ficiens fuit ; cui nihil defuit, quia, sicut dictum
+<lb ed="#P" n="99"/>est, totum in ipso per providentiam fuit, quod
+<lb ed="#P" n="100"/>ab ipso per essentiam faciendum fuit. Hsc ergo
+<lb ed="#P" n="101"/>duo diligenter et inter se distinguenda sunt et
+<lb ed="#P" n="102"/>in se consideranda ; Creator scilicet et creatura ;
+<lb ed="#P" n="103"/>ne vel creatura seterna credatur, vel Creator 
+tem<lb ed="#P" break="no" n="104"/>poralis. In his enim duobus omnis cognitio 
+cons<lb ed="#P" break="no" n="105"/>tat veritatis. Primum ergo considerare oportet
+<lb ed="#P" n="106"/>quie de Creatore dicenda sunt vel credenda.
+</p>
+               <p xml:id="hsvhsv-g10047-d1e2637">
+                  <lb ed="#P" n="107"/>Creatorem igitur omnium rerum unum 
+confl<lb ed="#P" break="no" n="108"/>temur et trinum, unum in essentia, trinum in
+<lb ed="#P" n="109"/>personis ; quia essentia deitatis una est, et in 
+es<lb ed="#P" break="no" n="110"/>sentia deitatis una est, et in essentia una tres
+<lb ed="#P" n="111"/>persons : Pater, et Filius, et Spiritus sanctus.
+<lb ed="#P" n="112"/>Patera nullo est, Filius a Patre solo est, Spiritus
+<lb ed="#P" n="113"/>sanctus a Patre etFilio est : Quemadmodum in
+<lb ed="#P" n="114"/>una anima mens et intellectus et gaudium ; et
+<lb ed="#P" n="115"/>mens quidem a se est; intellectus vero de sola
+<lb ed="#P" n="116"/>mente est; de mente autem et intellectu. 
+gau<lb ed="#P" break="no" n="117"/>dium :et hic tria ad substantiam quidem una
+<lb ed="#P" n="118"/>sunt anima. Ita in corpore uno, et figura est, et
+<lb ed="#P" n="119"/>forma et pulchritudo tria hec. Et videtur figura
+<lb ed="#P" n="120"/>prima esse ad substantiam, deinde forma, et ex
+<lb ed="#P" n="121"/>utroque pulchritudo : et haec tria in uno corpore
+<lb ed="#P" n="122"/>et unum corpus, ut in utraque natura imago
+<lb ed="#P" n="123"/>Creatoris eluceat. In prima quidem ad 
+similitudi<lb ed="#P" break="no" n="124"/>nem ; in secunda autem ad similitudinis imita-
+<!-- 035.png.txt -->
+<pb ed="#P" n="117"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>tionem. Si ergo Deum confitemur ibi essentia A 
+<lb ed="#P" n="2"/>unum, et in personis trinum ; et in unitate 
+qui<lb ed="#P" break="no" n="3"/>dem agnoscimus aeternitatem et immensitatem.
+<lb ed="#P" n="4"/>Inzternitate autem incommutabilitatem ; in 
+im<lb ed="#P" break="no" n="5"/>mensitate vero simplicitatem : hoc est 
+mternita<lb ed="#P" break="no" n="6"/>tem sine tempore ; immensitatem sine 
+quanti<lb ed="#P" break="no" n="7"/>tate. In Trinitate confitemur communionem 
+uni<lb ed="#P" break="no" n="8"/>tatis, eequalitatem. immensitatis, comvitatem 
+m<lb ed="#P" break="no" n="9"/>ternitatis. Et communionem quidem unitatis 
+si<lb ed="#P" break="no" n="10"/>ne divisione, aequalitatem immensilatis sine 
+di<lb ed="#P" break="no" n="11"/>minutione, cosvitatem aeternitatis sine ordine
+<lb ed="#P" n="12"/>vel successione. Et hoc est singulis unitate totum,
+<lb ed="#P" n="13"/>immensitate plenum, seternitate perfectum. Tres
+<lb ed="#P" n="14"/>autem personas nihil aliud esse quam essentiam
+<lb ed="#P" n="15"/>unam, quia tribus esse unum est et una essentia
+<lb ed="#P" n="16"/>est. Quapropter tres unum sunt, sed tres unus
+<lb ed="#P" n="17"/>non sunt ; quia, si tres unum non esssent una
+<lb ed="#P" n="18"/>essentia trium non esset, et si tres unus ossent
+<lb ed="#P" n="19"/>non tres essent. Idcirco tres unus non sunt, ne
+<lb ed="#P" n="20"/>substantia dividatur ; et tres unum non sunt, ne
+<lb ed="#P" n="21"/>personae confundantur. Quod ergo Pater est, 
+Fi<lb ed="#P" break="no" n="22"/>lius est ; quia una est natura Patris et Filii. Sed
+<lb ed="#P" n="23"/>non qui Pater est, Filius est ; quia alia est 
+per<lb ed="#P" break="no" n="24"/>sona Patris et Filii. Item quae de Deo secundum
+<lb ed="#P" n="25"/>substantiam dicuntur, aequaliter dicuntur de 
+Pa<lb ed="#P" break="no" n="26"/>tre et Filio et Spiritu sancto. Quoniam 
+substan<lb ed="#P" break="no" n="27"/>lia Patris, et Fili, et Spiritus sancti una est et -
+<lb ed="#P" n="28"/>qualiter est. Deus nomen est. substantic, et hoc
+<lb ed="#P" n="29"/>Deo esse est quod substantiam esse. Ideo Pater
+<lb ed="#P" n="30"/>Deus est, et Filius Deus est, et Spiritus sanctus
+<lb ed="#P" n="31"/>Deus est. et non tresdii, sed unus Deus ; quoniam
+<lb ed="#P" n="32"/>unasubstantia. Et similiter alia quae de Deo 
+secun<lb ed="#P" break="no" n="33"/>dum substantiam dicuntur, aequaliter dicuntur. Et
+<lb ed="#P" n="34"/>desingulis singulariteret sequaliter dicuntur, et do
+<lb ed="#P" n="35"/>omnibussimul ; non pluraliter, sed singulariter 
+di<lb ed="#P" break="no" n="36"/>cuntur et sequaliter. Et cum de singulis 
+singula<lb ed="#P" break="no" n="37"/>riter dicuntur non minus dicitur ; et cum de 
+om<lb ed="#P" break="no" n="38"/>nibus communiter dicuntur, non amplius 
+pro<lb ed="#P" break="no" n="39"/>nuntiatur. Cum enim dicitur : Pater est Deus,
+<lb ed="#P" n="40"/>non minus dicitur quam cum dicitur : Pater, et
+<lb ed="#P" n="41"/>Filius, et Spiritus sanctus est Deus. Tota enim
+<lb ed="#P" n="42"/>deitas in Patre, ettota in filio, et tota in Spiritu 
+san<lb ed="#P" break="no" n="43"/>cto, nec minor in Patre solo, quam simul in Patre, et
+<lb ed="#P" n="44"/>Filio, et Spiritu sancto. Similiter et de Filio et de
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="45"/>Spiritu sanctointelligendum est. Unum nomen 
+so<lb ed="#P" break="no" n="46"/>lum est quod de singulis singulariter dicitur ; in
+<lb ed="#P" n="47"/>summa tamen non singulariter, sed pluraliter
+<lb ed="#P" n="48"/>pronuntiatur, cum tamen ad substantiam 
+dica<lb ed="#P" break="no" n="49"/>tur. Dicitur namque: Pater est persona, et 
+Fi<lb ed="#P" break="no" n="50"/>lius est persona, et Spiritus sanctus est persona ;
+<lb ed="#P" n="51"/>et tamen simul dici non potest, Pater et Filius ct
+<lb ed="#P" n="52"/>Spiritus sanctus est persona ; sed, tres person.
+<lb ed="#P" n="53"/>Hoc enim solum ex his quae ad. substantiam 
+di<lb ed="#P" break="no" n="54"/>cuntur de singulis singulariter dicitur. In summa.
+<lb ed="#P" n="55"/>tamen non. singulariter, sed pluraliter 
+pronun<lb ed="#P" break="no" n="56"/>tiatur. Quie autem secundum relationem 
+dicun<lb ed="#P" break="no" n="57"/>tur, ad se dicuntur; et de singulis singulariter
+<lb ed="#P" n="58"/>dicuntur, in summa tamen nec singulariter nec
+<lb ed="#P" n="59"/>pluraliter pronuntiantur ; quoniam ad se 
+dic<lb ed="#P" break="no" n="60"/>Bta sunt, et ideo ad invicem dici non possunt.
+<lb ed="#P" n="61"/>Item quod est Patrem esse, a seipso est esse:
+<lb ed="#P" n="62"/>quod est Filium esse a Patre est esse ; quod est
+<lb ed="#P" n="63"/>Spiritum sanctum esse ab utroque est esse : 
+Fi<lb ed="#P" break="no" n="64"/>lius habet nasci, Spiritus sanctus procedere; et
+<lb ed="#P" n="65"/>solius Filii est nasci, non Spiritus sancti. Quod
+<lb ed="#P" n="66"/>enim nasci est, de alio est esse, non tamen in
+<lb ed="#P" n="67"/>aliud. Quod autem procedere cst, de aliquo est
+<lb ed="#P" n="68"/>esse, et aliquoties in aliud. Quod enim spiratur
+<lb ed="#P" n="69"/>ab aliquo spiratur, et spiratur in aliquo. Ideo
+<lb ed="#P" n="70"/>sumpta sunt vocabula ad significandum id quod
+<lb ed="#P" n="71"/>dicendum erat de Deo, ut intelligi aliquatenus
+<lb ed="#P" n="72"/>posset quod comprehendi non poterat. Item sic
+<lb ed="#P" n="73"/>ab initio suam notitiam Deus temperavit ab 
+ho<lb ed="#P" break="no" n="74"/>mine, ut nec totus manifestus esset nec totus 
+ab<lb ed="#P" break="no" n="75"/>C seconditus. Si enim totus manifestus esset, 
+fl<lb ed="#P" break="no" n="76"/>des non exerceretur et infidelitas convinceretur.
+<lb ed="#P" n="77"/>Si vero totus esset absconditus, fides non 
+juva<lb ed="#P" break="no" n="78"/>retur et infidelitas excusaretur. Item quatuor 
+mo<lb ed="#P" break="no" n="79"/>dis invisibilis Deus ad. notitiam hominis 
+egredi<lb ed="#P" break="no" n="80"/>tur : duobus intus, duobus foris. Intus per 
+ra<lb ed="#P" break="no" n="81"/>tionem et aspirationem ; foris per creaturam et
+<lb ed="#P" n="82"/>doctrinam. Ex his duo adnaturam pertinent, duo
+<lb ed="#P" n="83"/>ad gratiam : ratio et creatura ad naturam 
+perti<lb ed="#P" break="no" n="84"/>nent ; aspiratio et doctrina ad gratiam. 
+Propte<lb ed="#P" break="no" n="85"/>rea post haec in doctrina aspicienda sunt que
+<lb ed="#P" n="86"/>auctoritas probat, quiaratiohumana nisi verbo Dei
+<lb ed="#P" n="87"/>fuerit illuminata viam veritatis videre non potest.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

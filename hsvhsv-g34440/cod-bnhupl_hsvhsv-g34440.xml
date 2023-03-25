@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pars 2</title>
+            <author ref="#HughOfStVictor">Hugh of St. Victor</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Pars 2</title>
+               <date when="2023-03-25">March 25, 2023</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-bnhupl">Patrologia Latina, v. 176</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2023-03-25" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="208"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="hsvhsv-g34440"><!-- l2-p2 -->
+            <head xml:id="hsvhsv-g34440-Hd1e101">Pars 2</head>
+            <head xml:id="hsvhsv-g34440-Hd1e103" type="question-title">
+De unitate ecclesiae
+</head>
+            <p xml:id="hsvhsv-g34440-d1e106">
+               <cb ed="#P" n="c"/>
+               <lb ed="#P" n="29"/>PARS SECUNDA.
+<lb ed="#P" n="30"/>DE UNITATE ECCLESIAE.
+</p>
+            <div xml:id="hsvhsv-g34440-Dd1e115">
+               <head xml:id="hsvhsv-g34440-Hd1e117">Capitulum 1</head>
+               <head xml:id="hsvhsv-g34440-Hd1e119" type="question-title"/>
+               <p xml:id="hsvhsv-g34440-d1e121">
+                  <cb ed="#P" n="d"/>
+                  <lb ed="#P" n="31"/>CAPUT PRIMUM. De gratia quae per Christum
+<lb ed="#P" n="32"/>datur, et spiritu a capite in membra diffuso.
+</p>
+               <p xml:id="hsvhsv-g34440-d1e130">
+                  <lb ed="#P" n="33"/>Scriptum est quod leae neminem ad perfectum
+<lb ed="#P" n="34"/>duzit (Hebr. vit). Lex enim ignorantiam docere
+<lb ed="#P" n="35"/>potuit infürmitatem, adjuvare non potuit. Duo hic
+<lb ed="#P" n="36"/>Tala in homine fuerunt, et ex his cetera mala
+<lb ed="#P" n="37"/>hominis omnia processerunt. Unum fuit 
+ignoran<lb ed="#P" break="no" n="38"/>tia, alterum concupiscentia ; ignorantia boni,
+<lb ed="#P" n="39"/>concupiscentia mali. Ex ignorantia venit delictum,
+<lb ed="#P" n="40"/>ex concupiscentia peccatum. Hsc igitur duo in
+<lb ed="#P" n="41"/>homine ab initio fuerunt; sed ut cognosceret
+<lb ed="#P" n="42"/>homo morbum suum, dimissus est totus sibi : ne
+<lb ed="#P" n="43"/>forte gratiam superfluam judicaret ; si prius
+<lb ed="#P" n="44"/>infirmitatis suse defectum non agnosceret. Positum
+<lb ed="#P" n="45"/>est ergo tempus naturalis legis ut natura per se
+<lb ed="#P" n="46"/>operaretur, non quod per se quidquam posset, sed
+<lb ed="#P" n="47"/>"ut se non posse agnosceret. Illa ergo sibi relicta
+<lb ed="#P" n="48"/>errare cospita veritate per ignorantiam, et convicta
+<lb ed="#P" n="49"/>est de caecitate ; postmodum etiam convincenda
+<lb ed="#P" n="50"/>de infirmitate. Data est lex scripta ut ignorantiam
+<lb ed="#P" n="51"/>illuminaret, sed infirmitatem non corroboraret ut
+<lb ed="#P" n="52"/>in ea parte homo qua defectum suum agnovit
+<lb ed="#P" n="53"/>juvaretur. Ubi autem per se stare putavit, 
+relin<lb ed="#P" break="no" n="54"/>queretur. Accepta ergo scientia veritatis per 
+le<lb ed="#P" break="no" n="55"/>gem conari coepit ut perficeret sed pressus 
+concu<lb ed="#P" break="no" n="56"/>piscentia quia gratiam adjuvantem non habuit,
+<lb ed="#P" n="57"/>ab opere virtutis defecit. Convictus igitur in
+<lb ed="#P" n="58"/>utroqueest quia videlicet per se nec verum potest
+<lb ed="#P" n="59"/>agnoscere nec bonum perficere. Post haec itaque
+<lb ed="#P" n="60"/>convenienter gratia data est quae illuminaret
+<lb ed="#P" n="61"/>csecum, et sanaret infirmum ; illuminaret 
+igno<lb ed="#P" break="no" n="62"/>rantiam, refrigeraret concupiscentiam; 
+illumina<lb ed="#P" break="no" n="63"/>ret ad cognitionem veritatis; inflammaret ad
+<lb ed="#P" n="64"/>amorem virtutis. Propterea Spiritus in igne datus
+<lb ed="#P" n="65"/>est ut lumen haberet, et flammam ; lumen ad
+<lb ed="#P" n="66"/>cognitionem, flammam ad dilectionem. Porro sicut
+<lb ed="#P" n="67"/>spiritus hominis mediante capite ad membra
+<lb ed="#P" n="68"/>viviflcanda descendit sic Spiritus sanctus per
+<lb ed="#P" n="69"/>Christum venit ad Christianos. Caput enim est
+<lb ed="#P" n="70"/>Christus, membrum Christianus. Caput unum,
+<lb ed="#P" n="71"/>membra multa, et constat unum corpus ex capite
+<lb ed="#P" n="72"/>et membris et in uno corpore Spiritus unus. Cujus
+<lb ed="#P" n="73"/>plenitudo quidem in capite est participatio
+<lb ed="#P" n="74"/>in membris. Si ergo corpus unum est, et
+<cb ed="#P" n="e"/>
+                  <lb ed="#P" n="75"/>spiritus unus qui in corpore ipso nonc
+<lb ed="#P" n="76"/>Spiritu vivificari non potest sicut scriptum
+<lb ed="#P" n="77"/>Qui non habet Spiritum Christi hic nc
+<lb ed="#P" n="78"/>ejus (Rom. vir). Qui enim non habet Spi
+<lb ed="#P" n="79"/>Christi non est membrum Christi. In corpor
+<lb ed="#P" n="80"/>Spiritus unus. Nihil in corpore mortuum,
+<lb ed="#P" n="81"/>extra corpus vivum. Per fidem membra effic
+<lb ed="#P" n="82"/>per dilectionem vivificamur. Per fidem acci[
+<lb ed="#P" n="83"/>unionem;percharitatem accipimus vivificatic
+<lb ed="#P" n="84"/>In sacramento autem per baptismum unimt
+<lb ed="#P" n="85"/>corpus Christi et sanguinem vivificamut
+<lb ed="#P" n="86"/>baptismum efficimur membra corporis, per c
+<lb ed="#P" n="87"/>autem Christi efficimur participes vivificat
+</p>
+            </div>
+            <div xml:id="hsvhsv-g34440-Dd1e255">
+               <head xml:id="hsvhsv-g34440-Hd1e257">Capitulum 2</head>
+               <head xml:id="hsvhsv-g34440-Hd1e259" type="question-title"/>
+               <p xml:id="hsvhsv-g34440-d1e261">
+                  <lb ed="#P" n="88"/>Cap. II. De Ecclesia, quid sit Ecclesiae
+</p>
+               <p xml:id="hsvhsv-g34440-d1e266">
+                  <lb ed="#P" n="89"/>Ecclesia sancta corpus est Christi uno S
+<lb ed="#P" n="90"/>vivificata, et unita fide una, et sanctificata]
+<lb ed="#P" n="91"/>corporis membra singuli quique fidelium exi:
+<lb ed="#P" n="92"/>omnes corpus unum, propter spiritum unt
+<lb ed="#P" n="93"/>fidem unam. Quemadmodum autem in cc
+<lb ed="#P" n="94"/>humano singula queque membra propria a
+<lb ed="#P" n="95"/>creta officia habent, et tamen unumquodqu
+<lb ed="#P" n="96"/>sibi soli agit quod solum agit, sic in co
+<lb ed="#P" n="97"/>sanctae Ecclesise dona gratiarum distributa
+<lb ed="#P" n="98"/>et tamen unusquisque non sibi soli habet,
+<lb ed="#P" n="99"/>id quod solus habet. Soli enim oculi viden
+<lb ed="#P" n="100"/>tamen sibi solummodo non vident sed to!
+<lb ed="#P" n="101"/>pori. Sole autem aures audiunt nec tame
+<lb ed="#P" n="102"/>solummodo audiunt, sed toti corpori. Soli
+<lb ed="#P" n="103"/>ambulant et non sibi tamen solummodo ambi
+<lb ed="#P" n="104"/>sed toti corpori. Et ad hunc modum unum
+<lb ed="#P" n="105"/>que quod habet solum in senon habet solum
+<lb ed="#P" n="106"/>propter se quatenus secundum dispositi
+<lb ed="#P" n="107"/>optimi largitoris, et distributoris sapientit
+<lb ed="#P" n="108"/>singula sint omnium, et omnia singulorum
+</p>
+               <p xml:id="hsvhsv-g34440-d1e312">
+                  <lb ed="#P" n="109"/>Quisquis ergo donum gratiae Dei percipet
+<lb ed="#P" n="110"/>ruit sciat non ad se solum pertinere quod
+<lb ed="#P" n="111"/>etiam si solus habet. Hac itaque similit
+<lb ed="#P" n="112"/>Ecclesia sancta, id est universitas fidelium, c
+<lb ed="#P" n="113"/>Christi vocatur propter Spiritum Christi
+<lb ed="#P" n="114"/>accepit, cujus participatio in homine desig
+<lb ed="#P" n="115"/>quando a Christo Christianus appellatur.
+</p>
+               <p xml:id="hsvhsv-g34440-d1e331">
+                  <lb ed="#P" n="116"/>Hoc itaque nomen signat membra Christ
+<lb ed="#P" n="117"/>ticipantia Spiritum Christi ut ab uncto sit u:
+<lb ed="#P" n="118"/>quia a Christo dicitur Christianus. Ch
+<!-- 127.png.txt -->
+<pb ed="#P" n="209"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>quippe unctus interpretatur ; illo videlicet oleo
+<lb ed="#P" n="2"/>letitiao, quod pre cunctis participibus suis 
+secun<lb ed="#P" break="no" n="3"/>dum plenitudinem accepit et cunctis particibus
+<lb ed="#P" n="4"/>suis quasi caput membris secundum 
+participatio<lb ed="#P" break="no" n="5"/>nem transfudit : Sicut unguentum in capite,
+<lb ed="#P" n="6"/>quod descendit a capite in barbam et deinde
+<lb ed="#P" n="7"/>usque in oram (Psal. cxxx11); hoc est, in 
+extre<lb ed="#P" break="no" n="8"/>mitatem vestimenti defluxit ut ad totum efflueret,
+<lb ed="#P" n="9"/>et totum viviflcaret. Quando ergo Christianus
+<lb ed="#P" n="10"/>efüceris, membrum Christi efficeris, membrum
+<lb ed="#P" n="11"/>corporis Christi participans Spiritum Christi.
+</p>
+               <p xml:id="hsvhsv-g34440-d1e370">
+                  <lb ed="#P" n="12"/>Quid est ergo Ecclesia nisi multitudo fidelium,
+<lb ed="#P" n="13"/>universitas Christianorum ?
+</p>
+            </div>
+            <div xml:id="hsvhsv-g34440-Dd1e379">
+               <head xml:id="hsvhsv-g34440-Hd1e381">Capitulum 3</head>
+               <head xml:id="hsvhsv-g34440-Hd1e383" type="question-title"/>
+               <p xml:id="hsvhsv-g34440-d1e385">
+                  <lb ed="#P" n="14"/>Cap. III. De duobus parietibus Ecclesiae, clericis
+<lb ed="#P" n="15"/>et laicis.
+</p>
+               <p xml:id="hsvhsv-g34440-d1e392">
+                  <lb ed="#P" n="16"/>Universitas autem haec duos ordines complec- p
+<lb ed="#P" n="17"/>titur, laicos et clericos, quasi duo latera corporis
+<lb ed="#P" n="18"/>unius. Quasi enim ad sinistram sunt laici qui
+<lb ed="#P" n="19"/>vitae praesentis necessitati inserviunt.
+</p>
+               <p xml:id="hsvhsv-g34440-d1e403">
+                  <lb ed="#P" n="20"/>Non ita dico ad sinistram quemadmodum illi ad
+<lb ed="#P" n="21"/>sinistram statuentur, quibus dicetur: Ite, 
+ma<lb ed="#P" break="no" n="22"/>ledicti, in ignem aeternum (Matth. xxv). Absit
+<lb ed="#P" n="23"/>a me ut bonos laicos ibi statuere presumam | Nam
+<lb ed="#P" n="24"/>qui boni erunt sive laici sive clerici ibi non erunt ;
+<lb ed="#P" n="25"/>et qui mali erunt sive laici sive clairici ibi erunt.
+</p>
+               <p xml:id="hsvhsv-g34440-d1e420">
+                  <lb ed="#P" n="26"/>Non ergo ad illam sinistram laicos Christianos,
+<lb ed="#P" n="27"/>qui veri Christiani sunt, constituo ; sed ad illam
+<lb ed="#P" n="28"/>sinistram de qua dicitur : In dextera ejus 
+lon<lb ed="#P" break="no" n="29"/>gavitas vita; in sinistra autem ejus divinitie
+<lb ed="#P" n="30"/>et gloria (Prov. 11). Quod enim ad sinistram in
+<lb ed="#P" n="31"/>corpore est de corpore est et bonum est quamvis (x
+<lb ed="#P" n="32"/>optimum non sit.
+</p>
+               <p xml:id="hsvhsv-g34440-d1e438">
+                  <lb ed="#P" n="33"/>Laici ergo Christiani qui terrena et terrena
+<lb ed="#P" n="34"/>vitae necessaria tractant, pars corporis Christi
+<lb ed="#P" n="35"/>sinistra sunt. Clerici vero quoniam ea quae ad
+<lb ed="#P" n="36"/>spiritualem vitam perlinent dispensant, quasi
+<lb ed="#P" n="37"/>dextera pars sunt corporis Christi.
+</p>
+               <p xml:id="hsvhsv-g34440-d1e451">
+                  <lb ed="#P" n="38"/>Sed constat his duabus partibus totum corpus
+<lb ed="#P" n="39"/>Christi quod est universa Ecclesia. Laicus 
+inter<lb ed="#P" break="no" n="40"/>pretatur popularis; Grece enim Aas; Latine 
+di<lb ed="#P" break="no" n="41"/>Citur populus. Unde et <foreign>basileus</foreign> basileus rex dictus
+<lb ed="#P" n="42"/>putatur; quasi <foreign>Baeis Aaw basislaoy</foreign>, id est 
+sus<lb ed="#P" break="no" n="43"/>tentamentum populi. Clericus dicitur à <foreign>xAspw</foreign>
+                  <lb ed="#P" n="44"/>Graece, quod Latine interpretatum sortem sonat ,
+<lb ed="#P" n="45"/>sive quod ipse sorte sit electus a Deo ad servitium
+<lb ed="#P" n="46"/>Dei, sive quod ipse Deus sors illius sit ; et quod
+<lb ed="#P" n="47"/>portionem aliam in terra habere non debeat; 
+cle<lb ed="#P" break="no" n="48"/>ricus nisi Deum et ea qua ad partem Dei spectant,
+<lb ed="#P" n="49"/>cuistatutum est dicimis et oblationibus que. Deo
+<lb ed="#P" n="50"/>offeruntur sustentari. Laicis ergo Christianis 
+fide<lb ed="#P" break="no" n="51"/>libus terrena possidere conceditur, Clericis vero
+<lb ed="#P" n="52"/>spiritualia tantum committuntur, quemadmodum
+<lb ed="#P" n="53"/>olim in illo populo priorecetere tribus qua typum
+<lb ed="#P" n="54"/>laicorum preferebant; portiones in hereditate
+<lb ed="#P" n="55"/>acceperunt. Sola tribus Levi quae ecclesiasticos
+<lb ed="#P" n="56"/>figurabat, decimis et oblationibus et sacrificiorum
+<lb ed="#P" n="57"/>victimis pascebatur.
+</p>
+               <p xml:id="hsvhsv-g34440-d1e503">
+                  <lb ed="#P" n="58"/>Cap. IV. Duas esse vitas, et secundum duas vitas duos
+<lb ed="#P" n="59"/>populos; et in duobus populis duas potestates, et in
+<lb ed="#P" n="60"/>utraque diversos gradus et ordines dignitatum ; et
+<lb ed="#P" n="61"/>unam inferiorem, alleram superiorem.
+</p>
+               <p xml:id="hsvhsv-g34440-d1e514">
+                  <lb ed="#P" n="62"/>Duae quippe vite sunt: una terrena, altera
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>coelestis ; altera corporea, altera spiritualis. Una
+<lb ed="#P" n="64"/>qua corpus vivit ex anima, altera qua anima vivit
+<lb ed="#P" n="65"/>ex Deo. Utraque bonum suum habet quo 
+vegeta<lb ed="#P" break="no" n="66"/>tur et nutritur ut possit subsistere. Vita terrena
+<lb ed="#P" n="67"/>bonis terrenis alitur; vita spiritualis bonis 
+spiri<lb ed="#P" break="no" n="68"/>tualibus nutritur. Ad vitam terrenam pertinent
+<lb ed="#P" n="69"/>omnia quae terrena sunt. Ad vitam spiritualem
+<lb ed="#P" n="70"/>qui spiritualia sunt bona omnia. Ut autem in
+<lb ed="#P" n="71"/>utraque vita justitia servetur, et utilitas 
+prove<lb ed="#P" break="no" n="72"/>niat ; primum utrinque distributi sunt, qui
+<lb ed="#P" n="73"/>utriusque bona secundum necessitatem vel 
+ratio<lb ed="#P" break="no" n="74"/>nem studio ac labore acquirant.
+</p>
+               <p xml:id="hsvhsv-g34440-d1e547">
+                  <lb ed="#P" n="75"/>Deinde alii qui ea potestate officit commissi
+<lb ed="#P" n="76"/>secundum squitatem dispensent, ut nemo fratrem
+<lb ed="#P" n="77"/>suum in negotio supergrediatur; sed justitia 
+invio<lb ed="#P" break="no" n="78"/>lata conservetur. Propterea in utroque populo
+<lb ed="#P" n="79"/>secundum utramque vitam distributo; potestates
+<lb ed="#P" n="80"/>sunt constitute. In laicis quippe ad quorum 
+stu<lb ed="#P" break="no" n="81"/>dium et providentiam ea quae terrenae vitae 
+neces<lb ed="#P" break="no" n="82"/>saria sunt, pertinent, potestas est terrena. In 
+cle<lb ed="#P" break="no" n="83"/>ricis autem ad quorum officium spectant ea qus;
+<lb ed="#P" n="84"/>spiritualis vitse sunt bona, potestas est divina. Illa
+<lb ed="#P" n="85"/>igitur potestas secularis dicitur, ista. spirituali
+<lb ed="#P" n="86"/>nominatur. In utraque potestate diversi sunt 
+gra<lb ed="#P" break="no" n="87"/>dus, et ordines potestatum; sub uno tamen 
+utrin<lb ed="#P" break="no" n="88"/>que capite distributi, et quasi ab uno principio
+<lb ed="#P" n="89"/>deducti, et ad unum relati. Terrena potestas caput
+<lb ed="#P" n="90"/>habet regem. Spiritualis potestas habet summum
+<lb ed="#P" n="91"/>pontificem. Ad potestatem regis pertinent quae
+<lb ed="#P" n="92"/>terrena sunt, et ad terrenam vitam facta omnia.
+<lb ed="#P" n="93"/>Ad potestatem summi pontificis pertinent quae
+<lb ed="#P" n="94"/>spiritualia sunt, et vita spirituali attributa 
+uni<lb ed="#P" break="no" n="95"/>versa. Quanto autem vita spiritualis dignior est
+<lb ed="#P" n="96"/>quam terrena, et spiritus quam corpus, tanto
+<lb ed="#P" n="97"/>spiritualis potestas terrenam sive sscularem 
+po<lb ed="#P" break="no" n="98"/>testatem honore, ac dignitate praecedit.
+</p>
+               <p xml:id="hsvhsv-g34440-d1e603">
+                  <lb ed="#P" n="99"/>Nam spiritualis potestas terrenam potestatem
+<lb ed="#P" n="100"/>et instituere habet, ut sit, et judicare habet si
+<lb ed="#P" n="101"/>bonanon fuerit. Ipsa vero a Deo primum instituta.
+<lb ed="#P" n="102"/>est, et cum deviat, a solo Deo judicari potest, sicut
+<lb ed="#P" n="103"/>scriptum est: Spiritualis dijudicat omnia, et
+<lb ed="#P" n="104"/>ipse a nemine judicatur (I Cor. 1). Quod autem
+<lb ed="#P" n="105"/>spiritualis potestas (quantum ad divinam 
+institu<lb ed="#P" break="no" n="106"/>tionem spectat) at prior sit tempore ; et major
+<lb ed="#P" n="107"/>dignitate; in illo antiquo veteris Instrumenti 
+po<lb ed="#P" break="no" n="108"/>pulo manifeste declaratur, ubi primum a Deo
+<lb ed="#P" n="109"/>sacerdotium institutum est; postea vero per 
+saoer<lb ed="#P" break="no" n="110"/>dotium (jubente Deo) regalis potestas ordinata.
+</p>
+               <p xml:id="hsvhsv-g34440-d1e632">
+                  <lb ed="#P" n="111"/>Unde in Ecclesia adhuc sacerdotalis dignitas
+<lb ed="#P" n="112"/>potestatem regalem consecrat, et sanctificans per
+<lb ed="#P" n="113"/>benedictionem, et formans per institutionem.
+<lb ed="#P" n="114"/>Si ergo, ut dicit Apostolus, qui benedicit major
+<lb ed="#P" n="115"/>est, et minor qui benedicitur (Heb. vi1), constat
+<lb ed="#P" n="116"/>absque omni dubitatione quod terrena potestas,
+<lb ed="#P" n="117"/>que a spirituali benedictionem accipit, jure
+<lb ed="#P" n="118"/>inferior existimetur.
+</p>
+               <p xml:id="hsvhsv-g34440-d1e652">
+                  <lb ed="#P" n="119"/>Cap. V. Quod omnis administratioecclesiastica
+<lb ed="#P" n="120"/>constat in tribus, hoc est in ordinibus, in
+<lb ed="#P" n="121"/>sacramentis in praeceptis.
+</p>
+               <p xml:id="hsvhsv-g34440-d1e661">
+                  <lb ed="#P" n="122"/>Omnis ecclesiastica administratio in tribus
+<lb ed="#P" n="123"/>constat: inordinibus, in sacramentis, in wreesxiXs.
+<lb ed="#P" n="124"/>Ordines considerexnus in personis praelatorum:
+<!-- 128.png.txt -->
+<pb ed="#P" n="210"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>sacramenta in ministerio eorum. Praecepta in 
+<lb ed="#P" n="2"/>conversatione subjectorum. Quae singula propria
+<lb ed="#P" n="3"/>consideratione egent. De ordinibus hoc primum
+<lb ed="#P" n="4"/>attendum est, quod alii sunt secundum gradum
+<lb ed="#P" n="5"/>differentem, sicut est, diaconus et sacerdos ; alii
+<lb ed="#P" n="6"/>ineodem gradu secundum potestatem excellentem,
+<lb ed="#P" n="7"/>sicut diaconus et archidiaconus. Unus gradus est
+<lb ed="#P" n="8"/>in sacramento; non tamen una potestas in 
+minis<lb ed="#P" break="no" n="9"/>terio. Diaconus enim sacerdoti ministrat in 
+sacra<lb ed="#P" break="no" n="10"/>mento corporis et sanguinis Christi. Archidiaconus
+<lb ed="#P" n="11"/>autem hoc plus habet, quod praeter ministerium
+<lb ed="#P" n="12"/>altaris sub episcopo et vice episcopi curam habet
+<lb ed="#P" n="13"/>Ecclesiarum; et causas ecclesiasticas examinat et
+<lb ed="#P" n="14"/>ministeria dispensat. Similiter sacerdos et 
+ponti<lb ed="#P" break="no" n="15"/>fex sive summus sacerdos unus gradus et in 
+sacra<lb ed="#P" break="no" n="16"/>mento, diversa tamen potestas in ministerio; quia 
+<lb ed="#P" n="17"/>cum utrisque corporis et sanguinis Christi 
+con<lb ed="#P" break="no" n="18"/>secrandi, baptizandi, catechizandi, predicandi,
+<lb ed="#P" n="19"/>ligandi, solvendi, una quodammodo sit dignitas,
+<lb ed="#P" n="20"/>pontificibus tamen Ecclesias dedicandi, ordines
+<lb ed="#P" n="21"/>faciendi, manus imponendi, sacri chrismatis 
+con<lb ed="#P" break="no" n="22"/>secrandi, communem super populum 
+benediotio<lb ed="#P" break="no" n="23"/>nem faciendi, singularis data est potestas. Sic
+<lb ed="#P" n="24"/>itaque alia est, differentia graduum in sacris
+<lb ed="#P" n="25"/>ordinibus; alia est in eodem gradu differentia
+<lb ed="#P" n="26"/>dignitatum. Ordo autem alius est in potestate 
+ter<lb ed="#P" break="no" n="27"/>rena vel szxculari , et alius in potestate spirituali.
+</p>
+               <p xml:id="hsvhsv-g34440-d1e735">
+                  <cb ed="#P" n="b"/>
+                  <lb ed="#P" n="28"/>Cap. VI. De potestate terrena.
+</p>
+               <p xml:id="hsvhsv-g34440-d1e742">
+                  <lb ed="#P" n="29"/>Potestas terrena pertinet ad vitam terrenam.
+<lb ed="#P" n="30"/>Et omnia qure ad terrenam vitam spectant 
+sub<lb ed="#P" break="no" n="31"/>jecta sunt terrene potestati. Haec autem omnia
+<lb ed="#P" n="32"/>dupliciter pertinent ad jus terrens potestatis, ut.
+<lb ed="#P" n="33"/>videlicet ipsa terrena potestas haec et 
+possidenti<lb ed="#P" break="no" n="34"/>bus secundum justitiam distribuat ; et contra
+<lb ed="#P" n="35"/>injustitiam impugnantium defendat. Sicut autem
+<lb ed="#P" n="36"/>prelatorum debitum est subjectis possidenda
+<lb ed="#P" n="37"/>juste dispensare, et eos contra injustitiam 
+defen<lb ed="#P" break="no" n="38"/>dere, sic subjectorum debitum est secundum
+<lb ed="#P" n="39"/>instituta legum et rationabiles consuetudines,
+<lb ed="#P" n="40"/>przlatis et in se et in suis servitium exhibere.
+</p>
+               <p xml:id="hsvhsv-g34440-d1e772">
+                  <lb ed="#P" n="41"/>Est autem servitium aliud determinatum, sicut
+<lb ed="#P" n="42"/>censusettributum quzannuatim solvuntur. Aliud
+<lb ed="#P" n="43"/>fortuitum quod videlicet pro qulpis ex casu 
+acci<lb ed="#P" break="no" n="44"/>dentibus exigitur. Quod et ipsum licet secundum
+<lb ed="#P" n="45"/>mensuram peccati legibus determinatum sit; in
+<lb ed="#P" n="46"/>hoc tamen quodammodo determinatum non est,
+<lb ed="#P" n="47"/>quia eventus ejus certus non est, neque exigi
+<lb ed="#P" n="48"/>jure potest, nisi cum acciderit culpa pro qua 
+per<lb ed="#P" break="no" n="49"/>solvendum est. Hzc ergo est discretio terrens
+<lb ed="#P" n="50"/>potestatis, ut sciatur quod Prlati subjectis, vel
+<lb ed="#P" n="51"/>quod subjecti pradatis exhibere debent pro ipsa
+<lb ed="#P" n="52"/>terra vel terrena substantia circa quam utrique
+<lb ed="#P" n="53"/>debitum pensatur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g34440-Dd1e804">
+               <head xml:id="hsvhsv-g34440-Hd1e806">Capitulum 7</head>
+               <head xml:id="hsvhsv-g34440-Hd1e808" type="question-title"/>
+               <p xml:id="hsvhsv-g34440-d1e810">
+                  <lb ed="#P" n="54"/>Cap. VII. Quomodo Ecclesia terrena possideat.
+</p>
+               <p xml:id="hsvhsv-g34440-d1e815">
+                  <lb ed="#P" n="55"/>De his autem terrenis bonis ad terrenam vitam
+<lb ed="#P" n="56"/>pertinentibus, quae vel possident prelati in 
+sub<lb ed="#P" break="no" n="57"/>jectis, vel subjecti possident a prelatis; quzedam.
+<lb ed="#P" n="58"/>Ecclesiis Christi devotione fidelium concessa sunt.
+<lb ed="#P" n="59"/>possidenda; salvo tamen jure terrenae potestatis.
+<lb ed="#P" n="60"/>Sic enim rationabile est et bonum ; quia Deus
+<cb ed="#P" n="c"/>
+                  <lb ed="#P" n="61"/>noster pacis amator est, et nihil inordinatum
+<lb ed="#P" n="62"/>approbare potest vera justitia. Spiritualis siquidem
+<lb ed="#P" n="63"/>potestas non ideo praesidet ut terrenae in suo jure
+<lb ed="#P" n="64"/>prejudicium faciat, sicut ipsa terrena potestas
+<lb ed="#P" n="65"/>quod spirituali debetur, nunquam sine culpa 
+usur<lb ed="#P" break="no" n="66"/>pat. Sic igitur, quando hujusmodi quae ad 
+terre<lb ed="#P" break="no" n="67"/>nam spectant potestatem Ecclesiis Christi 
+conce<lb ed="#P" break="no" n="68"/>duntur, ii quidem largitores sunt muneris, hoc
+<lb ed="#P" n="69"/>solum concedere possunt in ea quod possident ;
+<lb ed="#P" n="70"/>quia necsubjecti id quod suis superioribus debetur
+<lb ed="#P" n="71"/>ad aliam possunt transferre potestatem, nec 
+pra<lb ed="#P" break="no" n="72"/>latiin his quae justea subjectis possidentur alienos
+<lb ed="#P" n="73"/>possessores inducere. Hoc est ut nec pralati id
+<lb ed="#P" n="74"/>quod subditorum est aliis tribuant, nec subjecti
+<lb ed="#P" n="75"/>id quod prelatorum est immutare presumant.
+<lb ed="#P" n="76"/>Notandum tamen quod principes terreni in 
+terre<lb ed="#P" break="no" n="77"/>nis possessionibus quas vel in subjectis, vel sine
+<lb ed="#P" n="78"/>subjectis possident, Ecclesiae aliquando concedunt
+<lb ed="#P" n="79"/>solam utilitatenn; aliquando et ut:::tatem et 
+potes<lb ed="#P" break="no" n="80"/>tatem. Utilitatem sine potestate concedunt, quando
+<lb ed="#P" n="81"/>fructum quidem possessionis ad usum Ecclesise
+<lb ed="#P" n="82"/>transferri decernunt; sed potestatem justitie
+<lb ed="#P" n="83"/>exercende in ipsa possessione ad ejus 
+juriadictio<lb ed="#P" break="no" n="84"/>nem transire non permittunt. Aliquando et 
+po<lb ed="#P" break="no" n="85"/>testatem et utilitatem simul tribuunt. Ubi tamen
+<lb ed="#P" n="86"/>diligenterattendum est, quodlicet Ecclesia fructum
+<lb ed="#P" n="87"/>terrens possessionis in usum accipiat; potestatem
+<lb ed="#P" n="88"/>tamen exercendo justitie per ecclesiasticas 
+per<lb ed="#P" break="no" n="89"/>sonas, aut judicia saeecularia non potest exercere;
+<lb ed="#P" n="90"/>potest tamen ministros habere laicas personas
+<lb ed="#P" n="91"/>per quas jura ac judicia ad terrenam potestatem
+<lb ed="#P" n="92"/>pertinentia secundum tenorem legum, et debitum
+<lb ed="#P" n="93"/>juris terreni exerceat. Sic tamen ut et ipsum quod
+<lb ed="#P" n="94"/>potestatem habet a principe terreno se habere
+<lb ed="#P" n="95"/>agnoscat; et ipsas possessiones nunquam ita a.
+<lb ed="#P" n="96"/>regia potestate elongari posse intelligat, quando
+<lb ed="#P" n="97"/>8i ratio postulaverit et necessitas, ct illis ipsa 
+po<lb ed="#P" break="no" n="98"/>testas debeat patrocinium, et illi ipse posessiones
+<lb ed="#P" n="99"/>debeant in necessitate obsequium. Sicut enim
+<lb ed="#P" n="100"/>regia potestas patrocinium quod debet alteri non
+<lb ed="#P" n="101"/>potest dare; sic ipsa possessio etiam ab 
+ecclesiasti<lb ed="#P" break="no" n="102"/>cis personis obtenta, obsequium quod regiae 
+po<lb ed="#P" break="no" n="103"/>lestati pro patrocinio debetur jure negare non
+<lb ed="#P" n="104"/>potest. Sicut scriptum est: Reddite quae sunt 
+Ca<lb ed="#P" break="no" n="105"/>saris Cesari, et qug sunt Dei Dco (Matth. xxi).
+</p>
+            </div>
+            <div xml:id="hsvhsv-g34440-Dd1e931">
+               <head xml:id="hsvhsv-g34440-Hd1e933">Capitulum 8</head>
+               <head xml:id="hsvhsv-g34440-Hd1e935" type="question-title"/>
+               <p xml:id="hsvhsv-g34440-d1e937">
+                  <lb ed="#P" n="106"/>Cap. VIII Quod modis in seculari potestate
+<lb ed="#P" n="107"/>determinanda est justitia.
+</p>
+               <p xml:id="hsvhsv-g34440-d1e944">
+                  <lb ed="#P" n="108"/>Sciendum vero est quod justitia illa quae terrena
+<lb ed="#P" n="109"/>potestati in subjectis data est, quinque modis
+<lb ed="#P" n="110"/>determinatur, secundum personam, secundum
+<lb ed="#P" n="111"/>causam, secundum modum, secundum locum, et
+<lb ed="#P" n="112"/>secundum tempus. Nam quod aliquo modo licet,
+<lb ed="#P" n="113"/>non statim omni modo licet, et ipsa justitia nisi
+<lb ed="#P" n="114"/>juste exhibita fuerit, justitiv nomen amittit. 
+Qua<lb ed="#P" break="no" n="115"/>propter quod licet perspiciendum est diligenter
+<lb ed="#P" n="116"/>quomodo licet, et considerandi sunt modi quibus
+<lb ed="#P" n="117"/>justitiae forma determinatur. Secundum personam
+<lb ed="#P" n="118"/>aliquid licet; et aliquid non licet quemadmodum
+<lb ed="#P" n="119"/>saeculari judici in personam laicam si peccaverit
+<lb ed="#P" n="120"/>manum mittero licet, in clericum non licet. 
+Se<lb ed="#P" break="no" n="121"/>cundum causam justitia determinatur, ut videli-
+<!-- 129.png.txt -->
+<pb ed="#P" n="211"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>cet, negotia saecularia a potestate terrena ; 
+spiri<lb ed="#P" break="no" n="2"/>tualia vero et ecclésiastica a spirituali potestate
+<lb ed="#P" n="3"/>examinentur. Secundum modum sive mensuram
+<lb ed="#P" n="4"/>justitia determinatur, cum videlicet quielibet
+<lb ed="#P" n="5"/>culpa congrua et sibi convenienti poena multatur,
+<lb ed="#P" n="6"/>ut nec privatus amor in vindicta zequitatis aliquid
+<lb ed="#P" n="7"/>subtrahat, neque odium privatum adjiciat debitze
+<lb ed="#P" n="8"/>severitati. Secundum locum et tempus 
+determi<lb ed="#P" break="no" n="9"/>natur justitia; si ubi et quando convenit judicium
+<lb ed="#P" n="10"/>exercetur, et profertur veritatis sententia. 
+Secun<lb ed="#P" break="no" n="11"/>dum personam ergo justitia violaretur ; si judex
+<lb ed="#P" n="12"/>secularis in ecclesiasticam personam manum
+<lb ed="#P" n="13"/>mitteret. Secundum causam, si ecclesiastica 
+nego<lb ed="#P" break="no" n="14"/>tia examinanda susciperet. Secundurn mensuram,
+<lb ed="#P" n="15"/>si mendacium vel maledictum suspendio puniret.
+<lb ed="#P" n="16"/>Secundum locum, si loca sacra violare 
+praesume<lb ed="#P" break="no" n="17"/>ret; et confugientibus ad illa etiam reis et pro suis
+<lb ed="#P" n="18"/>sceleribus condemnandis inordinate violentiam
+<lb ed="#P" n="19"/>inferre tentaret. Secundum tempus si sacris et
+<lb ed="#P" n="20"/>solemnibus diebus reverentiam non exhiberet,
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="21"/>quando et his parcendum est quibus pro culpis
+<lb ed="#P" n="22"/>suis supplicia debentur. His igitur módis secularis
+<lb ed="#P" n="23"/>potestas justitiam exercere debet, legum instituta
+<lb ed="#P" n="24"/>sequens, et nihil praeter justitiam et veritatem
+<lb ed="#P" n="25"/>approbans in judicando. Secularis autem potestas
+<lb ed="#P" n="26"/>caput habet regem sive imperatorem ab illo per
+<lb ed="#P" n="27"/>subjectas potestates duces, et comites et praefectos,
+<lb ed="#P" n="28"/>etinagistratus alios; descendens qui tamen omnes
+<lb ed="#P" n="29"/>a prima potestate auctoritatem sumunt in eo quod
+<lb ed="#P" n="30"/>subjectis praelati existunt.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g34440-Dd1e1052">
+               <head xml:id="hsvhsv-g34440-Hd1e1054">Capitulum 9</head>
+               <head xml:id="hsvhsv-g34440-Hd1e1056" type="question-title"/>
+               <p xml:id="hsvhsv-g34440-d1e1058">
+                  <lb ed="#P" n="31"/>Cap. IX. De ornamentis regiis.
+</p>
+               <p xml:id="hsvhsv-g34440-d1e1063">
+                  <lb ed="#P" n="32"/>Habet autem potestas secularis ornamenta
+<lb ed="#P" n="33"/>quedam dignitatis sue, quibus et excellentia
+<lb ed="#P" n="34"/>ordinis ostenditur, et sacramentum ministerii
+<lb ed="#P" n="35"/>figuratur. Annuius fidem, armilla bonam 
+opera<lb ed="#P" break="no" n="36"/>tionem, sceptrum justitiam, gladius vindictam,
+<lb ed="#P" n="37"/>purpura reverentiain, diadema gloriam designat.
+<lb ed="#P" n="38"/>Et haec quidem in praesenti de s:eculari potestate
+<lb ed="#P" n="39"/>dicta sufficiant.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

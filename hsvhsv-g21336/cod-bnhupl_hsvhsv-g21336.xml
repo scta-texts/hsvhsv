@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pars 9</title>
+            <author ref="#HughOfStVictor">Hugh of St. Victor</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Pars 9</title>
+               <date when="2023-03-25">March 25, 2023</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-bnhupl">Patrologia Latina, v. 176</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2023-03-25" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="159"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="hsvhsv-g21336"><!-- l1-p9 -->
+            <head xml:id="hsvhsv-g21336-Hd1e101">Pars 9</head>
+            <head xml:id="hsvhsv-g21336-Hd1e103" type="question-title">
+De institutione sacramentorum
+</head>
+            <p xml:id="hsvhsv-g21336-d1e106">
+               <cb ed="#P" n="c"/>
+               <lb ed="#P" n="25"/>PARS NONA.
+<lb ed="#P" n="26"/>DE INSTITUTIONE SACRAMENTORUM.
+</p>
+            <div xml:id="hsvhsv-g21336-Dd1e115">
+               <head xml:id="hsvhsv-g21336-Hd1e117">Capitulum 1</head>
+               <head xml:id="hsvhsv-g21336-Hd1e119" type="question-title"/>
+               <p xml:id="hsvhsv-g21336-d1e121">
+                  <cb ed="#P" n="d"/>
+                  <lb ed="#P" n="27"/>CAP. PRIMUM. Quatuor esse consideranda in 
+<lb ed="#P" n="28"/>institutione. sacramentorum.
+</p>
+               <p xml:id="hsvhsv-g21336-d1e130">
+                  <lb ed="#P" n="29"/>Tractare volentibus de sacramentis, quatuor 
+pri<lb ed="#P" break="no" n="30"/>mum consideranda sunt. Primum videlicet quid
+<lb ed="#P" n="31"/>sacramentum. Secundum, quare instituta sint 
+sa<lb ed="#P" break="no" n="32"/>cramenta. Tertium, quae sit uniuscujusque materia.
+<lb ed="#P" n="33"/>sacramentiin qua conficitur et sanctificatur. 
+Quar<lb ed="#P" break="no" n="34"/>tum, quo* sint genera sacramentorum. Hoc est
+<lb ed="#P" n="35"/>diffinitio, causa, materia divisio. Hic enim 
+qua<lb ed="#P" break="no" n="36"/>tuor si diligenti prosecutione discussa fuerint,
+<lb ed="#P" n="37"/>intelligentiam facere potuerunt de his quae 
+propo<lb ed="#P" break="no" n="38"/>sita gunt. Primum ergo primo tractandum 
+susci<lb ed="#P" break="no" n="39"/>pimus.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g21336-Dd1e157">
+               <head xml:id="hsvhsv-g21336-Hd1e159">Capitulum 2</head>
+               <head xml:id="hsvhsv-g21336-Hd1e161" type="question-title"/>
+               <p xml:id="hsvhsv-g21336-d1e163">
+                  <lb ed="#P" n="40"/>Cap. II. Quid sit sacramentum.
+<lb ed="#P" n="41"/>Quid sit sacramentum, doctores brevi 
+descrip<lb ed="#P" break="no" n="42"/>tione designaverant: «Sacramentum est sacra rei
+<lb ed="#P" n="43"/>signum.» Quemadmodum enim in homine duo
+<lb ed="#P" n="44"/>sunt, corpus et anima, et in una Scriptura duo 
+si<lb ed="#P" break="no" n="45"/>militer, littera et sensus, sic et in omni sacramento
+<lb ed="#P" n="46"/>aliud est quod visibiliter foristractaturetcernitur,
+<lb ed="#P" n="47"/>aliud est quod invisibiliter intus creditur et 
+prae<lb ed="#P" break="no" n="48"/>cipitur. Quod foris est visibile et materiale, 
+sacra<lb ed="#P" break="no" n="49"/>mentum est; quod intus est invisibile et spirituale,
+<lb ed="#P" n="50"/>res aive virtus sacramenti est; semper tamen 
+sa<lb ed="#P" break="no" n="51"/>eramentum quod foris tractatur et sanctificatur ;
+<lb ed="#P" n="52"/>signum est spiritualis gratiz, qute res sucramenti
+<lb ed="#P" n="53"/>est et invisibiliter percipitur. Sed, quia non omne
+<lb ed="#P" n="54"/>tignum rei sacre sacramentum ejusdem 
+conve<lb ed="#P" break="no" n="55"/>nienter dici potest (quoniam et littere sacrorum
+<lb ed="#P" n="56"/>sensuum et forms sive picture sacrarum rerum
+<lb ed="#P" n="57"/>signa sunt, quarum tamen sacramenta 
+rationabi<lb ed="#P" break="no" n="58"/>liter dici non possunt) idcirco supra memorata
+<lb ed="#P" n="59"/>descriptio ad interpretationem sive expressionem
+<lb ed="#P" n="60"/>vocis magis quam ad diffinitionem referenda 
+vide<lb ed="#P" break="no" n="61"/>tnr. Si quis autem plenius et perfectius quid sit
+<lb ed="#P" n="62"/>sacramentum difünire voluerit, difünire potest
+<lb ed="#P" n="63"/>quod « sacramentum est corporale vel materiale
+<lb ed="#P" n="64"/>elementum foris sensibiliter propositum ex simili
+<lb ed="#P" n="65"/>1udine repraesentans, et ex institutione significans,
+<lb ed="#P" n="66"/>et ex sanctificatione continensaliquam invisibilem
+<lb ed="#P" n="67"/>et spiritalem gratiam.» Hoc diffinitio ita propria
+<cb ed="#P" n="e"/>
+                  <lb ed="#P" n="68"/>ac perfecta agnoscitur, ut omni sacramento 
+soli<lb ed="#P" break="no" n="69"/>que convenire inveniatur. Omne enim quod haec
+<lb ed="#P" n="70"/>tria habet, sacramentum est, et omne quod his 
+tri<lb ed="#P" break="no" n="71"/>bus caret, sacramentum proprie dici non potest.
+<lb ed="#P" n="72"/>Debet enim omne sacramentum similitudinem
+<lb ed="#P" n="73"/>quamdam habere ad ipsam rem cujus est 
+sacra<lb ed="#P" break="no" n="74"/>mentum, secundum quam habile sit ad eamdem
+<lb ed="#P" n="75"/>rem suam reprzsentandam. Institutionem quoque
+<lb ed="#P" n="76"/>per quam ordinatum sit ad illam significandam.
+<lb ed="#P" n="77"/>Postremo sanctificationem per quam illam 
+conti<lb ed="#P" break="no" n="78"/>neat, et efficax sit ad eamdem sanctificandis 
+con<lb ed="#P" break="no" n="79"/>ferendam. Hoc autem interesse videtur, quod omne
+<lb ed="#P" n="80"/>sacramentum similitudinem quidem habet ex
+<lb ed="#P" n="81"/>prima eruditione, institutionem ex superaddita
+<lb ed="#P" n="82"/>dispensatione, senctificationem ex apposita verbi,
+<lb ed="#P" n="83"/>vel signi benedictione. Ut ergo in uno sacramento
+<lb ed="#P" n="84"/>ea qua de omnibus dicta sunt tria hsc qualiter
+<lb ed="#P" n="85"/>sint agnoscamus, aquam baptismatis pro exemplo
+<lb ed="#P" n="86"/>assumimus. Ibi enim est aquae visibile elenentum
+<lb ed="#P" n="87"/>quod est sacramentum, et inveniuntur haec tria
+<lb ed="#P" n="88"/>in uno: reprzsentatio ex similitudine, significatio
+<lb ed="#P" n="89"/>ex institutione, virtus ex sanctificatione. Ipsa 
+si<lb ed="#P" break="no" n="90"/>militudo ex creatione est; ipsa institutio ex 
+dis<lb ed="#P" break="no" n="91"/>pensatione; ipaa sanctifleatio ex benedictione.
+<lb ed="#P" n="92"/>Prima indita per Creatorem ; secunda adjuncta
+<lb ed="#P" n="93"/>per Salvatorem, tertia ministrata per 
+dispensato<lb ed="#P" break="no" n="94"/>rem. Est ergo aqua visibilis sacramentum, et gratia.
+<lb ed="#P" n="95"/>invisibilis, res sive virtus sacramenti. Habet 
+au<lb ed="#P" break="no" n="96"/>tem omnis aqua ex naturali qualitate 
+similitudi<lb ed="#P" break="no" n="97"/>nem quamdam cum gratia Spiritus sancti; quia,
+<lb ed="#P" n="98"/>Bicut haec abluit sordes corporum, ita illa mundat
+<lb ed="#P" n="99"/>inquinamenta animarum. Et ex hac quidem 
+inge<lb ed="#P" break="no" n="100"/>nita qualitate omnis aqua spiritalem gratiam 
+re<lb ed="#P" break="no" n="101"/>presentare habuit, priusquam etiam illam ex
+<lb ed="#P" n="102"/>superaddita institutionesignificavit. Venit autem
+<lb ed="#P" n="103"/>Salvator et instituit visibilem aquam per 
+ablutio<lb ed="#P" break="no" n="104"/>nem corporum ad significandam invisibilem, per
+<lb ed="#P" n="105"/>spiritalem gratiam emundationem animarum. Et
+<lb ed="#P" n="106"/>ex eo jam aqua non ex sola naturali similitudine
+<lb ed="#P" n="107"/>representat, sed ex superaddita institutione 
+si<lb ed="#P" break="no" n="108"/>gnificat gratiam spiritalem. Sed quia haec, duo,
+<!-- 078.png.txt -->
+<pb ed="#P" n="160"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>Sicut diximus, nondum adhuc sufficiunt ad 
+perfec<lb ed="#P" break="no" n="2"/>tionem : accedit verbum sanctificationis ad 
+ele<lb ed="#P" break="no" n="3"/>mentum et fit sacramentum, ut sit sacramentum
+<lb ed="#P" n="4"/>aqua visibilis ex similitudine representan, ex 
+in<lb ed="#P" break="no" n="5"/>Btitutione significans, ex sanctificatione continens
+<lb ed="#P" n="6"/>spiritualem gratiam. Ad hunc modum in ceteris
+<lb ed="#P" n="7"/>quoque sacramentis haec tria considerare oportet.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g21336-Dd1e341">
+               <head xml:id="hsvhsv-g21336-Hd1e343">Capitulum 3</head>
+               <head xml:id="hsvhsv-g21336-Hd1e345" type="question-title"/>
+               <p xml:id="hsvhsv-g21336-d1e347">
+                  <lb ed="#P" n="8"/>Cap. III Quare instituta sint sacramenta.
+</p>
+               <p xml:id="hsvhsv-g21336-d1e352">
+                  <lb ed="#P" n="9"/>Prima ergo propositionis parte exposita, ad 
+se<lb ed="#P" break="no" n="10"/>cundam transeamus. Triplici ex causa sacramenta
+<lb ed="#P" n="11"/>instituta esse noscuntur. Propter hurmiliationem,
+<lb ed="#P" n="12"/>propter eruditionem, propter exercitationem. 
+Pro<lb ed="#P" break="no" n="13"/>pter humiliationem quidem ut dum homo 
+rationa<lb ed="#P" break="no" n="14"/>lis creatura insensibilibus elementis (quae natura
+<lb ed="#P" n="15"/>infra ipsum condita fuerunt) ex praecepto Creatoris  
+<lb ed="#P" n="16"/>sui subjicitur, ex hac ipsa sua humiliatione 
+Crea<lb ed="#P" break="no" n="17"/>tori suo reconciliari mereatur. Homo namque ita
+<lb ed="#P" n="18"/>factus erat ut bonum ejus solus ille esset a quo
+<lb ed="#P" n="19"/>erat ; cetera omnia sub ipso facta sunt, non ut in
+<lb ed="#P" n="20"/>eis esset ejus bonum, sed ut ex eis esset illius
+<lb ed="#P" n="21"/>obsequium. Omne enim bonum, majus est illo 
+cu<lb ed="#P" break="no" n="22"/>jusest bonum; quia verebonum non est, nisi quod
+<lb ed="#P" n="23"/>bonum facitillum cujus est bonum. Omnis ergo qui
+<lb ed="#P" n="24"/>bonus est, et ex bono suo bonus est; inferior est
+<lb ed="#P" n="25"/>ipso bono quo bonus est, quia sine ipso bono 
+bo<lb ed="#P" break="no" n="26"/>nus non est. Si ergo bonura hominis supra 
+homi<lb ed="#P" break="no" n="27"/>nem erat, solusillebonum hominis erat qui supra
+<lb ed="#P" n="28"/>hominem erat. Huic ergo bono homo quandiu in
+<lb ed="#P" n="29"/>ordine conditionis suce perstitit immediate 
+junge<lb ed="#P" break="no" n="30"/>batur et ex eo libere fruebatur, quia et voluntate (; 
+<lb ed="#P" n="31"/>ad illud ibat, et libertato in illo stabat. Postquam
+<lb ed="#P" n="32"/>autem per concupiscentiam abstractus a superiori
+<lb ed="#P" n="33"/>avertebatur; ad inferiora conversus 
+prtwecipitaba<lb ed="#P" break="no" n="34"/>tur, et illi se subjiciebat quod bonum suum 
+fa<lb ed="#P" break="no" n="35"/>ciebat. Justa igitur recompensatione qui suo 
+su<lb ed="#P" break="no" n="36"/>periori per obedientiam subjectus esse noluit; per
+<lb ed="#P" n="37"/>concupiscentiam suo se inferiori subjecit, ut jam
+<lb ed="#P" n="38"/>ipsuminter se Deum medium inveniat divisionis,
+<lb ed="#P" n="39"/>non mediatorem reconciliationis. Hoc enim medio
+<lb ed="#P" n="40"/>dividente humana mens et obnubilatur ne 
+Creato<lb ed="#P" break="no" n="41"/>rem suum agnoscere valeat: et refrigescit neipsum
+<lb ed="#P" n="42"/>per dilectionem requirat. Justum ergoest uthomo
+<lb ed="#P" n="43"/>qui prius Deum superbiendo deserens, se terrenis
+<lb ed="#P" n="44"/>per concupiscentiam subdidit; nunc per 
+humili<lb ed="#P" break="no" n="45"/>tatem Deum requirens (ut plenius affectum suse D
+<lb ed="#P" n="46"/>devotionis insinuet) eisdem se propter praeceptum
+<lb ed="#P" n="47"/>Deiperobedientiam inclinet. Sicutenim perniciosa
+<lb ed="#P" n="48"/>fuit elatio superiori nolle subjici, sic laudabilis et
+<lb ed="#P" n="49"/>fructuosa devotio est propter superiorem etiam
+<lb ed="#P" n="50"/>inferioribus inclinari. Et quemadmodum 
+damna<lb ed="#P" break="no" n="51"/>bilis fuit superbia praesentem despicere, sic 
+lauda<lb ed="#P" break="no" n="52"/>bilis humilitas est absentem quierere, et 
+perseve<lb ed="#P" break="no" n="53"/>ranti amore usque ad inventionem ad inquisitione
+<lb ed="#P" n="54"/>non cessare. ut sit devetio in humilitate, et 
+humi<lb ed="#P" break="no" n="55"/>litas in devotione. Nemo siquidem est qui nesciat
+<lb ed="#P" n="56"/>hominem rationalem mutis et insensibilibus 
+ele<lb ed="#P" break="no" n="57"/>mentis conditione superiorem existere; et tamen
+<lb ed="#P" n="58"/>cum idem homo in his salutem quizrerejubetur ud
+<lb ed="#P" n="59"/>experiendam obedientie ipsius virtutem; quid
+<lb ed="#P" n="60"/>aliud quam suo inferiori superior subjicitur? Hoc
+<lb ed="#P" n="61"/>propter quod infidelium oculi (qui visibilia solum
+<cb ed="#P" n="b"/>
+                  <!-- right side is clipped -->
+                  <lb ed="#P" n="62"/>vident) sacramenta salutis venerari despic
+<lb ed="#P" n="63"/>quia in eis tantum quod foris est contemptibi
+<lb ed="#P" n="64"/>specie visibili cernentes, invisibilem virtuter
+<lb ed="#P" n="65"/>tus et fructum obedienti: non agnoscunt.
+<lb ed="#P" n="66"/>enim sciunt quod fideles salutem ex istis elem
+<lb ed="#P" n="67"/>non quzrunt, etiam si in istis quierunt; s
+<lb ed="#P" n="68"/>illoet abillo querunt in istis a quo jube
+<lb ed="#P" n="69"/>quaerere et credunt se percipere in istis. Non
+<lb ed="#P" n="70"/>ista tribuunt quod tribuitur per ista, sed ill
+<lb ed="#P" n="71"/>ista salutem praebet qui in istis salutem qus
+<lb ed="#P" n="72"/>jubet. Hoc modo igitur intelligendum est
+<lb ed="#P" n="73"/>invisibilia sacramenta propter humiliationer
+<lb ed="#P" n="74"/>minis diximus instituta. Propter eruditi
+<lb ed="#P" n="75"/>quoque instituta sunt sacramenta, ut per id:
+<lb ed="#P" n="76"/>foris in sacramento in specie visibili cernitu
+<lb ed="#P" n="77"/>invisibilem virtutem quiae intus in re sacrae
+<lb ed="#P" n="78"/>constat agnoscendam mens humana erudi:
+<lb ed="#P" n="79"/>Homo enim qui visibilia noverat, invisibilia
+<lb ed="#P" n="80"/>noverat; divina agnoscere nullatenus posset
+<lb ed="#P" n="81"/>humanis excitatus. Et idcirco dum ei bonur
+<lb ed="#P" n="82"/>visibile quod admiserat redditur, foris ei ejus
+<lb ed="#P" n="83"/>significatio per species visibiles adhibetur, ut
+<lb ed="#P" n="84"/>excitetur; et intus reparetur, ut in eo quod tr:
+<lb ed="#P" n="85"/>et videt, agnoscat quale sit quod percipit et
+<lb ed="#P" n="86"/>videt. Dona enim gratie spiritualia quasi qus
+<lb ed="#P" n="87"/>invisibilia antidota sunt, quae dum in sacram
+<lb ed="#P" n="88"/>visibilibus quasi quibusdam vasculis homini
+<lb ed="#P" n="89"/>riguntur, quid aliud quam ex patenti specie v
+<lb ed="#P" n="90"/>occulta ostenditur ? ZEger enim medicamer
+<lb ed="#P" n="91"/>videre non potest, sed vas in quo medicamet
+<lb ed="#P" n="92"/>datur videre potest. Et propter hoc in ipsa -
+<lb ed="#P" n="93"/>Specie virtus exprimitur medicinz, ut agn«
+<lb ed="#P" n="94"/>quid accipit, et per ipsam agnitionem proficit
+<lb ed="#P" n="95"/>dilectionem. Sic itaque intelligendum est «
+<lb ed="#P" n="96"/>diximus propter eruditionem sacramentainsti
+<lb ed="#P" n="97"/>Propter exercitationem similiter instita
+<lb ed="#P" n="98"/>Sacramenta, ut dum mens humana per vw:
+<lb ed="#P" n="99"/>operum species foris exercitata colitur, ad mr
+<lb ed="#P" n="100"/>plicem virtutis fructum interius fecundetur.
+<lb ed="#P" n="101"/>num quidem hominisunum erat; et quandiu h
+<lb ed="#P" n="102"/>illi per dilectionem adhiesit non eguit hac m
+<lb ed="#P" n="103"/>plicitate. Postquam autem mentem suam per
+<lb ed="#P" n="104"/>cupiscentiam ad multiplicia hac et transitor
+<lb ed="#P" n="105"/>vidi permisit ; stabilis esse non potuit, quia :
+<lb ed="#P" n="106"/>multa diligens in his per affectum dividitui
+<lb ed="#P" n="107"/>mutabilia sequens variatur. Quidquid enim i:
+<lb ed="#P" n="108"/>omnibus ad requiem et consolationem appetit
+<lb ed="#P" n="109"/>ei mutabilitatis conditio ad laborem et dok
+<lb ed="#P" n="110"/>convertit. Unde fit ut sicut ad haec ne deficis
+<lb ed="#P" n="111"/>compellitur, sic ab his postmodum ut requi
+<lb ed="#P" n="112"/>exire cogatur, ut appareat alter Cain vagi
+<lb ed="#P" n="113"/>profugus super terram (Gen. uni). Vagus in v
+<lb ed="#P" n="114"/>quierens consolationem. Profugus, inventam
+<lb ed="#P" n="115"/>que declinans afflictionem. Ambulat hom.
+<lb ed="#P" n="116"/>semper ambulaverit deficit. Sedet ergo vel st:
+<lb ed="#P" n="117"/>deficiat, et tamen si semper sederit, deficit. :
+<lb ed="#P" n="118"/>rimus et deficimus, manducamus ne deflcia:
+<lb ed="#P" n="119"/>et tamen si semper manducaremus deficere
+<lb ed="#P" n="120"/>et vertitur ad dolorem quod quesitum est ad.
+<lb ed="#P" n="121"/>solationem. Sic omnis mutabilitas hominis d
+<lb ed="#P" n="122"/>tum habet non profectum; et deficimus quia
+<lb ed="#P" n="123"/>tamur, qui tamen nunquam mutari cessamu
+<!-- 079.png.txt -->
+<pb ed="#P" n="161"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>deficiamus. Quia ergo vita hominis hic sine 
+muta<lb ed="#P" break="no" n="2"/>bilitate esse non potest, contra illam (quee defectum
+<lb ed="#P" n="3"/>generat) mutabilitatem alia ei mutabilitas quae
+<lb ed="#P" n="4"/>profectum parit opponitur; ut, quia stare non 
+po<lb ed="#P" break="no" n="5"/>test ut semper ut idem sit, moveatur et 
+promo<lb ed="#P" break="no" n="6"/>veatur semper melior sit. Primum enim bonum
+<lb ed="#P" n="7"/>erat in summo stare. Secundum est bonum ad
+<lb ed="#P" n="8"/>superiora ascendere. Et idcirco vita mutabilis ne
+<lb ed="#P" n="9"/>sua mobilitate dissoluta ad deteriora semper 
+de<lb ed="#P" break="no" n="10"/>ficeret; talibus studiis nutrienda fuerat in quibus
+<lb ed="#P" n="11"/>et rerum varietate foris excitata, et amulatione
+<lb ed="#P" n="12"/>virtutum intus accensa, proficiendi occasionem
+<lb ed="#P" n="13"/>inveniret. Divisa sunt tempora et distincta loca,
+<lb ed="#P" n="14"/>proposite species corporales, injuncta studia et
+<lb ed="#P" n="15"/>opera exercenda, ut medicinam interioris hominis
+<lb ed="#P" n="16"/>exterio homo praepararet, et ei subesse et prodesse
+<lb ed="#P" n="17"/>addisceret. Nam cum prius humana vita per duo
+<lb ed="#P" n="18"/>exercitationum genera cucurrisset in altero ad
+<lb ed="#P" n="19"/>necessitatem, in altero. ad voluptatem, in altero
+<lb ed="#P" n="20"/>ad usum, in altero ad vitium; ad usum pro natura,
+<lb ed="#P" n="21"/>ad vitium pro culpa, alterum ad sustentationem,
+<lb ed="#P" n="22"/>alterum ad subversionem, congruum erat ut 
+ter<lb ed="#P" break="no" n="23"/>tium quoque exercitationis genus adjungeretur,
+<lb ed="#P" n="24"/>ut per illud unum e duobus primis evacuaretur,
+<lb ed="#P" n="25"/>quia erat nocens ; alterum perficeretur, quia non
+<lb ed="#P" n="26"/>erat sufficiens. Proposita sunt ergo homini foris
+<lb ed="#P" n="27"/>opera virtutum ad zdificationem interiorem 
+exer<lb ed="#P" break="no" n="28"/>cendam, ut illis praeoccupatus, nec unquam 
+vaca<lb ed="#P" break="no" n="29"/>ret ad opera iniquitatis, nec semper ad opera
+<lb ed="#P" n="30"/>necessitatis. In his autem virtutum studiis 
+mira<lb ed="#P" break="no" n="31"/>bili dispensatione Deus et multiplicitatem 
+previ<lb ed="#P" break="no" n="32"/>dit, et varietatem, et intermissionem, ut humana
+<lb ed="#P" n="33"/>mens etin multiplicitate exercitationem, et in
+<lb ed="#P" n="34"/>varietate delectationem, et in intermissione 
+re<lb ed="#P" break="no" n="35"/>creationem inveniat. Sacrata sunt quaedam loca,
+<lb ed="#P" n="36"/>sedificatae basilicz, et determinata tempora certa,
+<lb ed="#P" n="37"/>quibus populus fidelis in unum congregetur, et
+<lb ed="#P" n="38"/>unitas commendetur ut gratias reddat preces 
+offe<lb ed="#P" break="no" n="39"/>rat, vota persolvat. Illic Deus nuncin silentio 
+sim<lb ed="#P" break="no" n="40"/>pliciter exoratur, nunc consonis vocibus devote
+<lb ed="#P" n="41"/>collaudatur, ut vicissim fidélium corda nunc 
+com<lb ed="#P" break="no" n="42"/>ponantur ad requiem, nunc excitentur ad 
+devo<lb ed="#P" break="no" n="43"/>tionem. In ipsis quoque divinis preconiis non
+<lb ed="#P" n="44"/>eadem semperexibetur forma collaudationis; nunc
+<lb ed="#P" n="45"/>pealmodiee accendunt ad devotionem, nunc hymni
+<lb ed="#P" n="46"/>etcantica ad divinam excitant jucunditatem, nunc
+<lb ed="#P" n="47"/>lectiones recitantur ad formam morum et vitse
+<lb ed="#P" n="48"/>bonae instructionem. Ipse etiam actiones nostra
+<lb ed="#P" n="49"/>in divinis obsequiis, non eadem semper 
+institu<lb ed="#P" break="no" n="50"/>tionis forma procedunt. Nuncerecti, nunc prostati,
+<lb ed="#P" n="51"/>nunc inclinatione, nunc conversione ex gestu
+<lb ed="#P" n="52"/>eorporis statum mentis exprimimus. Sed et ipsa
+<lb ed="#P" n="53"/>in quibus se operando exercet, et divinum cultum
+<lb ed="#P" n="54"/>adornat fidelium devotio ; multa et multifaria 
+si<lb ed="#P" break="no" n="55"/>mili ratione provisa sunt, ut sint plurima et sacra
+<lb ed="#P" n="56"/>et sacramenta, quatenus fides in eis et materiam
+<lb ed="#P" n="57"/>exercitationis et causam recreationis perfectam
+<lb ed="#P" n="58"/>inveniat. Sic enim fidelis animus dum foris ad
+<lb ed="#P" n="59"/>varia sancte excercitationis studia ducitur, magis
+<lb ed="#P" n="60"/>semper ac magis intus ex ipsa sua devotione ad
+<lb ed="#P" n="61"/>sanctitatem innovatur. Etad hunc modum quidem
+<lb ed="#P" n="62"/>intelligendum putamus, quod diotum est, sacra-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>menta propter exercitationem instituta.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g21336-Dd1e754">
+               <head xml:id="hsvhsv-g21336-Hd1e756">Capitulum 4</head>
+               <head xml:id="hsvhsv-g21336-Hd1e758" type="question-title"/>
+               <p xml:id="hsvhsv-g21336-d1e760">
+                  <lb ed="#P" n="64"/>Cap. IV. De distinctione trium overum et
+<lb ed="#P" n="65"/>trium operantium.
+</p>
+               <p xml:id="hsvhsv-g21336-d1e767">
+                  <lb ed="#P" n="66"/>Est igitur triplex causa haec institutionis 
+sacra<lb ed="#P" break="no" n="67"/>mentorum omnium : humiliatio, eruditio et 
+exer<lb ed="#P" break="no" n="68"/>citatio hominis. Quae causs si non essent, 
+sacra<lb ed="#P" break="no" n="69"/>menta omnino, id est sacrorum signa vel 
+instru<lb ed="#P" break="no" n="70"/>menta, elementa per se esse non possent. Quod
+<lb ed="#P" n="71"/>enim elementa sacramenta sunt, non natura prima
+<lb ed="#P" n="72"/>facit; sed apposita institutio per dispensationem,
+<lb ed="#P" n="73"/>et gratia infusa per benedictionem, qute duo si
+<lb ed="#P" n="74"/>elementa post primam naturam non accepissent,
+<lb ed="#P" n="75"/>sacramenta proprie esse non possent. Dedit primo
+<lb ed="#P" n="76"/>natura habilitatem ut hoc esse possent; adjunxit
+<lb ed="#P" n="77"/>secunda institutio auctoritatem ut. hoc fierent ;
+<lb ed="#P" n="78"/>superaddidit tertia benedictio sanctitatem ut htec
+<lb ed="#P" n="79"/>essent. Prima facta per Creatorem ; secunda 
+pro<lb ed="#P" break="no" n="80"/>posita per Salvatorem; tertia administrata per
+<lb ed="#P" n="81"/>dispensatorem. Primum Creator per majestatem
+<lb ed="#P" n="82"/>vasa formavit, postea Salvator per institutionem
+<lb ed="#P" n="83"/>eadem proposuit; postremo dispensator per 
+bene<lb ed="#P" break="no" n="84"/>dictionem haec ipsa mundavit; et gratia implevit.
+<lb ed="#P" n="85"/>Et apparet mirabile, quod qui major fuit, quod
+<lb ed="#P" n="86"/>minus erat fecit; et qui minor fuit, fecit quod
+<lb ed="#P" n="87"/>majus fuit. Plus enim contulit sanctificatio quam
+<lb ed="#P" n="88"/>ereatio, quoniam in creatione naturam acceperunt
+<lb ed="#P" n="89"/>ut essent ; in sanctificatione gratiam, ut bona et
+<lb ed="#P" n="90"/>saneta essent. Si ergo Deus creat et sacerdos 
+sano<lb ed="#P" break="no" n="91"/>tificat, plus homo facere videtur quam Deus, quod
+<lb ed="#P" n="92"/>omnino absurdum et inconveniens esset, si non
+<lb ed="#P" n="93"/>quod homo facit hoc etiam faceret et Deus. Deus
+<lb ed="#P" n="94"/>enim sine homine creat, sed homo sine Deo non
+<lb ed="#P" n="95"/>sanctificat. Ut gratia quodammodo a summo 
+inci<lb ed="#P" break="no" n="96"/>piat, et in imo consummetur ; et in hoc ipso 
+des<lb ed="#P" break="no" n="97"/>census grati: nobis significetur, quia nisi gratia.
+<lb ed="#P" n="98"/>descenderet, jacentes non elevaret. Creavit 
+pri<lb ed="#P" break="no" n="99"/>mum Deus per se et in suo, hoc est, solus et in
+<lb ed="#P" n="100"/>majestate. Instituit postea Salvator per se quidem.
+<lb ed="#P" n="101"/>sed in nostro, hoc est solus et in humanitate.
+<lb ed="#P" n="102"/>Sanctificat postremo sacerdos neque per se neque
+<lb ed="#P" n="103"/>in suo, quia nec solus ipse est qui operatur, nec
+<lb ed="#P" n="104"/>virtusipsius est quae ad sanctificationem tribuitur.
+<lb ed="#P" n="105"/>Ipse enim ministranti cooperatur, cujus virtute
+<lb ed="#P" n="106"/>per ministerium ministrantis quod 
+sanctiflcan<lb ed="#P" break="no" n="107"/>dum est sanctificatur, ut sit quidem una virtus
+<lb ed="#P" n="108"/>per unum opus ad unum effectum, qui quidem
+<lb ed="#P" n="109"/>virtusin duobus simuloperantibussic discernitur;
+<lb ed="#P" n="110"/>quoniam per alterum datur, per alterum 
+minis<lb ed="#P" break="no" n="111"/>tratur. Alter est a quo datur, alter per quem 
+mit<lb ed="#P" break="no" n="112"/>titur. Et cum venit ipsa gratia ad nos, per illum
+<lb ed="#P" n="113"/>venita quo venit; quoniam minfstranti cooperatur
+<lb ed="#P" n="114"/>auctor muneris, sed non similiter ab illo venit per
+<lb ed="#P" n="115"/>quem venit, quia auctor muneris esse non potest
+<lb ed="#P" n="116"/>qui solum est minister dispensationis. Nemo 
+igi<lb ed="#P" break="no" n="117"/>tur dicat quomodo homo sanctificat, quando Deus
+<lb ed="#P" n="118"/>per hominem sanctiflcat ; quoniam in hoc verius
+<lb ed="#P" n="119"/>homo facit quod Deus per eum facit. Nam quod
+<lb ed="#P" n="120"/>facit per se, et in suo facit homo, verenon facit,
+<lb ed="#P" n="121"/>quoniam veritatem non facit; quoniam per se et.
+<lb ed="#P" n="122"/>in suo non nisi malum facit; sicut ergo Deus 
+aa<lb ed="#P" break="no" n="123"/>lus mirabilia facit, quoniam de ipso Scriptura
+<!-- 080.png.txt -->
+<pb ed="#P" n="162"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>dicit: Qui facit mirabilia magna solus (Psal. 
+<lb ed="#P" n="2"/>LXxi); quoniam sine ipse nullus facit, et omnis
+<lb ed="#P" n="3"/>qui facit per ipsum facit et per omnem qui facit
+<lb ed="#P" n="4"/>ipse facit. Ideoque solus facit, quoniam ipsius
+<lb ed="#P" n="5"/>solius est, quod omnis facit qui facit; et tamen de
+<lb ed="#P" n="6"/>servo Dei scriptum est : Fecit enim mirabilia in
+<lb ed="#P" n="7"/>vita sua (Eccli. xxxi) quoniam ex Deo fecit et
+<lb ed="#P" n="8"/>per eum Deus fecit; nec contrarietas ulla ex his
+<lb ed="#P" n="9"/>procedit, sic Deus solus sanctificat et benedicit ;
+<lb ed="#P" n="10"/>quoniam ab ipso omnis sanctificatio et benedictio
+<lb ed="#P" n="11"/>est, et tamen sacerdos minister Dei sanctificat et.
+<lb ed="#P" n="12"/>benedicit; quoniam per ipsum quaedam 
+sanctifi<lb ed="#P" break="no" n="13"/>catio et benedictio est, quae et ipsa quoque a Deo
+<lb ed="#P" n="14"/>est, qui auctor est in dono, et per Deum qui 
+coope<lb ed="#P" break="no" n="15"/>rator est in ministerio. Tali consideratione 
+ratio<lb ed="#P" break="no" n="16"/>nabiliter distinguitur quid in sacramentis 
+omni<lb ed="#P" break="no" n="17"/>bus sigillatim, vel creatio quantum ad naturam
+<lb ed="#P" n="18"/>elementi, vel institutio et sanctiflcatio quantum
+<lb ed="#P" n="19"/>ad virtutem sacramenti operatur; et in ipsa 
+sanc<lb ed="#P" break="no" n="20"/>tificatione quantum ex illo qui dator est numeris,
+<lb ed="#P" n="21"/>et quantum ex ipso vel potius per ipsum qui 
+80<lb ed="#P" break="no" n="22"/>lum minister est dispensationis. Postremo qui
+<lb ed="#P" n="23"/>que discreta et distincta ab invicem ad 
+cognitio<lb ed="#P" break="no" n="24"/>nem procedunt: Deus medicus, homo segrotus,
+<lb ed="#P" n="25"/>sacerdos minister vel nuntius, gratia antidotum,
+<lb ed="#P" n="26"/>vas sacramentum. Medicus donat, minister 
+dis<lb ed="#P" break="no" n="27"/>pensat, vas servat qua sanat percipientem 
+segro<lb ed="#P" break="no" n="28"/>tum gratiam spiritalem. Si ergo vasa aunt 
+spiri<lb ed="#P" break="no" n="29"/>talis gratie sacramenta, non ex suo sanant;quia
+<lb ed="#P" n="30"/>vasa aegrotum non 'curant, sed medicina. Non
+<lb ed="#P" n="31"/>ergo ad hoc instituta sunt sacramenta ut ex eis (; 
+<lb ed="#P" n="32"/>easet quod in eis essei; sed ut peritiam suam
+<lb ed="#P" n="33"/>inedicus ostenderet in illo remedium praeparavit,
+<lb ed="#P" n="34"/>a quo languidus occasionem morbi accepit. Quia
+<lb ed="#P" n="35"/>enim homo visibilia concupiscens corruptus
+<lb ed="#P" n="36"/>fuerat, congrue reparandus in eisdem visibilibus
+<lb ed="#P" n="37"/>salutis occasionem recipere debebat, ut per
+<lb ed="#P" n="38"/>eadem resugeret per qua corruerat.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g21336-Dd1e985">
+               <head xml:id="hsvhsv-g21336-Hd1e987">Capitulum 5</head>
+               <head xml:id="hsvhsv-g21336-Hd1e989" type="question-title"/>
+               <p xml:id="hsvhsv-g21336-d1e991">
+                  <lb ed="#P" n="39"/>Cap. V. Institutionem sacramentorum 
+quan<lb ed="#P" break="no" n="40"/>tum ad Deum dispensationis esse, quantum
+<lb ed="#P" n="41"/>ad hominem necessitatis.
+</p>
+               <p xml:id="hsvhsv-g21336-d1e1000">
+                  <lb ed="#P" n="42"/>Institutio sacramentorum quantum ad Deum
+<lb ed="#P" n="43"/>auctorem dispensationis est, quantum vero ad 
+ho<lb ed="#P" break="no" n="44"/>minem obedientem necessitatis. Quoniam in 
+po<lb ed="#P" break="no" n="45"/>testate Dei est praeter ista hominem salvare, sed D
+<lb ed="#P" n="46"/>in potestate hominis non est sine istis ad salutem
+<lb ed="#P" n="47"/>pervenire. Potuit enim Deus hominem salvare
+<lb ed="#P" n="48"/>etiam si ista non instituisset, sed homo 
+nullate<lb ed="#P" break="no" n="49"/>nus salvari posset ai ista contemneret. Dicit enim
+<lb ed="#P" n="50"/>Scriptura: Non. potest salvari qui baptizatus
+<lb ed="#P" n="51"/>non fuerit (Joan:11); qui hoc vel hoc non fecerit
+<lb ed="#P" n="52"/>salvari non potest, et confitemur quod verum est,
+<lb ed="#P" n="53"/>et quia salvari non potest homo qui caret his sine
+<lb ed="#P" n="54"/>quibus ab hornine salus haberi non potest. Homo
+<lb ed="#P" n="55"/>Bine his salvari non potest, sed Deus sine his
+<lb ed="#P" n="56"/>salvare potest. Homo quippe sine his salvari 
+pos<lb ed="#P" break="no" n="57"/>8et si sine his salvari in potestate hominis esset,
+<lb ed="#P" n="58"/>etsi posset homo pro arbitrio suo ista quae ad
+<lb ed="#P" n="59"/>salutem obtinendam proposita sunt relinquere, et
+<lb ed="#P" n="60"/>secundum suam electionem alia ad salutem via
+<lb ed="#P" n="61"/>pervenire. Quod quia homini omnino impossibile
+<cb ed="#P" n="b"/>
+                  <!-- right side clipped -->
+                  <lb ed="#P" n="62"/>est, proptera rectissime dicitur, quod hom
+<lb ed="#P" n="63"/>his omnino salvari non potest. Deus autem
+<lb ed="#P" n="64"/>his hominem salvare potest, qui virtutem
+<lb ed="#P" n="65"/>et sanctificationem et salutem quocunquc
+<lb ed="#P" n="66"/>voluerit modo homini largiri potest. Illo na
+<lb ed="#P" n="67"/>Bpiritu quo docet hominem sine verbo, just
+<lb ed="#P" n="68"/>etiam valet si voluerit sine sacramento; qu
+<lb ed="#P" n="69"/>tus Dei ex necessitate elementis non sub
+<lb ed="#P" n="70"/>etiam si gratia Dei ex dispensatione per
+<lb ed="#P" n="71"/>menta donetur. Hinc est quod quosdametiar
+<lb ed="#P" n="72"/>hujusmodi sacramentis justificatos legim
+<lb ed="#P" n="73"/>credimus salvatos. Quemadmodum Jeremi
+<lb ed="#P" n="74"/>utero sanctificatus legitur, et Joannes Bapti
+<lb ed="#P" n="75"/>utero matris de Spiritu sancto implendus p:
+<lb ed="#P" n="76"/>tatur, et qui sub naturali lege justi Deo p
+<lb ed="#P" n="77"/>runt: haec sacramenta habuisse non legim
+<lb ed="#P" n="78"/>quorum tamen salute nequaquam dubitam
+<lb ed="#P" n="79"/>qui ex illis sacramenta ista post justifi
+<lb ed="#P" n="80"/>nem susceperunt signa magis justitis sut
+<lb ed="#P" n="81"/>buerunt in istis quam causam ex istis. Qu
+<lb ed="#P" n="82"/>per spiritum Dei qui quidquid confertur in
+<lb ed="#P" n="83"/>Bine istis perceperunt, damnabiliter istit
+<lb ed="#P" n="84"/>carnerunt, quia ut ista non perciperent, vel
+<lb ed="#P" n="85"/>temporis non poposcit, vel necessitas non p
+<lb ed="#P" n="86"/>Bit, nunquam contemptus religionis effecit. N
+<lb ed="#P" n="87"/>ergo in elementia aic legem divinae justitiae
+<lb ed="#P" n="88"/>tituat, ut dicat hominem nec justificari poss
+<lb ed="#P" n="89"/>his etiam si gratiam justificantem habueri
+<lb ed="#P" n="90"/>salvari posse sine his etiam si justus fuerit.
+<lb ed="#P" n="91"/>ab his percipiendis vel articulus necessitatis
+<lb ed="#P" n="92"/>dit vel, sicut diximus, ad haec percipienda
+<lb ed="#P" n="93"/>temporis non constringit. Quemadmodum
+<lb ed="#P" n="94"/>sub naturali lege erant justi, ejusmodi sacri
+<lb ed="#P" n="95"/>tis non imbuebantur, sicut »t praeceptis ejut
+<lb ed="#P" n="96"/>non tenebantur. Quicunque ergo rem sacra:
+<lb ed="#P" n="97"/>in fide recta et charitate vera habuerunt, :
+<lb ed="#P" n="98"/>mentis istis damnabiliter non caruerunt; q
+<lb ed="#P" n="99"/>vel pro tempore suscipere non debuerunt, v
+<lb ed="#P" n="100"/>imminente necessitate suscipere non potue
+<lb ed="#P" n="101"/>Quid igitur tibi videtur, tu quicunque sacrar
+<lb ed="#P" n="102"/>Dei veneraris, et cum te sacramenta Dei hon
+<lb ed="#P" n="103"/>putas Deum inhonoras ? Sacramentis indic
+<lb ed="#P" n="104"/>cessitatem, et auctori sacramentorum toll
+<lb ed="#P" n="105"/>testatem, et negas pietatem. Dicis mihi quc
+<lb ed="#P" n="106"/>non habet sacramenta Dei salvari non pott
+<lb ed="#P" n="107"/>ego dico tibi qui habet virtutem sacrament
+<lb ed="#P" n="108"/>Dei perire non potest. Aut nega virtutem
+<lb ed="#P" n="109"/>posse ubi sacramentum non est, aut si cor
+<lb ed="#P" n="110"/>virtutem nega damnationem. Utrum est 1
+<lb ed="#P" n="111"/>Sacramentum, an virtus sacramenti ? Utru
+<lb ed="#P" n="112"/>majus, aqua an fides? Si vis dicere verum, «
+<lb ed="#P" n="113"/>des. Si ergo sacramentum aqui quod mint
+<lb ed="#P" n="114"/>salvat quosdam non habentes fidem; et non i
+<lb ed="#P" n="115"/>tatur eis quod fidem non habent, quia eam h
+<lb ed="#P" n="116"/>non possunt. Quomodo fides quae major es
+<lb ed="#P" n="117"/>liberat habentes fidem et sacramentum aqui
+<lb ed="#P" n="118"/>habentes; et non multo magis parcetur eia j
+<lb ed="#P" n="119"/>quod sacramentum aqua non habent, quo
+<lb ed="#P" n="120"/>dem habere voluerunt, sed non potuerunt:
+<lb ed="#P" n="121"/>dicis: Quomodo ergo intelligimus quod scri
+<lb ed="#P" n="122"/>est: Nisi quis renatus fuerit ex aqua et Sp
+<lb ed="#P" n="123"/>sancto, non intrabit in regnwm calor
+<!-- 081.png.txt -->
+<pb ed="#P" n="163"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>(Joan. III.) Et ego te interrogo quomodo 
+intelli<lb ed="#P" break="no" n="2"/>gendum putas quod scriptum est: Qui credit in
+<lb ed="#P" n="3"/>me mortem non videbit in aeternum ? (Joan.
+<lb ed="#P" n="4"/>X1.) Tu dicis quod qui non facit hoc non salvatur,
+<lb ed="#P" n="5"/>et ego dico quod qui hoc facit non damnatur. Quis
+<lb ed="#P" n="6"/>ergo erit medius locus ejusmodi homines capiens,
+<lb ed="#P" n="7"/>nec salvandos quia aquam non habent, nec 
+dam<lb ed="#P" break="no" n="8"/>nandos quia fidem habent? Est homo qui habet
+<lb ed="#P" n="9"/>fidem, et cum fide dilectionem, aquam non habet;
+<lb ed="#P" n="10"/>non tamen aquam contemnens, sed aquam habere
+<lb ed="#P" n="11"/>volensetnon valens. Huncergoaqua absens 
+dam<lb ed="#P" break="no" n="12"/>nabit, et non potius fides et devotio praesens 
+salva<lb ed="#P" break="no" n="13"/>bit ? Quid ergo, dicis, mihi est cum sacramentis?
+<lb ed="#P" n="14"/>Habebo fidem et dilectionem et virtutes alias; et
+<lb ed="#P" n="15"/>bonus ero, et sufficiet mihi. Vide ergo si 
+delectio<lb ed="#P" break="no" n="16"/>nem Dei habere potes, et praecepta ejus 
+contem<lb ed="#P" break="no" n="17"/>nere? Si ergo dilectionem Dei habes, stude, 
+sa<lb ed="#P" break="no" n="18"/>iage, conare, quantum potes perficere mandata
+<lb ed="#P" n="19"/>ejus; etsi incidis in necessitatem, quisere pietatem.
+<lb ed="#P" n="20"/>Sienim necessitas non est quae pretendatur:
+<lb ed="#P" n="21"/>contemplus non excusatur. Vide ergo quod 
+sacra<lb ed="#P" break="no" n="22"/>menta Dei medicine sunt spiritales ; quae foris
+<lb ed="#P" n="23"/>corporibus adhibentur per visibilem specimen,
+<lb ed="#P" n="24"/>sed intus animas sanant per invisibilem virtutem.
+<lb ed="#P" n="25"/>Quorum quidem institutio quantum ad 
+preci<lb ed="#P" break="no" n="26"/>pienten, dispensationis est; susceptio vero 
+quan<lb ed="#P" break="no" n="27"/>tum ad obedientem necessitatis. Vis scire quod in
+<lb ed="#P" n="28"/>istis visibilibus speciebus ad curandos morbos
+<lb ed="#P" n="29"/>spiritalis remedium Deus non sumit, sed solum
+<lb ed="#P" n="30"/>sacramentum constituit? Accipe sacramentum de
+<lb ed="#P" n="31"/>sacramento. /Egrotavit Ezechias et missus est ad
+<lb ed="#P" n="32"/>eum Isaias propheta, qui ei mortem imminentem
+<lb ed="#P" n="33"/>prediceret. Quo audito terrore et dolore 
+compunc<lb ed="#P" break="no" n="34"/>tus, lacrymas cum prece fudit et misericordiam
+<lb ed="#P" n="35"/>impetravit. Remittitur continuo Isaias, ut 
+quin<lb ed="#P" break="no" n="36"/>decim annos vite illius adjiciendos annuntiet, et
+<lb ed="#P" n="37"/>ad virtutem amplius sacramenti commendandam
+<lb ed="#P" n="38"/>vulneri ejus curando novam novo modo 
+medici<lb ed="#P" break="no" n="39"/>nam preparet. Apposita est medicina foris, ut
+<lb ed="#P" n="40"/>virtus occulta intus operaretur et non erat sanitas
+<lb ed="#P" n="41"/>ex medicina, quoniam secundum se contraria 
+sa<lb ed="#P" break="no" n="42"/>nitati erat medicina, ut aperte monstraretur,
+<lb ed="#P" n="43"/>quoniam ex illa non erat quod per illam erat.
+<lb ed="#P" n="44"/>Magnum de sacramentis sacramentum 
+commen<lb ed="#P" break="no" n="45"/>datum est. AEger est genus humanum, quod 
+lan<lb ed="#P" break="no" n="46"/>guet et intus per iniquitatem, et foris per 
+morta<lb ed="#P" break="no" n="47"/>litatem. Ad quem sermo propheticus mittitur, ut
+<lb ed="#P" n="48"/>ti mors emminens non solum prasens, sed et
+<lb ed="#P" n="49"/>futura annuntietur. Qui terrentur confitentur,
+<lb ed="#P" n="50"/>plorant et orant, et misericordiam impetrant. 
+Re<lb ed="#P" break="no" n="51"/>mittitur sermo propheticus qui nos de longioris
+<lb ed="#P" n="52"/>vitae spatio indulto certos efficiat. Quia eadem nos
+<lb ed="#P" n="53"/>scripturaseternz; vitee promissione consolatur 
+poe<lb ed="#P" break="no" n="54"/>nitentes quae de perpetum mortis damnatione 
+ter<lb ed="#P" break="no" n="55"/>ret in peccato persistentes. Apponitur medicina
+<lb ed="#P" n="56"/>curandis ulceribus nostris, quae cum ex sui 
+qua<lb ed="#P" break="no" n="57"/>litate morbo contraria ostenditur ; in curatione
+<lb ed="#P" n="58"/>wgroti non medicinz, sed medentis virtus 
+evi<lb ed="#P" break="no" n="59"/>dentissime declaratur. Ipsa medicina, 1psa sunt
+<lb ed="#P" n="60"/>sacramenta, quae dum foris nobis per ministros 
+sa<lb ed="#P" break="no" n="61"/>cre dispensationis corporaliter adhibentur, 
+vul<lb ed="#P" break="no" n="62"/>nera animarum nostrarum invisibiliter curantur,
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>ut curati et sanatiad perpetus vitae 
+repromissio<lb ed="#P" break="no" n="64"/>nem portingere possimus. Quae quidem vita 
+quin<lb ed="#P" break="no" n="65"/>decim annorum numero signata est, quae et in
+<lb ed="#P" n="66"/>praesenti per requiem mentis septenerio 
+inchoa<lb ed="#P" break="no" n="67"/>tur, et in futuro per mortalitatem carnis 
+octona<lb ed="#P" break="no" n="68"/>rio perficitur. Quae tamen medicina quantum ad
+<lb ed="#P" n="69"/>suam naturam spectat, augere morbum habuit
+<lb ed="#P" n="70"/>non currare, quia terrena omnia (quantum ad 
+il<lb ed="#P" break="no" n="71"/>lorum qualitatem et nostram infirmitatem 
+perti<lb ed="#P" break="no" n="72"/>net) corruptionem animarum operari solent 
+po<lb ed="#P" break="no" n="73"/>lius quam curationem. Perque tamen Deus cum
+<lb ed="#P" n="74"/>nostram sanitatem perficitquid aliud quam suse
+<lb ed="#P" n="75"/>virtutis potentiam evidenter ostendit ; cum in 
+eo<lb ed="#P" break="no" n="76"/>dem nostrum procurat remedium a quo 
+infirmi<lb ed="#P" break="no" n="77"/>tatis et corruptionis traximus morbum? Non 
+ita<lb ed="#P" break="no" n="78"/>que istis ascribatur, quod per ista nobis 
+adminie<lb ed="#P" break="no" n="79"/>tratur, nequein illis visibilem ita veneramur 
+spe<lb ed="#P" break="no" n="80"/>ciem, et invisibilem eis subjicere veritatem 
+con<lb ed="#P" break="no" n="81"/>vincamur. Hac consideratione diligenter 
+intuen<lb ed="#P" break="no" n="82"/>tibus manifestum fit, quantum vel illi debeant
+<lb ed="#P" n="83"/>quod foris in specie sacramenti visibiliter 
+cerni<lb ed="#P" break="no" n="84"/>tur, vel illi quod in virtute sacramenti intus 
+in<lb ed="#P" break="no" n="85"/>visibiliter operatur. Et haec quidem omnia ad hoc
+<lb ed="#P" n="86"/>spectant quod propositum erat investigandum,
+<lb ed="#P" n="87"/>quare videlicet instituta sint sacramenta.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g21336-Dd1e1383">
+               <head xml:id="hsvhsv-g21336-Hd1e1385">Capitulum 6</head>
+               <head xml:id="hsvhsv-g21336-Hd1e1387" type="question-title"/>
+               <p xml:id="hsvhsv-g21336-d1e1389">
+                  <lb ed="#P" n="88"/>Cap. VI. De materia sacramentorum.
+</p>
+               <p xml:id="hsvhsv-g21336-d1e1394">
+                  <lb ed="#P" n="89"/>Restat nunc tertia pars de quatuor qua 
+propo<lb ed="#P" break="no" n="90"/>Bita fuerant, discutienda. In triplici materia omnia.
+<lb ed="#P" n="91"/>divina sacramenta conficiuntur, scilicet aut in
+<lb ed="#P" n="92"/>rebus, aut in factis, aut in verbis. Quia enim 
+to<lb ed="#P" break="no" n="93"/>tus homo corruptus erat, totum quod hominis
+<lb ed="#P" n="94"/>foris erat ad sacramentum sumendum erat, ut
+<lb ed="#P" n="95"/>totum in sacramento foris sanctificetur, etin toto
+<lb ed="#P" n="96"/>virtus sacramenti intus remedium operetur. 
+Ita<lb ed="#P" break="no" n="97"/>que in rebus sacramenta sanctificanda erant. Ut
+<lb ed="#P" n="98"/>sanctificaretur hominis materia, in factis ut 
+ope<lb ed="#P" break="no" n="99"/>ra; in dictis ut verba, ut totum videlicet sanctum
+<lb ed="#P" n="100"/>sit, et quod homo est, et quod hominis. In rebus
+<lb ed="#P" n="101"/>conficiuntur sacramenta, sicut 
+videlicetsacramen<lb ed="#P" break="no" n="102"/>tum baptismi in aqua, sacramentum unctionis in
+<lb ed="#P" n="103"/>oleo sacramentum corporis et sanguinis Christi
+<lb ed="#P" n="104"/>in pane et vino, et quecunque sunt aliae 
+corpora<lb ed="#P" break="no" n="105"/>les speciesin quibus sacramenta divina 
+conficiun<lb ed="#P" break="no" n="106"/>tur. In factis etiam sacramenta inveniantur, 
+que<lb ed="#P" break="no" n="107"/>madmodum videlicet cum signum crucis vel pro
+<lb ed="#P" n="108"/>munimine contra adversas potestates opponentes,
+<lb ed="#P" n="109"/>vel pro sanctificatione quibuscunque rebus 
+sancti<lb ed="#P" break="no" n="110"/>ficandis imprimentes facimus, vel cum etiam 
+ex<lb ed="#P" break="no" n="111"/>pansis manibus sive elevatis in oratione, 
+inclina<lb ed="#P" break="no" n="112"/>tione sive erectione, sive conversione, sive alio
+<lb ed="#P" n="113"/>quocunque gestu vel motu, vel actu, sacrum 
+ali<lb ed="#P" break="no" n="114"/>quid et sacr rei signum expriminus. In dictis
+<lb ed="#P" n="115"/>Sacramentum invenitur, quemadmodum est 
+invo<lb ed="#P" break="no" n="116"/>catio Trinitatis, et caetera hujusmodi, 
+quotiescun<lb ed="#P" break="no" n="117"/>que cum verborum prolatione sacrum aliquid et
+<lb ed="#P" n="118"/>Sacramentum exprimimus et significamus. Porro
+<lb ed="#P" n="119"/>sciendum est quod cum his tribus modis 
+sacra<lb ed="#P" break="no" n="120"/>menta conficiantur ; illa taráen magis proprie et
+<lb ed="#P" n="121"/>pricipaliter sacramenta dicuntur in quibus virtus
+<lb ed="#P" n="122"/>est per sanctificatione, et effectus salutia per
+<!-- 082.png.txt -->
+<pb ed="#P" n="164"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>operationem. His breviter de materia 
+sacramen<lb ed="#P" break="no" n="2"/>torum praelibatis ad sequentia transeamus.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g21336-Dd1e1482">
+               <head xml:id="hsvhsv-g21336-Hd1e1484">Capitulum 7</head>
+               <head xml:id="hsvhsv-g21336-Hd1e1486" type="question-title"/>
+               <p xml:id="hsvhsv-g21336-d1e1488">
+                  <lb ed="#P" n="3"/>Cap. VII. Quod tria genera sunt sacramentorum.
+</p>
+               <p xml:id="hsvhsv-g21336-d1e1493">
+                  <lb ed="#P" n="4"/>Tria genera sacramentorum in prima 
+considera<lb ed="#P" break="no" n="5"/>tione discernenda occurrunt. Sunt enim quedam
+<lb ed="#P" n="6"/>sacramenta in quibus principaliter salus constat
+<lb ed="#P" n="7"/>et percipitur, sicut aqua baptismatis, et perceptio
+<lb ed="#P" n="8"/>corporis et sanguinis Christi. Alia sunt quae etsi
+<lb ed="#P" n="9"/>necessaria non sunt ad salutem (quia sine his 
+sa<lb ed="#P" break="no" n="10"/>lus haberi potest) proficiunt tamen ad 
+sanctifica<lb ed="#P" break="no" n="11"/>tionem, quia his virtus exerceri et gratia amplior
+<lb ed="#P" n="12"/>acquiri potest, ut aqua aspersionis, et susceptio
+<lb ed="#P" n="13"/>cineris, et similia. Sunt rursum alia sacramenta
+<lb ed="#P" n="14"/>quae ad hoc solum instituta esse videntur, ut per 
+<lb ed="#P" n="15"/>ipsa ea quae caeteris sacramentis sanctificandis et
+<lb ed="#P" n="16"/>instituendis necessaria sunt, quodammodo 
+prz<lb ed="#P" break="no" n="17"/>parantur et sanctificentur, vel circa personas in
+<lb ed="#P" n="18"/>sacris ordinibus perficiendis, vel in iis quae ad
+<lb ed="#P" n="19"/>habitum sacrorum ordinum pertinent initiandis
+<lb ed="#P" n="20"/>et caeteris hujusmodi. Prima ergo ad salutem,
+<lb ed="#P" n="21"/>secundn ad exercitationem, tertia ad 
+preparatio<lb ed="#P" break="no" n="22"/>nem constituta sunt. His igitur prout ratio 
+postu<lb ed="#P" break="no" n="23"/>lare videbatur pertractis, a1 ea quae restant 
+ex<lb ed="#P" break="no" n="24"/>plicanda transimus.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g21336-Dd1e1542">
+               <head xml:id="hsvhsv-g21336-Hd1e1544">Capitulum 8</head>
+               <head xml:id="hsvhsv-g21336-Hd1e1546" type="question-title"/>
+               <p xml:id="hsvhsv-g21336-d1e1548">
+                  <cb ed="#P" n="b"/>
+                  <!-- right side clipped -->
+                  <lb ed="#P" n="25"/>Cap. VIII. De tribus quae necessaria sunt ad sal
+</p>
+               <p xml:id="hsvhsv-g21336-d1e1557">
+                  <lb ed="#P" n="26"/>Tria sane sunt quae ab initio sive antea
+<lb ed="#P" n="27"/>ium Christi, sive post ad salutem obtint
+<lb ed="#P" n="28"/>necessaria fuerunt, id est fides, sacramenta
+<lb ed="#P" n="29"/>et opera bona. Quae tria ita cohzrent ut:
+<lb ed="#P" n="30"/>effectum habere non possint si simul non ft
+<lb ed="#P" n="31"/>Fides enim sine operibus, testo Scriptura,
+<lb ed="#P" n="32"/>tua est (Jacob. 1). Rursum ubi non est
+<lb ed="#P" n="33"/>opus bonum esse non potest. Item qui fidei
+<lb ed="#P" n="34"/>rantem habent, si sacramenta Dei sucipe
+<lb ed="#P" n="35"/>nuunt, salvari non possunt, quia dilectione
+<lb ed="#P" n="36"/>non habent cujus praecepta in sacramenti:
+<lb ed="#P" n="37"/>contemnunt. Verumtamen ubi fides cum
+<lb ed="#P" n="38"/>tione est, sicut non minuitur meritum et
+<lb ed="#P" n="39"/>opus quod in bono proposito devotionis es
+<lb ed="#P" n="40"/>rius non perficitur, sic salutis effectus non
+<lb ed="#P" n="41"/>ditur etiam si sacramentum quodin vera
+<lb ed="#P" n="42"/>tate et desiderio est, articulo necessitatis e:
+<lb ed="#P" n="43"/>tur. Ubi autem tria simul haberi possun:
+<lb ed="#P" n="44"/>periculo salutis nullatenus abesse possunt
+<lb ed="#P" n="45"/>nec fides meritum habet si dum potest oper
+<lb ed="#P" n="46"/>gligit, nec opus bonum est aliquid si sine f
+<lb ed="#P" n="47"/>Etrursum fides operans hominem sanctifica
+<lb ed="#P" n="48"/>sufficit, si eam quein sacramentis Dei const
+<lb ed="#P" n="49"/>ctificationem suscipere contemuit. Tria erga
+<lb ed="#P" n="50"/>sunt, fides, sacramentum, etopus. In fide, Chri
+<lb ed="#P" n="51"/>fortitudo tribuitur, in sacramentis, arma; i
+<lb ed="#P" n="52"/>ribus bonis, tela contra diabolum pugnatu
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,1868 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pars 14</title>
+            <author ref="#HughOfStVictor">Hugh of St. Victor</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Pars 14</title>
+               <date when="2023-03-25">March 25, 2023</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-bnhupl">Patrologia Latina, v. 176</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2023-03-25" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="275"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="hsvhsv-g54789"><!-- l2-p14 -->
+            <head xml:id="hsvhsv-g54789-Hd1e101">Pars 14</head>
+            <head xml:id="hsvhsv-g54789-Hd1e103" type="question-title">
+De confessione et poenitentia et remissione peccatorum
+</head>
+            <p xml:id="hsvhsv-g54789-d1e106">
+               <cb ed="#P" n="c"/>
+               <lb ed="#P" n="88"/>PARS QUARTA DECIMA.
+<lb ed="#P" n="89"/>DE CONFESSIONE ET POENITENTIA ET REMISSIONE PECCATORUM.
+</p>
+            <div xml:id="hsvhsv-g54789-Dd1e115">
+               <head xml:id="hsvhsv-g54789-Hd1e117">Capitulum 1</head>
+               <head xml:id="hsvhsv-g54789-Hd1e119" type="question-title"/>
+               <p xml:id="hsvhsv-g54789-d1e121">
+                  <cb ed="#P" n="d"/>
+                  <lb ed="#P" n="90"/>Cap. I. De confessione et praecepto ejus.
+</p>
+               <p xml:id="hsvhsv-g54789-d1e128">
+                  <lb ed="#P" n="91"/>Muta est malitia hominis. Nemo quando male
+<lb ed="#P" n="92"/>agere vult auctoritatem quaerit, quando autem
+<lb ed="#P" n="93"/>dicimus ominibus ut faciant bona, et ut 
+confitean<lb ed="#P" break="no" n="94"/>tur mala quae fecerunt, dicunt nobis : Date 
+auc<lb ed="#P" break="no" n="95"/>loritatem. Quae Scriptura hoc praecipit ut 
+Scon<lb ed="#P" break="no" n="96"/>fiteamur peccata nostra. Si ergo Scriptura 
+pecca<lb ed="#P" break="no" n="97"/>ta confiteri non praecipit, respondete modo sei
+<lb ed="#P" n="98"/>Scripturam habetis quae peccata jubeat tacere. Si
+<cb ed="#P" n="e"/>
+                  <lb ed="#P" n="99"/>ergo confiteri non vultis, quia auctoritatem 
+con<lb ed="#P" break="no" n="100"/>fitendi non habetis, quare tacere vultis cum 
+auc<lb ed="#P" break="no" n="101"/>toritatem tacendi non habeatis? Tamen quia 
+auc<lb ed="#P" break="no" n="102"/>toritatem quaeritis, accipite auctoritatem. 
+Anti<lb ed="#P" break="no" n="103"/>qua lex peccata confiteri jubet, et homines ad
+<lb ed="#P" n="104"/>sacerdotes mittit ut confiteantur peccata sua,
+<lb ed="#P" n="105"/>ut indulgentiam accipiant. Illic ergo praevaricatio
+<lb ed="#P" n="106"/>legis confessione et oblatione aboletur, quando
+<lb ed="#P" n="107"/>fdhuc umbra fuit, et adhuc confessio criminis
+<lb ed="#P" n="108"/>penam potius timere debuit, quam misericor-
+<!-- 194.png.txt -->
+<pb ed="#P" n="276"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>diam exspectare. Si haec auctoritas non sufficit,
+<lb ed="#P" n="2"/>audite Scripturam alibi manifeste dicentem : Qu£
+<lb ed="#P" n="3"/>abscondit scelera sua non justificabitur (Prov.
+<lb ed="#P" n="4"/>xxvi). Quid enim est abscondere nisi tacere, et
+<lb ed="#P" n="5"/>confiteri nolle? Nam qui scelera sua per 
+impu<lb ed="#P" break="no" n="6"/>dentiam prave agendi manifestant, non 
+justifica<lb ed="#P" break="no" n="7"/>tionem merentur sed damnationem. Igitur 
+tegen<lb ed="#P" break="no" n="8"/>da sunt mala quantum pertinet ad impudentiam
+<lb ed="#P" n="9"/>pravi operis, et revelanda sunt per humilitatem
+<lb ed="#P" n="10"/>confessionis. Vultis adhuc scire periculum 
+taci<lb ed="#P" break="no" n="11"/>turnitatis et utilitatem confessionis ? Quoniam
+<lb ed="#P" n="12"/>tacui inquit Psalmista , inveteraverunt ossa
+<lb ed="#P" n="13"/>mea, dum clamarem tota die (Psal. xxxi). Et
+<lb ed="#P" n="14"/>iterum : Delictum meum cognitum tibi feci, et
+<lb ed="#P" n="15"/>injustitiam meam non abscondi.- Dixi: 
+Confi<lb ed="#P" break="no" n="16"/>tebor adversum me injustitiam meam 
+Domi<lb ed="#P" break="no" n="17"/>n0, et tu remisisti impietatem peccati mei(ibid)
+<lb ed="#P" n="18"/>Vide ergo et considera si taces peccata tua, 
+inve<lb ed="#P" break="no" n="19"/>tergntur ; si confiteris, condonantur. Si dicis: 
+Ec<lb ed="#P" break="no" n="20"/>ce dico peccatum meum, sed Deo, non homini,
+<lb ed="#P" n="21"/>Scripturam sequor. Illa mihi dicit: Ut Deo 
+con<lb ed="#P" break="no" n="22"/>tear peccatum meum, non me ad hominem 
+mit<lb ed="#P" break="no" n="23"/>titin quo salus non est, sed illuc trahit 
+confes<lb ed="#P" break="no" n="24"/>sionem, unde promittit remissionem. Dixi : 
+Con<lb ed="#P" break="no" n="25"/>fiteor, etc. Quid facit homo? Audi quid facit.
+<lb ed="#P" n="26"/>Nonne ille homo fuit, qui dixit: Fili, 
+remittun<lb ed="#P" break="no" n="27"/>tur tibi peccata tua? (Matth. xix ; Marc. iet.
+<lb ed="#P" n="28"/>verum est, quod ill homo fuit qui dixit hoc.
+<lb ed="#P" n="29"/>Propterea qui illum hominem esse viderunt;
+<lb ed="#P" n="30"/>Deum autem non cognoverunt, murmuraverunt
+<lb ed="#P" n="31"/>inter se, dicentes. Quis est hic qui etiam 
+pecca<lb ed="#P" break="no" n="32"/>ta dimittit P (Luc. vu.) Sciebant enim quod 
+pee<lb ed="#P" break="no" n="33"/>cata dimittere Dei erat, sed nesciebant quia quod
+<lb ed="#P" n="34"/>Dei erat, homo a Deo acceperat, et ille quidem.
+<lb ed="#P" n="35"/>homo quod habebat inquantum homo erat, ideo
+<lb ed="#P" n="36"/>habebat quia acceperat. Inquantum vero Deus
+<lb ed="#P" n="37"/>erat, hoc idem ipsum habebat, et non acceperat.
+<lb ed="#P" n="38"/>Propterea autem voluit accipere aliquando in 
+hu<lb ed="#P" break="no" n="39"/>manitate, quod semper habuit in divinitate, uti
+<lb ed="#P" n="40"/>vicino homini appropinquaret in eo quod 
+homi<lb ed="#P" break="no" n="41"/>nis erat. Et in eo ipso quod hominis erat homini
+<lb ed="#P" n="42"/>exhiberet quod Deierat. In eo namque quod 
+homi<lb ed="#P" break="no" n="43"/>nis erat, familiarius homini jungebatur. In eo 
+ve<lb ed="#P" break="no" n="44"/>ro quod Dei erat potentius in homine operabatur.
+<lb ed="#P" n="45"/>Propterea : Ut sciatis, inquit, quia Filius 
+homi<lb ed="#P" break="no" n="46"/>nis potestatem habet in terra dimittendi 
+pec<lb ed="#P" break="no" n="47"/>cata, tunc ait paralytico: Surge et ambula.
+<lb ed="#P" n="48"/>(Matth. xix). Ostendit quod videre poterant, ut
+<lb ed="#P" n="49"/>per hoc crederent quod videre non poterant. 
+Prop<lb ed="#P" break="no" n="50"/>ter hoc ergo Deus factus est homo, ut se ad 
+con<lb ed="#P" break="no" n="51"/>fabulandum homini proximum et familiarem 
+ex<lb ed="#P" break="no" n="52"/>hiberet, ut in una eademque persona et suum 
+ge<lb ed="#P" break="no" n="53"/>nus homo inveniret, cui fiducialiter infirmitatem
+<lb ed="#P" n="54"/>suam revelaret, et supra hominem Deum credens
+<lb ed="#P" n="55"/>de accepta ab illo remissione peccatorum 
+suo<lb ed="#P" break="no" n="56"/>rum non diffideret. Deinde ut dispensationis 
+gra<lb ed="#P" break="no" n="57"/>tia largius multiplicaretur. Deus homo homines
+<lb ed="#P" n="58"/>qui puri hornines erant participes fecit potestatis
+<lb ed="#P" n="59"/>suse ut officium ejus implerent poenitentium 
+con<lb ed="#P" break="no" n="60"/>fessionem suscipiendo, et potestatem ejus 
+exerce<lb ed="#P" break="no" n="61"/>rent, poenitentibus et confitentibus peccata 
+remi<lb ed="#P" break="no" n="62"/>ttendo. Accipitejinquit, Spiritum sanctum. Quo-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>rum remiseritis peccata. remittuntur eis; et
+<lb ed="#P" n="64"/>quorum retinueritis retenta erunt (Joan. xx).
+<lb ed="#P" n="65"/>Ergo Christus homo discipulis suis vicem ejus
+<lb ed="#P" n="66"/>genatibus in terra potestatem dedit dimittendi
+<lb ed="#P" n="67"/>peccata.
+</p>
+               <p xml:id="hsvhsv-g54789-d1e326">
+                  <lb ed="#P" n="68"/>Sed dicis fortassis: Quare non similiter 
+Chris<lb ed="#P" break="no" n="69"/>tus praeceptum dedit hominibus peccata sua 
+con<lb ed="#P" break="no" n="70"/>fitendi, sicut discipulis potestatem dedit 
+confiten<lb ed="#P" break="no" n="71"/>tium peccata dimittendi. Audi quare voluit 
+Chris<lb ed="#P" break="no" n="72"/>tus ut a temetipso surgeret, ut non quasi extorta
+<lb ed="#P" n="73"/>vel coacta videretur confessio tua. Idcirco quod
+<lb ed="#P" n="74"/>ad se pertinuit officium suum discipulis suis 
+pe<lb ed="#P" break="no" n="75"/>ragendum injunxit, ut medicorum more segros ad
+<lb ed="#P" n="76"/>se venientes exciperent et sanarent. Medicis ergo
+<lb ed="#P" n="77"/>dixit ut curarent, sed infirmis non dixit ut ad
+<lb ed="#P" n="78"/>medicos curandi venirent. Hoc quasi certum esse
+<lb ed="#P" n="79"/>voluit, quod aegri libenter salutem. quaererent, et
+<lb ed="#P" n="80"/>se curandos offerrent, si medicosinvenirent. 
+Prop<lb ed="#P" break="no" n="81"/>terea solos medicos admonuit; infirmum enim
+<lb ed="#P" n="82"/>ipse morbus suus sufficienter admonet, neque
+<lb ed="#P" n="83"/>opus praecepto habet si dolet, Tamen ipsi medici
+<lb ed="#P" n="84"/>postea quia negligentes in curatione sua segrotos
+<lb ed="#P" n="85"/>invenerunt, eos ad salutem quaerendam, et 
+admo<lb ed="#P" break="no" n="86"/>nitione sua excitaverunt, et praecepto attraxerunt.
+<lb ed="#P" n="87"/>Confitemini, inquit apostolus Jacobus, 
+alteru<lb ed="#P" break="no" n="88"/>trum peccata vestra, et orate pro invicem, ut
+<lb ed="#P" n="89"/>salvemini. (Jac. v). Quid est alterutrum, alter
+<lb ed="#P" n="90"/>alteri, homo homini? Non solum homo Deo, sicut
+<lb ed="#P" n="91"/>verus ille confessor ait : Dixi, confiteor, etc., sed
+<lb ed="#P" n="92"/>homini propter Deum. Plus enim facit qui servo
+<lb ed="#P" n="93"/>humiliatur propter Dominum, quam qui ipsi 
+Do<lb ed="#P" break="no" n="94"/>mino humiliatur. Propterea : Confitemini 
+alteru<lb ed="#P" break="no" n="95"/>trum peccata vestra. Quid est alterutrum ? Non
+<lb ed="#P" n="96"/>tantum unusquisque unicuique, sed alterutrum
+<lb ed="#P" n="97"/>hoc est inter vos, homines hominibus, oves 
+pas<lb ed="#P" break="no" n="98"/>toribus, subjecti prelatis. Ii qui peccata . habent,
+<lb ed="#P" n="99"/>iis qui peccata dimittere potestatem habent. 
+Debi<lb ed="#P" break="no" n="100"/>lum quidem erat ut confessionem facturi ad 
+il<lb ed="#P" break="no" n="101"/>lum iretis qui est super vos ; nuno autem pro 
+in<lb ed="#P" break="no" n="102"/>dulgentie dispensatione conceditur ut peccata
+<lb ed="#P" n="103"/>vestra adinvicem vobis confiteamini inter vos. Ille
+<lb ed="#P" n="104"/>quidem qui solus confessionem acciperet,
+<lb ed="#P" n="105"/>confessionem non faceret quia pecccata non
+<lb ed="#P" n="106"/>haberet, hi autem qui confessionem 
+pecca<lb ed="#P" break="no" n="107"/>torum accipiunt, et confitentibus peccata sua
+<lb ed="#P" n="108"/>dimittunt necesse habent, ut et ipsi peccata
+<lb ed="#P" n="109"/>8ua confiteantur, ut poenitentibus et confitentibus
+<lb ed="#P" n="110"/>peccata sua dimittantur. Propterea ergo: 
+Conf<lb ed="#P" break="no" n="111"/>temini alterutrum peccata vestra, et orate pro
+<lb ed="#P" n="112"/>invicem. Ad quid? Ut salvemini. Confitemini ut.
+<lb ed="#P" n="113"/>salvemini. Quid est confitemini ut salvemini? Hoc
+<lb ed="#P" n="114"/>est non salvamini, nisi confiteamini. Hoc 
+fortas<lb ed="#P" break="no" n="115"/>sis tu audire noluisti, quia latebras quaeris et
+<lb ed="#P" n="116"/>abscondis scelera tua ut non justificeris. Non tibi
+<lb ed="#P" n="117"/>placet quod dicitur, quod ii qui confiteri nolunt
+<lb ed="#P" n="118"/>peccata sua salvari non possunt; propterea 
+for<lb ed="#P" break="no" n="119"/>tassis conaris ad aliud dictum Apostoli 
+intorque<lb ed="#P" break="no" n="120"/>re, ut intelligatur confitentibusquidem promisisse
+<lb ed="#P" n="121"/>salvationem, tamen non confitentibus non 
+negas<lb ed="#P" break="no" n="122"/>se justificationem. Audi ergo. Augustinus dicit :
+<lb ed="#P" n="123"/>Non potest quis justificari a peccato, nisi 
+confes<lb ed="#P" break="no" n="124"/>sus fuerit ante peccatum. Item <name xml:id="hsvhsv-g54789-Nd1e451">Beda</name> in eamdem
+<!-- 195.png.txt -->
+<pb ed="#P" n="277"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>epistolam Jacobi de qua superius testimonium
+<lb ed="#P" n="2"/>sumpsimus. Sine confessione, inquit, nequeunt
+<lb ed="#P" n="3"/>dimitti peccata. Sed in hoc illa discretio esse 
+de<lb ed="#P" break="no" n="4"/>bet, ut quotidiana leviaque peccata alterutrum
+<lb ed="#P" n="5"/>cotequalibus confiteamur, ut orationibus invicem
+<lb ed="#P" n="6"/>salvemur. Porro gravioris leprz» immunditiam 
+sa<lb ed="#P" break="no" n="7"/>cerdoti pandamus, et ad ejus arbitrium 
+justifica<lb ed="#P" break="no" n="8"/>ri curemus. Videte quomodo concordant 
+testimo<lb ed="#P" break="no" n="9"/>nia veritatis. Est quaedam communis in Ecclesia
+<lb ed="#P" n="10"/>poenitentia, quam quotidie adinvicem facimus ;
+<lb ed="#P" n="11"/>in qua oratione fusa pro invicem, pro 
+quotidia<lb ed="#P" break="no" n="12"/>nis et levioribus peccatis indulgentiam et 
+remis<lb ed="#P" break="no" n="13"/>sionem consequimur. Gravioris autem culpe; 
+rea<lb ed="#P" break="no" n="14"/>tum singulari confessione sacerdoti aperimus ; et
+<lb ed="#P" n="15"/>secundum ejus consilium munere satisfactionis
+<lb ed="#P" n="16"/>oblato, indulgentiam peccati obtinemus.
+</p>
+               <p xml:id="hsvhsv-g54789-d1e496">
+                  <lb ed="#P" n="17"/>Sed dicis : Si salvari non potest homo nisi 
+con<lb ed="#P" break="no" n="18"/>fiteatur pecceta sua ; quid est quod scriptum 
+in<lb ed="#P" break="no" n="19"/>venitur: Lacrymelavantdelictum, quod ore pudor
+<lb ed="#P" n="20"/>est confiteri. Inveniuntur enim quaedam ejusmodi
+<lb ed="#P" n="21"/>dicta et rapiunt ea homines gaudentes ; non quia
+<lb ed="#P" n="22"/>veritatem quzrunt in eie, sed quia malitiam suam
+<lb ed="#P" n="23"/>defendere volunt ex eis. Dicunt enim : Quid nos
+<lb ed="#P" n="24"/>confringitis, quid nos arctatis ? Pudenda sunt
+<lb ed="#P" n="25"/>facta nostra; non nos permittit verecundia eloqui,
+<lb ed="#P" n="26"/>erubescimus, confiteri quod fecimus, quod 
+pos<lb ed="#P" break="no" n="27"/>sumus tamen facimus, cor contritum et 
+humilia<lb ed="#P" break="no" n="28"/>tum offerimus, dolemus pro eo quod male egimus,
+<lb ed="#P" n="29"/>lacrymas fundimus, carnis maceratione reatum
+<lb ed="#P" n="30"/>punimus. Quid verba quaeritis, ubi bona opera
+<lb ed="#P" n="31"/>sunt ? Habemus Scripturam consolantem nos, et
+<lb ed="#P" n="32"/>dicentem : Lacryms lavant delictum quod ore
+<lb ed="#P" n="33"/>pudor est confiteri. Non malitiam excusamus,
+<lb ed="#P" n="34"/>sed verecundie parcimus. Quod ergo homini
+<lb ed="#P" n="35"/>dicere erubescimus Deo dicimus, qui non 
+impro<lb ed="#P" break="no" n="36"/>perat. Ejusmodi ergo occasionibus querunt 
+ho<lb ed="#P" break="no" n="37"/>mines excusationem torpori suo, et pervertere
+<lb ed="#P" n="38"/>conantur Scripturas quia perversi sunt ipsi. Quid
+<lb ed="#P" n="39"/>enim ? Si Scriptura dicit : Lacrymae lavant 
+delic<lb ed="#P" break="no" n="40"/>tum, quod ore pudor est confiteri, nunquid ideo
+<lb ed="#P" n="41"/>dixit : Si erubescis confiteri, peccatum tuum tibi
+<lb ed="#P" n="42"/>sufficiat si tantum lacrymeris etiam si non 
+confi<lb ed="#P" break="no" n="43"/>learis ? Nonne multo melius est, ut Scripturam
+<lb ed="#P" n="44"/>hoc potius dicere voluisse intelligas, quod 
+laery<lb ed="#P" break="no" n="45"/>m ex intima cordis contritione prolats illa
+<lb ed="#P" n="46"/>etiam peccata lavare possunt quae sine pudore et
+<lb ed="#P" n="47"/>verecundia proferri non possunt ? Quid ergo? Si
+<lb ed="#P" n="48"/>pudenda peccata laeryms lavant, ibi tacendum
+<lb ed="#P" n="49"/>est, ubi divinum auxilium magis necessarium
+<lb ed="#P" n="50"/>est ? Imo multo magis ibi confitendum est, ut 
+hu<lb ed="#P" break="no" n="51"/>militas confessionis adjuvet lacrymas contritionis.
+<lb ed="#P" n="52"/>Similiter cum tibi dieitur : Si homini erubescis
+<lb ed="#P" n="53"/>dicere peccatum tuum, ut dicas Deo, qui non 
+im<lb ed="#P" break="no" n="54"/>properat, non tibi dicitur : si erubescis dicere
+<lb ed="#P" n="55"/>homini ut homini non dicas, sed Deo. Sed 
+man<lb ed="#P" break="no" n="56"/>suetudo Dei tibi demonstratur qui tam mitis et
+<lb ed="#P" n="57"/>suavis est omnibus ad se confugientibus ut ab
+<lb ed="#P" n="58"/>ipso improperium aliquod te non oporteat 
+formi<lb ed="#P" break="no" n="59"/>dare, etsi, talia fuerint peccata tua ut ea te homini
+<lb ed="#P" n="60"/>manifestare sine erubescentia non posse 
+contin<lb ed="#P" break="no" n="61"/>gat. In eo enim de qua erubescis cum homini dicis,
+<lb ed="#P" n="62"/>erubescere te Deo non oportet cum Deo dicis ;
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>quia non improperat dicenti, sed condonat 
+con<lb ed="#P" break="no" n="64"/>fitenti. Dic ergo homini ut salubriter confundaris
+<lb ed="#P" n="65"/>ad tempus coram eo, ut ista confusio gloriam tibi
+<lb ed="#P" n="66"/>postmodum adducat, et fiduciam prestet ne 
+im<lb ed="#P" break="no" n="67"/>properium timeas cum manifestari coeperis coram
+<lb ed="#P" n="68"/>Deo ; tamen ne forte tibi diceret cogitatio tua, si
+<lb ed="#P" n="69"/>tam grave est homini revelare peccata ; et si ita
+<lb ed="#P" n="70"/>erubescimue coram homine, quid faciemus ante
+<lb ed="#P" n="71"/>Deum, cujus majestatem declinare non possumus,
+<lb ed="#P" n="72"/>neque judicium effugere ; ne igitur temetipsum
+<lb ed="#P" n="73"/>desperares sic de Deo cogitando, ostenditur tibi
+<lb ed="#P" n="74"/>mansuetudo Dei erga pceenitentes et confitentes,
+<lb ed="#P" n="75"/>quod peccata omnia poenitentibus condonat et
+<lb ed="#P" n="76"/>confitentibus non improperat. Sic ergo accipe quod
+<lb ed="#P" n="77"/>dictum est. Die Deo, qui non improperat, quasi
+<lb ed="#P" n="78"/>diceret etiam si erubescis coram homine ne 
+eru<lb ed="#P" break="no" n="79"/>bescas coram Deo, quoniam Deus mitior est 
+ho<lb ed="#P" break="no" n="80"/>mine ; et mansuetior et compatiens miseris ut non
+<lb ed="#P" n="81"/>improperet. Secundum hunc itaque modum non
+<lb ed="#P" n="82"/>tibi dicitur ut peccata tua homini non dicas ; sed
+<lb ed="#P" n="83"/>utin iis etiam quae coram homine erubescendu
+<lb ed="#P" n="84"/>sunt de Dei pietate confidas. Opponis adhuc 
+la<lb ed="#P" break="no" n="85"/>crymas illas Petri, quas legis confessionem non
+<lb ed="#P" n="86"/>legis. Lacrymte lavant delictum quod ore pudor
+<lb ed="#P" n="87"/>est confileri. Has igitur lacrymas opponis non
+<lb ed="#P" n="88"/>quia amas compunctionem ; sed quia fugis 
+con<lb ed="#P" break="no" n="89"/>fessionem. Dicis ergo quia laerymas Petri legis,
+<lb ed="#P" n="90"/>satisfactionem non legis. Audisti quia fleverit, sed
+<lb ed="#P" n="91"/>quid dixerit non audisti. Ideo lacrym: lavant
+<lb ed="#P" n="92"/>delictum quod ore pudor est confiteri. Quid ergo?
+<lb ed="#P" n="93"/>Hoc tibi diei putas, ut quia Petrus laerymatus
+<lb ed="#P" n="94"/>legitur, confessus non legitur tu si lacrymeris non
+<lb ed="#P" n="95"/>confitearis. Nonno multo melius est ut illud 
+po<lb ed="#P" break="no" n="96"/>tius hic demonstrari intelligas, quod si illic 
+tan<lb ed="#P" break="no" n="97"/>tum lacryms valuerunt ubi confessionem oris
+<lb ed="#P" n="98"/>non habuerunt, quanto magia si vere fuerint, nuno
+<lb ed="#P" n="99"/>valent ubi cum cordis contritione etiam oris 
+con<lb ed="#P" break="no" n="100"/>fessionem habent ? Hoc enim tibi demonstratur
+<lb ed="#P" n="101"/>cum subditur : Prius flendum est, postea 
+confi<lb ed="#P" break="no" n="102"/>tendum. Hoc siquidem ad veritatem confessionem
+<lb ed="#P" n="103"/>spectat ut prius compungaris, postea confitearis.
+<lb ed="#P" n="104"/>Nam sunt quidem sicut impudentes ad faciendum
+<lb ed="#P" n="105"/>sic inverecundi ad dicendum ; qui, quoniam 
+tur<lb ed="#P" break="no" n="106"/>pitudinem suam in faciendo non vident, 
+vere<lb ed="#P" break="no" n="107"/>cundiam in dicendo non habent, quibus utique
+<lb ed="#P" n="108"/>per prophetam dicitur : Frons mulieris 
+mere<lb ed="#P" break="no" n="109"/>D tricis facta est tibi, nescivisti erubescere ger.
+<lb ed="#P" n="110"/>11i). Isti nonnunquam sine aliquo compunctionis
+<lb ed="#P" n="111"/>motu, sine aliquo timoris vel amoris Dei attractu,
+<lb ed="#P" n="112"/>pro sola consuetudine explenda ad dicenda 
+pec<lb ed="#P" break="no" n="113"/>cata sua se ingerunt, existimantes se propter 
+80<lb ed="#P" break="no" n="114"/>lam verborum prolationem a debito peccatorum
+<lb ed="#P" n="115"/>suorum absolvi, quibus recte dicitur: Prius 
+flen<lb ed="#P" break="no" n="116"/>dum est, post confitendum. In confessione 
+nam<lb ed="#P" break="no" n="117"/>que peccatorum hominem et verecundari oportet
+<lb ed="#P" n="118"/>uthumiliter quod fecit cognoscat, et tamen non sio
+<lb ed="#P" n="119"/>verecundari, ut taceat. Hoc bene novit peccatrix
+<lb ed="#P" n="120"/>illa quae etiam venit ut peccata sua se abscondere
+<lb ed="#P" n="121"/>nolle ostenderet ettamen non ante, sed retro stetit,
+<lb ed="#P" n="122"/>ut verecundiam turpitudinis usse attendere 
+de<lb ed="#P" break="no" n="123"/>monstraret. Propter hoc recte dicitur prius 
+flen<lb ed="#P" break="no" n="124"/>dum, post confitendum.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g54789-Dd1e736">
+               <head xml:id="hsvhsv-g54789-Hd1e738">Capitulum 2</head>
+               <head xml:id="hsvhsv-g54789-Hd1e740" type="question-title"/>
+               <p xml:id="hsvhsv-g54789-d1e742">
+                  <lb ed="#P" n="125"/>Cap. II. De poenitentia et fructu poenitentia.
+</p>
+               <p xml:id="hsvhsv-g54789-d1e747">
+                  <lb ed="#P" n="126"/>Poenitentia alia est interior, alia exterior. Poeni-
+<!-- 196.png.txt -->
+<pb ed="#P" n="278"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>tentia exterior est in afflictionecarnis. Poenitentia 
+<lb ed="#P" n="2"/>interior est in contritione cordis. Per poenitentiam
+<lb ed="#P" n="3"/>exteriorem castigatur culpa parvi operis. Per po
+<lb ed="#P" n="4"/>nitentiam interiorem emendatur culpa prave
+<lb ed="#P" n="5"/>voluntatis. Secundum quantitatem delicti, 
+men<lb ed="#P" break="no" n="6"/>sura correctionis pensanda est. Agite, inquit,
+<lb ed="#P" n="7"/>fructus dignos pamnitentic (Matt. m ; Luc. u).
+<lb ed="#P" n="8"/>Aliud est enim fructus pomnitentiz, aliud ipsa
+<lb ed="#P" n="9"/>poenitentia. Sicut aliud est arbor, et aliud fructus
+<lb ed="#P" n="10"/>ejus : sic aliud est poenitentia, aliud fructus ejus.
+<lb ed="#P" n="11"/>Poenitentia est dolor commisei praeteriti, quando
+<lb ed="#P" n="12"/>doles te fecisse quod malum est. Quando ergo
+<lb ed="#P" n="13"/>improbas et damnas mala tua, poenitentiam 
+ha<lb ed="#P" break="no" n="14"/>bes, quando autem, satisfactione sequente, et 
+pu<lb ed="#P" break="no" n="15"/>niset corrigis mala tua, fructus ponitentis, 
+ha<lb ed="#P" break="no" n="16"/>bes. Si displicet tibi quod fecisti, poenitentiam
+<lb ed="#P" n="17"/>agis. Si persequeris et punis quod fecisti, fructua
+<lb ed="#P" n="18"/>ponitentiae facis. Pcenitentia est facti improbatio;
+<lb ed="#P" n="19"/>fructus peewitentim delicti correctio. Sed quia
+<lb ed="#P" n="20"/>secundum mensuram delicti correctionis mensura
+<lb ed="#P" n="21"/>pensanda est, ideo fructus poenitentie dignos 
+fa<lb ed="#P" break="no" n="22"/>cere oportet. Si in correctione minor est afflictio
+<lb ed="#P" n="23"/>quam in culpa fuit delectatio, non est dignus
+<lb ed="#P" n="24"/>ponitentiae tuc fructue. Sed dicis mihi: Quomodo
+<lb ed="#P" n="25"/>scire possum quando condigna sit pomitentia
+<lb ed="#P" n="26"/>mea ? Quia hoc scire non potes, ideo necesse 
+ha<lb ed="#P" break="no" n="27"/>bes semper poenitere. Satisfacere potes, nimis 
+fa<lb ed="#P" break="no" n="28"/>cere non potes. Melius est ut plus facias quam
+<lb ed="#P" n="29"/>minus. Idcirco sollicitus esto, satage, da operam,
+<lb ed="#P" n="30"/>studium impende, ut culpa sit cum fine, devotio
+<lb ed="#P" n="31"/>sine fine. Tamen ut aliquando peccatrix 
+conscien<lb ed="#P" break="no" n="32"/>tia consoletur, positus est modus et mensura
+<lb ed="#P" n="33"/>ponitentis ex4erioris, utjilla expleta vel perfecta,
+<lb ed="#P" n="34"/>fiduciam habere incipias, et sancta quadam 
+prae<lb ed="#P" break="no" n="35"/>sumptione in spe misericordie divine de 
+indul<lb ed="#P" break="no" n="36"/>gentia et remissione peccatorum confidere, et
+<lb ed="#P" n="37"/>tanto verius quanto utique sincerius injunctam
+<lb ed="#P" n="38"/>poenitentiam expleveris.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g54789-Dd1e843">
+               <head xml:id="hsvhsv-g54789-Hd1e845">Capitulum 3</head>
+               <head xml:id="hsvhsv-g54789-Hd1e847" type="question-title"/>
+               <p xml:id="hsvhsv-g54789-d1e849">
+                  <lb ed="#P" n="39"/>Cap. III. De iis qui in hac vita poenitentiam
+<lb ed="#P" n="40"/>non complent.
+</p>
+               <p xml:id="hsvhsv-g54789-d1e856">
+                  <lb ed="#P" n="41"/>Sed fortassis tacita tibi cogitatione respondeas:
+<lb ed="#P" n="42"/>Quomodo, inquis, certus esse possum de venia
+<lb ed="#P" n="43"/>propter poenitentiam et satisfactionem ab homine
+<lb ed="#P" n="44"/>injunctam, etiamsi illam studiose complevero, cum
+<lb ed="#P" n="45"/>ipse homo cui peccata mea confiteor sepe aut
+<lb ed="#P" n="46"/>ignorantia nesciat, aut negligentia non considerat
+<lb ed="#P" n="47"/>qualem mihi secundum modum et mensuram
+<lb ed="#P" n="48"/>delicti debeat satisfactionem injungere ? Ad hoc
+<lb ed="#P" n="49"/>tibi breviter respondeo: Quia si homo nescit, Deus
+<lb ed="#P" n="50"/>scit. Tu tamen fac quod tibi praecipitur. Obediens
+<lb ed="#P" n="51"/>esto in eo quod tibi jubetur. Videat Deus 
+devo<lb ed="#P" break="no" n="52"/>tionem tuam etiam si homo non condigne 
+mode<lb ed="#P" break="no" n="53"/>retur afflictionem tuam. Perire non poteris si 
+de<lb ed="#P" break="no" n="54"/>votus inventus fueris. Sed decipior, inquis,
+<lb ed="#P" n="55"/>putans me satisfecisse cum satis non fecerim. Ille
+<lb ed="#P" n="56"/>mihi injunxit ut tantum facerem et non amplius
+<lb ed="#P" n="57"/>mihi praecepit. Ecce totum feci et non satisfeci
+<lb ed="#P" n="58"/>Vado quasi securus ad Deum, putans me 
+satis<lb ed="#P" break="no" n="59"/>fecisse illi cum adhuc teneor obligatus, quia satis
+<lb ed="#P" n="60"/>non fecerim. Quare ergo, inquis, factum est ut.
+<lb ed="#P" n="61"/>talem sacerdotem non habeam qui mihi dicat hoc
+<lb ed="#P" n="62"/>quod oportet ? Audi quare. Propter peccata tua
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>factum est hoc quibus meruisti ut malum 
+habe<lb ed="#P" break="no" n="64"/>res, quibus si districte judicareris et hoc 
+merue<lb ed="#P" break="no" n="65"/>ras ut nullum haberes : Qui, inquit Scriptura,
+<lb ed="#P" n="66"/>regnare faciet hominem hypocritam propter
+<lb ed="#P" n="67"/>peccata populi (Job. xxxiv). Et ego, ait, 
+adha<lb ed="#P" break="no" n="68"/>rescere faciam linguam tuam palato tuo, nec
+<lb ed="#P" n="69"/>eris quasi vir objurgans quia domus 
+ecaspe<lb ed="#P" break="no" n="70"/>rans est (Ezech. 11). Nam ut scias quod malitia
+<lb ed="#P" n="71"/>tua hoc fecit : vide ubi erat devotio tua. Si enim.
+<lb ed="#P" n="72"/>perfectam devotionem habuisses etiam nullo
+<lb ed="#P" n="73"/>admonente cessare tamen potuisses. Nunc autem
+<lb ed="#P" n="74"/>pigritia tua et negligentia tua. occasionem 
+tem<lb ed="#P" break="no" n="75"/>poris quesivit, non correctionem. Et vidit hoc
+<lb ed="#P" n="76"/>Deus et dedit tibi secundum cor tuum, ut non
+<lb ed="#P" n="77"/>invenires quod non quaerebas accipere. Nec tamen
+<lb ed="#P" n="78"/>B dico quod desperes ; hoc etiam si contingat ut
+<lb ed="#P" n="79"/>homo qui exterius curandis vulneribus 
+peccato<lb ed="#P" break="no" n="80"/>rum medicamentum apponit aliquid minue 
+euffi<lb ed="#P" break="no" n="81"/>ciens tribuant. Siepe quod minus foris agitur, 
+effi<lb ed="#P" break="no" n="82"/>cacius intus operatur. Jn parvo opere magna
+<lb ed="#P" n="83"/>devotio potest esse. Homo videt in facie ; Deue
+<lb ed="#P" n="84"/>autem intuetur cor (I Reg. xvi). Et ut minus
+<lb ed="#P" n="85"/>dicam, magnum est si in hac vita incipere possis
+<lb ed="#P" n="86"/>etiam si non perficias. Nam et post mortem ignis
+<lb ed="#P" n="87"/>quidam purgatorius dicitur ubi purgantur et
+<lb ed="#P" n="88"/>mundantur, qui hic corrigi coeperunt et non 
+per<lb ed="#P" break="no" n="89"/>fecerunt. Qui autem in hac vita nec incipere 
+vo<lb ed="#P" break="no" n="90"/>luerunt, ibi consummare non possunt. Quibus
+<lb ed="#P" n="91"/>autem hic correctionem suam incipere datur ;
+<lb ed="#P" n="92"/>etiam si perficere non datur ; illic correctionis 
+per<lb ed="#P" break="no" n="93"/>fectio reservatur. Tamen tutius omnino est ut
+<lb ed="#P" n="94"/>hic et incipere et perficere contendas, ut illic tibi
+<lb ed="#P" n="95"/>nihil patiendum vel faciendum supersit ; durum
+<lb ed="#P" n="96"/>est tormenta illa, vel ad modicum sentire. 
+Prop<lb ed="#P" break="no" n="97"/>terea tutius omnino tibi est ut hic et incipias et
+<lb ed="#P" n="98"/>perficias quod facere debes, quod si perficere hic
+<lb ed="#P" n="99"/>non poteris, si tamen inchoaveris, noli desperare,
+<lb ed="#P" n="100"/>salvus eris, sic tamen quasi per ignem (1 Cor.
+<lb ed="#P" n="101"/>I). Ardebis quidem, donec consumptum fuerit
+<lb ed="#P" n="102"/>quod cremabile portas. Tu autemealvus eris 
+quo<lb ed="#P" break="no" n="103"/>niamin te fundamentum permansit charitatis Dei.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g54789-Dd1e998">
+               <head xml:id="hsvhsv-g54789-Hd1e1000">Capitulum 4</head>
+               <head xml:id="hsvhsv-g54789-Hd1e1002" type="question-title"/>
+               <p xml:id="hsvhsv-g54789-d1e1004">
+                  <lb ed="#P" n="104"/>Cap. IV. Utrum iterari possit poenitentia.
+</p>
+               <p xml:id="hsvhsv-g54789-d1e1009">
+                  <lb ed="#P" n="105"/>Sunt qui dicant relapsis in pristina peccata 
+lo<lb ed="#P" break="no" n="106"/>cum venie amplius non esse ; propterea quod
+<lb ed="#P" n="107"/>quidam Scripturarum testimonia iis qui post
+<lb ed="#P" n="108"/>acceptam poenitentiam ad priora peccata redeunt,
+<lb ed="#P" n="109"/>aditum salutis negare videntur. Bt sunt quidem
+<lb ed="#P" n="110"/>ejusmodi quaedam dicta in quibus non hoc 
+qui<lb ed="#P" break="no" n="111"/>dem dictum est, sed a non bene intelligentibus
+<lb ed="#P" n="112"/>hoc dictum esse videtur. Apostolus Paulus in illa
+<lb ed="#P" n="113"/>Epistola quam ad Hebreos scripsit, sic ait :
+<lb ed="#P" n="114"/>Impossibile est eos qui semel sunt illuminati,
+<lb ed="#P" n="115"/>gustaverunt etiam donum ccaleste, et 
+partici<lb ed="#P" break="no" n="116"/>pes facti sunt Spiritus sancti, gustuverunt
+<lb ed="#P" n="117"/>nihilominus bonum Dei verbum, virtutesque
+<lb ed="#P" n="118"/>seculi venturi et prolapsi sunt, renovari 
+rur<lb ed="#P" break="no" n="119"/>sus ad pomnitentiam, rursum crucifigentes
+<lb ed="#P" n="120"/>sibimetipsis Filium Dei et ostentui habentes
+<lb ed="#P" n="121"/>(Hebr. x). Et rursum : Voluntarie euim 
+peccan<lb ed="#P" break="no" n="122"/>tibus, post acceptam notitiam veritatis, jam
+<lb ed="#P" n="123"/>non relinquitur pro peccatis hostia (Hebr. x).
+<lb ed="#P" n="124"/>Etiterum scriptum alibi invenitur. Quia locus
+<!-- 197.png.txt -->
+<pb ed="#P" n="279"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>non est secundse poenitentis. Sed, sive hsc sive 
+<lb ed="#P" n="2"/>alia, talia scripta vel dicta catholicorum virorum
+<lb ed="#P" n="3"/>super hoc inveniantur, nulla ratione 
+existiman<lb ed="#P" break="no" n="4"/>dum est eos qui recte sapuerunt hoc astruere 
+vo<lb ed="#P" break="no" n="5"/>luisse quod in qualiacunque peccata prolapsi, vel
+<lb ed="#P" n="6"/>ponitere non possent, si per divinam 
+misericor<lb ed="#P" break="no" n="7"/>diam respicerentur, aut veniam consequi non
+<lb ed="#P" n="8"/>valerent, si per veram poenitentiam 
+compunge<lb ed="#P" break="no" n="9"/>rentur. Hoc enim fides catholica omnino non
+<lb ed="#P" n="10"/>recipit, quia qui dixit : Non dico tibi septies, sed
+<lb ed="#P" n="11"/>usque septuagies septies (Matt. xvii) ; se nec
+<lb ed="#P" n="12"/>secundam, nec tertiam, nec quotamlibet 
+peccato<lb ed="#P" break="no" n="13"/>ris poenitentiam veram duntaxat refutare 
+signi<lb ed="#P" break="no" n="14"/>ficavit. Quod ergo dictum est impossibile esse eos
+<lb ed="#P" n="15"/>qui post illuminationem gratie et gustum doni
+<lb ed="#P" n="16"/>coelestis et. participationem Spiritus sancti, 
+pro<lb ed="#P" break="no" n="17"/>lapsi sunt, renovari rursus ad poenitentiam, vel
+<lb ed="#P" n="18"/>sic intelligendum est, quod per se cadere potuerunt
+<lb ed="#P" n="19"/>sed per se surgere non possunt, atque ideo illis
+<lb ed="#P" n="20"/>impossibile esse Deo non esse. Sicut scriptum est :
+<lb ed="#P" n="21"/>Spiritus vadens et non rediens (Psal. xxvi).
+<lb ed="#P" n="22"/>De via perditionis dictum est, quod omnes qui
+<lb ed="#P" n="23"/>ingrediuntur per eam amplius non revertentur,
+<lb ed="#P" n="24"/>quia homo per se quidem ad malum ire potest,
+<lb ed="#P" n="25"/>per se redire non potest, nisi per gratiam 
+adjuve<lb ed="#P" break="no" n="26"/>tur ; et adjutus sic ad poenitentiam renovetur. Vel
+<lb ed="#P" n="27"/>sie ergo intelligendum est quod scriptum eet.
+<lb ed="#P" n="28"/>Impossibile esse prolapsos ad poenitentiam 
+reno<lb ed="#P" break="no" n="29"/>vari, vel propheticum illud quod dictum est:
+<lb ed="#P" n="30"/>Virgo Israel cecidit, non adjiciet ut resurgat
+<lb ed="#P" n="31"/>virgo Israel (Amos. v) (in quo similiter quidam
+<lb ed="#P" n="32"/>arecta intelligentia erraverunt) his verbis 
+expres<lb ed="#P" break="no" n="33"/>sum convenienter quis dicat.
+</p>
+               <p xml:id="hsvhsv-g54789-d1e1133">
+                  <lb ed="#P" n="34"/>Nam quia sanctus Hieronymus super hunc 
+lo<lb ed="#P" break="no" n="35"/>cum quidam verba ambigua exposuit, quidam
+<lb ed="#P" n="36"/>qui ex Scripturis libentius materiam erroris quam
+<lb ed="#P" n="37"/>sdificationis assumunt ; lapsos reparari non posse
+<lb ed="#P" n="38"/>conantur astruere. Ait enim : Quod cum Deus
+<lb ed="#P" n="39"/>omnia possit, de corrupta virginem facere non
+<lb ed="#P" n="40"/>potest. Ipse viderit quid dicere voluerit ; ego a
+<lb ed="#P" n="41"/>puritate christiane fidei non discedo. Veritas una
+<lb ed="#P" n="42"/>est, Apostolum dicentem audio : Si aliud 
+ange<lb ed="#P" break="no" n="43"/>lus evangelisaverit anathema sit (Gal. 1). Ego
+<lb ed="#P" n="44"/>tamen sic sentio quia aliquid dicere voluit, etiam
+<lb ed="#P" n="45"/>8i ego nesciam quid dicere voluit. Sic tamen pium
+<lb ed="#P" n="46"/>est mihi sentire quod verum dixit, etiam si forte
+<lb ed="#P" n="47"/>competentius vel evidentius dixisse potuisset
+<lb ed="#P" n="48"/>quod dixit. Egodictum catholici viri ad catholicam
+<lb ed="#P" n="49"/>veritatem interpretari conabor. Tamen si de 
+cor<lb ed="#P" break="no" n="50"/>ruptione carnis intelligitur hoc, stultum est sic
+<lb ed="#P" n="51"/>sentire, quod homo carnem suam vitiare possit,
+<lb ed="#P" n="52"/>Deus sanare non possit. Si de corruptione cordis
+<lb ed="#P" n="53"/>hoc intelligitur, et hoc similiter stultum est dicere;
+<lb ed="#P" n="54"/>quia homo peccare possit, Deus justiflcare non
+<lb ed="#P" n="55"/>possit, et tantum justificare ; quantum ille peccare.
+<lb ed="#P" n="56"/>Si autem idcirco illud non posse dicitur Deus ;
+<lb ed="#P" n="57"/>quia factum est, et quod factum est, non factum
+<lb ed="#P" n="58"/>esse non potest ; quia quod verum est, falsum
+<lb ed="#P" n="59"/>esse non potest, et idcirco non potest, quia contra
+<lb ed="#P" n="60"/>veritatem non potest, quia si contra veritatem
+<lb ed="#P" n="61"/>posset, contra seipsum posset, qui veritas est. Quod
+<lb ed="#P" n="62"/>pondus habet hoc dictum magis quam si diceretur
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>de alio quolibet, quod factum eet, jam non esse
+<lb ed="#P" n="64"/>factum non potest, etiam si quod factum est,
+<lb ed="#P" n="65"/>emendari potest, ut factum esse non noceat quod
+<lb ed="#P" n="66"/>factum est ? Certum est quia qui cadit resurgere
+<lb ed="#P" n="67"/>potest, et non solum resurgere sed etiam melior
+<lb ed="#P" n="68"/>resurgere quam fuit, cum cecidit. Multi ceciderunt
+<lb ed="#P" n="69"/>et meliores surrexerunt quam fuerunt antequam
+<lb ed="#P" n="70"/>ceciderunt ; meliores etiam quam futuri fuissent
+<lb ed="#P" n="71"/>8i non cecidissent, quia ad hoc ipsum cadere 
+per<lb ed="#P" break="no" n="72"/>missi sunt, ut ex ipso casu suo et ruina 
+erudi<lb ed="#P" break="no" n="73"/>rentur, et meliores efficerentur. Nemo tamen 
+me<lb ed="#P" break="no" n="74"/>lior post casum surrexit, vel surgere potuitquam
+<lb ed="#P" n="75"/>fuisset etsi non cecidisset, et haec quae modo 
+resur<lb ed="#P" break="no" n="76"/>gendo bona operatus est, omnia stando operatus
+<lb ed="#P" n="77"/>fuisset. In hoc secundum aliquid dici potest, quod
+<lb ed="#P" n="78"/>B omnis qui cadit id quod cadendo perdit amplius
+<lb ed="#P" n="79"/>totum recuperare non potest, quia quidquid post
+<lb ed="#P" n="80"/>ea ad correctionem vel ad recuperationem 
+adjece<lb ed="#P" break="no" n="81"/>rit, facere omnino non potest, quin melior fuisset,
+<lb ed="#P" n="82"/>si haec omnia haberet, et tamen non cecidisset.
+<lb ed="#P" n="83"/>Propterea nemo in spe correctionis peccare debet,
+<lb ed="#P" n="84"/>quia quod semel amittitur, amplius ipsum non
+<lb ed="#P" n="85"/>recuperatur, quia quidquid adjectum postea 
+fue<lb ed="#P" break="no" n="86"/>rit pro reparatione perditi non est ipsum ; sed
+<lb ed="#P" n="87"/>aliud pro ipso, et plus utique esset si utrumque
+<lb ed="#P" n="88"/>simulesset. Quod idcirco fleri non potest, quia
+<lb ed="#P" n="89"/>sicut tempora transacta amplius non redeunt, ita
+<lb ed="#P" n="90"/>quae semel perpetrata fuerint amplius non facta
+<lb ed="#P" n="91"/>esse non possunt. Si igitur virgo es, custodi 
+dili<lb ed="#P" break="no" n="92"/>genter quod habes. Noli in spe peccare, noli 
+ca<lb ed="#P" break="no" n="93"/>€; dere, quasi melior surrectura sis. Quidquid poatea
+<lb ed="#P" n="94"/>feceris facere tamen non potes, quin melior esses
+<lb ed="#P" n="95"/>si hoc faceres et virgo esses. Sic itaque fortasse
+<lb ed="#P" n="96"/>secundum hunc modum convenienter intelligitur,
+<lb ed="#P" n="97"/>quod virgo Israel cecidit et non adjiciet, ut 
+resur<lb ed="#P" break="no" n="98"/>gat virgo Israel. Et quod ubi mille erant, centum
+<lb ed="#P" n="99"/>erunt, et ubi centum, decem in domo Israel. Si in
+<lb ed="#P" n="100"/>hunc modum lapsos ad poenitentiam renovari non
+<lb ed="#P" n="101"/>posse, dicimus, nihil inconveniens fortassis 
+dici<lb ed="#P" break="no" n="102"/>mus, neque ponitentibus viam indulgentis 
+clau<lb ed="#P" break="no" n="103"/>dimus, sed periculum cadendi demonstramus. Si
+<lb ed="#P" n="104"/>enim magnum est aliquando surgere, majus utique
+<lb ed="#P" n="105"/>est, nunquam cecidisse. Si bonum est sanatum
+<lb ed="#P" n="106"/>esse, melius est nunquam corruptum fuisse. Est
+<lb ed="#P" n="107"/>adhuc alius sensus quem in supradicta sententia
+<lb ed="#P" n="108"/>eadem veritate intelligere possumus, utrum sequali
+<lb ed="#P" n="109"/>convenientia, nescio. Impossibile est, inquit, eos
+<lb ed="#P" n="110"/>qui semel illuminati sunt, et c:etera quae adjecit,
+<lb ed="#P" n="111"/>prolapsos rursus renovari ad poenitentiam ; et
+<lb ed="#P" n="112"/>quasi causam subjunxit quare ejusmodi ad 
+pceni<lb ed="#P" break="no" n="113"/>tentiam renovari non possint ; rureus, inquit, 
+cru<lb ed="#P" break="no" n="114"/>cifigentes et ostentui habentes Filium Dei. In hoc
+<lb ed="#P" n="115"/>ergo denuo renovari non possunt, quia aliam 
+cru<lb ed="#P" break="no" n="116"/>cem et aliam mortem Filii Dei habere non 
+pos<lb ed="#P" break="no" n="117"/>sunt; non quia peenitentibus venia denegetur, sed .
+<lb ed="#P" n="118"/>quia pro peccantibus Christus iterum non 
+morie<lb ed="#P" break="no" n="119"/>tur. Custodie ergo salutem tuam, semel pro illa
+<lb ed="#P" n="120"/>Christus mortuus est. Si illam amiseris, non 
+po<lb ed="#P" break="no" n="121"/>teris habere Christum alium qui pro te moriatur,
+<lb ed="#P" n="122"/>vel ejusdem Christi mortem aliam. Dicit tibi
+<lb ed="#P" n="123"/>Christus : Serva salutem tuam, ego semel pro illa
+<lb ed="#P" n="124"/>mortuus sum. Si illam amiseris, ego iterum mori.
+<!-- 198.png.txt -->
+<pb ed="#P" n="280"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>non possum, tamen eadem morte, amissam iterum 
+<lb ed="#P" n="2"/>reddere possum. Sed nolo mihi injuriam facias ;
+<lb ed="#P" n="3"/>quia si salutem tuam morte mea acquisitam 
+vo<lb ed="#P" break="no" n="4"/>luntarie peccando iterum amiseris, quantum in te
+<lb ed="#P" n="5"/>eat, iterum crucifigi, iterum me mori compellis.
+<lb ed="#P" n="6"/>Ego carnem meam hostiam obtuli, ut de peccato
+<lb ed="#P" n="7"/>poenitentes veniam consequerentur, non ut 
+vo<lb ed="#P" break="no" n="8"/>luntarie peccantes et in peccato persistentes 
+jus<lb ed="#P" break="no" n="9"/>tificarentur. Qui ergo de peccato peenitent, habent
+<lb ed="#P" n="10"/>im ea hostiam expiationis. Qui autem in peccatis
+<lb ed="#P" n="11"/>suis voluntarie permanent, non habent ex ea
+<lb ed="#P" n="12"/>causam salvationis. Hostia quidem ista data fuit
+<lb ed="#P" n="13"/>illis ut per eam expiarentur de peócato 
+pceniten<lb ed="#P" break="no" n="14"/>tes ; sed jam nunc non relinquitur eis ipsa hostia
+<lb ed="#P" n="15"/>ui per eam in peccato voluntarie persistentes
+<lb ed="#P" n="16"/>justificentur. Non ergo putant voluntarie 
+peocan<lb ed="#P" break="no" n="17"/>tes istam hostiam ad se pertinere, quia voluntarie
+<lb ed="#P" n="18"/>peccantibus jam non relinquitur hostia pro 
+pec<lb ed="#P" break="no" n="19"/>cato, quia non possunt sibi eam usurpare quiita
+<lb ed="#P" n="20"/>oblata eat, ut iis prosit qui de peccatis pcenitent,
+<lb ed="#P" n="21"/>non qui permanent in peccatis. Sic una veritate
+<lb ed="#P" n="22"/>manifesta, alia quoque in lucem venit. Quod 
+au<lb ed="#P" break="no" n="23"/>tem dictum est quod non est locus secunde; 
+poe<lb ed="#P" break="no" n="24"/>nitentiae, ita quidam intelligere volunt, quia tota
+<lb ed="#P" n="25"/>hsc vita locus est poenitentis homini peccatori.
+<lb ed="#P" n="26"/>Qui hic poenitentiam facere volunt locum habent,
+<lb ed="#P" n="27"/>quia hic locus datus est poenitendi hominibus.
+<lb ed="#P" n="28"/>Qui autem hio poenitentiam facere nolunt, in alia
+<lb ed="#P" n="29"/>vita etiam si voluerint facere poenitentiam non
+<lb ed="#P" n="30"/>poterunt, ita ut fructum habeat poenitentia 
+illo<lb ed="#P" break="no" n="31"/>rum, quia locum non habet. Prima ergo 
+poni<lb ed="#P" break="no" n="32"/>tentia in hac vita locum habet. Secunda 
+pceni<lb ed="#P" break="no" n="33"/>tentia post hanc vitam locum non habet ; nec
+<lb ed="#P" n="34"/>fructum habent, etiam si dolorem habent. Alii hoc
+<lb ed="#P" n="35"/>dictum intelligunt de publica poenitentia, quam
+<lb ed="#P" n="36"/>dicunt iterari non posse propter rigorem et 
+casti<lb ed="#P" break="no" n="37"/>gationem, nehominessacramenta Dei contemnant.
+<lb ed="#P" n="38"/>Sed unusquisque prout potuerit secundum 
+veri<lb ed="#P" break="no" n="39"/>tatem sentiat. Ego illum qui dixerit ideo locum
+<lb ed="#P" n="40"/>non esse secunde poenitentie ; quis una debet
+<lb ed="#P" n="41"/>esse poenitentia homini, quandiu vivit, ut semper
+<lb ed="#P" n="42"/>de praeteritis doleat, et se a futuris custodiat, et
+<lb ed="#P" n="43"/>nunquam ad peccata redeat quae semel dimisit, et
+<lb ed="#P" n="44"/>qui hoc facit quod debet facere facit. Et qui aliter
+<lb ed="#P" n="45"/>facit, id est qui ad peccata praeterita revertititur,
+<lb ed="#P" n="46"/>ut cum peccaverit quandiu vult iterum ad 
+poeni<lb ed="#P" break="no" n="47"/>tentiam redeat, et quasi post primam secundam
+<lb ed="#P" n="48"/>facit poenitentiam, faeit quod facere non debet, nec
+<lb ed="#P" n="49"/>tamen in eo quod poenitet, male facit, sed in eo
+<lb ed="#P" n="50"/>quod non perseverat in poenitentia male facit. Qui
+<lb ed="#P" n="51"/>Sic dixerit locum non esse secunde ponitentiae,
+<lb ed="#P" n="52"/>ego illum faciliorem invenisse exitum pulo, et sine
+<lb ed="#P" n="53"/>scrupulo quaestionis molestiam declinasse.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g54789-Dd1e1457">
+               <head xml:id="hsvhsv-g54789-Hd1e1459">Capitulum 5</head>
+               <head xml:id="hsvhsv-g54789-Hd1e1461" type="question-title"/>
+               <p xml:id="hsvhsv-g54789-d1e1463">
+                  <lb ed="#P" n="54"/>Cap. V. De iis qui in extremis pamitent.
+</p>
+               <p xml:id="hsvhsv-g54789-d1e1468">
+                  <lb ed="#P" n="55"/>Quaerunt quidam quid de iis sentiendum sit qui
+<lb ed="#P" n="56"/>in peccatis suis usque ad finem vite perseverant,
+<lb ed="#P" n="57"/>et tamen in extremis morte imminente territi
+<lb ed="#P" n="58"/>compunguntur ef ponitent, et ex toto corde 
+mi<lb ed="#P" break="no" n="59"/>sericordiam et indulgentiam quaerunt etiam si
+<lb ed="#P" n="60"/>satisfactionem articulo temporis pr;venti 
+persol<lb ed="#P" break="no" n="61"/>vere non possunt. Breviter, quod mihi videtur,
+<lb ed="#P" n="62"/>absolvo. Ego puto hominem quandiu in hac vita
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>vit sicut malum facere potest, ita et emendare
+<lb ed="#P" n="64"/>posse si fecerit, et nunquam quocunque tempore
+<lb ed="#P" n="65"/>etiam in extremis et in articulo necessitatis 
+pcni<lb ed="#P" break="no" n="66"/>tentiam hominisinfructuosam esse, si vera fuerit.
+<lb ed="#P" n="67"/>Ego Scripturam audio dicentem : Quia in 
+qua<lb ed="#P" break="no" n="68"/>eunque hora ingemuerit peccator, salvus erit
+<lb ed="#P" n="69"/>(Ezech. xvii, xxxi). Non dicit biduo aut 
+bien<lb ed="#P" break="no" n="70"/>nio ante mortem si ingenuerit, sed quacunque
+<lb ed="#P" n="71"/>hora ingemuerit, salvus erit. Ergo tu noli ponere
+<lb ed="#P" n="72"/>tempus misericordi; Dei, ne forte judicium tuum
+<lb ed="#P" n="73"/>tibi ipsi adversetur. Noli ponere legem quae tibi
+<lb ed="#P" n="74"/>non expedit. Peccator, ama misericordiam, quia
+<lb ed="#P" n="75"/>8i non amas, non mereris. Nec tamen sub hac spe
+<lb ed="#P" n="76"/>secure tibi peccandum est. Propterea quod in fine
+<lb ed="#P" n="77"/>si conversus fueris salus, tibi promittitur. Nam,
+<lb ed="#P" n="78"/>quamvis etiam tunc venia tibi (si vere posnitueris)
+<lb ed="#P" n="79"/>promittatur, non tamen tibi ut tunc vere 
+poni<lb ed="#P" break="no" n="80"/>tere debeas promittitur. Valde difficile est ut tunc
+<lb ed="#P" n="81"/>vera sit poenitentia, quando tam sera venit, quando
+<lb ed="#P" n="82"/>cruciatus membra ligat, et dolor sensum opprimit,
+<lb ed="#P" n="83"/>vix homo aliud cogitare potest. Ergo si vis 
+secu<lb ed="#P" break="no" n="84"/>rus esse, poenitentiam age dum sanus es. Dum
+<lb ed="#P" n="85"/>mens sibi vacare potest, exerce illam in opere
+<lb ed="#P" n="86"/>Suo. Valde suspecta debet esse poenitentia, quae
+<lb ed="#P" n="87"/>coacta videtur esse. Facile est ut homo se nolle
+<lb ed="#P" n="88"/>putet, quod posse non datur. Possibilitas optime
+<lb ed="#P" n="89"/>voluntatem probat. Si non facis dum potes 
+mani<lb ed="#P" break="no" n="90"/>feste, ostendis quod non vis. Quamvis. autem in
+<lb ed="#P" n="91"/>tempore sanitatis securior sit poenitentia, tamen
+<lb ed="#P" n="92"/>melior est sera quam nulla. Ante finem time, ne
+<lb ed="#P" n="93"/>peenitere differas ; in fine conside, ut vel tunc 
+re<lb ed="#P" break="no" n="94"/>sipiscas. Quod si tunc forte tibi suppetere non
+<lb ed="#P" n="95"/>vides tempus boni operis, egredere tamen in spe
+<lb ed="#P" n="96"/>firma, cum arrha bons devotionis. Multum sera
+<lb ed="#P" n="97"/>fuit latronis pcenitentia, sed indulgentia sera non
+<lb ed="#P" n="98"/>fuit. Quod tandiu petere distulit, vide quam cito
+<lb ed="#P" n="99"/>accepit ? Cor contritum et humiliatum Deus
+<lb ed="#P" n="100"/>noster nunquam despiciet (Psal. L) ; quia 
+mor<lb ed="#P" break="no" n="101"/>tem non vult peccatoris, sed ut convertatur et
+<lb ed="#P" n="102"/>vivat (Ezech. xxxii).
+</p>
+            </div>
+            <div xml:id="hsvhsv-g54789-Dd1e1578">
+               <head xml:id="hsvhsv-g54789-Hd1e1580">Capitulum 6</head>
+               <head xml:id="hsvhsv-g54789-Hd1e1582" type="question-title"/>
+               <p xml:id="hsvhsv-g54789-d1e1584">
+                  <lb ed="#P" n="103"/>Cap. VI. Quod sola bona voluntas sufficit, si
+<lb ed="#P" n="104"/>facultas operandi non datur.
+</p>
+               <p xml:id="hsvhsv-g54789-d1e1591">
+                  <lb ed="#P" n="105"/>Si ergo bonam voluntatem habes, noli desperare.
+<lb ed="#P" n="106"/>Angeli de collo clamant: Paae in terra hominibus
+<lb ed="#P" n="107"/>bona voluntatis (Luc. 1). Non dixerunt pax 
+ho<lb ed="#P" break="no" n="108"/>minibus divitibus, aut nobilibus, aut potentibus,
+<lb ed="#P" n="109"/>sive multa facere valentibus. Si hoc dixissent,
+<lb ed="#P" n="110"/>timendum tibi esset. Quia hic omnia etiam 
+invi<lb ed="#P" break="no" n="111"/>iis abesse possunt, et, adesse non amantibus 
+si<lb ed="#P" break="no" n="112"/>militer. Voluntas nulli abesse potest niei volenti.
+<lb ed="#P" n="113"/>Tamen aliquid est voluntas : quod nec dari nec
+<lb ed="#P" n="114"/>auferri possit invito. Propterea voluntas hominis
+<lb ed="#P" n="115"/>est potestas Dei. Et ideo voluntas hominis eat,
+<lb ed="#P" n="116"/>quia velle in potestate hominis est ; et non 
+po<lb ed="#P" break="no" n="117"/>test voluntatem tollere homini aliqua violentia
+<lb ed="#P" n="118"/>extrinsecus incurrens, neque infirmitas, neque,
+<lb ed="#P" n="119"/>adversitas ulla, neque paupertas voluntatem 
+ho<lb ed="#P" break="no" n="120"/>mini tollere potest nisi ipse homo voluerit. Opus
+<lb ed="#P" n="121"/>ei auferri potest, etiam quando ipse non vult,
+<lb ed="#P" n="122"/>voluntas non potest. Propterea non est in ipso
+<lb ed="#P" n="123"/>quando possit, sed in ipso est quando velit, etiam
+<lb ed="#P" n="124"/>quamvis ex ipso non sit voluntas, quando vult ;
+<!-- 199.png.txt -->
+<pb ed="#P" n="281"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>quia et ipsum velle bonum ex Deo est. Idcirco A
+<lb ed="#P" n="2"/>iamen in ipso homine dicitur esse quando velit
+<lb ed="#P" n="3"/>quia extrinsecus velle hominis impedire non 
+po<lb ed="#P" break="no" n="4"/>test. Ad hoc ut velit nihil foris quaeritur, totum
+<lb ed="#P" n="5"/>in ipso est, quod ad hoc faciendum opus est. Non
+<lb ed="#P" n="6"/>quaerit aliquid extra se ut velle habeat in se. 
+Id<lb ed="#P" break="no" n="7"/>circo velle est in ipso, posse in ipso non est, niai
+<lb ed="#P" n="8"/>aliud foris apponatur ad explicandum voluntatem
+<lb ed="#P" n="9"/>quod quando adesse debeat, vel abesse, in 
+potes<lb ed="#P" break="no" n="10"/>tate hominis non est. Idcirco quando non vult
+<lb ed="#P" n="11"/>bonum non culpatur nisi ipse. Quando autem non
+<lb ed="#P" n="12"/>potest, si vult quidem propter voluntatem 
+impos<lb ed="#P" break="no" n="13"/>sibilitas non imputatur ; si autem non vault
+<lb ed="#P" n="14"/>propter impossibilitatem, voluntas non excusatur.
+<lb ed="#P" n="15"/>Totum ergo meritum in voluntate est. Quantum
+<lb ed="#P" n="16"/>vis, tantum mereris. Sed dicis : Si solum velle B 
+<lb ed="#P" n="17"/>meritum est, et ei meritum hominis in sola
+<lb ed="#P" n="18"/>constat voluntate. Quid ergo opus facit ? Habeo
+<lb ed="#P" n="19"/>voluntatem et sufficit mihi. Quid necesse est 
+ope<lb ed="#P" break="no" n="20"/>rari, si opus nihil facit ? Sed voluntatem sine
+<lb ed="#P" n="21"/>opere habere non potes, quando opera potes. Non
+<lb ed="#P" n="22"/>est voluntas si non operatur quod potest. Si autem
+<lb ed="#P" n="23"/>non potest operari, sufficit ipsa sibi, et habet 
+me<lb ed="#P" break="no" n="24"/>ritum suum propter se, in quo sola placet,
+<lb ed="#P" n="25"/>quod bona eat.
+</p>
+               <p xml:id="hsvhsv-g54789-d1e1698">
+                  <lb ed="#P" n="26"/>Sed dicis iterum : Si totum meritum in 
+volunta<lb ed="#P" break="no" n="27"/>te est, nihil amplius ex opere est, etiam quando
+<lb ed="#P" n="28"/>ipsum opus cum voluntate est, quare ergo opus
+<lb ed="#P" n="29"/>requiritur si pro opere merito hominis nihil 
+ad<lb ed="#P" break="no" n="30"/>Jicitur vel aufertur? Audi quare. Ideo post 
+volun<lb ed="#P" break="no" n="31"/>tatem etiam opus requiritur, ut ipso opere vo- (
+<lb ed="#P" n="32"/>luntas augeatur. Tale est cor hominis ut opere
+<lb ed="#P" n="33"/>8uo amplius inardescat, sive ad bonitatem 
+amam<lb ed="#P" break="no" n="34"/>dam si rectum est ; sive ad malitium si pravum
+<lb ed="#P" n="35"/>est. Ita utrinque affectus opere nutritur, ut 
+cres<lb ed="#P" break="no" n="36"/>cat, et amplior sit ; ut vix fleri potest ut 
+volun<lb ed="#P" break="no" n="37"/>tas opere suo non augeatur. Quantum ergo 
+vo<lb ed="#P" break="no" n="38"/>luntas crescit, tantum meritum crescit, et tantum
+<lb ed="#P" n="39"/>ipsum opus voluntati aut prodest in bonum, aut
+<lb ed="#P" n="40"/>in malum nocet quantum ipsam voluntatem ad
+<lb ed="#P" n="41"/>affectum bonitatis, give malitiz, accendende 
+exer<lb ed="#P" break="no" n="42"/>cet. Et si fortecontigerit tantam esse voluntatem
+<lb ed="#P" n="43"/>in eo qui nonoperatur, quanta est in illo qui opus
+<lb ed="#P" n="44"/>exercet ; ubi eadem voluntas est, meritum 
+dissi<lb ed="#P" break="no" n="45"/>mile esse non potest.
+</p>
+               <p xml:id="hsvhsv-g54789-d1e1745">
+                  <lb ed="#P" n="46"/>Sed dicis iterum : Si totum meritum in 
+volun<lb ed="#P" break="no" n="47"/>tate est, ergo opus bonum non remuneratur, sed
+<lb ed="#P" n="48"/>sola voluntas. Vide quomodo hoc intelligere 
+ve<lb ed="#P" break="no" n="49"/>lis. Nam secundum aliquid et hoc veraciter 
+dici<lb ed="#P" break="no" n="50"/>tur, quod hominis voluntas sive ad bonum sivc
+<lb ed="#P" n="51"/>ad malum, sola remuneratur. Et rursum 
+conve<lb ed="#P" break="no" n="52"/>nienter dicitur, quod opus et voluntas et ipse
+<lb ed="#P" n="53"/>etiam homo volens et operans pro voluntate et
+<lb ed="#P" n="54"/>opere remunereatur. Dicitur voluntas remunerari,
+<lb ed="#P" n="55"/>quia in ipsa meritum constat. Dicitur et opus 
+re<lb ed="#P" break="no" n="56"/>munerari, quia in ipso constat causa sive occasio
+<lb ed="#P" n="57"/>merendi. Voluntas remuneratur pro opere, opus
+<lb ed="#P" n="58"/>remuneratur pro voluntate, Voluntas 
+remunera<lb ed="#P" break="no" n="59"/>tur pro opere, quia in illo ut placeret meruit.
+<lb ed="#P" n="60"/>Opus remuneratur pro voluntate, quia ex illa ut
+<lb ed="#P" n="61"/>placeret accepit. Voluntas placet quia ipsa bona
+<lb ed="#P" n="62"/>est et in ipsa justitia est quae placet. Opus pla-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>cet quia ex voluntate bona est, et eignum 
+justi<lb ed="#P" break="no" n="64"/>tiae et bonitatis quae in ipsa voluntate eet placet.
+<lb ed="#P" n="65"/>Voluntas placet pro eo. quod in ipsa est; opus
+<lb ed="#P" n="66"/>placet pro eo ex quo ipsum est. Sicut ergo sola
+<lb ed="#P" n="67"/>justitia est pro qua et voluntas placetet opus 
+vo<lb ed="#P" break="no" n="68"/>luntatis, sic non dus sed una retributio est, qua
+<lb ed="#P" n="69"/>et voluntas remuneratur et opus voluntatis. Una
+<lb ed="#P" n="70"/>ergo retributio est qua et homo remunerari 
+dici<lb ed="#P" break="no" n="71"/>tur quia illi datur, et voluntas remunerari dicitur
+<lb ed="#P" n="72"/>quia pro illa datur. Et opus remunerari dicitur
+<lb ed="#P" n="73"/>in quo voluntas ipsa placere meretur. Ktiam
+<lb ed="#P" n="74"/>quando non operatur, voluntas placetin hoc quod
+<lb ed="#P" n="75"/>voluit operari, et de ipseo opere placet, etiam
+<lb ed="#P" n="76"/>quando illud facere non potest. Semper ergo 
+pla<lb ed="#P" break="no" n="77"/>cet voluntas pro opere, et homo [opus] nunquam
+<lb ed="#P" n="78"/>placet nisi pro voluntate. Tamen quando homo
+<lb ed="#P" n="79"/>[opus] pro voluntate placet, ideo placet, ideo
+<lb ed="#P" n="80"/>quia ipsa voluntas placet. Quando autem 
+vo<lb ed="#P" break="no" n="81"/>luntas propter opus placet, non sic placet, quasi
+<lb ed="#P" n="82"/>opus propter se placeat, et voluntas propter opug
+<lb ed="#P" n="83"/>cum potius propter se voluntas placeat, et opus
+<lb ed="#P" n="84"/>propter voluntatem. Sed dicitur propteropus 
+pla<lb ed="#P" break="no" n="85"/>cere voluntas, quia ipsa voluntas operis est, et
+<lb ed="#P" n="86"/>de opere est quod placet. Velle enim. semper 
+ali<lb ed="#P" break="no" n="87"/>quid velle est, et placet homo, quia vult aliquid
+<lb ed="#P" n="88"/>propter voluntatem justam quae de aliquo est, et
+<lb ed="#P" n="89"/>ideo justa est, quia est de quo esse debet. Et 
+ta<lb ed="#P" break="no" n="90"/>lis est qualis ease debet. Sic ergo in voluntate 
+to<lb ed="#P" break="no" n="91"/>tum meritum est etiam ai respectu operis sit,
+<lb ed="#P" n="92"/>quod opussivesit sive non sít ; nihil in 
+volun<lb ed="#P" break="no" n="93"/>iate minus est, nisi fortein hoc quod voluntas
+<lb ed="#P" n="94"/>ipsa mejor fieretsi ipsum opus fleret. Si ergo
+<lb ed="#P" n="95"/>magnum meritum habere vie, magnam habe 
+vo<lb ed="#P" break="no" n="96"/>luntatem. Magna fiducia. Tantum mereris 
+quap<lb ed="#P" break="no" n="97"/>tum vis. Possunt esse voluntate pares, qui 
+facul<lb ed="#P" break="no" n="98"/>tatesunt impares. Multum dedit Zachmus qui
+<lb ed="#P" n="99"/>dives erat, et multum habebat. Vidua illa que
+<lb ed="#P" n="100"/>duo minuta misit, parum habuit et parum dedit.
+<lb ed="#P" n="101"/>et tamen tantum dedit quantum Zacheus. 
+Mino<lb ed="#P" break="no" n="102"/>res facultatee ferebat, sed parem voluntatem 
+ha<lb ed="#P" break="no" n="103"/>bebat. Siattendas quae dederint diversa invenies,
+<lb ed="#P" n="104"/>si attendas unde dederint paria invenies. Non
+<lb ed="#P" n="105"/>autem pensat Deus quantum datur, sed ex 
+quan<lb ed="#P" break="no" n="106"/>to detur. Si ergo ubi plus datur et ubi minus 
+dif<lb ed="#P" break="no" n="107"/>ferens meritum non est, si sequalis utrinque 
+vo<lb ed="#P" break="no" n="108"/>luntas habeatur ; ergo ubi aliquid datur, etubi
+<lb ed="#P" n="109"/>nihil datur, differens meritum esse non potest, at
+<lb ed="#P" n="110"/>sequalis utrinque voluntas habeatur. Ideo dixt
+<lb ed="#P" n="111"/>tibi, ut non desperes aifacultas deest tibi, adsit
+<lb ed="#P" n="112"/>bona voluntas, quantum vis tantum mereris. Fac
+<lb ed="#P" n="113"/>ergo voluntatem magnam, si vis habere meritum ^
+<lb ed="#P" n="114"/>magnum. Bene hoc scivit peccatrix illa quae quia
+<lb ed="#P" n="115"/>multum habuit quod dimitteretur, non attulit
+<lb ed="#P" n="116"/>substantiam magnam, sed dilectionem magnam.
+<lb ed="#P" n="117"/>Multum contra multum. Si multa pecunia magis
+<lb ed="#P" n="118"/>quam charitate multa, iniquitas multa 
+redimere<lb ed="#P" break="no" n="119"/>tur, feliciores divites essent quam pauperes, et
+<lb ed="#P" n="120"/>Secure peccare possent, quantum vellent et 
+quan<lb ed="#P" break="no" n="121"/>diu vellent. In ipsis enim esset redemptio 
+pecca<lb ed="#P" break="no" n="122"/>torum suorum. Quando vellent darent pecuniam
+<lb ed="#P" n="123"/>et haberent justitiam. Nunc autem bene facit
+<lb ed="#P" n="124"/>Deus quia in eo posuit redemptionem nostrem
+<!-- 200.png.txt -->
+<pb ed="#P" n="282"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>ubi nullus nisi ipse velit, egere potest. Amare 
+<lb ed="#P" n="2"/>possunt sequaliter et dives et pauper, etiam si 
+pe<lb ed="#P" break="no" n="3"/>cuniam mqualiter dare non possunt. Dilige 
+mul<lb ed="#P" break="no" n="4"/>tum, si viset multum tibi dimittatur. 
+Dimittun<lb ed="#P" break="no" n="5"/>tur, inquit, ei peccata multa, quoniam dilemit
+<lb ed="#P" n="6"/>multum (Luc. vit). Cui plus dimittitur, plus 
+di<lb ed="#P" break="no" n="7"/>ligit. Aliquid contrarietatis hic esse videtur. Si
+<lb ed="#P" n="8"/>enim ei Deo dimittuntur peccata multa quoniam
+<lb ed="#P" n="9"/>dilexit multum, videtur dilectio prior esse quam
+<lb ed="#P" n="10"/>remíssio, e£ rursum si ille plus diligit cui plus
+<lb ed="#P" n="11"/>dimittitur, videtur prior esse remissio quam 
+dilec<lb ed="#P" break="no" n="12"/>tio. Sicenim dictum est: Duo debitores erant unt
+<lb ed="#P" n="13"/>feneratori, unus debebat multum; alius parum.
+<lb ed="#P" n="14"/>Unus plus, alius minus. Cum non haberent unde
+<lb ed="#P" n="15"/>redderent, donavit utrisque. Quis ergo eum.
+<lb ed="#P" n="16"/>plus diligit ? Et respondit : stimo quia is
+<lb ed="#P" n="17"/>cui plus donavit (ibid.). Videtur hic prior esse
+<lb ed="#P" n="18"/>remissio, et posterior dilectio. Ido enim diligitur
+<lb ed="#P" n="19"/>quia multum dimittitur, Postea suhjungit 
+osten<lb ed="#P" break="no" n="20"/>dens quare istam propositionem fecerit. Vides,
+<lb ed="#P" n="21"/>inquit, hanc mulierem ? Intravi in domum
+<lb ed="#P" n="22"/>tuam ; aquam pedimus meis non dedisti. Haec
+<lb ed="#P" n="23"/>autem, postquam intravi, lavit lacrymis pedes
+<lb ed="#P" n="24"/>meos, et capillis eatersit (ibid.) Et postea:
+<lb ed="#P" n="25"/>Propterea, inquit, dico tibi : dimittuntur ei
+<lb ed="#P" n="26"/>peccata multa ; quia dilemit multum. Cui 
+mi<lb ed="#P" break="no" n="27"/>nus dimititur, minus diligit (ibid.); et cui
+<lb ed="#P" n="28"/>plus dimittitur, plus diligit. Non videntur ista
+<lb ed="#P" n="29"/>coh:rere, quia dixit eum plus diligere cui plus
+<lb ed="#P" n="30"/>dimittitur; et huic idcirco multum dimissum
+<lb ed="#P" n="31"/>quias multum dilexit. In hoc igitur non videtur
+<lb ed="#P" n="32"/>conveniens esse similitudo nisi forte sic dicat,
+<lb ed="#P" n="33"/>quia in hoc aparet quod multum ei dimittitur,
+<lb ed="#P" n="34"/>quia dilexit multum, quia ille cui plus 
+dimitte<lb ed="#P" break="no" n="35"/>tur plus diligit. Dimittuntur, inquit, ei. peccata.
+<lb ed="#P" n="36"/>multa quia dilexit multum. Dimittuntur illi 
+pec<lb ed="#P" break="no" n="37"/>cata multa. Et unde hoc probo, aut quomodo 
+il<lb ed="#P" break="no" n="38"/>lud ostendo quod dimittuntur ei peccata multa ?
+<lb ed="#P" n="39"/>In hoc, inquit, quia dilexit multum. Magna 
+di<lb ed="#P" break="no" n="40"/>lectio magne remissionis indicium est. Cui enim.
+<lb ed="#P" n="41"/>plus dimittitur, plus diligit. Debitorenim est ille
+<lb ed="#P" n="42"/>cui plus dimittitur, ut plus diligat. Et si plus 
+di<lb ed="#P" break="no" n="43"/>ligit, facit quod debet, et ostendit ee multum 
+ac<lb ed="#P" break="no" n="44"/>cepisse in eo quod multum reddit. Sic igitur 
+mu<lb ed="#P" break="no" n="45"/>lier ista multum offciosa, multum sedula, 
+mul<lb ed="#P" break="no" n="46"/>tum devota, diligit multum, quia multum se 
+ac<lb ed="#P" break="no" n="47"/>cepisse agnoscit. Dimittuntur ei peccata multa
+<lb ed="#P" n="48"/>quia dilexit multum. Si quis ergo ita intelligere
+<lb ed="#P" n="49"/>velit quod dictum est: Dimittuntur ei peccata
+<lb ed="#P" n="50"/>multa quia dilexit multum, nihil inconveniens
+<lb ed="#P" n="51"/>erit. Sed videtur fortassis alicui hoc magis ad 
+ve<lb ed="#P" break="no" n="52"/>ritatem pertinere, ut illam hic dilectionem 
+intel<lb ed="#P" break="no" n="53"/>ligamus qua mulier peccatrix, desiderio sanitatis
+<lb ed="#P" n="54"/>accensa, diligere coepit Salvatorem, a quo se 
+cre<lb ed="#P" break="no" n="55"/>didit habere salutem ; et quia agnovit multum
+<lb ed="#P" n="56"/>esse quod sibi ab eo dimittundum esse speravit,
+<lb ed="#P" n="57"/>ideo multum dilexit. Nondum adhuc audierat :
+<lb ed="#P" n="58"/>Dimituntur tibi peccata tua. Adhuc quod mulier
+<lb ed="#P" n="59"/>impetrare desideravit, postulavit, et tamen quasi
+<lb ed="#P" n="60"/>jam accepisset, datorem suum amavit, a quo se
+<lb ed="#P" n="61"/>quod petiit acceptura non dubitavit. Ideo inquit:
+<lb ed="#P" n="62"/>Fides tua te salvam fecit (ibid.). Quia enim
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>ideo : Fides tua te salvam fecit. Ex quo fides co»-
+<lb ed="#P" n="64"/>pit, salus coepit. Sed tu nesciebas, quod ego te
+<lb ed="#P" n="65"/>per fidem et dilectionem ad me traherem, ut 
+cre<lb ed="#P" break="no" n="66"/>denti, et diligenti peccata multa condonarem. Tu
+<lb ed="#P" n="67"/>autem forte hoc non cogitabas. Ideo ut scias et
+<lb ed="#P" n="68"/>consolaris, nunc dico : Dimittuntur tibi peccata
+<lb ed="#P" n="69"/>tua. Cui plusdimittitur, plus diligit. Alii deligunt
+<lb ed="#P" n="70"/>postquam accipiunt, et tu prius quam acciperes
+<lb ed="#P" n="71"/>dilexisti, quia te accepturam credidisti. Ideo : 
+Fi<lb ed="#P" break="no" n="72"/>des tua te salvam fecit. Vade in pace (ibid.) 
+Vi<lb ed="#P" break="no" n="73"/>de nunc quantum facit charitas, quantum facit
+<lb ed="#P" n="74"/>bona voluntas. Noli ergo timere. Si bona. 
+volun<lb ed="#P" break="no" n="75"/>tas pigra non fuerit, indulgentia tarda non erit.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g54789-Dd1e2093">
+               <head xml:id="hsvhsv-g54789-Hd1e2095">Capitulum 7</head>
+               <head xml:id="hsvhsv-g54789-Hd1e2097" type="question-title"/>
+               <p xml:id="hsvhsv-g54789-d1e2099">
+                  <lb ed="#P" n="76"/>Cap. VII. Quod homo opus judicat ; Deus. 
+vo<lb ed="#P" break="no" n="77"/>luntatem pensat.
+</p>
+               <p xml:id="hsvhsv-g54789-d1e2106">
+                  <lb ed="#P" n="78"/>Duo sunt, voluntas et opus voluntatis. Deus
+<lb ed="#P" n="79"/>voluntatem pensat, homo opus judicat. Sed sunt
+<lb ed="#P" n="80"/>iterum opera alia occulta quae nesciuntur, alia
+<lb ed="#P" n="81"/>dubia quae non discernuntur, alia manifesta, id
+<lb ed="#P" n="82"/>est vel ita mala ut non valeant abscondi siveita
+<lb ed="#P" n="83"/>bona, ut de eis non possit dubitari. Occulta et
+<lb ed="#P" n="84"/>dubia divino judicioreservantur. Quae autem 
+ma<lb ed="#P" break="no" n="85"/>nifesta sunt si bona sunt per approbationem 
+ju<lb ed="#P" break="no" n="86"/>dicantur, sed per retributionem non judicantur,
+<lb ed="#P" n="87"/>quia premium et merces illorum in posterum 
+re<lb ed="#P" break="no" n="88"/>servatur. Mala voluit Deus hic judicari et puniri.
+<lb ed="#P" n="89"/>ne siin posterum illorum judicium servaretur,
+<lb ed="#P" n="90"/>non ad cor-ectionem, sed ad damnationem omne
+<lb ed="#P" n="91"/>judicium exerceretur. Propterea positi sunt 
+ho<lb ed="#P" break="no" n="92"/>mines judices vice Dei, ut culpas subjectorum
+<lb ed="#P" n="93"/>examinando castigent, ut in fine cum venerit 
+ju<lb ed="#P" break="no" n="94"/>dex Deus, correctos salvare possit, quos 
+corri<lb ed="#P" break="no" n="95"/>gendos humano judicio subjecit. Data sunt ergo
+<lb ed="#P" n="96"/>judicia, et contra culpas diversas expiandas, 
+cor<lb ed="#P" break="no" n="97"/>rectionum et satisfactionum modus ac mensura
+<lb ed="#P" n="98"/>rationabili definitione praefigitur ; et est scriptus
+<lb ed="#P" n="99"/>liber pomnitentialis in quo quasi spiritualis 
+me<lb ed="#P" break="no" n="100"/>dicing antidota proponuntur, ubi medici 
+anima<lb ed="#P" break="no" n="101"/>rum accipiant quod contra morbos peccatorum
+<lb ed="#P" n="102"/>segris sanandis mentibus apponant.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g54789-Dd1e2164">
+               <head xml:id="hsvhsv-g54789-Hd1e2166">Capitulum 8</head>
+               <head xml:id="hsvhsv-g54789-Hd1e2168" type="question-title"/>
+               <p xml:id="hsvhsv-g54789-d1e2170">
+                  <lb ed="#P" n="103"/>Cap. VIII. De remissione peccatorum ; et an
+<lb ed="#P" n="104"/>sacerdotes qui homines sunt, possunt 
+dimitte<lb ed="#P" break="no" n="105"/>re peccata.
+</p>
+               <p xml:id="hsvhsv-g54789-d1e2179">
+                  <lb ed="#P" n="106"/>Potestatem remittendi peccata quidam soli Deo
+<lb ed="#P" n="107"/>ita ascribere conantur, ut in ea hominem 
+partici<lb ed="#P" break="no" n="108"/>pem fieri posse nullo modo concedant. Et ad 
+con<lb ed="#P" break="no" n="109"/>firmationem hujus assertionis adducunt 
+munda<lb ed="#P" break="no" n="110"/>tionem illius leprosi, quem Dominus prius per
+<lb ed="#P" n="111"/>semetipsum sanitati reatituit, ac sic deinde ad 
+sa<lb ed="#P" break="no" n="112"/>cerdotes misit ; non ut ejus mundatio 
+virtu<lb ed="#P" break="no" n="113"/>te illorum perficeretur ; sed ut tantummodo 
+tes<lb ed="#P" break="no" n="114"/>timonio illorum confirmaretur. Simili modo nunc
+<lb ed="#P" n="115"/>in praesenti Ecclesia dicunt ministeria 
+sacerdo<lb ed="#P" break="no" n="116"/>tum nihil amplius virtutis habere, nisi quedam
+<lb ed="#P" n="117"/>tantummodo signa esse, ut ille videlicet qui prius
+<lb ed="#P" n="118"/>per contritionem cordis intus a Domino 
+absolvi<lb ed="#P" break="no" n="119"/>tur, postmodum in confessione oris ab eis 
+abao<lb ed="#P" break="no" n="120"/>lutus esse ostendatur. Quod autem in sola cordis
+<lb ed="#P" n="121"/>contritione etiam ante confessionem oris peccata
+<lb ed="#P" n="122"/>dimittantur, prophetico illo testimonio probare
+<lb ed="#P" n="123"/>volunt quod dicitur : Quacunque hora ingenwe-
+<!-- 201.png.txt -->
+<pb ed="#P" n="283"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>rit peccator, salvus erit (Ezech. xvur xxxi).
+<lb ed="#P" n="2"/>Et alibi : Quia adhuc te loquente dicam : Ecce
+<lb ed="#P" n="3"/>adsum (Isai. vri). Et Psalmista: Dixi, inquit
+<lb ed="#P" n="4"/>confitebor adversum injustitiam meam 
+Domi<lb ed="#P" break="no" n="5"/>no; et tu remisisti impietatem peccati mei
+<lb ed="#P" n="6"/>(Psal xxx1). Idcirco tamen post contritionem 
+cor<lb ed="#P" break="no" n="7"/>dis confessionem quoque oris esse necessariam,
+<lb ed="#P" n="8"/>quia si quis etiam post impetratam veniam 
+pec<lb ed="#P" break="no" n="9"/>catorum confiteri eadem "peccata sua. neglexerit,
+<lb ed="#P" n="10"/>quasi institutionis divine contemptor, quamvis
+<lb ed="#P" n="11"/>non pro peccatis qua jam dimissa sunt reus 
+te<lb ed="#P" break="no" n="12"/>neatur, tamen pro contemptu reus erit. Vel 
+for<lb ed="#P" break="no" n="13"/>tassis quia ipsa peccata jam ad contumacem, 
+re<lb ed="#P" break="no" n="14"/>deunt, quae prius per compunctionem humiliato
+<lb ed="#P" n="15"/>dimissa fuerunt. Hac ergo ratione probant 
+homi<lb ed="#P" break="no" n="16"/>nes nullo modo potestatem habere dimittendi 
+pec<lb ed="#P" break="no" n="17"/>cata, sed hanc solius Dei esse sicut etiamin 
+Evan<lb ed="#P" break="no" n="18"/>gelio, Judti contra Dominum murmurantes, quia
+<lb ed="#P" n="19"/>dixerat paralytico: Dimissa sunt tibi peccata
+<lb ed="#P" n="20"/>tua (Marc. it, Luc. v) : aierunt solum Deum 
+pos<lb ed="#P" break="no" n="21"/>se peccata dimittere. Sed fortassis qui haec de 
+ab<lb ed="#P" break="no" n="22"/>solutione peccatorum dicunt, quomodo quisque
+<lb ed="#P" n="23"/>peccato ligetur, non satis diligenter attendunt.
+<lb ed="#P" n="24"/>Duobus enim modis peccator ligatus est. Ligatus
+<lb ed="#P" n="25"/>est obduratione mentis, ligatus est debito futurz
+<lb ed="#P" n="26"/>damnationis. Quandiu namque gratia Dei cum
+<lb ed="#P" n="27"/>homine est, solutus est homo, et ad bene 
+operan<lb ed="#P" break="no" n="28"/>dum expeditus, Sed cum per peccatum gratia
+<lb ed="#P" n="29"/>Dei subtrahitur, statim ipsa ua obduratione mens
+<lb ed="#P" n="30"/>intrinsecus obligatur. Ista obduratio sive 
+excm<lb ed="#P" break="no" n="31"/>catio mitis, interiores tenebre sunt, in quibus
+<lb ed="#P" n="32"/>homo pro peccato suo in praesenti obligatus 
+tene<lb ed="#P" break="no" n="33"/>tur ; et nisi ab eis in hac vita solutus fuerit, 
+post<lb ed="#P" break="no" n="34"/>modum ligatis manibus et peddibus in tenebras
+<lb ed="#P" n="35"/>exteriores projicietur. Sed quia nemo sua virtute
+<lb ed="#P" n="36"/>post ruinam peccati surgere valeret, nisi divina
+<lb ed="#P" n="37"/>misericordia gratuito presveniens eum suscitaret :
+<lb ed="#P" n="38"/>ldeo necesse est ut Deus gratiam suam quam 
+pec<lb ed="#P" break="no" n="39"/>cantibus nobis juste subtraxerat, quando ad 
+po<lb ed="#P" break="no" n="40"/>nitentiam vivificandi sumus, sola misericordia
+<lb ed="#P" n="41"/>nullis nostris meritis precedentibus reddat, 
+qua<lb ed="#P" break="no" n="42"/>tenus ipsa. gratia adveniens eor nostrum a 
+tor<lb ed="#P" break="no" n="43"/>pore infidelitatis et a peccati morte exsuscitet, ut
+<lb ed="#P" n="44"/>scilicet dum primum ipsa sola operante ad 
+poeni<lb ed="#P" break="no" n="45"/>tentiam compuncti a vinculis torporis 
+absolvi<lb ed="#P" break="no" n="46"/>mur, etiam ipsa deinde cooperante, poenitentes a 
+<lb ed="#P" n="47"/>debitodamnationis absolvi mereamur. Hocbenein
+<lb ed="#P" n="48"/>ressuscitatione Lazari signatum est, quem ipse
+<lb ed="#P" n="49"/>Dominus per se prius intrinsecusa vinculo mortis
+<lb ed="#P" n="50"/>abeolvit, vivificatum autem deforis ministezio 
+ip<lb ed="#P" break="no" n="51"/>sorum apostolorum solvi praecepit. Sic namque
+<lb ed="#P" n="52"/>in sancta Ecclesia nunc mortuos peccatis per 
+80<lb ed="#P" break="no" n="53"/>lam gratiam suam interius viviflcans ad 
+compuno<lb ed="#P" break="no" n="54"/>tionem accendit, atque vivificatos per 
+confessio<lb ed="#P" break="no" n="55"/>nem foras venire praecipit; ac sic deinde 
+confiten<lb ed="#P" break="no" n="56"/>tes per ministerium sacerdotum ab exteriori 
+vin<lb ed="#P" break="no" n="57"/>culo, hoc est, a debito damnationis absolvit. 
+Be<lb ed="#P" break="no" n="58"/>neautem debitum damnationis exterius vinculum
+<lb ed="#P" n="59"/>dicitur; quia pertinet ad tenebrasexteriores quas
+<lb ed="#P" n="60"/>evadere dignus non est, quisquis prius in hac vita
+<lb ed="#P" n="61"/>2 tenebris interioribus solvi non meretur. Sed
+<lb ed="#P" n="62"/>male, inquiunt, de sacerdote Deum facitis, qui
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>ei potestatem dimittendi peccata quod soli Deo
+<lb ed="#P" n="64"/>competit, tribuitis. Non ego sacerdotes deos facio,
+<lb ed="#P" n="65"/>sermo divinus qui mentiri non potest, 
+sacerdo<lb ed="#P" break="no" n="66"/>tes deos dicit: Diis inquit, non detrahes, et
+<lb ed="#P" n="67"/>principi populi twi non maledices (Ezod. xxu).
+<lb ed="#P" n="68"/>Isti vero contra legis praeceptum diis detrahunt,
+<lb ed="#P" n="69"/>quia potestatem divinitus collatam sacerdotibus
+<lb ed="#P" n="70"/>auferre volunt. Neque vero ego sacerdotibus 
+po<lb ed="#P" break="no" n="71"/>testatem dimittendi peccata tribui. Ille hominibus
+<lb ed="#P" n="72"/>potestatem divinam tribuit qui de hominibus
+<lb ed="#P" n="73"/>deos fecit. Sed tamen ipse sicut ex semetipso 
+De<lb ed="#P" break="no" n="74"/>us est, ita etiam per semetipsum quando vult 
+si<lb ed="#P" break="no" n="75"/>ne humana cooperatione peccata dimittere 
+po<lb ed="#P" break="no" n="76"/>test. Hi veroqui ex semetipsis dii non sunt, etiam.
+<lb ed="#P" n="77"/>nisi eo a quo sunt hoc quod. sunt, in eis et per
+<lb ed="#P" n="78"/>eos operante et eis cooperante peccata dimittere
+<lb ed="#P" n="79"/>non possunt. Quomodo ergo solus Deus bonus est.
+<lb ed="#P" n="80"/>nec tamen inde sequitur bonos non esse, etiam
+<lb ed="#P" n="81"/>eos qui Deo serviunt, et quomodo solus Deus 
+mi<lb ed="#P" break="no" n="82"/>rabilia facit, et tamen de justo homine dicitur;
+<lb ed="#P" n="83"/>Fecit enim mirabilia in vita sua (Ezech. xxx1)
+<lb ed="#P" n="84"/>ita etiam solus Deus peccata dimittit, tunc 
+quo<lb ed="#P" break="no" n="85"/>que quando sacerdos ab eo et per eum dimittit.
+<lb ed="#P" n="86"/>Ipse enim hoc in homine facit quod homo per
+<lb ed="#P" n="87"/>eum facit; nec ideo dicendum est hominem ibi
+<lb ed="#P" n="88"/>nihil facere, quia per eum Deus facit. Imo vero
+<lb ed="#P" n="89"/>ideo multo melius et multo verius facere, quia
+<lb ed="#P" n="90"/>per eum Deus facit. Hinc est quod Petro principi
+<lb ed="#P" n="91"/>apostolorum dicit: Tibi dabo claves regni 
+colo<lb ed="#P" break="no" n="92"/>rum. Quodcunque ligaveris super terram, erit
+<lb ed="#P" n="93"/>Q ligatum et in calis ; et quodcunque solveris
+<lb ed="#P" n="94"/>super terram, erit solutum et in coelis (Matth.
+<lb ed="#P" n="95"/>xvi). Non dixit, quodcunque solveris hoc est, ut
+<lb ed="#P" n="96"/>illi aiunt solutum ostenderis; fuit solutum, sed
+<lb ed="#P" n="97"/>erit solutum, quia sententiam Petri non precedit
+<lb ed="#P" n="98"/>sed subsequitur sententia coeli. Ne autem hoc 
+so<lb ed="#P" break="no" n="99"/>li Petro concessum esse putes, audi quid 
+omni<lb ed="#P" break="no" n="100"/>bus apostolis, ac per hoc omnibus apostolorum
+<lb ed="#P" n="101"/>successoribus et apostolorum vice fungentibus
+<lb ed="#P" n="102"/>dicat : Accipite, inquit, Spiritum sanctum. 
+Quo<lb ed="#P" break="no" n="103"/>rum remiseritis peccata, remittuntur eis ; et
+<lb ed="#P" n="104"/>quorum retinueritis, retenta erunt (Joan. xx.)
+<lb ed="#P" n="105"/>Ubi dixit : Si ostenderitis, fuit? Nusquam dixit
+<lb ed="#P" n="106"/>hoc : ed dixit : Si feceritis, erit. Audiant ergo et
+<lb ed="#P" n="107"/>intelligant, quorum reriáiseritis peccata, ete. 
+Qui<lb ed="#P" break="no" n="108"/>bus hoc dicebatur, prius dictum fuerat : Accipite
+<lb ed="#P" n="109"/>Spiritum sanctum, quorum remiseritis peccata,
+<lb ed="#P" n="110"/>etc., ne vel quod dabatur crederetur 
+contempti<lb ed="#P" break="no" n="111"/>bile, vel quod accipientes operantur, 
+existime<lb ed="#P" break="no" n="112"/>tur ex humana virtute procedere. Non ergo 
+mi<lb ed="#P" break="no" n="113"/>rum est si homines peccata dimittere possunt;
+<lb ed="#P" n="114"/>quia ut hoc possint, non ex sua sed divina 
+vir<lb ed="#P" break="no" n="115"/>tut» accipiunt ; et hoc hominibus Deum dare, 
+ni<lb ed="#P" break="no" n="116"/>hil est aliud quam Deum hoc per homines 
+face<lb ed="#P" break="no" n="117"/>re. Quod autem de mundatione leprosi opponunt
+<lb ed="#P" n="118"/>minime eorum opinioni suffragatur, quia si ideo
+<lb ed="#P" n="119"/>peccator ante confeasionem absolvi credendus est
+<lb ed="#P" n="120"/>quia leprosus mundatus est ante 
+demonstratio<lb ed="#P" break="no" n="121"/>nem eadem ratione peccator post compunctionem
+<lb ed="#P" n="122"/>ad sacerdotem ire non debet peccatum suum 
+plan<lb ed="#P" break="no" n="123"/>gere, sed justitiam demonstrare; quia et ille ad
+<lb ed="#P" n="124"/>sacerdotes missus est non ut sanitatem reciperet,
+<!-- 202.png.txt -->
+<pb ed="#P" n="284"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>sed ut sanitatum demonstraret, quod omnino 
+fi<lb ed="#P" break="no" n="2"/>des christina abhorret. Propterea si miraculum
+<lb ed="#P" n="3"/>quod Dominns operatus est, sacerdotibus non ob
+<lb ed="#P" n="4"/>reverentiam officii, sed ad improperium 
+ostendi<lb ed="#P" break="no" n="5"/>tur : quid aliud quam novi quoque sacerdotii in
+<lb ed="#P" n="6"/>spirituali curatione contemptusgeneratur? Sed et
+<lb ed="#P" n="7"/>illud quod dicunt: Quacunque hora ingemuerit.
+<lb ed="#P" n="8"/>peccator salvus erit: ego de iis praecipue dictum
+<lb ed="#P" n="9"/>existimo qui totam vitam suam in peccato 
+agen<lb ed="#P" break="no" n="10"/>tes in fine ponitent, et peccata deserunt, quando
+<lb ed="#P" n="11"/>jam in hac vita tempus satisfactionis habere non
+<lb ed="#P" n="12"/>possunt. Quibus dicitur ne tamen ullo modo de
+<lb ed="#P" n="13"/>venia desperent, quia et tunc quoque si vere 
+po<lb ed="#P" break="no" n="14"/>nituerint misericordiam coasequi valent. Hoc est
+<lb ed="#P" n="15"/>enim quacunque hora, acilicet etiam in extremis,
+<lb ed="#P" n="16"/>etiam in articulo necessitatis, si- peccator 
+inge<lb ed="#P" break="no" n="17"/>muerit, hoc est, ex tota cordis contritione 
+con<lb ed="#P" break="no" n="18"/>versus fuerit, salvus erit ab aeterna scilicet dam- ^
+<lb ed="#P" n="19"/>natione. Quasi aliis verbis diceretur : Quacunque
+<lb ed="#P" n="20"/>hora in praesenti vita peccator vere poenituerit,
+<lb ed="#P" n="21"/>in futura vita non peribit. Quod si quis 
+conten<lb ed="#P" break="no" n="22"/>datillud quod dictum est, salvus erit, non esse
+<lb ed="#P" n="23"/>dictum de salvatione quae in futuro tribuitur, sed
+<lb ed="#P" n="24"/>de illa potius quae in praesenti absolutione 
+pecca<lb ed="#P" break="no" n="25"/>torum condonatur, non necesse est tamen nos 
+di<lb ed="#P" break="no" n="26"/>cere quod peccator ab omni debito absolvatur
+<lb ed="#P" n="27"/>statim ex quo gemere coeperit, donec totum 
+con<lb ed="#P" break="no" n="28"/>secutus fuerit remedium quod Deus ad 
+obtinen<lb ed="#P" break="no" n="29"/>dam veniam instituit. Hoc est autem remedium
+<lb ed="#P" n="30"/>ut corde poeniteat et ore confiteatur delictum.
+<lb ed="#P" n="31"/>Quod cur fecerit jam amplius debitor 
+damnatio<lb ed="#P" break="no" n="32"/>nis non erit. etiam si satisfactio rostat, quam pro
+<lb ed="#P" n="33"/>peccato persolvat (ibid). Quod si forte peccator
+<lb ed="#P" n="34"/>vere paoniteat, sed intercurrente articulo 
+necessi<lb ed="#P" break="no" n="35"/>tatis ad confessionem venire non possit, 
+confi<lb ed="#P" break="no" n="36"/>denter pronuntio, quod in eo summus sacerdos
+<lb ed="#P" n="37"/>complet quod mortalis non potuit, et apud Deum
+<lb ed="#P" n="38"/>jam factum constat quod homo quidem vere 
+vo<lb ed="#P" break="no" n="39"/>luit, sed non voluit adimplere, quia confessionem
+<lb ed="#P" n="40"/>non contemptus exclusit, sed impedivit 
+necessi<lb ed="#P" break="no" n="41"/>tas. Proinde si id quod dictum est : Quacunque
+<lb ed="#P" n="42"/>hora ingemuerit peccator salvus erit, de 
+presen<lb ed="#P" break="no" n="43"/>ti salute accipitur ; aic intelligendum est ac si 
+di<lb ed="#P" break="no" n="44"/>ceretur tunc peccatoris salus incipit, quando 
+ve<lb ed="#P" break="no" n="45"/>raciter pro delictis suis ingemiscit, qum tamen
+<lb ed="#P" n="46"/>salus tunc plene perficitur, quando id unde 
+inge<lb ed="#P" break="no" n="47"/>muerit etiam ore confitetur. Item illud quod 
+di<lb ed="#P" break="no" n="48"/>citur: Quia adhuc te loquente dicam: Ecce 
+ad<lb ed="#P" break="no" n="49"/>gum ; sic convenienter potest, accipi, quod prius
+<lb ed="#P" n="50"/>Deus adest per gratiam ut cor ad ponitentiam
+<lb ed="#P" n="51"/>compungat, deinde adest, ut peccatorum 
+indul<lb ed="#P" break="no" n="52"/>gentiam confitenti tribuat. Postremo id quod de
+<lb ed="#P" n="53"/>Psalmista opponunt. Dixi : Confitebor, etc. 
+Sanc<lb ed="#P" break="no" n="54"/>tus Gregorius de culpa cogitationis tantummodo
+<lb ed="#P" n="55"/>dictum esse asserit in hac verba. Seepe misericors
+<lb ed="#P" n="56"/>Deus eo citius peccata cordis abluit quo hsc 
+exi<lb ed="#P" break="no" n="57"/>read opera non permittit. Unde recte per 
+Psal<lb ed="#P" break="no" n="58"/>mistam dicitur: Dixi: Confitebor, etc. Et paulo
+<lb ed="#P" n="59"/>post quam facilis sit super hoc venia ostendit,
+<lb ed="#P" n="60"/>qui dum se adhuc promittit petere hoc quod se
+<lb ed="#P" n="61"/>petere promittebat obtinuit quatenus quia usque
+<lb ed="#P" n="62"/>ad opus non venerat culpa, usque ad cruciatum
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>non perveniret poenitentia sed cogitata afflictio
+<lb ed="#P" n="64"/>mentem tergeret, quam nimirum tantummodo
+<lb ed="#P" n="65"/>cogitata iniquitas inquinasset. Quod si quis hoc
+<lb ed="#P" n="66"/>de quolibet delicto velit accipere : sciat tamen
+<lb ed="#P" n="67"/>aliud peccatum esse, aliud impietatem peccati.
+<lb ed="#P" n="68"/>Impietas namque peccati ipsa rectissime 
+obdu<lb ed="#P" break="no" n="69"/>ratio cordis accipitur, quae prinum in 
+compune<lb ed="#P" break="no" n="70"/>tione solvitur, ut postmodum in confessione 
+pec<lb ed="#P" break="no" n="71"/>catum ipsum, id est debitum damnationis 
+absol<lb ed="#P" break="no" n="72"/>vatur. Sed sive hoc sive alio quocunque modo
+<lb ed="#P" n="73"/>predicte auctoritates exponantur : nos 
+veriaimi<lb ed="#P" break="no" n="74"/>le confitemur sacerdotes Dei in Ecclesia 
+potesta<lb ed="#P" break="no" n="75"/>tem habere ligandi atque solvendi, non 
+perfunc<lb ed="#P" break="no" n="76"/>torieet inusitato quodam genere loquendi 
+eigni<lb ed="#P" break="no" n="77"/>ficatam, sed veraciter a Deo concessam quibus
+<lb ed="#P" n="78"/>dictum est : Quorum remiseritis peccata 
+remit<lb ed="#P" break="no" n="79"/>tuntur eis ; et quorum retinueritis, retenta erunt.
+<lb ed="#P" n="80"/>Sed forte quis opponet quod sacerdotes multos
+<lb ed="#P" n="81"/>in Ecclesia ligant qui apud Deum non ligantur ;
+<lb ed="#P" n="82"/>item multos solvunt qui apud Deum ligati 
+per<lb ed="#P" break="no" n="83"/>manent, quia Bzpe et innocentes ligant, et in 
+rea<lb ed="#P" break="no" n="84"/>tu permanentes absolvat, et sic verum non erit
+<lb ed="#P" n="85"/>quorum remiseritis, etc. Sed sciendum est. quod
+<lb ed="#P" n="86"/>sempe sacra Scriptura sic de re aliqua loquitur,
+<lb ed="#P" n="87"/>ut quid inde eventurum sit prenuntiare videatur
+<lb ed="#P" n="88"/>et tamen virtutem ejus magis quam 
+eventumex<lb ed="#P" break="no" n="89"/>primat, quia non quod evenire debeat, sed quod
+<lb ed="#P" n="90"/>evenire possit ostendit. Verbi gratia: Dicit 
+quo<lb ed="#P" break="no" n="91"/>dam loco Scriptura : Qwi crediderit et 
+baptiza<lb ed="#P" break="no" n="92"/>tus fuerit salvus erit (Marc. xvi) et tamen 
+sci<lb ed="#P" break="no" n="93"/>mus quod multi credentes baptismum percipiunt
+<lb ed="#P" n="94"/>qui postea culpis suis exigentibus reprobati ad
+<lb ed="#P" n="95"/>ad salutem seternam non pertingunt. Item in alio
+<lb ed="#P" n="96"/>loco: Qui manducat carnem meam etbibitmeum
+<lb ed="#P" n="97"/>sanguinem habet vitam aternam, et iae 
+judi<lb ed="#P" break="no" n="98"/>eium non veniet, sed transiet a morte in vitam
+<lb ed="#P" n="99"/>(Joan. vy), et tamen Paulus dioit : Quodguisquis
+<lb ed="#P" n="100"/>corpus Domini indigne manducare et calicem
+<lb ed="#P" n="101"/>bibere praessumpserit, judicium sibi manducat
+<lb ed="#P" n="102"/>et bibit (I Cor. 1) Ubique ergo magis virtus 
+sa<lb ed="#P" break="no" n="103"/>cramentorum exprimitur, neo quod per eam 
+qui<lb ed="#P" break="no" n="104"/>libet participantes salvanti sint, sed quod 
+salva<lb ed="#P" break="no" n="105"/>ri possint sgniflcatur; quasi diceretur: Tanta
+<lb ed="#P" n="106"/>virtus est baptismatis ut quisquis illud fideliter
+<lb ed="#P" n="107"/>et devote acceperit; per illud ad meternam 
+salu<lb ed="#P" break="no" n="108"/>tem pertingere possit. Item tanta virtus est, in
+<lb ed="#P" n="109"/>sumptione corporis et sanguinis Christi ut per
+<lb ed="#P" n="110"/>illud : Quicunque digne sumpserit, aeternam 
+vi<lb ed="#P" break="no" n="111"/>tam conse, ui possit. Simili modo hoc dictum 
+exi<lb ed="#P" break="no" n="112"/>stimo. Quorum remiseritis, etc. Ac si apertius 
+di<lb ed="#P" break="no" n="113"/>ceretur: Tantam vobis potestatem in solvendis
+<lb ed="#P" n="114"/>et ligandis peccatis tribuo, ut quisquis a vobis
+<lb ed="#P" n="115"/>ligari meruerit, apud me solutus esse non possit,
+<lb ed="#P" n="116"/>et quisquis a vobis solvi meruerit jam apud me
+<lb ed="#P" n="117"/>ligatus non sit. Audiant homines, intelligant 
+pec<lb ed="#P" break="no" n="118"/>catores quod presidium eis a Deo conceditur,
+<lb ed="#P" n="119"/>quod rursum judicium prsparatur. Fortassis
+<lb ed="#P" n="120"/>Deum necdum interpellare presumunt habent
+<lb ed="#P" n="121"/>homines sacerdotes vice Dei fungentes, cum 
+qui<lb ed="#P" break="no" n="122"/>bus interim causam suam sine periculo agere
+<lb ed="#P" n="123"/>possunt. Ament intercessores et timeant judizes.
+<lb ed="#P" n="124"/>Sed fortassis iterum quaerit aliquis quid opus sit,
+<!-- 203.png.txt -->
+<pb ed="#P" n="285"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>Deo ad solvenda peccata hominum, homines coo- ^
+<lb ed="#P" n="2"/>peratores quaerere quasi per se quod voluerit non
+<lb ed="#P" n="3"/>valeat adimplere. Sed certissime scire debemus
+<lb ed="#P" n="4"/>quod in abolendis peccatis nequaquam Deo 
+hu<lb ed="#P" break="no" n="5"/>mana cooperatio suffragatur. Ideo tamen 
+homi<lb ed="#P" break="no" n="6"/>nem cooperatorem fleri; quia salus peccatoris eo
+<lb ed="#P" n="7"/>modo competentius perficitur. Quid enim peccata
+<lb ed="#P" n="8"/>nisi plage quaedam sunt ; et quid est. poenitentia
+<lb ed="#P" n="9"/>nisi medicina ? Et scimus quod in sanandis 
+vul<lb ed="#P" break="no" n="10"/>neribus carnis nisi congruum adhibeatur 
+reme<lb ed="#P" break="no" n="11"/>dium dolori; nequaquam sequitur effectus cü
+ra<lb ed="#P" break="no" n="12"/>tionis. Quia ergo per superbiam omne peccatum
+<lb ed="#P" n="13"/>geritur, necessse est, ut per humilitatem omnis
+<lb ed="#P" n="14"/>poenitentia condiatur, quatenus inobedientiam
+<lb ed="#P" n="15"/>obedientia frangat, et elationis tumorem 
+humili<lb ed="#P" break="no" n="16"/>tatis devotio premat. Conveniens ergo valde est
+<lb ed="#P" n="17"/>ut nos qui peccando Deo contumaces fuimus 
+po<lb ed="#P" break="no" n="18"/>nitendo hominibus etiam servis Dei supplices 
+si<lb ed="#P" break="no" n="19"/>1nus, et homo qui ad Dei gratiam conservandam
+<lb ed="#P" n="20"/>mediatorem non eguit, jam eam recuperare non
+<lb ed="#P" n="21"/>nisi per hominem mediatorem possit. Nam et hoc
+<lb ed="#P" n="22"/>saluberrimum est peccatori ut discat quam longe
+<lb ed="#P" n="23"/>peccando a Deo recesserit, cum tam difficulter
+<lb ed="#P" n="24"/>poenitendo ad Deum redit ; quia et cautior de 
+re<lb ed="#P" break="no" n="25"/>liquo efficitur, cum non sine gravi labore 
+poni<lb ed="#P" break="no" n="26"/>tendi, aditus indulgentim aperitur. Gemat ergo
+<lb ed="#P" n="27"/>peccator et suspiret, et anxius pro peccato auo 
+ti<lb ed="#P" break="no" n="28"/>meat et expavescat, sollicitus discurrat, 
+auxilia<lb ed="#P" break="no" n="29"/>tores et intercessores quzrat, prosternat, se 
+hu<lb ed="#P" break="no" n="30"/>militer homini, qui humiliter noluit astare 
+Crea<lb ed="#P" break="no" n="31"/>tori, ut in hoc etiam facto quodammodo ad Deum
+<lb ed="#P" n="32"/>clamet et dicat: Vide, Domine, et considera et
+<lb ed="#P" n="33"/>attende quid facio. Scio quidem, Domine, et 
+fa<lb ed="#P" break="no" n="34"/>teor quod tibi subjici nolle damnabilie fuit 
+ela<lb ed="#P" break="no" n="35"/>tio ; sed jam propter te coram homine prosterni
+<lb ed="#P" n="36"/>non sit queso despicabilis devotio. Magnum est
+<lb ed="#P" n="37"/>quod abstuli, nec parum est quod reddo. O quam
+<lb ed="#P" n="38"/>suavis et jucunda Dei nostri miseratio ! Totum
+<lb ed="#P" n="39"/>bonum nostrum ipse in nobis operatur, et velut
+<lb ed="#P" n="40"/>pater alludens in filiis sic totum facit ut quasi
+<lb ed="#P" n="41"/>nihil facere videatur. Ecce peccator compunctus
+<lb ed="#P" n="42"/>gemit, suspirat, lacrymatur, confitetur reatum
+<lb ed="#P" n="43"/>suum, postulat veniam, flagitat misericordiam ;
+<lb ed="#P" n="44"/>et hoc totum quasi ex homine esse creditur. Sed
+<lb ed="#P" n="45"/>quis, quiso, hoc facit nisi ille qui intus 
+presi<lb ed="#P" break="no" n="46"/>det, et cor hominis ad hoc faciendum movet?Ob- p
+<lb ed="#P" n="47"/>secro ut non sit onerosum si breve quoddam 
+hu<lb ed="#P" break="no" n="48"/>jus rei exemplum proposuero. Pater quidam 
+con<lb ed="#P" break="no" n="49"/>tumacem filium quasi cum magno furore expulit,
+<lb ed="#P" n="50"/>ut ita afflictus humiliari disceret. Sed illo in 
+con<lb ed="#P" break="no" n="51"/>tumacia sua persistente quadam secreta 
+dispen<lb ed="#P" break="no" n="52"/>satione consilii, a patre mater mittitur, ut non
+<lb ed="#P" n="53"/>quasi a patre missa, sed quasi materna
+<lb ed="#P" n="54"/>per se pletate ducta veniens muliebri lenitate
+<lb ed="#P" n="55"/>obstinatum demulceat, contumacem ad 
+humilita<lb ed="#P" break="no" n="56"/>tem flectat, vehementer patrem iratum nuntiet,
+<lb ed="#P" n="57"/>se tamen interventuram spondeat, veniam 
+pro<lb ed="#P" break="no" n="58"/>Tnittat, consilium salutis suggerat, intercessores
+<lb ed="#P" n="59"/>quaerere suadeat, non nisi magnis precibus 
+pa<lb ed="#P" break="no" n="60"/>trem placari posse dicat; causam tamen rei se
+<lb ed="#P" n="61"/>suscepturam asserat, et ad bonum finem rem 
+om<lb ed="#P" break="no" n="62"/>nem se perducturam promittat. Videte, quieso, ei
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>non ita causa nostra agitur. Peccantem Filium
+<lb ed="#P" n="64"/>Deus Pater quasi expulit iratus, cui tamen in
+<lb ed="#P" n="65"/>proposito bonae voluntatis sug fortassis nunquam
+<lb ed="#P" n="66"/>iratus fuit. Sed quia infirmitas humana per se de
+<lb ed="#P" n="67"/>lapsu surgere non valet, ad cor peccatoris mater
+<lb ed="#P" n="68"/>gratia mittitur, sacerdos intercessor quizritur, ut
+<lb ed="#P" n="69"/>Deus qui iratus non fuerat cemplacetur. Quid 
+di<lb ed="#P" break="no" n="70"/>cam ? Quis sapiens et custodiet haec et, 
+intelli<lb ed="#P" break="no" n="71"/>get misericordias Domini ? (Psal. cvi)
+<lb ed="#P" n="72"/>Nunquid enim ideo superfluo factum est
+<lb ed="#P" n="73"/>quod factum est; quia Deus ab irato in 
+pro<lb ed="#P" break="no" n="74"/>pitium non mutatus est, qui suis nunquam 
+pro<lb ed="#P" break="no" n="75"/>pitius non est. absit! Sed necesse est sic fleri,
+<lb ed="#P" n="76"/>quia aliter reatus nostri sceleris non potest 
+ex<lb ed="#P" break="no" n="77"/>piari. Necesse est sic fleri ; quia Deus hoc etiam
+<lb ed="#P" n="78"/>quod dare desiderat, a se praecepit postulari. 
+Ne<lb ed="#P" break="no" n="79"/>cesse est ergo sic fleri ; quia, etsi in Deo secundum
+<lb ed="#P" n="80"/>propositum erga nos ira non fuerat, in nobis 
+ta<lb ed="#P" break="no" n="81"/>men secundum reatum ira manebat, quae dum
+<lb ed="#P" n="82"/>debita satisfactione solvitur, ut ita dicam, non
+<lb ed="#P" n="83"/>Deus homini, sed homo reconciliatur. De 
+pecca<lb ed="#P" break="no" n="84"/>tis autem utrum redeant an non, ex quo semel
+<lb ed="#P" n="85"/>dimissa fuerint, ego interim non afferendum 
+ju<lb ed="#P" break="no" n="86"/>dico, sed verendum, Quod tamen si sit vel non
+<lb ed="#P" n="87"/>sit ; qua justitia fiat vel non fiat alterius 
+tracta<lb ed="#P" break="no" n="88"/>tus operam exspectat, eo praecipue quod 
+qus<lb ed="#P" break="no" n="89"/>dam divinarum Scripturarum testimonia de hac
+<lb ed="#P" n="90"/>re ambigue edita legunturita etiam ut ex eis non
+<lb ed="#P" n="91"/>nihil absurditatis nasci videatur quae certe non
+<lb ed="#P" n="92"/>levi aut transitoria consideratione discutienda
+<lb ed="#P" n="93"/>sunt.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g54789-Dd1e2987">
+               <head xml:id="hsvhsv-g54789-Hd1e2989">Capitulum 9</head>
+               <head xml:id="hsvhsv-g54789-Hd1e2991" type="question-title"/>
+               <p xml:id="hsvhsv-g54789-d1e2993">
+                  <lb ed="#P" n="94"/>Cap. IX. De eo utrum peccata redeant 
+pos<lb ed="#P" break="no" n="95"/>tauam semel dimissa fuerint.
+</p>
+               <p xml:id="hsvhsv-g54789-d1e3000">
+                  <lb ed="#P" n="96"/>Multae sunt questiones hominum ; quandiu 
+vi<lb ed="#P" break="no" n="97"/>vitur semper quaeritur. Qui enim quaerit nondum
+<lb ed="#P" n="98"/>invenit quod quaerit, et tamen quaerit quia amisit
+<lb ed="#P" n="99"/>quod quierit, et si non amisit quia forte aounquam
+<lb ed="#P" n="100"/>habuit, tamen quandiu quaerit significat se 
+non<lb ed="#P" break="no" n="101"/>dum habere quod quierit. Propterea quandiu 
+vi<lb ed="#P" break="no" n="102"/>vimus necesse habemus semper quaerere, quia
+<lb ed="#P" n="103"/>nondum totum habemus quod habere debemus.
+<lb ed="#P" n="104"/>Quid est autem hoc quod quterere debemus nisi
+<lb ed="#P" n="105"/>veritas et bonitas? Quae si perfecte haberemus,
+<lb ed="#P" n="106"/>nihil amplius quaerere deberemus; quia si quid
+<lb ed="#P" n="107"/>forte si amplius esset, adjiceretur, etiam ai non
+<lb ed="#P" n="108"/>quaereretur. Quarite, inquit, primum regnum
+<lb ed="#P" n="109"/>Dei et justitiam ejus; et haec omnia 
+adjicien<lb ed="#P" break="no" n="110"/>tur vobis (Matth. vi, Luc. xi). Regnum Dei
+<lb ed="#P" n="111"/>veritas est, justitia ejus bonitas: haec duo 
+quaesie<lb ed="#P" break="no" n="112"/>ris sicut debes, c;tera omnia gratis apponuntur.
+<lb ed="#P" n="113"/>Quare ergo quierere labores illa quae gratis 
+habe<lb ed="#P" break="no" n="114"/>re potes ? Si ista quieris sine illig, aut non habes,
+<lb ed="#P" n="115"/>aut si habes, utiliter non habes. Si illa quaeris
+<lb ed="#P" n="116"/>sine istis, et illa habes ad salutem, et ista ad 
+uti<lb ed="#P" break="no" n="117"/>litatem. Omnia, inquit, haec adjicientur vobis.
+<lb ed="#P" n="118"/>Multa sunt haec; illa pauca sunt. Duo enim sunt
+<lb ed="#P" n="119"/>ibi; hic plurima invenientur, et tamen plus valent
+<lb ed="#P" n="120"/>duo illa, quam omnia hrec. Noli respicere ad 
+ma<lb ed="#P" break="no" n="121"/>jus, sed ad melius. Noli attendere ad acervum,
+<lb ed="#P" n="122"/>sed pensa pretium. Pauca quere ut multa 
+inve<lb ed="#P" break="no" n="123"/>nias. Haec suntergo sola quae quaerere 
+debentho<lb ed="#P" break="no" n="124"/>ines, veritas et bonitas. Et uti nam tam studio-
+<!-- 204.png.txt -->
+<pb ed="#P" n="286"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>si essent ad quaerendam bonitatem, quantum ad 
+<lb ed="#P" n="2"/>qurerendam veritatem curiosi inveniuntur! 
+Nes<lb ed="#P" break="no" n="3"/>cio quo pacto familiare omnibus est veritatem
+<lb ed="#P" n="4"/>quierere, etiam iis qui bonitatem non amant. In
+<lb ed="#P" n="5"/>tantum enim omnes veritatem scire volunt ut 
+ne<lb ed="#P" break="no" n="6"/>mo inveniatur qui falli velit. Multi sine bonitate
+<lb ed="#P" n="7"/>veritatem quaerunt, sed socia veritatis est 
+boni<lb ed="#P" break="no" n="8"/>tas. Non venit libenter sine bonitate veritas, aut
+<lb ed="#P" n="9"/>si venit, non venit ex partibus illis, et de regione
+<lb ed="#P" n="10"/>illa ubi salus est. Quaerunt homines utrum 
+pec<lb ed="#P" break="no" n="11"/>cata ipsorum ad eos revertantur postquam semel
+<lb ed="#P" n="12"/>dimissa fuerint. Scire hoc volunt, et cavere hoc
+<lb ed="#P" n="13"/>nolunt. Quare ergo hoc scire volunt quod cavere
+<lb ed="#P" n="14"/>nolunt, nisi quia curiositas eos trahit cum 
+boni<lb ed="#P" break="no" n="15"/>tas non delectet? Querunt hoc si forte eis dicatur
+<lb ed="#P" n="16"/>quia non est ita; pendent ad nuntium corporis
+<lb ed="#P" n="17"/>sui ;si forte quis veniat qui dicat eis quod audire
+<lb ed="#P" n="18"/>volunt. Qu:erunt quasi veritatem, non quodament
+<lb ed="#P" n="19"/>vel ipsam veritatem quia non diligunt bonitatem,
+<lb ed="#P" n="20"/>sed verum esse volunt hoc quod ipsi volunt. Ideo
+<lb ed="#P" n="21"/>ergo quzruntsi forteillis respondeatur quod ipsi
+<lb ed="#P" n="22"/>potius audire volunt, et si forte quis testis 
+veri<lb ed="#P" break="no" n="23"/>tatis venerit qui dicat veritatem contra ipsorum
+<lb ed="#P" n="24"/>voluntatem, non excitantur sed cogsternantur et
+<lb ed="#P" n="25"/>corruunt mente, quia non audierunt quod audire
+<lb ed="#P" n="26"/>voluerunt. Idcirco secundum malitiam illorum 
+ve<lb ed="#P" break="no" n="27"/>fitas illis respondet; vel sicut nolunt ut amplius
+<lb ed="#P" n="28"/>errent, vel sicut nolunt ut amplius desperent. 
+Ta<lb ed="#P" break="no" n="29"/>men quia et hoc ipsum quirendum est propter
+<lb ed="#P" n="30"/>eos qui excitantur et proficiunt, de veritate non
+<lb ed="#P" n="31"/>est absurdum si querimus quod etiam in hac parte
+<lb ed="#P" n="32"/>conscientia humana, si aliqua, ut solet, 
+cogita<lb ed="#P" break="no" n="33"/>tionepulsetur, sibidebeatrespondere. Sic ergo 
+quee<lb ed="#P" break="no" n="34"/>ritur utrum peccata quae semel peenitenti dimiesa
+<lb ed="#P" n="35"/>fuerunt amplius imputantur; fortassis qui dixerit
+<lb ed="#P" n="36"/>afferendum non esse hoc sed timendum securius
+<lb ed="#P" n="37"/>judicabit. Melius est enim aliquando in ejusmodi
+<lb ed="#P" n="38"/>occultis, quae sine periculo salutis nesciri 
+pos<lb ed="#P" break="no" n="39"/>sunt, timere quam aliquid definere. Dicat ergo
+<lb ed="#P" n="40"/>aliquis quod timendum esthoc, non afferendum,
+<lb ed="#P" n="41"/>Ego illi qui cognitationem suam castigare potest,
+<lb ed="#P" n="42"/>ut hoc ei sufficiat, hoc satis esse puto, et magnis
+<lb ed="#P" n="43"/>fortassis expidere ut amplius non querat. Qui
+<lb ed="#P" n="44"/>vero urgetur et animo sollicitatur neque hic 
+sta<lb ed="#P" break="no" n="45"/>re potest ut ultra non pergat ad inquisitionom,
+<lb ed="#P" n="46"/>illi satisfaciendum esse puto quantum fleri potest.
+<lb ed="#P" n="47"/>salva reverentia secretorum. Ecce ergo tu 
+quicum<lb ed="#P" break="no" n="48"/>que certus esse vis utrum peccata illa amplius
+<lb ed="#P" n="49"/>redeant, quae semel dissima fuerint; videamus
+<lb ed="#P" n="50"/>ergo et discutiamus quod te sollicitet. Peccata,
+<lb ed="#P" n="51"/>inquis, mea dimissa fuerunt; volo scire si 
+am<lb ed="#P" break="no" n="52"/>plius debeant imputari. Quid ergo tibi videtur ?
+<lb ed="#P" n="53"/>Mihi, inquis, non videtur quod debeant 
+denuoim<lb ed="#P" break="no" n="54"/>putari peccata quiedimissa sunt. Alioquin 
+muta<lb ed="#P" break="no" n="55"/>bilis videtur Deus qui nonteneatsententiam suam,
+<lb ed="#P" n="56"/>et tam facile mutet judicium suum. Quomodo
+<lb ed="#P" n="57"/>mutet? in hoc, inquis, mutet, quia cum prius 
+mi<lb ed="#P" break="no" n="58"/>hi peccata mea condonavit, dixit quod 
+ampli<lb ed="#P" break="no" n="59"/>us ea a me non requireret. Non enim 
+condo<lb ed="#P" break="no" n="60"/>nasset nisi hoc dixisset. Nunc autem iterum
+<lb ed="#P" n="61"/>ea requirit, et exigit ad pcenam a me quae prius
+<lb ed="#P" n="62"/>dimiserat; ideo dico quod si dicitur Deus pe-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>ccata quae semeldimisititerum imputare mutabilis
+<lb ed="#P" n="64"/>predicatur, et varians verbum suum quod semper
+<lb ed="#P" n="65"/>constare debet. Propterea igitur quia hoc esse
+<lb ed="#P" n="66"/>non potest, videtur mihi, quod peccata quae semel
+<lb ed="#P" n="67"/>Deo dimissa sunt, nulla ratione debeant 
+am<lb ed="#P" break="no" n="68"/>plius imputari. Si fortassis tibi videbitur et hac
+<lb ed="#P" n="69"/>ratione confirmabis te, ut non timeas, periculum
+<lb ed="#P" n="70"/>tuum. Sed dic mihi modo quomodo intelligas id
+<lb ed="#P" n="71"/>quod dicis ; peccata tua tibi dimitti. Si enim non
+<lb ed="#P" n="72"/>intelligis quomodo reddeunt, non intelligis 
+quo<lb ed="#P" break="no" n="73"/>modo recedunt, imo si non intelligis quomodo
+<lb ed="#P" n="74"/>adsunt, non intelligis quomodo recedunt vel
+<lb ed="#P" n="75"/>quomodo redeunt. Quid ergo dicitur cum dicitur
+<lb ed="#P" n="76"/>Deus peccata imputare? Si dicitur quia quando
+<lb ed="#P" n="77"/>imputat peccanti trascitur, ergo quando 
+pceni<lb ed="#P" break="no" n="78"/>B tenti condonat peccata placatur. Si ergo dicimus
+<lb ed="#P" n="79"/>quod Deus aliquando iratus postea placetur,
+<lb ed="#P" n="80"/>quomodo negare poteris quin in hoc ipso 
+mu<lb ed="#P" break="no" n="81"/>tetur? Quando ergo imputat et quando condonat
+<lb ed="#P" n="82"/>non mutatione sui, sed mutatione tui, imputatet
+<lb ed="#P" n="83"/>condonat. Peccata imputat quando peccatorem
+<lb ed="#P" n="84"/>dignum poena judicat. Peccata condonat quando
+<lb ed="#P" n="85"/>poenitentem dignum venia judicat. Et utrobique
+<lb ed="#P" n="86"/>idem ipse est. Tu mutaris de alio in aliud; 
+mo<lb ed="#P" break="no" n="87"/>do peccator per culpam, modo justus per 
+pceni<lb ed="#P" break="no" n="88"/>tentiam. Ipse non mutatur, sed idem permanet
+<lb ed="#P" n="89"/>semper ; et stansin illo quod ipse est 
+immutabili<lb ed="#P" break="no" n="90"/>ter videt et decernit quod tu variabiliter factus
+<lb ed="#P" n="91"/>est, sive de bono malus, sive de malo bonus. Et
+<lb ed="#P" n="92"/>quando te peccatorum videt, imputa tibi peccata.
+<lb ed="#P" n="93"/>Q tua, quia talem te discernit quem digne 
+pu<lb ed="#P" break="no" n="94"/>niat quando autem poenitentem te videt, peccata
+<lb ed="#P" n="95"/>tua tibi condonat, quia talem te discernit, cui
+<lb ed="#P" n="96"/>juste parcat. Hz:ec autem omnia ipse 
+immutabili<lb ed="#P" break="no" n="97"/>ter operatur, quiaet cum tu per poenitentiam 
+pec<lb ed="#P" break="no" n="98"/>cator esse desinis, non tamen ipse desinit scire
+<lb ed="#P" n="99"/>qualis fuisti, et cum justus esae incipis, non 
+ta<lb ed="#P" break="no" n="100"/>men ipse incipit scire quod tu esse incipis ; quia
+<lb ed="#P" n="101"/>et antequam inciperes scivit qualis tu futurus
+<lb ed="#P" n="102"/>fuisti et cum desieris esse quod eras non tamen
+<lb ed="#P" n="103"/>ignorat ipse qualis fuisti. Non ergo sic intelligas
+<lb ed="#P" n="104"/>quasi mutetur Deus cum tu mnutaris, sed quia
+<lb ed="#P" n="105"/>propterea peccata tibi imputare dicitur, quia ira
+<lb ed="#P" n="106"/>sua et indignatione dignum te discernit; eadem
+<lb ed="#P" n="107"/>autem postea condonare peccata, quando venia
+<lb ed="#P" n="108"/>et misericordia dignum agnoscit. Si ergo hoc est
+<lb ed="#P" n="109"/>peccata imputari reum esse per culpam, et 
+pecca<lb ed="#P" break="no" n="110"/>ta condonari justum fleri per peenitentiam, quare
+<lb ed="#P" n="111"/>peccata ad hominem reverti non dicantur, cum
+<lb ed="#P" n="112"/>ipse homo ad peccata revertitur? Sed dicia mihi:
+<lb ed="#P" n="113"/>Ego quando ad peccata revertor, ita revertor,
+<lb ed="#P" n="114"/>ut simile aliquid agam illi quod prius egi, non
+<lb ed="#P" n="115"/>tamen hoc ipsum quod prius egi. Et si idem
+<lb ed="#P" n="116"/>ago, idem similitudine, non idem veritate. 
+Id<lb ed="#P" break="no" n="117"/>em quia simile illi, non idem quia illud. Una
+<lb ed="#P" n="118"/>similitudo agendi, non tamen actio una. Si
+<lb ed="#P" n="119"/>ergo dicor pro praeteritis delictis idcirco puniri
+<lb ed="#P" n="120"/>debere, quia post illa dimissa ad similia 
+perpe<lb ed="#P" break="no" n="121"/>tranda redeo; ego sic justum esse fateor, si hoc
+<lb ed="#P" n="122"/>modo pro illis puniri dicor quomodo illa 
+perpe<lb ed="#P" break="no" n="123"/>trare dicor. Si autem propter hoc solum prima
+<lb ed="#P" n="124"/>mala agere denuo dicor, quia alia quaedam ago
+<!-- 205.png.txt -->
+<pb ed="#P" n="287"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>similia illis, parimodo cum pro illis dicor 
+punien<lb ed="#P" break="no" n="2"/>dus, non aliud intelligendum ratio suadet, quam
+<lb ed="#P" n="3"/>me puniendum esse pro iis quae similia prioribus
+<lb ed="#P" n="4"/>postea perpetravi. Non autem hoc in questione
+<lb ed="#P" n="5"/>erat, sed utrum videlicet post prioris delicti 
+in<lb ed="#P" break="no" n="6"/>dulgentiam si ipsum delictum repetitur; illa. quae
+<lb ed="#P" n="7"/>dimissa fuerat culpa ad subsequentem revertente
+<lb ed="#P" n="8"/>reatus duplecitur. Verbi gratia : Quidem pro 
+ho<lb ed="#P" break="no" n="9"/>mícidio perpetrato ex toto corde poenitentiam egit,
+<lb ed="#P" n="10"/>et indulgentiam consecutus est. Contigit posteaut
+<lb ed="#P" n="11"/>homicidium perpetraret. Ecce iste homo duo 
+ho<lb ed="#P" break="no" n="12"/>micidia fecit; vel potius homicidium bis. Sic enim
+<lb ed="#P" n="13"/>convenientibus et expressius secunlum 
+proprie<lb ed="#P" break="no" n="14"/>tatem locutionisdicitur. Unum enim quoddam 
+ma<lb ed="#P" break="no" n="15"/>lum homieiendum est, sicut adulterium et furtum
+<lb ed="#P" n="16"/>et fornicatio singula mala sunt, quemadmodum
+<lb ed="#P" n="17"/>charitas et patientia et castita singule virtutes
+<lb ed="#P" n="18"/>sunt. Etqui duoshominesdiligit, non duabus 
+dilec<lb ed="#P" break="no" n="19"/>tionibus diligit, sed una charitate et una 
+dilec<lb ed="#P" break="no" n="20"/>tione. Sic ergo homo iste his homicidium fecit ;
+<lb ed="#P" n="21"/>primo ponitendo indulgentiam optinuit; secundo
+<lb ed="#P" n="22"/>quando post indulgentiam acceptam iterum 
+ho<lb ed="#P" break="no" n="23"/>micidium perpetravit. Mortuus est autem homo
+<lb ed="#P" n="24"/>iste postea sine poenitentia, et damnatus est pro
+<lb ed="#P" n="25"/>peccatis suis. Queriturergode hoc homine utrum.
+<lb ed="#P" n="26"/>debeat puniri pro illo homicidio pro quo 
+poeni<lb ed="#P" break="no" n="27"/>tentiam egit, et indulgentiam accepit. Et si hoc
+<lb ed="#P" n="28"/>dicitur, qua justitia hoc flat non videtur. Nam si
+<lb ed="#P" n="29"/>punitur pro eo quod peccavit et non emendavit,
+<lb ed="#P" n="30"/>justitia est manifesta.
+</p>
+               <p xml:id="hsvhsv-g54789-d1e3414">
+                  <lb ed="#P" n="31"/>Si autem iterum requiritur quod fuerat 
+condo<lb ed="#P" break="no" n="32"/>natum, aut injustitia veraest, aut justitia occulta.
+<lb ed="#P" n="33"/>In hoc ergo demonstrari oportet quia justitia 
+ho<lb ed="#P" break="no" n="34"/>mo pro eo quod jam dimissum fueratiterum 
+pu<lb ed="#P" break="no" n="35"/>niatur. Sic fortassis pro hac parte objiciendum
+<lb ed="#P" n="36"/>tibi videatur. Dic ergo nunc. Justum tibi 
+vide<lb ed="#P" break="no" n="37"/>tur ut propter subsequentem poenitentiam 
+pre<lb ed="#P" break="no" n="38"/>cedens culpa quae imputabatur condonetur, et
+<lb ed="#P" n="39"/>non similiter propter subsequentem culpam illa
+<lb ed="#P" n="40"/>quie dimissa fuerat precedens culpa iterum 
+im<lb ed="#P" break="no" n="41"/>putetur? Si subjuncta virtus plagam peccati
+<lb ed="#P" n="42"/>hiantis claudit, subjuneta culpa non aperit 
+clau<lb ed="#P" break="no" n="43"/>sam ? Si opera bona viventia perculpam 
+moriun<lb ed="#P" break="no" n="44"/>tur, et per justitiam iterum mortua vivificantur,
+<lb ed="#P" n="45"/>quare similiter opera mala qui per virtutem 
+ex<lb ed="#P" break="no" n="46"/>cusantur per culpam iterum non imputantur? Vis
+<lb ed="#P" n="47"/>ut poenitentia tantum valeat ut qute 
+imputaban<lb ed="#P" break="no" n="48"/>tur condonentur ; et non vis ut culpa tantum 
+va<lb ed="#P" break="no" n="49"/>leatut quae condonabantur imputentur? 
+Poni<lb ed="#P" break="no" n="50"/>tentia sequens potuit precedentem culpam 
+ex<lb ed="#P" break="no" n="51"/>cusare, ut non noceat aliquando imputatam, et
+<lb ed="#P" n="52"/>sequens culpa non potest precedentem 
+pceniten<lb ed="#P" break="no" n="53"/>tiam evacuere ut non prosit aliquando fuisse 
+lau<lb ed="#P" break="no" n="54"/>datam ? 8i sententia judicio tuo constare poterit,
+<lb ed="#P" n="55"/>magis commodum queres quam justum. 
+Male<lb ed="#P" break="no" n="56"/>dictus homo qui partem suam deteriorem facit.
+<lb ed="#P" n="57"/>Ideo partem tuam bonam facis. Et judicas benepro
+<lb ed="#P" n="58"/>parte tua. Fortassis bene tibi esset si sententia
+<lb ed="#P" n="59"/>veritatis tuum judicium sequeretur. Nunquam
+<lb ed="#P" n="60"/>te judice damnareris. Sed timeo ne forte dum tu
+<lb ed="#P" n="61"/>aliud vis quam veritas, aliud veritas faciat quam
+<lb ed="#P" n="62"/>velis. Magis enim veritatem impleri oportet quam
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>tuam voluntatem. Tu dicis quia quod 
+condona<lb ed="#P" break="no" n="64"/>tum est iterum imputari non debet. Ergo 
+si<lb ed="#P" break="no" n="65"/>militer quod imputatum est condonari non debet.
+<lb ed="#P" n="66"/>8i quod condonatum est iterum imputari non 
+de<lb ed="#P" break="no" n="67"/>bet. Si poenitentia quia placet, facit ut imputata
+<lb ed="#P" n="68"/>condonetur malitia, et contemptus quia displicet
+<lb ed="#P" n="69"/>non similiter fasit ut condonata imputantur? Si
+<lb ed="#P" n="70"/>humilitas pomnitentice dignum te facit, ut pro lis
+<lb ed="#P" n="71"/>etiam qute imputabantur non 'puniaris, 
+contem<lb ed="#P" break="no" n="72"/>tus et trnnsgressio culps te dignum non facit ut
+<lb ed="#P" n="73"/>pro iis etiam quz» condonabantur culpandus 
+exi<lb ed="#P" break="no" n="74"/>garis? Nonne attendis quod quando sepius 
+gra<lb ed="#P" break="no" n="75"/>tia datur, tanto nequior ingratitudo judicatur?
+<lb ed="#P" n="76"/>Ecce duo sunt, unus saepius offendit, et saepius
+<lb ed="#P" n="77"/>oranti et 'deprecanti , venia indulgetur ; alter
+<lb ed="#P" n="78"/>innocenter vivens et semper voluntati et imperio
+<lb ed="#P" n="79"/>priesidentis Domini humiliter obediens, non habet
+<lb ed="#P" n="80"/>pro quo deprecetur ; contingit autem postea quod
+<lb ed="#P" n="81"/>contingere potest, ut uterque in simili culpa 
+of<lb ed="#P" break="no" n="82"/>fendat. Dic ergo uter horum amplius reus 
+judice<lb ed="#P" break="no" n="83"/>tur, nisi ille qui post. tantam gratiam ingratus
+<lb ed="#P" n="84"/>comprobatur ;leges secunda crimina gravius 
+plec<lb ed="#P" break="no" n="85"/>tunt, et iterata vulnera difficilius ad sanitatem
+<lb ed="#P" n="86"/>reducuntur, et tu dicis quod nihil interest ad
+<lb ed="#P" n="87"/>reatum subsequentium qualia aut quanta 
+praece<lb ed="#P" break="no" n="88"/>dentia fuerunt? Si mala prima qua per 
+poste<lb ed="#P" break="no" n="89"/>rioria bona excusata fuerant per subsequentía
+<lb ed="#P" n="90"/>iterum mala non vivificantur ad reatum; ergo
+<lb ed="#P" n="91"/>prima bona quae per posteriora mala mortificata
+<lb ed="#P" n="92"/>fuerant per subsequentia iterum bona non 
+vivi<lb ed="#P" break="no" n="93"/>ficantur ad meritum ? Recte judicate filii 
+homi<lb ed="#P" break="no" n="94"/>num (Psal. Lv). Si aliter judicas pro te aliter
+<lb ed="#P" n="95"/>eontra te, judex justus non es Tantum diligere
+<lb ed="#P" n="96"/>justitiam debes, ut nec te ipsum diligas contra
+<lb ed="#P" n="97"/>illa. Litteratores sunt qui causas transformantet
+<lb ed="#P" n="98"/>mutant veritatem propter cummoditatem. Tales
+<lb ed="#P" n="99"/>justitia non probat : Domine, inquit, non 
+cogno<lb ed="#P" break="no" n="100"/>vi litteraturum ; introibo in potentías Domini;
+<lb ed="#P" n="101"/>Doinine, memorabor justític tuc solius (Psal.
+<lb ed="#P" n="102"/>Lxx). Hoc est judicium justum in quo sola 
+justi<lb ed="#P" break="no" n="103"/>tia ita attenditur ut nihil justitiee praeponatur. 
+Jue<lb ed="#P" break="no" n="104"/>tum ergo judicium judicia; si vis ut bona tua jam
+<lb ed="#P" n="105"/>pridem per culpam mortua iterum per justitiam.
+<lb ed="#P" n="106"/>vivificentur. Noli irasci, neque injuriam tibi fieri
+<lb ed="#P" n="107"/>tutes, si mala tua jam pridem per ponitentiam
+<lb ed="#P" n="108"/>pp excusata, iterum propter malitiam tuam tibl 
+im<lb ed="#P" break="no" n="109"/>putentur. Sed Deus, inquis, dixit de malis meis
+<lb ed="#P" n="110"/>quando poenitentiam egi, quod ea mihi amplius
+<lb ed="#P" n="111"/>non imputaret. Similiter et Deus dixit de bonis
+<lb ed="#P" n="112"/>tuis quando peccati quod amplius ea non 
+remu<lb ed="#P" break="no" n="113"/>neraret. Si ergo propter dictum Dei stare debet.
+<lb ed="#P" n="114"/>ut illa amplius non imputentur, quare similiter
+<lb ed="#P" n="115"/>verbum Dei stare non debet ut ista amplius non
+<lb ed="#P" n="116"/>remunerentur? Pro commodo tuo vis ut Deue
+<lb ed="#P" n="117"/>mentiatur. Ubi autem leedi te sentis, pro 
+verita<lb ed="#P" break="no" n="118"/>te ipsius conservanda laboras. Quare ergo hoo 
+fa<lb ed="#P" break="no" n="119"/>cis, nisi quia perverse te diligis, et Deum non 
+di<lb ed="#P" break="no" n="120"/>ligis? ipseautem recte diligit veritatem suam ;
+<lb ed="#P" n="121"/>et juste condemnat pravitatem tuam. Quia tamen
+<lb ed="#P" n="122"/>de dicto Del argumentum sumere putas, etejus
+<lb ed="#P" n="123"/>sponsionem pretendis ad defendendam 
+iniquita<lb ed="#P" break="no" n="124"/>tem tuam; ipse tibi respondeat quantum confi
+<!-- 206.png.txt -->
+<pb ed="#P" n="288"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>dere debeas, cum male agis in eo quod prius 
+pc<lb ed="#P" break="no" n="2"/>nitenti veniam promisit : et similiter si bene agis
+<lb ed="#P" n="3"/>utrum ideo desperare debeas, pro eo quod male
+<lb ed="#P" n="4"/>prius agenti mortem et perditionem intendit, 
+Do<lb ed="#P" break="no" n="5"/>minus per prophetam loquitur, dicens : Tu, fiti
+<lb ed="#P" n="6"/>hominis, dic ad filios populi tui : Justitia 
+jus<lb ed="#P" break="no" n="7"/>ti non liberabit eum in quecunque die 
+pecca<lb ed="#P" break="no" n="8"/>verit et. impietas impii non nocebit ei in 
+qua<lb ed="#P" break="no" n="9"/>cunque die conversus fuerit ab impietate sua;
+<lb ed="#P" n="10"/>et justus non poterit vivere in justitia sua. in
+<lb ed="#P" n="11"/>quacunque die peccaverit;etiam si dixero justo
+<lb ed="#P" n="12"/>quod vita vivat et confisus in justitia sua 
+fece<lb ed="#P" break="no" n="13"/>rit iniquitatem, omnes justitice ejus oblivioni
+<lb ed="#P" n="14"/>tradentur, et in iniquitate sua. quam 
+opera<lb ed="#P" break="no" n="15"/>ius est, in ipsa morietur. Si autem dizero
+<lb ed="#P" n="16"/>impio : Morte morieris, et egerit paenitentiam
+<lb ed="#P" n="17"/>de peccato suo, feceritque judicium et 
+justi<lb ed="#P" break="no" n="18"/>tiam, pignus restituerit impius ille, 
+rapinam<lb ed="#P" break="no" n="19"/>que reddiderit ; in mandatis vita 
+ambulave<lb ed="#P" break="no" n="20"/>rit, nec fecerit quidquam injustum ; vita vivet
+<lb ed="#P" n="21"/>et non morietur. Omnia peccata qua peccavit
+<lb ed="#P" n="22"/>non imputabuntur ei, judicium et justitiam
+<lb ed="#P" n="23"/>fecit, vita vivet ; et dixerunt filii populi tui :
+<lb ed="#P" n="24"/>Non est aqui ponderis via Domini ; et 
+impio<lb ed="#P" break="no" n="25"/>rum via injusta est (Exech. xxxii). Vide ergo
+<lb ed="#P" n="26"/>quia idcirco praesumendum tibi non est si 
+pecca<lb ed="#P" break="no" n="27"/>veris, quod prius ponnitenti venia promittebatur ;
+<lb ed="#P" n="28"/>neque ideo desperandum si bene egeris, quia 
+pec<lb ed="#P" break="no" n="29"/>canti mors et damnatiointentabatur. Deus tibi de
+<lb ed="#P" n="30"/>tuo respondet, non de suo. Meritum tuum tibi
+<lb ed="#P" n="31"/>indicat, consilium suum non revelat. Male 
+agen<lb ed="#P" break="no" n="32"/>ti dicit, morieris. Bene agenti dicit, vives. Quid
+<lb ed="#P" n="33"/>est dicere morieris, nisi damnabaris ? Et quid est.
+<lb ed="#P" n="34"/>dicere vives, nisi salvaberis ? Quid est autem 
+di<lb ed="#P" break="no" n="35"/>cere dammaberis nisi dignum damnatione 
+judi<lb ed="#P" break="no" n="36"/>care? Et quid est. dicere salvaberis, nisi 
+salva<lb ed="#P" break="no" n="37"/>tione dignum decernere Dicit ergo tibi quod tuum
+<lb ed="#P" n="38"/>est quod tibi debetur, quod futurum est quantum.
+<lb ed="#P" n="39"/>ad meritum tuum, non quantum ad consilium
+<lb ed="#P" n="40"/>suum. Hoc est enim justum ut de tuo tibi 
+respon<lb ed="#P" break="no" n="41"/>deat et hoc tibi proponat quod ad te pertinere 
+vi<lb ed="#P" break="no" n="42"/>detur. Sic Ninivitis secundum ipsorum meritum,
+<lb ed="#P" n="43"/>non secundum consilium suum mandavit, dicens:
+<lb ed="#P" n="44"/>Adhuc quadraginta dies et Ninive subvertetur
+<lb ed="#P" n="45"/>(Jon. m). Sic etiam meritum illorum requirebat,
+<lb ed="#P" n="46"/>et ita futurum fuitsecundum meritum illorum.
+<lb ed="#P" n="47"/>Ad hoc spectabat, et illud etiam quod dictum est.
+<lb ed="#P" n="48"/>Ezechis : Dispone domui tuc quia morieristu,
+<lb ed="#P" n="49"/>6t non vives (Isa. xxxvin). Ita enim. quantum
+<lb ed="#P" n="50"/>ad ipsum futurum fuit, et ut ita futurum esset
+<lb ed="#P" n="51"/>exigebat quod in ipso fuit. Talis enim erat 
+infir<lb ed="#P" break="no" n="52"/>mitas illius, ut amplius vivere non posset, nisi
+</p>
+               <p xml:id="hsvhsv-g54789-d1e3742">
+                  <lb ed="#P" n="53"/>aliunde juvaretur, et aliunde acciperet ut posset.
+<lb ed="#P" n="54"/>Ergo quantum ad illos pertinebat futurum fuit
+<lb ed="#P" n="55"/>quod dicebatur, quamvis dilatum sit, atque 
+ali<lb ed="#P" break="no" n="56"/>ter dispensatum ab illo a quo dicebatur. Sic ergo
+<lb ed="#P" n="57"/>cum tibi peccanti dicitur morieris ; meritum 
+tu<lb ed="#P" break="no" n="58"/>um exprimitur, sicut cum tibi bene agenti 
+dici<lb ed="#P" break="no" n="59"/>tur, vives, debitum tuum nuntiatur. Etsi 
+quan<lb ed="#P" break="no" n="60"/>do dictum mutari videtur, non propter dicentem
+<lb ed="#P" n="61"/>mutatur, sed propter te pro quo dicitur ; quia tu
+<lb ed="#P" n="62"/>mutaris et non idem permanes, neque mereris ut
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>idem tibi semper dicatur. Noli ergo. propter 
+dic<lb ed="#P" break="no" n="64"/>tum Dei consideri si male egeris, quia cum tu
+<lb ed="#P" n="65"/>mutaris ad illum, mutatur ad te dictum illius.
+<lb ed="#P" n="66"/>Etiam, inquit, si dixero justo quod vita vivet, et
+<lb ed="#P" n="67"/>confisus in justitia sua fecerit iniquitatem, 
+om<lb ed="#P" break="no" n="68"/>nes justitiae illius oblivioni tradentur. Si omnes
+<lb ed="#P" n="69"/>justitiae ejus oblivioni tradentur, ergo et 
+poeni<lb ed="#P" break="no" n="70"/>tentia ejus et humilitas ejus, et c:etera bona que
+<lb ed="#P" n="71"/>operatus est oblivioni tradentur; si autem 
+po<lb ed="#P" break="no" n="72"/>nitentia oblivioni traditur, culpa unde excusatur?
+<lb ed="#P" n="73"/>Ergo si poenitentia deletur, culpa quae propter pce
+<lb ed="#P" n="74"/>nitentiam dimissa fuerat iterum necesse est. 
+re<lb ed="#P" break="no" n="75"/>nascatur. Et merito qui post acceptam gratiam
+<lb ed="#P" n="76"/>ingratus exstitit, cum illo gratia ipsa non 
+per<lb ed="#P" break="no" n="77"/>massit ; sed mutata est ab eo quoniam ipse ad 
+il<lb ed="#P" break="no" n="78"/>B lam idem essenoluit. Videquid tibi Evangelium.
+<lb ed="#P" n="79"/>(Matth. xvii) dicat de servo nequam et ingrato,
+<lb ed="#P" n="80"/>cui roganti a Domino suo debitum omne 
+dimie<lb ed="#P" break="no" n="81"/>sum fuerat ; sed quia ille erga conservum suum
+<lb ed="#P" n="82"/>misericordiam habere noluit, rursum ab eo per
+<lb ed="#P" n="83"/>districtionem fastitie exigitur, quidquid per 
+le<lb ed="#P" break="no" n="84"/>nitatem gratis dimissum fuit. Recte igitur 
+dio<lb ed="#P" break="no" n="85"/>tum est, quia cum peccantibus in nos debita sua
+<lb ed="#P" n="86"/>dimittere nolumus, jure iterum exigitur id etiam
+<lb ed="#P" n="87"/>quod nobis dimissum esse gaudebamus. Et 
+me<lb ed="#P" break="no" n="88"/>rito. Quod etiam culpa peccatori dimittebatur,
+<lb ed="#P" n="89"/>gratia fuit non debitum. Qui si sponte gratiam
+<lb ed="#P" n="90"/>collatam abjicit justum profecto est utilli 
+gra<lb ed="#P" break="no" n="91"/>tiam accepisse non prosit.
+</p>
+               <p xml:id="hsvhsv-g54789-d1e3831">
+                  <lb ed="#P" n="92"/>Sed dicis mihi: Si post pomitentiam factam
+<lb ed="#P" n="93"/>peccanti iterum prioradenuo peccata imputantur,
+<lb ed="#P" n="94"/>ubi est quod dicitur, quia nullum bonum 
+irremu<lb ed="#P" break="no" n="95"/>neratum esse potest? Ecce bonum quoddam hic
+<lb ed="#P" n="96"/>est; poenitentia scilicet hominis hujus quae bona
+<lb ed="#P" n="97"/>fuit, quandiu vera fuit;et non habet bonum illud
+<lb ed="#P" n="98"/>remunerationem aliquam, quia imputantur 
+ho<lb ed="#P" break="no" n="99"/>mini huic peccata sua, quasi nunquam 
+poeniten<lb ed="#P" break="no" n="100"/>tiam egisset. Aut poenitentia illa bona non fuit;
+<lb ed="#P" n="101"/>aut si bona fuit, ostende remunerationem ejus.
+<lb ed="#P" n="102"/>Quid ergo? Nonne tibi magna remuneratio esse
+<lb ed="#P" n="103"/>videtur peccati remissio; iste quando posnitentiam.
+<lb ed="#P" n="104"/>egit, dimissum est ei peccatum suum. Quandiu
+<lb ed="#P" n="105"/>penituit, peccatum suum non impautabatur illi.
+<lb ed="#P" n="106"/>Quandiu meritum fuit premium permansit. 
+Vo<lb ed="#P" break="no" n="107"/>lebas tu hanc libertatem dare hominibus ut cum
+<lb ed="#P" n="108"/>D meritum dedissent et praemium accepissent, 
+rur<lb ed="#P" break="no" n="109"/>sum quando placeret eis meritum tollerent, et
+<lb ed="#P" n="110"/>praemium retinerent? Non esset equa commutatio, .
+<lb ed="#P" n="111"/>ista. Inique ageres adversus Deum si sic tuum
+<lb ed="#P" n="112"/>dares et suum acciperes, ut iterum tolleres tuum
+<lb ed="#P" n="113"/>et suum retineres. Si tuum dedisti et suum 
+acce<lb ed="#P" break="no" n="114"/>pisti, si tuum recipis, ipse quod suum est habere
+<lb ed="#P" n="115"/>vult. Nunquid tibi non ita videtur? Fortassis 
+di<lb ed="#P" break="no" n="116"/>cis quod non est gqua via Domini; et senties
+<lb ed="#P" n="117"/>contra veritatem. Quomodo, inquis, stabit quod
+<lb ed="#P" n="118"/>scriptum est : Non judicabit Deusbis inidipsum
+<lb ed="#P" n="119"/>(Nahum. 1)? si ea quae dimissa fuerant, iterum
+<lb ed="#P" n="120"/>ad poenam requiruntur. Audi quomodo, Bis in
+<lb ed="#P" n="121"/>idipsum Deus non judicat; quia peccatum quod
+<lb ed="#P" n="122"/>percondignamsatisfactionem deletum ostenditur,
+<lb ed="#P" n="123"/>ab eo nullatenus ad penam imputatur. Sed hoc,
+<lb ed="#P" n="124"/>inquis, quod per satisfactionem deletum fuit, ite-
+<!-- 207.png.txt -->
+<pb ed="#P" n="289"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>rum ad ponam requiritur. Ideo requiritur quia
+<lb ed="#P" n="2"/>satisfactio jam non est aliqua, quae ad 
+excusatio<lb ed="#P" break="no" n="3"/>nem illius opponatur. Quandiu satisfactio 
+per<lb ed="#P" break="no" n="4"/>mansit, permansit remissio et non puniebatur,
+<lb ed="#P" n="5"/>postquam semel dimissum fuerat. Cessavit autem
+<lb ed="#P" n="6"/>satisfactio, quando iterata est malitia quia et
+<lb ed="#P" n="7"/>hoc ad satisfactionem pertinebat, ut facta 
+corri<lb ed="#P" break="no" n="8"/>gerentur, et correcta non iterarentur. Postquam
+<lb ed="#P" n="9"/>ergo culpa reddit, jam quodammodo idipsum non
+<lb ed="#P" n="10"/>fuit, quia bis in reatu esse coepit peccatum unum.
+<lb ed="#P" n="11"/>Quia autem culpa reversa est, reversa eat et pcena;
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="12"/>quae profecto repetita non fuisset, si culpa reversa
+<lb ed="#P" n="13"/>non fuisset. Quando venit culpa, secuta est poena.
+<lb ed="#P" n="14"/>Quando correcta est culpa, subtracta est poena,
+<lb ed="#P" n="15"/>quando reversa est culpa, reversa estet poena.
+<lb ed="#P" n="16"/>Unum contra unum, et duo contraduo non unum
+<lb ed="#P" n="17"/>contra duo, nec duo contra unum. Haec est justitia.
+<lb ed="#P" n="18"/>Quantum ponitur, tantum reponitur. Quid tibi
+<lb ed="#P" n="19"/>videtur? responde si potes. Si autem respondere
+<lb ed="#P" n="20"/>non potes, noli contendere, sed deprecare. Non
+<lb ed="#P" n="21"/>tibi expedit utintresin judicium cum Deo. Quz:re
+<lb ed="#P" n="22"/>ergo misericordiam, ut justitiam portare possis.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

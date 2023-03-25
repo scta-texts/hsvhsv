@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pars 9</title>
+            <author ref="#HughOfStVictor">Hugh of St. Victor</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Pars 9</title>
+               <date when="2023-03-25">March 25, 2023</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-bnhupl">Patrologia Latina, v. 176</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2023-03-25" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="236"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="hsvhsv-g43310"><!-- l2-p9 -->
+            <head xml:id="hsvhsv-g43310-Hd1e101">Pars 9</head>
+            <head xml:id="hsvhsv-g43310-Hd1e103" type="question-title">
+De minoribus sacramentis et sacris
+</head>
+            <p xml:id="hsvhsv-g43310-d1e106">
+               <cb ed="#P" n="c"/>
+               <lb ed="#P" n="73"/>PARS NONA.
+<lb ed="#P" n="74"/>DE MINORIBUS SACRAMENTIS ET SACRIS.
+</p>
+            <div xml:id="hsvhsv-g43310-Dd1e115">
+               <head xml:id="hsvhsv-g43310-Hd1e117">Capitulum 1</head>
+               <head xml:id="hsvhsv-g43310-Hd1e119" type="question-title"/>
+               <p xml:id="hsvhsv-g43310-d1e121">
+                  <lb ed="#P" n="75"/>Cap. I. De sacramentis qua ad exercitationem 
+<lb ed="#P" n="76"/>instituta sunt, et quod omnia 
+sanctifican<lb ed="#P" break="no" n="77"/>tur per verbum Dei.
+</p>
+               <p xml:id="hsvhsv-g43310-d1e130">
+                  <lb ed="#P" n="78"/>Sunt quaedam sacramenta in Ecclesia in quibus
+<lb ed="#P" n="79"/>etai principaliter salus non constet, tamen salus
+<lb ed="#P" n="80"/>ex eis augetur, in quantum devotio exercetur.
+<lb ed="#P" n="81"/>Haec licet in praesenti omnia enumerari non 
+pos<lb ed="#P" break="no" n="82"/>sint, quaedam tamen intermittere non oportet pro
+<lb ed="#P" n="83"/>exemplo universorum. Ex his igitur sacramentis
+<lb ed="#P" n="84"/>alia constant in rebus, qualia sunt aqua 
+asper<lb ed="#P" break="no" n="85"/>Sionis, susceptio cineris, benedictio ramorum et
+<lb ed="#P" n="86"/>cereorum, et c:etera talia. Alia autem constant in
+<lb ed="#P" n="87"/>factis qualia sunt signaculum crucis, exsufllatio
+<lb ed="#P" n="88"/>exorcizationis, expansio manuum, incurvatio 
+ge<lb ed="#P" break="no" n="89"/>nuum, et alia hujusmodi. Alia in dictis constant,
+<lb ed="#P" n="90"/>sieut Trinitatis invocatio, et quzecunque in hunc
+<lb ed="#P" n="91"/>modum. Hxc autem omnia per verbum Dei 
+sanc<lb ed="#P" break="no" n="92"/>tificantur sive per prolationem verborum divina
+<cb ed="#P" n="d"/>
+                  <lb ed="#P" n="93"/>virtute invocata sanctificentur, sive sola fide 
+exhi<lb ed="#P" break="no" n="94"/>bita per eamdem divinam virtutem 
+sanctificatio<lb ed="#P" break="no" n="95"/>nis effectum accipiant. Ubi enim vera fides est,
+<lb ed="#P" n="96"/>verbum Dei deesse non potest; quia ipsum 
+ver<lb ed="#P" break="no" n="97"/>bum fide concipitur, et per fidem operatur. 
+Om<lb ed="#P" break="no" n="98"/>nia, inquit Apostolus, quecunque facitis, in
+<lb ed="#P" n="99"/>nomine Domini facite (Colos. 11). Non autem
+<lb ed="#P" n="100"/>consequens est ut intelligamus Apostolum 
+prsm<lb ed="#P" break="no" n="101"/>cepisse, quod in omnibus operis nostris verba
+<lb ed="#P" n="102"/>proferremus, sed ut in omnibus operibus nostris
+<lb ed="#P" n="103"/>fidem rectam teneremus. Ille enim: nomine 
+Do<lb ed="#P" break="no" n="104"/>mini omnia quae facit operatur, qui per rectam
+<lb ed="#P" n="105"/>fidem agnoscit se, nec sine illo aliquid boni posse
+<lb ed="#P" n="106"/>facere, et si quid fecerit laudabile extra illum 
+glo<lb ed="#P" break="no" n="107"/>riari non debere. Qui fideliter in omni opere suo
+<lb ed="#P" n="108"/>et ante faetum ab illo auxilium quaerit, et. post
+<lb ed="#P" n="109"/>factum totum quod operatus est bonum, ad 
+lau<lb ed="#P" break="no" n="110"/>dem et gloriam ejus converlit. Sicut ergo omnia
+<!-- 155.png.txt -->
+<pb ed="#P" n="237"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>acimus sola fide etiam sine prolatione 
+ver<lb ed="#P" break="no" n="2"/>ain nomine Domini recte fieri dicuntur ;sic
+<lb ed="#P" n="3"/>edam sacramenta sine prolatione verborum
+<lb ed="#P" n="4"/>lam fidem sanctificantur. Nam ipsa verba
+<lb ed="#P" n="5"/>indo sacramenta sunt, quae tamen ex aliis
+<lb ed="#P" n="6"/>: sanctificationem non accipiunt. Nullum
+<lb ed="#P" n="7"/>1 8acramentum sineillo verbo sanctificatur,
+<lb ed="#P" n="8"/>sive sola fide, siveex fide, et prolatione 
+ver<lb ed="#P" break="no" n="9"/>n invocatum, omnem sanctificatione opera-
+</p>
+            </div>
+            <div xml:id="hsvhsv-g43310-Dd1e233">
+               <head xml:id="hsvhsv-g43310-Hd1e235">Capitulum 2</head>
+               <head xml:id="hsvhsv-g43310-Hd1e237" type="question-title"/>
+               <p xml:id="hsvhsv-g43310-d1e239">
+                  <lb ed="#P" n="10"/>II. De aqua aspertionis quae cum sale 
+be<lb ed="#P" break="no" n="11"/>ne dicitur.
+</p>
+               <p xml:id="hsvhsv-g43310-d1e246">
+                  <lb ed="#P" n="12"/>xander papa quintus a beato Petro 
+consti<lb ed="#P" break="no" n="13"/>tsalet aqua benedicerentur ad 
+aspergen<lb ed="#P" break="no" n="14"/>»opulum et habitacula eorum. Illo utique
+<lb ed="#P" n="15"/>3lo quo Eliszus propheta sal in aquam 
+mis<lb ed="#P" break="no" n="16"/>legitur, ut hoc condimento fontes amari in
+<lb ed="#P" n="17"/>linem verterentur. Hac igitur aqua 
+sancti<lb ed="#P" break="no" n="18"/>fideles asperguntur, et habitacula fidelium
+<lb ed="#P" n="19"/>nturab illusione et infestationem alignorum
+<lb ed="#P" n="20"/>aum. Haec est autem significatio hujus 
+sa<lb ed="#P" break="no" n="21"/>inti, quod aqua poenitentiam significat de
+<lb ed="#P" n="22"/>ritis sal discretionem et cautelam de 
+futu<lb ed="#P" break="no" n="23"/>use duo si simul misceantur, amara 
+cons<lb ed="#P" break="no" n="24"/>a in dulcedinem vertitur, atque illesiones
+<lb ed="#P" n="25"/>tationes demonum amplius ei non 
+domi<lb ed="#P" break="no" n="26"/>r. Nos itaque supradictam institutionem
+<lb ed="#P" n="27"/>, per singulos dies dominicos sal et aquam
+<lb ed="#P" n="28"/>miscendo benedicimus, ut hac aspersione
+<lb ed="#P" n="29"/>3et habitacula fidelium contra spirituales
+<lb ed="#P" n="30"/>tias muniamus.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g43310-Dd1e292">
+               <head xml:id="hsvhsv-g43310-Hd1e294">Capitulum 3</head>
+               <head xml:id="hsvhsv-g43310-Hd1e296" type="question-title"/>
+               <p xml:id="hsvhsv-g43310-d1e298">
+                  <lb ed="#P" n="31"/>Cap. III. De susceptione cineris.
+</p>
+               <p xml:id="hsvhsv-g43310-d1e303">
+                  <lb ed="#P" n="32"/>lesiastica institutio habet, ut per singulos
+<lb ed="#P" n="33"/>1 in initio quadragesime, quod caput jejunii
+<lb ed="#P" n="34"/>r, quarta feria quando jejunium votivum
+<lb ed="#P" n="35"/>jitur, cinis consecratus capitibus fidelium
+<lb ed="#P" n="36"/>1atur scilicet ob recordationem mortalitatis
+<lb ed="#P" n="37"/>», ut mortalis tunc homo qui ex habitu 
+pce<lb ed="#P" break="no" n="38"/>ds et recordatione et peccatorum suorum
+<lb ed="#P" n="39"/>votionem compungitur, etiam per 
+merno<lb ed="#P" break="no" n="40"/>conditionis suae humilietur. Propter quod
+<lb ed="#P" n="41"/>itur :Memento quia cinis es, et in cinerum
+<lb ed="#P" n="42"/>teris (Gen. m).
+</p>
+            </div>
+            <div xml:id="hsvhsv-g43310-Dd1e330">
+               <head xml:id="hsvhsv-g43310-Hd1e332">Capitulum 4</head>
+               <head xml:id="hsvhsv-g43310-Hd1e334" type="question-title"/>
+               <p xml:id="hsvhsv-g43310-d1e336">
+                  <lb ed="#P" n="43"/>IV. De ramis palmarum et de frondibus
+<lb ed="#P" n="44"/>benedicendis.
+</p>
+               <p xml:id="hsvhsv-g43310-d1e343">
+                  <lb ed="#P" n="45"/>pet etiam ecclesiastica consuetudo utin Do«.
+<lb ed="#P" n="46"/>a quae proxima est ante solemnitatem 
+pas<lb ed="#P" break="no" n="47"/>m, rami palmarum et frondes arborum 
+bene<lb ed="#P" break="no" n="48"/>tur, et populo portandi distribuantur, in 
+figu<lb ed="#P" break="no" n="49"/>»rum qui domino Jesu eodem die 
+Jerosoly<lb ed="#P" break="no" n="50"/>ascendenti cum ramis palmarum et 
+frondi<lb ed="#P" break="no" n="51"/>rborum virentibus cantantes et laudantes
+<lb ed="#P" n="52"/>rerunt (Matth. xxi). In quo non solum 
+no<lb ed="#P" break="no" n="53"/>quod illi tunc corporaliter fecerunt 
+corpo<lb ed="#P" break="no" n="54"/>t faciendum proponitur, sed id potius quod
+<lb ed="#P" n="55"/>illo vel in isto corporali facto spiritualiter
+<lb ed="#P" n="56"/>ndum eignificatur. Palma quippe signum 
+vi<lb ed="#P" break="no" n="57"/>à est, rami autem virentesbona opera 
+signi<lb ed="#P" break="no" n="58"/>. Tunc igitur Christos cum ramis palmarum
+<lb ed="#P" n="59"/>ndibus occurimus laudantes quando ipsum
+<lb ed="#P" n="60"/>s triumphatorem bonis operibus et digna
+<lb ed="#P" n="61"/>irum actione laudamus.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g43310-Dd1e383">
+               <head xml:id="hsvhsv-g43310-Hd1e385">Capitulum 5</head>
+               <head xml:id="hsvhsv-g43310-Hd1e387" type="question-title"/>
+               <p xml:id="hsvhsv-g43310-d1e389">
+                  <cb ed="#P" n="b"/>
+                  <lb ed="#P" n="62"/>Cap. V. Decereo qui in sancto Sabbato 
+benedici<lb ed="#P" break="no" n="63"/>tur, et de agnis qui benedicuntur in pascha.
+</p>
+               <p xml:id="hsvhsv-g43310-d1e398">
+                  <name xml:id="hsvhsv-g43310-Nd1e400">Zozimus papa</name> constituit cereum magnumin 
+Sab<lb ed="#P" break="no" n="64"/>bato sancto paschzs benedici, quem diaconus 
+ac<lb ed="#P" break="no" n="65"/>cepta benedictione a saeerdote benedicit. Hic 
+ce<lb ed="#P" break="no" n="66"/>reus Christum designat. In cera humanitatem,
+<lb ed="#P" n="67"/>in igne divinitatem. Qui catechumenos ad 
+bap<lb ed="#P" break="no" n="68"/>tistmum precedit illuminans, sicutolim columna
+<lb ed="#P" n="69"/>ignis filios Israel mare Rubrum transeuntes 
+pra<lb ed="#P" break="no" n="70"/>cessit, perignem illuminans, et obumbrans per
+<lb ed="#P" n="71"/>nubem (Ezod. x1v). Sub eadem figura juxta 
+con<lb ed="#P" break="no" n="72"/>suetudinem antiquam in die paschali in Ecclesia
+<lb ed="#P" n="73"/>Romana agni cerei benedicuntur, et populo 
+dis<lb ed="#P" break="no" n="74"/>tribuuntur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g43310-Dd1e428">
+               <head xml:id="hsvhsv-g43310-Hd1e430">Capitulum 6</head>
+               <head xml:id="hsvhsv-g43310-Hd1e432" type="question-title"/>
+               <p xml:id="hsvhsv-g43310-d1e434">
+                  <lb ed="#P" n="75"/>Cap. VI. De signis quorum sonitu fideles in
+<lb ed="#P" n="76"/>wnum convocantur.
+</p>
+               <p xml:id="hsvhsv-g43310-d1e441">
+                  <lb ed="#P" n="77"/>Signorum usus a veteri Testamento assumptus
+<lb ed="#P" n="78"/>est, ubi tubs argente a Domino ductiles fieri 
+pre<lb ed="#P" break="no" n="79"/>cipiuntur quibus multitudo populi convocari 
+de<lb ed="#P" break="no" n="80"/>buisset. Ad similitudinem harum tubarum signa
+<lb ed="#P" n="81"/>ex metallo :ris in Ecclesia facta sunt ad corda
+<lb ed="#P" n="82"/>fidelium excitanda, ut per ea signum deturquando
+<lb ed="#P" n="83"/>debeant in unum convenire (Num. x). Vasa ista
+<lb ed="#P" n="84"/>metallina oro predicantium significant. Plectra
+<lb ed="#P" n="85"/>ferrea quointerius tunduntur, ut sonum emittant,
+<lb ed="#P" n="86"/>lingues sunt eorumdem. Funis autem mensura
+<lb ed="#P" n="87"/>vitae est, ét conversationis modus qui in 
+Scriptu<lb ed="#P" break="no" n="88"/>ra proponitur. Funis manu tenetur, quando 
+scrip<lb ed="#P" break="no" n="89"/>tura opere adimpletur. Funem sursum sequitur,
+<lb ed="#P" n="90"/>qui ductu Scripture sacre ad bona elevatur. 
+Fu<lb ed="#P" break="no" n="91"/>nem deorsum trahit qui eadem docente quantum
+<lb ed="#P" n="92"/>in malis pressus jaceatagnoscit. Iste aptus est 
+po<lb ed="#P" break="no" n="93"/>pulum Deiin unum convocare;qui et elevatus 
+ope<lb ed="#P" break="no" n="94"/>re exempla bonitatis ostendit, et inclinatus 
+humi<lb ed="#P" break="no" n="95"/>litate infirmitatem suam veraciter agnoscit. 
+Sig<lb ed="#P" break="no" n="96"/>na ergoevangelica durabiliora sunt, et longius
+<lb ed="#P" n="97"/>audiuntur quam tub legis, quia vox Veteris 
+Tes<lb ed="#P" break="no" n="98"/>tamenti ad tempusJudsistantum insinuit. Sonus
+<lb ed="#P" n="99"/>autem evangelice praedicationis in omnes gentes
+<lb ed="#P" n="100"/>ad fines orbis terrarum exivitet usque in finem
+<lb ed="#P" n="101"/>steculi non cessabit.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g43310-Dd1e499">
+               <head xml:id="hsvhsv-g43310-Hd1e501">Capitulum 7</head>
+               <head xml:id="hsvhsv-g43310-Hd1e503" type="question-title"/>
+               <p xml:id="hsvhsv-g43310-d1e505">
+                  <lb ed="#P" n="102"/>Cap. VII. De cortinis.
+</p>
+               <p xml:id="hsvhsv-g43310-d1e510">
+                  <lb ed="#P" n="103"/>Cortina quae ante sancta, id est inter populum
+<lb ed="#P" n="104"/>et clerum pendet velamen litters signiflcat, per
+<lb ed="#P" n="105"/>quod iis qui sub lege erant veritas adhuc 
+Evan<lb ed="#P" break="no" n="106"/>gelii tegebatur. Cortina illa quae inter sancta et
+<lb ed="#P" n="107"/>Sancta sanctorum, hoc est inter clerum et 
+sanctua<lb ed="#P" break="no" n="108"/>rium suspensa est, significat velamen mortalis 
+na<lb ed="#P" break="no" n="109"/>ture ; per quod a nobis etiam eub gratia positis
+<lb ed="#P" n="110"/>adhuc secreta coelestia absconduntur. Primum
+<lb ed="#P" n="111"/>velamen est quod in morte Christi scissum  
+legi<lb ed="#P" break="no" n="112"/>tur (Matth. xxvir; Marc. xv). Secundum 
+vela<lb ed="#P" break="no" n="113"/>Ten usque ad tempus resurrectionis non 
+aufere<lb ed="#P" break="no" n="114"/>tur. Propter hoc in tempore Quadragesimge qum
+<lb ed="#P" n="115"/>vitam presentem signiflcat, unum tantum 
+vela<lb ed="#P" break="no" n="116"/>men inter nos et Sancta sanctorum oppanditur,
+<lb ed="#P" n="117"/>quod usque addiem resurrectionis non auferetur;
+<lb ed="#P" n="118"/>quia nunc littera quidem revelata est, sed 
+mortali<lb ed="#P" break="no" n="119"/>tas nondum ablata, quae tamen omnis in futuro e
+<lb ed="#P" n="120"/>medio tollenda erit, cum mortale hoc 
+immortali<lb ed="#P" break="no" n="121"/>tatem et corruptibile incorruptionem induerit.
+<lb ed="#P" n="122"/>Tunc quippe revelata facie ingrediemur vel potius
+<!-- 156.png.txt -->
+<pb ed="#P" n="238"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>egrediemur ad gloriam Domini contemplandam, 
+<lb ed="#P" n="2"/>ut cum quem nunc per solam fidem agnoscimus,
+<lb ed="#P" n="3"/>facie ad faciem videndo sicuti est agnoscamus.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g43310-Dd1e570">
+               <head xml:id="hsvhsv-g43310-Hd1e572">Capitulum 8</head>
+               <head xml:id="hsvhsv-g43310-Hd1e574" type="question-title"/>
+               <p xml:id="hsvhsv-g43310-d1e576">
+                  <lb ed="#P" n="4"/>Cap. VIII. De aliis sacramentis qua in. 
+fac<lb ed="#P" break="no" n="5"/>tis constant.
+</p>
+               <p xml:id="hsvhsv-g43310-d1e583">
+                  <lb ed="#P" n="6"/>Multa sunt alia Ecclesi sacramenta rebus vel
+<lb ed="#P" n="7"/>factis expressa, qute omnia hic enumerari non
+<lb ed="#P" n="8"/>possunt ; multa enim sunt, et ideo praesentis 
+ger<lb ed="#P" break="no" n="9"/>monis brevitas ea non capit. Insufflatio in 
+exor<lb ed="#P" break="no" n="10"/>cizatione, virtutem Spiritus sanctis significat, qua.
+<lb ed="#P" n="11"/>veniente fugatur et subruitur spiritus malignus.
+<lb ed="#P" n="12"/>Sicut scriptum est : Flavit spiritus tuus 
+etope<lb ed="#P" break="no" n="13"/>ruit eos mare ; submersi sunt quasi plumbum.
+<lb ed="#P" n="14"/>dn aquis vehementibus (Exod. xv). Signaculum
+<lb ed="#P" n="15"/>crucis virtutem passionisChristi ostendit. Hocergo
+<lb ed="#P" n="16"/>quando fronte imprimitur, Christianus munitur.
+<lb ed="#P" n="17"/>Quando contra imminens periculum opponitur,
+<lb ed="#P" n="18"/>adversaria virtus fugatur. Primum ad arma, 
+se<lb ed="#P" break="no" n="19"/>eundum ad tela. Primum ad defensionem ; 
+se<lb ed="#P" break="no" n="20"/>cundum ad impugnationem. Tunsio pectoris 
+com<lb ed="#P" break="no" n="21"/>punetionem cordis designat. Pectus tunditur, ut
+<lb ed="#P" n="22"/>cogitationes vans et desideria prava de corde
+<lb ed="#P" n="23"/>pellantur. Inclinatio capitis, genuum curvatio,
+<lb ed="#P" n="24"/>sive prostratio, humilitatem et reverentiam, sive
+<lb ed="#P" n="25"/>etiam venise postulationem significant. Expansio
+<lb ed="#P" n="26"/>manuum charitatem et affectus boni 
+amplitudi<lb ed="#P" break="no" n="27"/>nem demoustrat.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g43310-Dd1e635">
+               <head xml:id="hsvhsv-g43310-Hd1e637">Capitulum 9</head>
+               <head xml:id="hsvhsv-g43310-Hd1e639" type="question-title"/>
+               <p xml:id="hsvhsv-g43310-d1e641">
+                  <lb ed="#P" n="28"/>Cap. IX. De his sacramentis qua verbis constant.
+</p>
+               <p xml:id="hsvhsv-g43310-d1e646">
+                  <lb ed="#P" n="29"/>Alia item sunt sacramenta in sola verborum
+<lb ed="#P" n="30"/>prolatione expressa, quae et ipsa variam 
+signifi<lb ed="#P" break="no" n="31"/>cationem ostendunt. Celestinus papa instituit, ut
+<lb ed="#P" n="32"/>ex psalmis David ante sacrificium antiphone 
+ca<lb ed="#P" break="no" n="33"/>nerentur, quem introitum dicimus. Collectas 
+di<lb ed="#P" break="no" n="34"/>versi composuerunt, praecipue Gelasius et 
+Gre<lb ed="#P" break="no" n="35"/>gorius. Dominus vobiscum (Ruth. n), ab 
+anti<lb ed="#P" break="no" n="36"/>quo usu assumptum est ; Booae messores suos 
+sa<lb ed="#P" break="no" n="37"/>lutans, hac salutatione usus est ; et propheta in
+<lb ed="#P" n="38"/>Paralipomenon Asa regem, et qui cum eo erant
+<lb ed="#P" n="39"/>salutat, dicens : Dominus vobiscum (II Paral.
+<lb ed="#P" n="40"/>xv). Primis temporibus ab epistola Pauli missa
+<lb ed="#P" n="41"/>incipiebatur, post quam evangelium sequebatur,
+<lb ed="#P" n="42"/>sicut nunchymnus angelicus qui ad officium 
+mis<lb ed="#P" break="no" n="43"/>sz: in solemnibus diebus recitatur, ab angelis 
+pri<lb ed="#P" break="no" n="44"/>mum decantatus legitur (Luc. 11) ;cui ea quae 
+ad<lb ed="#P" break="no" n="45"/>jecta sunt, à beato Hilario Pictaviensi addita 
+cre<lb ed="#P" break="no" n="46"/>duntur, a quo auctus est, et sicut. nunc canitur
+<lb ed="#P" n="47"/>consummatus. Symmachus autem papa in ordine
+<lb ed="#P" n="48"/>quinquageaimus tertius, instituit, ut hic hymnus
+<lb ed="#P" n="49"/>diebus Dominicis et in natalitiis martyrum in
+<lb ed="#P" n="50"/>ecclesia ad officium missc decantetur. 
+Responso<lb ed="#P" break="no" n="51"/>rium Itali tradiderunt, quod operationem et 
+vi<lb ed="#P" break="no" n="52"/>tam activam per asperitatem cantus significant.
+<lb ed="#P" n="53"/>Alleluia, leetitiam signat. Per jubilum in quo 
+fi<lb ed="#P" break="no" n="54"/>nitur, ineffabile gaudium in fine venturum 
+expri<lb ed="#P" break="no" n="55"/>mitur ; Tractus aliquoties tribulationem 
+signifi<lb ed="#P" break="no" n="56"/>cat, ut De profundis, Commovisti. Aliquando le
+<lb ed="#P" n="57"/>titiam, ut Jubilate, Laudate. Credo in unum
+<lb ed="#P" n="58"/>Deum, censum quinquaginta Patres in 
+Constan<lb ed="#P" break="no" n="59"/>tinopolitano concilio contra heresim Macedonii
+<lb ed="#P" n="60"/>ejusdem urbis episcopi, qui Spiritum sanctum
+<lb ed="#P" n="61"/>creaturam asseruit, composuerunt. Sixtus papa
+<lb ed="#P" n="62"/>instituit ut ante consecrationem post hymnum
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>Sanctus, sanctus, sanctus cantaretar, quae trina
+<lb ed="#P" n="64"/>repetitio Trinitatis est confessio. Secreta vocatur
+<lb ed="#P" n="65"/>quia secreto dicitur, ne villescat. Olim alta voce 
+di<lb ed="#P" break="no" n="66"/>cebatur ; sed legitur quod pastores dum illam usu
+<lb ed="#P" n="67"/>quotidiano audiendi cognitam in agro 
+decanta<lb ed="#P" break="no" n="68"/>rent, divinitus percussisunt, unde et consuetudo
+<lb ed="#P" n="69"/>mutata putatur. Papa Pelagius docet ab universi
+<lb ed="#P" n="70"/>orbiscommunione separatos esse, qui qualibet
+<lb ed="#P" n="71"/>dissentione inter sacra missarum mysteria 
+apos<lb ed="#P" break="no" n="72"/>tolici pontificis memoriam secundum 
+consuetudi<lb ed="#P" break="no" n="73"/>nem frequentant. Te igitur in primis, hanc 
+ob<lb ed="#P" break="no" n="74"/>secrationem et consecrationem sanctus Gelasius
+<lb ed="#P" n="75"/>papa ex majori parte composuit. Beatus 
+Grego<lb ed="#P" break="no" n="76"/>rius addidit, diesque nostros in tua pace 
+dis<lb ed="#P" break="no" n="77"/>ponas, et orationem Dominicam censuit super
+<lb ed="#P" n="78"/>B corpus Christi recitari, sicutin vita illius legitur.
+<lb ed="#P" n="79"/>Qui pridie quam pateretur, usque in mei 
+me<lb ed="#P" break="no" n="80"/>moriam facietis, Apostoli in usu habuerunt, et
+<lb ed="#P" n="81"/>in his verbis corporis Christi sacramentum 
+cele<lb ed="#P" break="no" n="82"/>braverunt. Alii Alexandrum papam hsc 
+addidis<lb ed="#P" break="no" n="83"/>se ferunt. Leo papa constituit intra actionem 
+di<lb ed="#P" break="no" n="84"/>cere, sanctum sacrificium immaculatam hostiam.
+<lb ed="#P" n="85"/>Felix papa constituit supra memerias martyrum
+<lb ed="#P" n="86"/>missas celebrari. Gregorius papaconstituit in 
+ca<lb ed="#P" break="no" n="87"/>none dici : Quorum solemnitates hodie in 
+cons<lb ed="#P" break="no" n="88"/>pectu tua majestatis celebratur : Domine Deus
+<lb ed="#P" n="89"/>noster, in. toto orbe terrarum, intra quorum
+<lb ed="#P" n="90"/>nos consortium. Sergius papa constituit, ut 
+Ag<lb ed="#P" break="no" n="91"/>nus Dei infractione Dominici corporis 
+cantare<lb ed="#P" break="no" n="92"/>tur. Innocentius papa ad Decentium : « Pacem
+<lb ed="#P" n="93"/>asseris ante confecta mysteria quibusdam 
+popu<lb ed="#P" break="no" n="94"/>lus impertiri, vel sibi inter se sacerdotes tradere,
+<lb ed="#P" n="95"/>cum praeter omnia qua aperire non debeo paxsit
+<lb ed="#P" n="96"/>necessaria indicenda per quam constet populum
+<lb ed="#P" n="97"/>ad omnia qua in mysteriis aguntur, atque in 
+Ec<lb ed="#P" break="no" n="98"/>clesia celebrantur, prabuisse consensum, ac 
+fini<lb ed="#P" break="no" n="99"/>ta esse, pacis concludentes signaculo 
+demonstren<lb ed="#P" break="no" n="100"/>tur. » Gloria et honor Patri et Filio et Spiritui
+<lb ed="#P" n="101"/>sancto in secula. seculorum. Amen. Trecenti
+<lb ed="#P" n="102"/>decem et octo episcopi in Niczena synodo 
+compo<lb ed="#P" break="no" n="103"/>suerunt, contra heresim Arii, qui Filium Patreet.
+<lb ed="#P" n="104"/>Spiritum sanctum utroque minorem asserebat.
+<lb ed="#P" n="105"/>Hunc hymnum postea Hieronymus Damaso papae
+<lb ed="#P" n="106"/>de Griecoin Latinum transtulit, et addidit : Sicut
+<lb ed="#P" n="107"/>erat in principio et nunc et semper. 
+Paternos<lb ed="#P" break="no" n="108"/>Dp fer (Matth. vi) ipse Christus tradidit discipulis
+<lb ed="#P" n="109"/>suis. Unde specialiter oratio Dominica vocaturin
+<lb ed="#P" n="110"/>qua septem discretae petitionesseptiformis gratie
+<lb ed="#P" n="111"/>sacramentum sunt. Symbolum fidei, id est Credo
+<lb ed="#P" n="112"/>in Deum apostoli duodecim dictaverunt, totidem
+<lb ed="#P" n="113"/>sentetiis comprehensum, qui numerus 
+apostoli<lb ed="#P" break="no" n="114"/>cm fidei sacramentum constat. Quicunque vult
+<lb ed="#P" n="115"/>beatus Athanasius composuit. Et multi alii sancti
+<lb ed="#P" n="116"/>Patres alia atque aliain celebratione divini officii,
+<lb ed="#P" n="117"/>ad Ecclesi decorem et eruditionem fidelium ac
+<lb ed="#P" n="118"/>devotionem addiderunt.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g43310-Dd1e847">
+               <head xml:id="hsvhsv-g43310-Hd1e849">Capitulum 10</head>
+               <head xml:id="hsvhsv-g43310-Hd1e851" type="question-title"/>
+               <p xml:id="hsvhsv-g43310-d1e853">
+                  <lb ed="#P" n="119"/>Cap. X. De sacris et non sacramentis.
+</p>
+               <p xml:id="hsvhsv-g43310-d1e858">
+                  <lb ed="#P" n="120"/>Sunt alia quaedam in Ecclesia sacra, non tamen
+<lb ed="#P" n="121"/>sacramenta, quae et ipsa quoque quamvis 
+spiri<lb ed="#P" break="no" n="122"/>tualis gratiae effectum non habeant, neque 
+confe<lb ed="#P" break="no" n="123"/>rent sanctificationem, in hoc tamen sacra sunt,
+<lb ed="#P" n="124"/>quod ad sancta pertinent, et ilis cohsrent que
+<!-- 157.png.txt -->
+<pb ed="#P" n="239"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>et sanctitatem habent, et conferunt 
+sanctificatio<lb ed="#P" break="no" n="2"/>nem. Ejusmodi sunt omnia quae ad ornatum. 
+Ec<lb ed="#P" break="no" n="3"/>clesiarum pertinent sive quain possiessonibus 
+ea<lb ed="#P" break="no" n="4"/>rum continentur, quae in hoc quidem secundum
+<lb ed="#P" n="5"/>aliquid sancta sunt, quod in ministerium 
+sancto<lb ed="#P" break="no" n="6"/>rum tradita sunt et assignata. Ista ergo quasi
+<lb ed="#P" n="7"/>simpliciter sancta sunt; illa vero quibus ista 
+con<lb ed="#P" break="no" n="8"/>secrantur, Sancta sanctorum. Qui ergo sanctum
+<lb ed="#P" n="9"/>de sancto aufert, sacrilegium facie. Qui vero ipsa
+<lb ed="#P" n="10"/>sancta temerareaudet, abominationem committit,
+<lb ed="#P" n="11"/>Ejusmodi ergo sunt quae sancta dicuntur, vel 
+sanc<lb ed="#P" break="no" n="12"/>tis sanctificata, quecunque Ecclesia possidet in
+<lb ed="#P" n="13"/>substantia terrena, sive in pecunia sive in terra,
+<lb ed="#P" n="14"/>maxime in decimis, qui ab initio ita institute
+<lb ed="#P" n="15"/>sunt, ut nunquam a ministerio divino sive 
+illo<lb ed="#P" break="no" n="16"/>rum qui Deo serviunt et ministerio divino 
+depu<lb ed="#P" break="no" n="17"/>tati sunt usu sine peccato abalienari potuissent.
+<lb ed="#P" n="18"/>Heec quidem in principio ob formam sacramenti
+<lb ed="#P" n="19"/>magis institutae videntur. Postea autem sub lege
+<lb ed="#P" n="20"/>scripta sub lege gratiae, ad sustentationem 
+minis<lb ed="#P" break="no" n="21"/>trorum Dei sunt reservatze, ita utin 
+eisetdevotioof<lb ed="#P" break="no" n="22"/>ferentium mereretur, et accipientium necessitas
+<lb ed="#P" n="23"/>consolaretur. Heigitur nullomodo abusu 
+Eccle<lb ed="#P" break="no" n="24"/>siae abalienari possunt, neque in possessionem 
+lai<lb ed="#P" break="no" n="25"/>cam sive commutatione sive donatione transire. 
+Cee<lb ed="#P" break="no" n="26"/>tera corporalia quae sive in terris sive in pecunia
+<lb ed="#P" n="27"/>Ecclesia possidet, quandiu quidem ab illa licite
+<lb ed="#P" n="28"/>possidentur, auferri sine culpa non possunt;sed si
+<lb ed="#P" n="29"/>causa et ratio postulaverit, per commutationem
+<lb ed="#P" n="30"/>aut donationem, ad alienam possessionem transi-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="31"/>re possunt. Sicut ergo rapina est et violentia ejus
+<lb ed="#P" n="32"/>modi bona homini juste possedenti tollere, gic 
+sa<lb ed="#P" break="no" n="33"/>crilegium est et plusquam rapina ista Ecclesie
+<lb ed="#P" n="34"/>juste possidenti auferre. Decimas autem quoquo
+<lb ed="#P" n="35"/>modo usurpare autretinere sine sacrilegii culpa
+<lb ed="#P" n="36"/>non possunt;nisi soli ad quorum sustentationem 
+di<lb ed="#P" break="no" n="37"/>vina institutione ordinatae sunt. H:ec igitur 
+diffe<lb ed="#P" break="no" n="38"/>rentia est inter decimas et caeteras Ecclesie 
+pos<lb ed="#P" break="no" n="39"/>sessiones, quod decime et institutione et 
+posses<lb ed="#P" break="no" n="40"/>ione ad sacra pertinent; cstere autem 
+posses<lb ed="#P" break="no" n="41"/>siones ecclesiasticte ad sacra pertinent sola 
+pos<lb ed="#P" break="no" n="42"/>sessione. Alim ergo possessiones. Ecclesie
+<lb ed="#P" n="43"/>ad alienos possessores sine commutatione 
+ra<lb ed="#P" break="no" n="44"/>tionabili transferri non possunt. Decimsm 
+au<lb ed="#P" break="no" n="45"/>tem ab alienis omnino possideri non possunt. 
+Il<lb ed="#P" break="no" n="46"/>lae ergo non possunt auferri; iste non possunt
+<lb ed="#P" n="47"/>transferri. In illis sacrilegium est si auferantur,
+<lb ed="#P" n="48"/>in istis si transferantur. Decimarum autem et 
+cz<lb ed="#P" break="no" n="49"/>terarum passionum ecclesiasticarum episcopi 
+dis<lb ed="#P" break="no" n="50"/>pensatores esse debent, ut eas iis qui Ecclesie
+<lb ed="#P" n="51"/>deserviunt rationabiliter distribant, ex quibus si
+<lb ed="#P" n="52"/>quid forte aliquando ad sustentationem eorum,
+<lb ed="#P" n="53"/>qui in ecclesiasticis officiis non deserviunt, sed
+<lb ed="#P" n="54"/>tamen in secreta divino servito mancipati sunt,
+<lb ed="#P" n="55"/>accommodatur, indulgentia est non debitum, ita
+<lb ed="#P" n="56"/>tamen ut hoc ipsum de portione sit pauperum,
+<lb ed="#P" n="57"/>non de sustentatione clericorum. In eo enim quod
+<lb ed="#P" n="58"/>ministro debetur, dignus est operarius mercede
+<lb ed="#P" n="59"/>8ua, nec bene sustentat egentem, qui fraudat 
+ser<lb ed="#P" break="no" n="60"/>vientem.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

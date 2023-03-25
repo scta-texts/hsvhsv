@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pars 10</title>
+            <author ref="#HughOfStVictor">Hugh of St. Victor</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Pars 10</title>
+               <date when="2023-03-25">March 25, 2023</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-bnhupl">Patrologia Latina, v. 176</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2023-03-25" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="239"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="hsvhsv-g44223"><!-- l2-p10 -->
+            <head xml:id="hsvhsv-g44223-Hd1e101">Pars 10</head>
+            <head xml:id="hsvhsv-g44223-Hd1e103" type="question-title">
+De simonia
+</head>
+            <p xml:id="hsvhsv-g44223-d1e106">
+               <cb ed="#P" n="c"/>
+               <lb ed="#P" n="61"/>PARS DECIMA.
+<lb ed="#P" n="62"/>DE SIMONIA.
+</p>
+            <div xml:id="hsvhsv-g44223-Dd1e115">
+               <head xml:id="hsvhsv-g44223-Hd1e117">Capitulum 1</head>
+               <head xml:id="hsvhsv-g44223-Hd1e119" type="question-title"/>
+               <p xml:id="hsvhsv-g44223-d1e121">
+                  <lb ed="#P" n="63"/>Cap. I. Unde dicitur, et quid est simonia.
+</p>
+               <p xml:id="hsvhsv-g44223-d1e126">
+                  <lb ed="#P" n="64"/>Simonia a Simone Mago nomen accepit, qui 
+hu<lb ed="#P" break="no" n="65"/>jus mali exemplum exitiale posteris reliquit. Est
+<lb ed="#P" n="66"/>enim simonia gratiam spiritualem pecunia 
+com<lb ed="#P" break="no" n="67"/>parare velle. Quod cüm fit, et ille utique qui 
+ven<lb ed="#P" break="no" n="68"/>dit, et ille qui emit eadem sententia feriuntur, quia
+<lb ed="#P" n="69"/>ejusdem reatus culpe obnoxii comprobantur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g44223-Dd1e143">
+               <head xml:id="hsvhsv-g44223-Hd1e145">Capitulum 2</head>
+               <head xml:id="hsvhsv-g44223-Hd1e147" type="question-title"/>
+               <p xml:id="hsvhsv-g44223-d1e149">
+                  <lb ed="#P" n="70"/>Cap. II. De auctoribus simonia.
+</p>
+               <p xml:id="hsvhsv-g44223-d1e154">
+                  <lb ed="#P" n="71"/>Simoniace heresis contagium jam olim in 
+Ba<lb ed="#P" break="no" n="72"/>laam pullulavit, qui divinationis pretio proposito
+<lb ed="#P" n="73"/>ad maledicendum populum Dei pefrexit (Num
+<lb ed="#P" n="74"/>22). Dehinc hujus hiresis duo leguntur auctores
+<lb ed="#P" n="75"/>pestilentes emersisse: alter sub prophetica, alter
+<lb ed="#P" n="76"/>sub apostolica doctrina. Prius Giezi magister esse
+<lb ed="#P" n="77"/>vendentium (IV Reg. v), deinde Simon auctor 
+vi<lb ed="#P" break="no" n="78"/>detur emptorum (Act. vr), Horum autem, ut 
+<lb ed="#P" n="79"/>dictum est, sectatores, sicut. non sunt in errore
+<lb ed="#P" n="80"/>diversi, ita nec in damnatione discreti.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g44223-Dd1e180">
+               <head xml:id="hsvhsv-g44223-Hd1e182">Capitulum 3</head>
+               <head xml:id="hsvhsv-g44223-Hd1e184" type="question-title"/>
+               <p xml:id="hsvhsv-g44223-d1e186">
+                  <lb ed="#P" n="81"/>Cap. III. De iis qui spiritualia venaunt aut
+<lb ed="#P" n="82"/>emunt.
+</p>
+               <p xml:id="hsvhsv-g44223-d1e193">
+                  <lb ed="#P" n="83"/>Qui ordines sacros emunt vel vendunt convicti
+<lb ed="#P" n="84"/>sinemisericordia deponuntur, quia profecto sacris
+<lb ed="#P" n="85"/>ordinibus indigni sunt, qui in ipsis sacris ordini-
+<cb ed="#P" n="d"/>
+                  <lb ed="#P" n="86"/>bus peccasse comprobantur. Ab hrereticis ad 
+uni<lb ed="#P" break="no" n="87"/>tatem Ecclesim venientes aliquoties legimus in
+<lb ed="#P" n="88"/>suos ordines receptos. Alii siquidem heretici in
+<lb ed="#P" n="89"/>suscipiendis ordinibus non errabant, sed alia
+<lb ed="#P" n="90"/>causa erat atque doctrina quae eorum fidem 
+impe<lb ed="#P" break="no" n="91"/>diebat. Simoniacorum vero hsresis et peccatum,
+<lb ed="#P" n="92"/>ipsa ordinatio eorum est. Merito igitur in suos
+<lb ed="#P" n="93"/>ordines non recipiuntur, quoniam in ipsos suos
+<lb ed="#P" n="94"/>ordines peccaverunt. Sciendum vero est quod qui
+<lb ed="#P" n="95"/>a simonincis nescientes ordinantur, quia eos 
+ca<lb ed="#P" break="no" n="96"/>tholicos non simoniacos putant ; spiritualem
+<lb ed="#P" n="97"/>gratiam per ministerium illorum accipiunt, si
+<lb ed="#P" n="98"/>erroris illorum (cujus conscii non fuerant) 
+parti<lb ed="#P" break="no" n="99"/>cipes non flunt. Qui autem pro gratia spirituali
+<lb ed="#P" n="100"/>comparanda pecuniam offerunt, etiam a catholicis
+<lb ed="#P" n="101"/>ordinati simoniaci existunt. Sed dici mihi. 
+Quo<lb ed="#P" break="no" n="102"/>modo a simoniaco ordinatus per impositionem
+<lb ed="#P" n="103"/>manus illius donum sancti Spiritus accipere 
+po<lb ed="#P" break="no" n="104"/>test ? Quomodo simoniacus potest dare quod non
+<lb ed="#P" n="105"/>habet, etiam si catholicus putetur? Audi quomodo.
+<lb ed="#P" n="106"/>Sicut adulter, sicut fornicator, sicut ebriosus, aut
+<lb ed="#P" n="107"/>avarus dare potest quod non habet : ita 
+simonia<lb ed="#P" break="no" n="108"/>eusquod non habet dare potest; et ver dare potest
+<!-- 158.png.txt -->
+<pb ed="#P" n="240"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>ils qui digni sunt accipere. Per ministerium enim 
+<lb ed="#P" n="2"/>illius datur, non per meritum. Ideo iis qui erroris
+<lb ed="#P" n="3"/>illius participes non sunt, et culpae conscii non
+<lb ed="#P" n="4"/>existunt, gratia per illum datur, ab illo non datur.
+<lb ed="#P" n="5"/>Minister malus est largitor, bonus tamen minister
+<lb ed="#P" n="6"/>est. Sicut hereticus sive alius quilibet malus
+<lb ed="#P" n="7"/>minister, malus est, et tamen minister est. Malus
+<lb ed="#P" n="8"/>ih eo quod errorem vel malitiam habet ; rninister
+<lb ed="#P" n="9"/>in eo quod habet officium. Sic simoniacus : nam,
+<lb ed="#P" n="10"/>et ipse hireticus est, etsi non fide, tamen opere:
+<lb ed="#P" n="11"/>minister malus est, et tamen minister est: Malus
+<lb ed="#P" n="12"/>in eo quod simoniacus est, minister in eo quod in
+<lb ed="#P" n="13"/>officium ordinatus est ; malus in eo quod pretium
+<lb ed="#P" n="14"/>dedit, minister in eo quod ordinem et officium
+<lb ed="#P" n="15"/>accepit. Sed dicis mihi : Quomodo ordinem aut
+<lb ed="#P" n="16"/>officium accipere potuit qui pretium dedit? Audi
+<lb ed="#P" n="17"/>quomodo. Ad perniciem, ad perditionem. Officium
+<lb ed="#P" n="18"/>emere potuit, gratiam accipere non potuit. Tamen
+<lb ed="#P" n="19"/>quia officium accepit et habet, per ministerium
+<lb ed="#P" n="20"/>ejus bonis quidem gratia et officium datur. A
+<lb ed="#P" n="21"/>nalis vero non gratia sed officium solum 
+accipi<lb ed="#P" break="no" n="22"/>tur, et tamen accipitur quamvis ad perniciem
+<lb ed="#P" n="23"/>ejus qui male accipit, sicut ad perniciem ejus qui
+<lb ed="#P" n="24"/>male dedit.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g44223-Dd1e314">
+               <head xml:id="hsvhsv-g44223-Hd1e316">Capitulum 4</head>
+               <head xml:id="hsvhsv-g44223-Hd1e318" type="question-title"/>
+               <p xml:id="hsvhsv-g44223-d1e320">
+                  <lb ed="#P" n="25"/>Cap. IV. De iis qui corporalia in Ecclesia 
+com<lb ed="#P" break="no" n="26"/>parando cum eis et in eis spiritualia emunt.
+</p>
+               <p xml:id="hsvhsv-g44223-d1e327">
+                  <lb ed="#P" n="27"/>Sunt autem quaedam in Ecclesia quae dum 
+pre<lb ed="#P" break="no" n="28"/>tio comparantur, cum perceptione corporalis
+<lb ed="#P" n="29"/>beneficii, participatio etiam spiritualis dignitatis
+<lb ed="#P" n="30"/>accipitur. Ubi profecto quisquis alterum vendere
+<lb ed="#P" n="31"/>aut emere cognoscitur, neutrum invenditum aut
+<lb ed="#P" n="32"/>inemptum reliquisse comprobatur. Sed dicis mihi:
+<lb ed="#P" n="33"/>Quomodo hocesse potest? Ego in Ecclesia victum
+<lb ed="#P" n="34"/>et vestitum emi, Ecclesiam non eri. Stipem emi,
+<lb ed="#P" n="35"/>prebendam emi, corporalia tantum emi, 
+spiritua<lb ed="#P" break="no" n="36"/>lia nihil emi, aut emere volui. Dic ergo mihi :
+<lb ed="#P" n="37"/>Quis nomen tuum inter nomina fratrum ascripsit?
+<lb ed="#P" n="38"/>Quis tibi in choro, in capitulo locum assignavit?
+<lb ed="#P" n="39"/>Si h;c non emisti inde hic habes? Quis tibi haec
+<lb ed="#P" n="40"/>dedit? Sed hiec, inquis, gratis accepi, caetera emi.
+<lb ed="#P" n="41"/>Hsc gratis data sunt. Bene dicis. Ovem emisti,
+<lb ed="#P" n="42"/>et lanam non emisti, sed gratis accepisti. Tamen
+<lb ed="#P" n="43"/>8i ovem non emisses, lanam non habuisses. Pro
+<lb ed="#P" n="44"/>arbore pretium dedisti, ut ejus fructum gratis
+<lb ed="#P" n="45"/>manducares. Satis astute ingredi existimasti
+<lb ed="#P" n="46"/>commento ridiculo. Vide ergo quomodo non emeris
+<lb ed="#P" n="47"/>quod non habuisses, si pretium non dedisses. Aut
+<lb ed="#P" n="48"/>te hoc pariter emisse confitere, aut si non emisti,
+<lb ed="#P" n="49"/>noli tollere quod tuum non est. Sed dicis mihi
+<lb ed="#P" n="50"/>iterum : Quid ergo ? Non possum ab Ecclesia sti-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="51"/>pem emere, et corporalis sustentationis impensam
+<lb ed="#P" n="52"/>pretio sine simonis culpa comparare?Ecce habeo
+<lb ed="#P" n="53"/>predia mea aut pecuniam meam, qua sustentari
+<lb ed="#P" n="54"/>possem, et vivere ; sed forte timeo violentiam
+<lb ed="#P" n="55"/>principum, aut fraudem familiarium sive aliud
+<lb ed="#P" n="56"/>quodcunque. Forte etiam defectum «etatis aut
+<lb ed="#P" n="57"/>imbecillitatem virium mearum considero. Video
+<lb ed="#P" n="58"/>quia non possum ipse sicut expedit res meas 
+dis<lb ed="#P" break="no" n="59"/>ponere, et propriis utilitatibus deservire. Venio ad
+<lb ed="#P" n="60"/>ecclesiam, commendo ei res meas, et. vite mem
+<lb ed="#P" n="61"/>providentiam committo, et ut alat me, et sustentet,
+<lb ed="#P" n="62"/>et de meo mihi subsidium ministret, et ne forte
+<lb ed="#P" n="63"/>frauder in aliquo, expeto certam mihi et 
+deter<lb ed="#P" break="no" n="64"/>minatam pensam constitui, quantum scilicet
+<lb ed="#P" n="65"/>accipit unus aliquis eorum qui ecclesim 
+deser<lb ed="#P" break="no" n="66"/>B viunt, qui in titulo Ecclesie conscripti sunt.
+<lb ed="#P" n="67"/>Probendám peto ad quotidiani victus usum, icut.
+<lb ed="#P" n="68"/>habet alius qui in ecclesia est, qui de ecclesia 
+vi<lb ed="#P" break="no" n="69"/>vit, et ecclesi: servit. Dat mihi ecclesia et 
+con<lb ed="#P" break="no" n="70"/>cedit illud, mea accipiens et sua reddens, imo
+<lb ed="#P" n="71"/>mea non sua mihi dispensans. Quid igitur inde
+<lb ed="#P" n="72"/>judicandum sentiam inquiris. Ego tibi breviter
+<lb ed="#P" n="73"/>respondeo : quod si Ecclesiam in vita tua 
+dispen<lb ed="#P" break="no" n="74"/>gatricem facisaut post mortem hzredem relinquis,
+<lb ed="#P" n="75"/>ego prohibere nec volo, nee possumi. Et si de tuo
+<lb ed="#P" n="76"/>te pascit aut pro tuo, providentia est non culpa ;
+<lb ed="#P" n="77"/>necessitas non iniquitas. Sic interim ut aliud
+<lb ed="#P" n="78"/>non requiras nec accipias, corporalis tibi 
+neces<lb ed="#P" break="no" n="79"/>Situdo conceditur, commercium iniquitatis 
+ne<lb ed="#P" break="no" n="80"/>gatur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g44223-Dd1e450">
+               <head xml:id="hsvhsv-g44223-Hd1e452">Capitulum 5</head>
+               <head xml:id="hsvhsv-g44223-Hd1e454" type="question-title"/>
+               <p xml:id="hsvhsv-g44223-d1e456">
+                  <lb ed="#P" n="81"/>Cap. V. De eo quod sola corporalia venduntur.
+</p>
+               <p xml:id="hsvhsv-g44223-d1e461">
+                  <lb ed="#P" n="82"/>Contingit autem aliquando ut possessiones
+<lb ed="#P" n="83"/>Ecclesise vel quelibet alia ecclesiastica bona 
+cor<lb ed="#P" break="no" n="84"/>poralia per malos prelatos data vel vendita ab
+<lb ed="#P" n="85"/>usu Ecclesie alienantur. In quo genere crimen
+<lb ed="#P" n="86"/>Bimoniae esse non videtur, quamvis culpa gravis
+<lb ed="#P" n="87"/>non desit. Quanta enim iniquitas sit, manifestum
+<lb ed="#P" n="88"/>est eos qui ad aedificandas et custodiendas 
+eccle<lb ed="#P" break="no" n="89"/>sias positi sunt, destruetioni illarum et eorum quae
+<lb ed="#P" n="90"/>adillas pertinent dissipationi operam dare, 
+ma<lb ed="#P" break="no" n="91"/>xime si ea quae abalienantur talia sunt, quae ad
+<lb ed="#P" n="92"/>usus alienorum nunquam licite transire possunt,
+<lb ed="#P" n="93"/>sicut sunt decim: quae ab initio institute sunt ad
+<lb ed="#P" n="94"/>eorum tantum sustentationem qui tabernaculo
+<lb ed="#P" n="95"/>deserviunt. Haec igitur ad laicos transferre quid
+<lb ed="#P" n="96"/>aliud est, quam de sacro sacrum auferre ?: Sic
+<lb ed="#P" n="97"/>ergo si unicuique peccato nomen culpe 
+conve<lb ed="#P" break="no" n="98"/>niens datum fuerit, nihil mali fit in judicio
+<lb ed="#P" n="99"/>aequitatis.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

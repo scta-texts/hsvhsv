@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prologus</title>
+            <author ref="#HughOfStVictor">Hugh of St. Victor</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Prologus</title>
+               <date when="2023-03-25">March 25, 2023</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-bnhupl">Patrologia Latina, v. 176</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2023-03-25" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="87"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="hsvhsv-g10021"><!-- prol -->
+            <head xml:id="hsvhsv-g10021-Hd1e101">Prologus</head>
+            <p xml:id="hsvhsv-g10021-d1e103">
+<!-- 001.png.txt -->
+               <!--<pb ed="#P" n="87"/>
+               <cb ed="#P" n="a"/>-->
+                <!-- columns 173-174 -->
+               <lb ed="#P" n="10"/>DE SACRAMENTIS CHRISTIANA FIDEI
+<lb ed="#P" n="11"/>PRJEFATIUNCULA.
+</p>
+            <p xml:id="hsvhsv-g10021-d1e119">
+               <lb ed="#P" n="12"/>Librum de sacramentis Christianae fidei studio quorumdam scribere compulsus sum ; in quo 
+non<lb ed="#P" break="no" n="13"/>nulla quae antea sparsim dictaveram propterea quod iterato eadem stylo exprimere molestum vel
+<lb ed="#P" n="14"/>superfluum videbatur inserui. In quibus, si forte sermo simplicior colorem dictaminis servare non
+<lb ed="#P" n="15"/>potuerit, non multum interesse putavi. eadem veritate constanté. Hoc autem magis ne movet quod
+<lb ed="#P" n="16"/>cum haec eadem prius negligentius dictassem (utpote nondum adhuc futuri operis propositum
+<lb ed="#P" n="17"/>habens), passim transcribenda exposui: sufficere tunc arbitratus ojusmodi minima vel adnotata in
+<lb ed="#P" n="18"/>notitiam venire. Sed, quia postmodum eum eadem hujus operis textui insererem, quaedam in ipsis
+<lb ed="#P" n="19"/>mutare, quaedam vero adjicere vel detrahere ratto postulabat. Lectorem admonitum esse volo, ut 
+sicu<lb ed="#P" break="no" n="20"/>bi ea extra operis hujus seriem aliud aut aliter aliquid habentia invenerit, hanc diversitatis causam
+<lb ed="#P" n="21"/>esse sciat, et ai quid forte in eis emendandum fuerit, ad hujus operis formam componat. Sane hoc
+<lb ed="#P" n="22"/>opus in duos libros distinxi ; quatenus in tanta rerum multitudine et prolixitate incisio narrationis
+<lb ed="#P" n="23"/>legentibus teedium tolleret et simul utrumque scribere non valentibus aut divisim habere volentibus
+<lb ed="#P" n="24"/>commodiorem formam exhiberet.
+</p>
+            <p xml:id="hsvhsv-g10021-d1e150">
+               <lb ed="#P" n="25"/>HOC OPERE CONTENTA
+</p>
+            <p xml:id="hsvhsv-g10021-d1e155">
+               <lb ed="#P" n="26"/>Prologus et libri duo.
+<lb ed="#P" n="27"/>Primus liber a principio mundi usque ad Incarnationem Verbi narrationis seriem deducit.
+<lb ed="#P" n="28"/>Secundus liber ab Incarnatione Verbi usque ad finem et consummationem omnium ordine procedit.
+<lb ed="#P" n="29"/>Ilem primus liber duodecim clausulas sive partes complectitur.
+<lb ed="#P" n="30"/>Prima pars tractat de creatione et ponstitutione hujus sensibilis mundi.
+<lb ed="#P" n="31"/>Secunda de causa creationis humana et de primordialibus causis rerum omnium.
+<lb ed="#P" n="32"/>Tertia de cognitione Dei, qualiter ab initio manifestatus est et unus et trinus.
+<lb ed="#P" n="33"/>Quarta de voluntate Dei, et de diversis modis, quibus sacra Scriptura de voluntate Dei loqui consuevit.
+<lb ed="#P" n="34"/>Quinta de creatione angelorum, et confirmatione et lapsu, et de cateris qua ad ipsos pertinent.
+<lb ed="#P" n="35"/>Sesta de creatione hominis, ei de statu ejus ante peccatum.
+<lb ed="#P" n="36"/>Septima de lapsu.
+<lb ed="#P" n="37"/>Octava. de reparatione.
+<lb ed="#P" n="38"/>Nona de institutione sacramentorum.
+<lb ed="#P" n="39"/>Decima de fide.
+<lb ed="#P" n="40"/>Undecima de sacramentis naturalis legis.
+<lb ed="#P" n="41"/>Duodecima de sacramentis scripta legis.
+<lb ed="#P" n="42"/>Hujus libri capitula per singulas partes subter ordinavinus in hunc modum :
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

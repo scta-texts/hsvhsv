@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prologus</title>
+            <author ref="#HughOfStVictor">Hugh of St. Victor</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Prologus</title>
+               <date when="2023-03-25">March 25, 2023</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-bnhupl">Patrologia Latina, v. 176</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2023-03-25" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="185"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="hsvhsv-g28116"><!-- l2-prol -->
+            <head xml:id="hsvhsv-g28116-Hd1e101">Prologus</head>
+            <p xml:id="hsvhsv-g28116-d1e103">
+               <lb ed="#P" n="32"/>INCIPIT PROLOGUS SECUNDI LIBRI.
+</p>
+            <p xml:id="hsvhsv-g28116-d1e108">
+               <lb ed="#P" n="33"/>Magne sunt in Scripturis sacris spiritualium sensuum profunditates: sed quia non omnibus eadem
+<lb ed="#P" n="34"/>intelligendi gratia data est, habet sacrum eloquium qusdam in se quibus fidem simplicium pascit ;
+<lb ed="#P" n="35"/>quie quidem altioribus juncta unam veritatis regulam perficiunt. Propterea in sacri eloquii 
+tractatio<lb ed="#P" break="no" n="36"/>ne, non eadem intendendi forma ubique servanda est, quia altiora fidei sacramenta excellentiori 
+ser<lb ed="#P" break="no" n="37"/>mone et digno sanctis reverenter tractanda sunt ; minera autem sacramentorum divinorum 
+instru<lb ed="#P" break="no" n="38"/>menta, pro capacitate simplicium humiliori locutionis genere explananda, ut constet quod scriptum
+<lb ed="#P" n="39"/>est : In Ambriis aureis circeumamicta varietatibus (Psal. xri). Sicut enim sancta. electorum 
+Ec<lb ed="#P" break="no" n="40"/>clesia morum bonorum ac virtutum varietate pulchre adornatur, ita sacra Scriptura unde ipsa 
+Ec<lb ed="#P" break="no" n="41"/>clesia sancta vivendi formam sumit, in suo sermone pulchra varietate contexitur; in qua tamen 
+va<lb ed="#P" break="no" n="42"/>rietas ipsa apta est, ut schisma non generet ; et diversitas concors, ut adversitatem non pariat. 
+Ne<lb ed="#P" break="no" n="43"/>que enim in ea, magna modica despiciunt, neque rursus modica magnis associari indignata sunt,
+<lb ed="#P" n="44"/>Sed ornant se invicem in una veritate, quae propter veritatem placent omnia. Nemo igitur miretur si
+<lb ed="#P" n="45"/>post magna et inter magna fidei sacramenta, eorum quae in suo ordine inferiora videntur mentio fit,
+<lb ed="#P" n="46"/>quia se non obhorrent simul, quae in veritate unum sunt. Nam ipse Deus humiliari dignatus est, ad
+<lb ed="#P" n="47"/>humana descendens, ut hominem postmodum ad divina sublevaret.
+</p>
+            <p xml:id="hsvhsv-g28116-d1e143">
+               <cb ed="#P" n="d"/>
+               <lb ed="#P" n="48"/>LIBRI SECUNDI PARTES SUNT XVIII.
+</p>
+            <p xml:id="hsvhsv-g28116-d1e150">
+               <lb ed="#P" n="49"/>Prima pars tractat de incarnatione Verbi.
+<lb ed="#P" n="50"/>Secunda de unitate Ecclesia qua corpus est Christi.
+<lb ed="#P" n="51"/>Tertia de ecclesiasticis ordinibus.
+<lb ed="#P" n="52"/>Quarta de indumentis sacris.
+<lb ed="#P" n="53"/>Quinta de dedicatione Ecclesia.
+<lb ed="#P" n="54"/>Sexta de baptismo.
+<lb ed="#P" n="55"/>Septima de confirmatione.
+<lb ed="#P" n="56"/>Octava de corporis el sanguinis Christi sacramento.
+<lb ed="#P" n="57"/>Nona de minoribus sacramentis et sacris.
+<lb ed="#P" n="58"/>Decima de simonia.
+<lb ed="#P" n="59"/>Undecima de conjugio.
+<lb ed="#P" n="60"/>Duodecima de voti;
+<lb ed="#P" n="61"/>Tertia decirna de vitiis et virtutibus.
+<lb ed="#P" n="62"/>Quarta decima de confessione et poenitentia et remissione peccatorum.
+<lb ed="#P" n="63"/>Quinta decima de unctione infrmorum.
+<lb ed="#P" n="64"/>Decima sexta de fine heminis.
+<lb ed="#P" n="65"/>Decima septima de fine saculi.
+<lb ed="#P" n="66"/>Decima octava de statu futuri saeculi.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

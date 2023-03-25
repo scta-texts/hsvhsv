@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pars 7</title>
+            <author ref="#HughOfStVictor">Hugh of St. Victor</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Pars 7</title>
+               <date when="2023-03-25">March 25, 2023</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-bnhupl">Patrologia Latina, v. 176</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2023-03-25" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="230"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="hsvhsv-g41434"><!-- l2-p7 -->
+            <head xml:id="hsvhsv-g41434-Hd1e101">Pars 7</head>
+            <head xml:id="hsvhsv-g41434-Hd1e103" type="question-title">
+De confirmationis
+</head>
+            <p xml:id="hsvhsv-g41434-d1e106">
+               <cb ed="#P" n="c"/>
+               <lb ed="#P" n="78"/>PARS SEPTIMA.
+<lb ed="#P" n="79"/>DE CONFIRMATIONIS.
+</p>
+            <div xml:id="hsvhsv-g41434-Dd1e115">
+               <head xml:id="hsvhsv-g41434-Hd1e117">Capitulum 1</head>
+               <head xml:id="hsvhsv-g41434-Hd1e119" type="question-title"/>
+               <p xml:id="hsvhsv-g41434-d1e121">
+                  <cb ed="#P" n="d"/>
+                  <lb ed="#P" n="80"/>Cap. I. De chrismate et ejus usu
+</p>
+               <p xml:id="hsvhsv-g41434-d1e128">
+                  <lb ed="#P" n="81"/>Chrismatis unctionem jam ab antiquo in Veteri — 
+<lb ed="#P" n="82"/>Testamento institutamlegimus, qua tunc quidem 
+<lb ed="#P" n="83"/>reges solum et sacerdotes liniebantur. Quorum .. 
+<lb ed="#P" n="84"/>unctione singularis ille unctus prefigurabatur,  
+<lb ed="#P" n="85"/>quipre cunctisparticipibus suis unctus est (Heb.
+<lb ed="#P" n="86"/>1), ut cum illo participerant in nomine, qui 
+par<lb ed="#P" break="no" n="87"/>ticipes illius esse mererentur in unctione. A
+<lb ed="#P" n="88"/>chrismate enim Christus dicitur, et a Christo
+<lb ed="#P" n="89"/>Christianus nominatur. Propterea ex quo nomen
+<lb ed="#P" n="90"/>omnes communicare coeperunt omnes unctionem
+<lb ed="#P" n="91"/>accipere debuerunt, quia in Christo omnes 
+ge<lb ed="#P" break="no" n="92"/>nus electum sumus, et regale sacerdotium (I
+<lb ed="#P" n="93"/>Pet. 1). Chrisma ex oleo et balsamo conflcitur,
+<lb ed="#P" n="94"/>quia per oleum infusio gratie, per balsamum
+<lb ed="#P" n="95"/>odor bonae famae designatur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g41434-Dd1e164">
+               <head xml:id="hsvhsv-g41434-Hd1e166">Capitulum 2</head>
+               <head xml:id="hsvhsv-g41434-Hd1e168" type="question-title"/>
+               <p xml:id="hsvhsv-g41434-d1e170">
+                  <lb ed="#P" n="96"/>Cap. II. Quod impositio manus per solos 
+ponti<lb ed="#P" break="no" n="97"/>fices celebratur.
+</p>
+               <p xml:id="hsvhsv-g41434-d1e177">
+                  <lb ed="#P" n="98"/>Manus impositio quae usitato nomine confirma-
+<cb ed="#P" n="e"/>
+                  <lb ed="#P" n="99"/>tio vocatur, qua Christianus unctione chrismatis
+<lb ed="#P" n="100"/>per impositionem manus in fronte signatur ; 
+so<lb ed="#P" break="no" n="101"/>lis episcopis apostolorum vicariis debetur, ut
+<lb ed="#P" n="102"/>Christianum consignent, et spiritum Paracletum
+<lb ed="#P" n="103"/>tradant; sicut in primitiva Ecclesia Spiritum
+<lb ed="#P" n="104"/>sanctum per impositionem manuum dandi soli
+<lb ed="#P" n="105"/>apostoli potestatem habuisse leguntur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g41434-Dd1e201">
+               <head xml:id="hsvhsv-g41434-Hd1e203">Capitulum 3</head>
+               <head xml:id="hsvhsv-g41434-Hd1e205" type="question-title"/>
+               <p xml:id="hsvhsv-g41434-d1e207">
+                  <lb ed="#P" n="106"/>Cap. III. De eo quod <name xml:id="hsvhsv-g41434-Nd1e211">Sylvester papa</name> instituit ut
+<lb ed="#P" n="107"/>presbyter baptizatum chrismate in vertice liniat
+</p>
+               <p xml:id="hsvhsv-g41434-d1e216">
+                  <lb ed="#P" n="108"/>In gestis pontificalibus legitur quod Sylvester 
+pa<lb ed="#P" break="no" n="109"/>pa constituit ut baptizatum presbyterin vertice
+<lb ed="#P" n="110"/>chrismate liniat, propter occasionem quidem 
+mor<lb ed="#P" break="no" n="111"/>tis, ne forte per absentiam episcopi, et 
+difficul<lb ed="#P" break="no" n="112"/>tatem eum consequendi, sine manus 
+impositio<lb ed="#P" break="no" n="113"/>ne baptizatum ab hac vita migrare contingeret.
+<lb ed="#P" n="114"/>Quod quidem omnino periculosum esset. Quia 
+si<lb ed="#P" break="no" n="115"/>cutin baptismo remissio peccatorum. accipitur,
+<lb ed="#P" n="116"/>ita per manus impositionem Spiritus Paracletus
+<lb ed="#P" n="117"/>datur; illc gratia attribuitur ad remissionem
+<!-- 149.png.txt -->
+<pb ed="#P" n="231"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>peccatorum, hic gratia datur ad confirmationem. 
+<lb ed="#P" n="2"/>Quid autem prodest si a lapsu erigeris, nisf etiam.
+<lb ed="#P" n="3"/>ad standum confirmeris ? Propterea timendum
+<lb ed="#P" n="4"/>est iis qui per negligentiam amittunt episcopi
+<lb ed="#P" n="5"/>praesentiam, et non suscipiunt manus 
+impositio<lb ed="#P" break="no" n="6"/>nem, ne forte propterea damnentur ; quia 
+festi<lb ed="#P" break="no" n="7"/>nare debuerunt dum potuerunt. Propter eos enim
+<lb ed="#P" n="8"/>qui articulo temporis praeveniuntur, instituta est.
+<lb ed="#P" n="9"/>illa qua sacerdos baptizatum statim in vertice 
+li<lb ed="#P" break="no" n="10"/>nit, sacri chrismatis unctio, ut in hoc ipso 
+osten<lb ed="#P" break="no" n="11"/>datur quantum sacramentum istud necessarium
+<lb ed="#P" n="12"/>Sit ad salutem, cum tam sollicite universis 
+cave<lb ed="#P" break="no" n="13"/>tur ne forte sine ipso ab hac vita subtrahantur.
+<lb ed="#P" n="14"/>Manifestum est autem quod primis temporibus
+<lb ed="#P" n="15"/>omnis unctio chrismatis per solos pontifices 
+fie<lb ed="#P" break="no" n="16"/>bat. Sed et posteaquam institutum est, ut 
+bapti<lb ed="#P" break="no" n="17"/>zatum sarerdos in vertice liniat, consignatio 
+ta<lb ed="#P" break="no" n="18"/>Ten frontis solis pontificibus reservatur. Solus
+<lb ed="#P" n="19"/>enim pontifex frontem consignare et linire 
+po<lb ed="#P" break="no" n="20"/>test, et Spiritum sanctum tradere.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g41434-Dd1e291">
+               <head xml:id="hsvhsv-g41434-Hd1e293">Capitulum 4</head>
+               <head xml:id="hsvhsv-g41434-Hd1e295" type="question-title"/>
+               <p xml:id="hsvhsv-g41434-d1e297">
+                  <lb ed="#P" n="21"/>Cap. IV. Utrum majus sacramentum sit,
+<lb ed="#P" n="22"/>impositio manus an baptismus.
+</p>
+               <p xml:id="hsvhsv-g41434-d1e304">
+                  <lb ed="#P" n="23"/>De sacramento confirmationis, idestimpositionis
+<lb ed="#P" n="24"/>manuum etiam quzritür utrum majus sit 
+sacra<lb ed="#P" break="no" n="25"/>mentum quam baptismus. Sed sicut sacri canones
+<lb ed="#P" n="26"/>definiunt, utrumque magnum omnino est 
+sacra<lb ed="#P" break="no" n="27"/>mentum, et summa devotione pensandum. 
+Quam<lb ed="#P" break="no" n="28"/>vis tamen alterum, id est impositio manuum in
+<lb ed="#P" n="29"/>eo quod a solis pontificibus celebratur, majori
+<lb ed="#P" n="30"/>videatur reverentia colendum, sed hac duo ita
+<lb ed="#P" n="31"/>conjuncta sunt in operatione salutis, ut nisi 
+mor<lb ed="#P" break="no" n="32"/>te interveniente omnino separari non possint.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g41434-Dd1e329">
+               <head xml:id="hsvhsv-g41434-Hd1e331">Capitulum 5</head>
+               <head xml:id="hsvhsv-g41434-Hd1e333" type="question-title"/>
+               <p xml:id="hsvhsv-g41434-d1e335">
+                  <lb ed="#P" n="33"/>Cap. V. Quod non debeat. interari manus 
+im<lb ed="#P" break="no" n="34"/>positio sicut nec baptismus, et quod ajejunis
+<lb ed="#P" n="35"/>celebranda sit.
+</p>
+               <p xml:id="hsvhsv-g41434-d1e344">
+                  <lb ed="#P" n="36"/>De sacramento impositionis manuum definitum
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="37"/>est, ut nulla ratione teretur, sicut nec baptismus;
+<lb ed="#P" n="38"/>et si forte id factum fuerit gravi ponitentiaest 
+ple<lb ed="#P" break="no" n="39"/>ctendum. Hoc quoque statutum est, ut impositionis
+<lb ed="#P" n="40"/>manuum sacramentum, non nisi a jejunis, vel detur
+<lb ed="#P" n="41"/>vel accipiatur; filii qui accipiunt perfectae setatis
+<lb ed="#P" n="42"/>fuerint, ut mundi donum Spiritus sanctiaccipiant.
+<lb ed="#P" n="43"/>Sicut enim duobus temporibus in Pascha videlicet
+<lb ed="#P" n="44"/>et Pentecoste baptisma, quod illis solum 
+tempo<lb ed="#P" break="no" n="45"/>ribus generaliter celebrandum est, a jejunis 
+cele<lb ed="#P" break="no" n="46"/>brari debet, ita etiam donum Spiritus sancti per
+<lb ed="#P" n="47"/>manus impositionem a jejunis pontificibus et a 
+je<lb ed="#P" break="no" n="48"/>junis solum convenit celebrari, exceptis infirmis,
+<lb ed="#P" n="49"/>et morte periclitantibus.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g41434-Dd1e380">
+               <head xml:id="hsvhsv-g41434-Hd1e382">Capitulum 6</head>
+               <head xml:id="hsvhsv-g41434-Hd1e384" type="question-title"/>
+               <p xml:id="hsvhsv-g41434-d1e386">
+                  <lb ed="#P" n="50"/>CAP. VI. Quanto tempore debeant esse sub
+<lb ed="#P" n="51"/>disciplina chrismatis qui manus 
+impositio<lb ed="#P" break="no" n="52"/>nem acceperunt.
+</p>
+               <p xml:id="hsvhsv-g41434-d1e395">
+                  <lb ed="#P" n="53"/>Solent quidam quaerere quando tempore debeant
+<lb ed="#P" n="54"/>unctionem chrismatis observare in capite ut 
+sci<lb ed="#P" break="no" n="55"/>licet capita non lavent qui accipiunt manus 
+im<lb ed="#P" break="no" n="56"/>positionem, absque tempore baptisterii. Quibus
+<lb ed="#P" n="57"/>responderi potest conveniens esse, ut tanto 
+tem<lb ed="#P" break="no" n="58"/>pore adventusSpiritus sanctiapud unumquemque
+<lb ed="#P" n="59"/>qui eum accepit celebretur, quanto tempore 
+gene<lb ed="#P" break="no" n="60"/>raliter ab Ecclesia celebratur adventus Spiritus
+<lb ed="#P" n="61"/>sancti super apostolos, hoc est septem diebus. Et
+<lb ed="#P" n="62"/>merito; quia septem sunt dona Spiritus sancti;
+<lb ed="#P" n="63"/>et in septem comitibus ad hospitem suum 
+Spiri<lb ed="#P" break="no" n="64"/>tus sanctus venit. Et dignum est ut habeat 
+unus<lb ed="#P" break="no" n="65"/>quisque diem suum et unicuique in die suo 
+con<lb ed="#P" break="no" n="66"/>vivium praeparetur. Alium diem habet sapientia,
+<lb ed="#P" n="67"/>alium intellectus, alium consilium, alium 
+fortitu<lb ed="#P" break="no" n="68"/>do, alium scientia, alium pietas, alium timor.
+<lb ed="#P" n="69"/>Talia convivia Christus apud hospites suos 
+exer<lb ed="#P" break="no" n="70"/>cet : talia et Spiritus sanctus.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

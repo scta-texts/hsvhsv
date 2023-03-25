@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pars 11</title>
+            <author ref="#HughOfStVictor">Hugh of St. Victor</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Pars 11</title>
+               <date when="2023-03-25">March 25, 2023</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-bnhupl">Patrologia Latina, v. 176</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2023-03-25" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="172"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="hsvhsv-g25113"><!-- l1-p11 -->
+            <head xml:id="hsvhsv-g25113-Hd1e101">Pars 11</head>
+            <head xml:id="hsvhsv-g25113-Hd1e103" type="question-title">
+De naturali lege
+</head>
+            <p xml:id="hsvhsv-g25113-d1e106">
+               <cb ed="#P" n="c"/>
+               <lb ed="#P" n="22"/>PARS UNDECIMA.
+<lb ed="#P" n="23"/>DE NATURALI LEGE.
+</p>
+            <div xml:id="hsvhsv-g25113-Dd1e115">
+               <head xml:id="hsvhsv-g25113-Hd1e117">Capitulum 1</head>
+               <head xml:id="hsvhsv-g25113-Hd1e119" type="question-title">
+De sacramentis naturalis legis
+</head>
+               <p xml:id="hsvhsv-g25113-d1e122">
+                  <cb ed="#P" n="d"/>
+                  <lb ed="#P" n="24"/>Cap. I. De sacramentis naturalis legis.
+</p>
+               <p xml:id="hsvhsv-g25113-d1e129">
+                  <cb ed="#P" n="e"/>
+                  <lb ed="#P" n="25"/>Post fidem de sacramentis fidei tractare 
+debe<lb ed="#P" break="no" n="26"/>mus. Sacramenta ab initio ad restaurationem et
+<lb ed="#P" n="27"/>curationem hommnis instituta sunt; alia sub 
+natu<lb ed="#P" break="no" n="28"/>rali lege, alia sub scripta lege, alia sub gratia. Et.
+<lb ed="#P" n="29"/>in his semper qui tempore posteriora fuerunt,
+<lb ed="#P" n="30"/>effectu gratis spiritualis digniora inveniuntur,
+<lb ed="#P" n="31"/>Omnia enim illa superioris temporissacramenta,
+<lb ed="#P" n="32"/>give gub naturalilege, aivesubscripta; signa qus
+<lb ed="#P" n="33"/>dam fuerunt et figurae eorum quae nunc sub 
+gra<lb ed="#P" break="no" n="34"/>tia exhibita sunt sacramentorum. Et ideo 
+effec<lb ed="#P" break="no" n="35"/>tum spiritualem quem suo tempore operabantur
+<lb ed="#P" n="36"/>posita pro istis ; illa virtute et sanctificatione 
+ope<lb ed="#P" break="no" n="37"/>rabantur, quam sumpserunt ab istis. Si quis 
+igi<lb ed="#P" break="no" n="38"/>tur sacramenta priora effectum sanctificationis
+<lb ed="#P" n="39"/>habuisse negaverit, non nihil recte sentire 
+vide<lb ed="#P" break="no" n="40"/>retur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g25113-Dd1e169">
+               <head xml:id="hsvhsv-g25113-Hd1e171">Capitulum 2</head>
+               <head xml:id="hsvhsv-g25113-Hd1e173" type="question-title"/>
+               <p xml:id="hsvhsv-g25113-d1e175">
+                  <lb ed="#P" n="41"/>Cap. II. De prima differentia praecedentium et
+<lb ed="#P" n="42"/>subsequentium sacramentorum.
+</p>
+               <p xml:id="hsvhsv-g25113-d1e182">
+                  <lb ed="#P" n="43"/>In hoc tamen dignitatem sequentium 
+indubi<lb ed="#P" break="no" n="44"/>tanter prieferimus, quod illa et visibilia, et signa.
+<lb ed="#P" n="45"/>visibilium fuerunt ; ista vero cum sint ipsa 
+qui<lb ed="#P" break="no" n="46"/>dem visibilia, tantummodo invisibilis gratiae 
+sig<lb ed="#P" break="no" n="47"/>naetsacramenta existunt. Ideo sacramenta gratis,
+<lb ed="#P" n="48"/>primum per benedictionem virtutem in se 
+sanc<lb ed="#P" break="no" n="49"/>tificationis suscipiunt, ac deinde quam continent.
+<lb ed="#P" n="50"/>in sesanctificationem conferunt, ut sint ex 
+sanc<lb ed="#P" break="no" n="51"/>tiflcatione sanctificantia, atque haec ex sua 
+subi<lb ed="#P" break="no" n="52"/>quecoelitus indita sanctificatione conferant, quod
+<lb ed="#P" n="53"/>illa per haec ex sola horum significatione 
+confer<lb ed="#P" break="no" n="54"/>re consueverant. Passio namque Salvatoris que
+<lb ed="#P" n="55"/>primo loco sacramenta gratie ad effectum salutis
+<lb ed="#P" n="56"/>sanctificat, mediantibus istis etiam illa prioris
+<lb ed="#P" n="57"/>temporis sacramenta sanctificabat, ut eadem 
+sa<lb ed="#P" break="no" n="58"/>lus esset, et his qui recta fide signa futuorum
+<lb ed="#P" n="59"/>inillis venerati sunt, et hisqui elfectum salutis
+<lb ed="#P" n="60"/>in istis percipiunt.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g25113-Dd1e226">
+               <head xml:id="hsvhsv-g25113-Hd1e228">Capitulum 3</head>
+               <head xml:id="hsvhsv-g25113-Hd1e230" type="question-title"/>
+               <p xml:id="hsvhsv-g25113-d1e232">
+                  <lb ed="#P" n="61"/>Cap. III. Alia differentia.
+</p>
+               <p xml:id="hsvhsv-g25113-d1e237">
+                  <lb ed="#P" n="62"/>Illud quoque inter ipsa primi temporis 
+sacra<lb ed="#P" break="no" n="63"/>menta quae sub naturali lege erant, ea quae vel
+<cb ed="#P" n="f"/>
+                  <lb ed="#P" n="64"/>sub lege scripta, vel sub gratia instituta sunt. 
+sa<lb ed="#P" break="no" n="65"/>cramenta interesse perspicimus, quod illa 
+volun<lb ed="#P" break="no" n="66"/>tatis magis esse videntur, ista necessitatis. Illa ex
+<lb ed="#P" n="67"/>votocelebrata, ista ex praecepto. Neque enim 
+ex<lb ed="#P" break="no" n="68"/>istimandum est illa prima naturalis legis 
+sacra<lb ed="#P" break="no" n="69"/>menta , sive decimas videlicet, sive sacrificia,
+<lb ed="#P" n="70"/>sive oblationes ; ita homini ex necessitate 
+indic<lb ed="#P" break="no" n="71"/>ta, ut qui ea non exsecutus fuisset, reatum 
+prse<lb ed="#P" break="no" n="72"/>varicationis incurreret, quemadmodum ille qui
+<lb ed="#P" n="73"/>fideliter ea coleret meritum devotionis sus 
+inve<lb ed="#P" break="no" n="74"/>niret. Nusquam enim legimus quod ante legem
+<lb ed="#P" n="75"/>scriptam, Deus homini dixerit, qui decimas non
+<lb ed="#P" n="76"/>dederit, qui sacrificia non obtulerit : sicut postea
+<lb ed="#P" n="77"/>per legem dixit: Masculus cujus caro preputii
+<lb ed="#P" n="78"/>circumcisa, non fuerit, peribit anima illa de
+<lb ed="#P" n="79"/>populo suo (Gen. xvit). Etsicut sub gratia 
+terri<lb ed="#P" break="no" n="80"/>biliter intonuit: Nisi quis renatus fuerit ex
+<lb ed="#P" n="81"/>aqua et Spiritu sancto, non potest introire in
+<lb ed="#P" n="82"/>regnum Dei (Joan. i). Unde conjicimus quod
+<lb ed="#P" n="83"/>sacramenta illa prima magis ad exercendam 
+de<lb ed="#P" break="no" n="84"/>votionem proposita fuerant, quam ad 
+obtinen<lb ed="#P" break="no" n="85"/>dam salutem indicta. Nam qui nihil possidebat,
+<lb ed="#P" n="86"/>unde decimas offerre debebat ?qui nihil habebat,
+<lb ed="#P" n="87"/>quie sacrificia et quas oblationes offerre poterat ?
+<lb ed="#P" n="88"/>Votum vovit Jacob Deo dicens: Si Dominus
+<lb ed="#P" n="89"/>Deus meus fuerit mecum (Gen. xvin), etc. Ac
+<lb ed="#P" n="90"/>deindesubjungit : De universis quae dederis 
+mi<lb ed="#P" break="no" n="91"/>Ai decimas et hostias pacificas offeram tibi
+<lb ed="#P" n="92"/>(ibid). Quod ergo ex voto se facturum spopondit,
+<lb ed="#P" n="93"/>quod hoc ex necessitate mandati non deberet, 
+pa<lb ed="#P" break="no" n="94"/>tenter ostendit.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g25113-Dd1e314">
+               <head xml:id="hsvhsv-g25113-Hd1e316">Capitulum 4</head>
+               <head xml:id="hsvhsv-g25113-Hd1e318" type="question-title"/>
+               <p xml:id="hsvhsv-g25113-d1e320">
+                  <lb ed="#P" n="95"/>Cap. IV. Quod homo a. Deo instructus est ad
+<lb ed="#P" n="96"/>decímas offerendas.
+</p>
+               <p xml:id="hsvhsv-g25113-d1e327">
+                  <lb ed="#P" n="97"/>Probabile tamen est omnino hominem ad hec
+<lb ed="#P" n="98"/>exercenda a principio a Deo instructum et 
+erudi<lb ed="#P" break="no" n="99"/>tum fuisse, ut primi contemptus culpam 
+subse<lb ed="#P" break="no" n="100"/>quentis devotionis studio aboleret, et qui in 
+se<lb ed="#P" break="no" n="101"/>metipso contumax extiterat, in suis postmodum
+<lb ed="#P" n="102"/>obtemperare consuesceret. Unde enim homo 
+re<lb ed="#P" break="no" n="103"/>rum suatum decimam potius quam nonam vel
+<!-- 091.png.txt -->
+<pb ed="#P" n="173"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>octavam, vel aliam quamque partem offerendam 
+<lb ed="#P" n="2"/>esse scire potuisset, nisi a Deo doctus fuisset? Ex
+<lb ed="#P" n="3"/>quo conjieimus quod Deus quidem hominem a
+<lb ed="#P" n="4"/>principio ad hiec exercenda consilio erudivit, sed
+<lb ed="#P" n="5"/>praecepto non obligavit, donec postea inveniret
+<lb ed="#P" n="6"/>illa, in quibus homo praecepti capax, obedieutiam
+<lb ed="#P" n="7"/>exhiberet, et prevaricationem cavere addisceret.
+<lb ed="#P" n="8"/>Primum igitur ante legem parvulos consilio 
+nutri<lb ed="#P" break="no" n="9"/>vit. Postea subexercitatos praecepto tentavit. Novia"
+<lb ed="#P" n="10"/>sime sub gratia perfectos in libertate spiritus 
+am<lb ed="#P" break="no" n="11"/>bulare permittit. Ut igitur breviter supradicta ad
+<lb ed="#P" n="12"/>memoriam revocemus, quae sit differentia inter 
+sa<lb ed="#P" break="no" n="13"/>eramenta Novi Testamenti;et illa quae velsub lege
+<lb ed="#P" n="14"/>naturali, vel sub scripta lese sacramenta fuerunt
+<lb ed="#P" n="15"/>attendenda consideremus.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g25113-Dd1e385">
+               <head xml:id="hsvhsv-g25113-Hd1e387">Capitulum 5</head>
+               <head xml:id="hsvhsv-g25113-Hd1e389" type="question-title"/>
+               <p xml:id="hsvhsv-g25113-d1e391">
+                  <lb ed="#P" n="16"/>Cap. V. Prima differentia, secunda differentia
+<lb ed="#P" n="17"/>tertia. differentia.
+</p>
+               <p xml:id="hsvhsv-g25113-d1e398">
+                  <lb ed="#P" n="18"/>Prima igitur differentia quod sacramenta Novi
+<lb ed="#P" n="19"/>Testamenti primo loco gratiw spiritualis signa.
+<lb ed="#P" n="20"/>sunt; etad ipsam gratiam sanctificandis 
+confe<lb ed="#P" break="no" n="21"/>rendam infusa sibi benedictione principaliter ins,
+<lb ed="#P" n="22"/>titua. Illa vero, signa horum tantum ; et median.
+<lb ed="#P" n="23"/>tibus his quorum signa fuerunt, ne Sine salute 
+es<lb ed="#P" break="no" n="24"/>sent, qui tempus redemptionis praecesserunt, gra.
+<lb ed="#P" n="25"/>tiam in eustentationem contulerunt. Secunda dif.
+<lb ed="#P" n="26"/>ferentia est quod qui in illis sacramentis 
+imbue<lb ed="#P" break="no" n="27"/>bantur antiqui justi ; nondum adhuc regni 
+coeles<lb ed="#P" break="no" n="28"/>tis januam intrare potuerunt donec salvator per
+<lb ed="#P" n="29"/>carnem assumptam coelos ascendit, et omnibus
+<lb ed="#P" n="30"/>in ge credentibus ac se sequentibus viam aperuit.
+<lb ed="#P" n="31"/>Tertia differentia est quod sacramenta naturalis
+<lb ed="#P" n="32"/>legis non ex praecepto indicta videntur, sed ex
+<lb ed="#P" n="33"/>concilio ad votum proposita ; sacramenta vero
+<lb ed="#P" n="34"/>scripte legis et gratis necessitatem quamdam 
+ex<lb ed="#P" break="no" n="35"/>secutionis inducere propterea quod non ex 
+consi<lb ed="#P" break="no" n="36"/>lio tantum, sed ex praecepto esse instituta 
+nos<lb ed="#P" break="no" n="37"/>cuntur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g25113-Dd1e445">
+               <head xml:id="hsvhsv-g25113-Hd1e447">Capitulum 6</head>
+               <head xml:id="hsvhsv-g25113-Hd1e449" type="question-title">
+Quare prima mutata sunt per secunda.
+</head>
+               <p xml:id="hsvhsv-g25113-d1e452">
+                  <lb ed="#P" n="38"/>Cap. VI. Quare prima mutata sunt per secunda.
+</p>
+               <p xml:id="hsvhsv-g25113-d1e457">
+                  <lb ed="#P" n="39"/>Sed oboritur non contemnenda quaestio, quare
+<lb ed="#P" n="40"/>videlicet si eumdum salutis effectum tam per 
+prae<lb ed="#P" break="no" n="41"/>cedentia quam per subsequentia, gratia contulit ;
+<lb ed="#P" n="42"/>divina jussio ritum antiquorum perinstitutionem
+<lb ed="#P" n="43"/>subsequentium abolevit. Nam si eadem virtusin
+<lb ed="#P" n="44"/>illis sacramentis fuit, quid necesse erat, ut illa
+<lb ed="#P" n="45"/>cessarent et ista succederent ? Sed sciendum est
+<lb ed="#P" n="46"/>quod divinse dispensationis ordo et ratio hoc 
+pro<lb ed="#P" break="no" n="47"/>poscit, ut sicut ab initio, procurrente tempore,
+<lb ed="#P" n="48"/>magis acmagis adventussalvatoris 
+appropinqua<lb ed="#P" break="no" n="49"/>vit; sic semper magis ac magis effectus salutis
+<lb ed="#P" n="50"/>cresceret, et cognitio veritatis. Propter quod et
+<lb ed="#P" n="51"/>ipsa signa salutis per successionem temporum;
+<lb ed="#P" n="52"/>alia post alia mutari debuerunt, ut cum effectus
+<lb ed="#P" n="53"/>gratie divinm in salutem cresceret, simul 
+quo<lb ed="#P" break="no" n="54"/>que et ipsa sanctificatio in ipsis signis visibilibus
+<lb ed="#P" n="55"/>evidentior appareret. Erat quippe idem salvator,
+<lb ed="#P" n="56"/>eadem gratia, eadem fides, illic venturi, hic 
+exhi<lb ed="#P" break="no" n="57"/>biti. Sed quia ipse per quem salusdabatur, longe
+<lb ed="#P" n="58"/>erat, ejusdem salutis signa obscura esse 
+debue<lb ed="#P" break="no" n="59"/>runt. Postea vero paulatim ejus adventu 
+appro<lb ed="#P" break="no" n="60"/>pinquante, oportebat ut eodem ordine, et fidesin
+<lb ed="#P" n="61"/>cognitione, et gratia in salutecresceret ; et eadem
+<lb ed="#P" n="62"/>gratia in sacramentis foris, et signis suis, evi-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>dentius se manifestaret. Quapropter primum per
+<lb ed="#P" n="64"/>oblationem ; et postea per circumcisionem, ad 
+ul<lb ed="#P" break="no" n="65"/>timum per baptismum, expiationiset 
+justificatio<lb ed="#P" break="no" n="66"/>nis sacramentum formari institutum est, quia
+<lb ed="#P" n="67"/>ejusdem mundationis forma et similitudo, in 
+obla<lb ed="#P" break="no" n="68"/>tione quidem occulte invenitur, in circumcisione
+<lb ed="#P" n="69"/>vero evidentius exprimitur, per baptismum 
+au<lb ed="#P" break="no" n="70"/>tem manifeste declaratur. Primam namque 
+insti<lb ed="#P" break="no" n="71"/>tutionem accepit homo ut pro remediis salutis 
+ex<lb ed="#P" break="no" n="72"/>terioris substanti; partem offerret Deo, partem
+<lb ed="#P" n="73"/>ad usum proprium retineret, quatenusin hoc facto
+<lb ed="#P" n="74"/>disceret ea quae intrinsecus bona erant Deo 
+tri<lb ed="#P" break="no" n="75"/>buere, quae vero mala, sibi imputare. Denarius
+<lb ed="#P" n="76"/>quippe (quoniam perfectus numerus est) signum
+<lb ed="#P" n="77"/>est bonitatis et virtutis, qua Deo tribuitur, etin
+<lb ed="#P" n="78"/>B homine a Deo cognoscitur. Nonarius autem quia
+<lb ed="#P" n="79"/>minushabet a perfecto habet perfectum et vitium,
+<lb ed="#P" n="80"/>et corruptionem significat, quae merito homini
+<lb ed="#P" n="81"/>deputatur. Propterea igitur homo decimam dare
+<lb ed="#P" n="82"/>Deo, nonam sibi retinere praecipitur, ut quod 
+bo<lb ed="#P" break="no" n="83"/>num est in se a Deo esse, quod vero malum esta
+<lb ed="#P" n="84"/>8e esse confiteatur. Sed hoc signum quasi de lege
+<lb ed="#P" n="85"/>sumptum, magis docuithominem quid esset, quam
+<lb ed="#P" n="86"/>quid fieret. Igitur cum tempus advenissetquo 
+ve<lb ed="#P" break="no" n="87"/>ritas ipsadeclarari debue at, datum est remedium
+<lb ed="#P" n="88"/>per circumcisionis sacramentum, ubi dum de 
+ex<lb ed="#P" break="no" n="89"/>teriori substatia hominis pars non quidem 
+natu<lb ed="#P" break="no" n="90"/>raliter superflua, sed ejus quod superfluum est 
+fi<lb ed="#P" break="no" n="91"/>gura, praecipitur; jam manifestius illa peccati
+<lb ed="#P" n="92"/>circumcisio, quam in interiori homine gratia 
+per<lb ed="#P" break="no" n="93"/>QC ficit, demonstratur. Quia autem circumcisio 
+ex<lb ed="#P" break="no" n="94"/>teres sordeset enormitates quae foris sunt resecat;
+<lb ed="#P" n="95"/>ablutio autem interiores maculas emundat : 
+con<lb ed="#P" break="no" n="96"/>venienter jam manifestata veritate in adventu
+<lb ed="#P" n="97"/>Chrieti cessare debuit circumcisio, ut illud 
+sacra<lb ed="#P" break="no" n="98"/>mentum succederet quod perfectam hominis 
+emun<lb ed="#P" break="no" n="99"/>dationem et interiorem anim: candorem, quem
+<lb ed="#P" n="100"/>in ipso et per ipsum sacramentum adipiscitur,
+<lb ed="#P" n="101"/>posset declarare. Amplius autem quia 
+circumci<lb ed="#P" break="no" n="102"/>8io quidem sordes aufert, sed doloresinfert ; 
+ablu<lb ed="#P" break="no" n="103"/>tio vero inquinatos sine dolore emundat, idcirco
+<lb ed="#P" n="104"/>priori populo in timore servienti, et sub lege 
+la<lb ed="#P" break="no" n="105"/>boranti, circumcisio ad emundationem data est;
+<lb ed="#P" n="106"/>novo autem populo in gratia per charitatem 
+am<lb ed="#P" break="no" n="107"/>bulanti, ablutio. Videntur ergo prima ílla 
+sacra<lb ed="#P" break="no" n="108"/>menta quae sub naturali lege praecesserunt, quasi
+<lb ed="#P" n="109"/>quidam urbra veritatis;illa vero quae postea sub
+<lb ed="#P" n="110"/>scripta lege secuta sunt, quasi quaedam imago vel
+<lb ed="#P" n="111"/>figura veritatis ; istaautem quae sub gratia 
+novis<lb ed="#P" break="no" n="112"/>Bime consequuntur non jam umbra vel imago, sed.
+<lb ed="#P" n="113"/>corpus veritatis. In quibus salutis effectus, 
+quo<lb ed="#P" break="no" n="114"/>niam et perfecte eatur et videnter ostenditur,
+<lb ed="#P" n="115"/>quasi spiritusin corpore viventi, exteriori 
+motio<lb ed="#P" break="no" n="116"/>ne proditur ; sic in eis invisibilis gratiae vita 
+cla<lb ed="#P" break="no" n="117"/>rissime demonstratur. Prima ergo sacramenta 
+um<lb ed="#P" break="no" n="118"/>bra fuerunt ; secunda imago ; tertia corpus ; post.
+<lb ed="#P" n="119"/>quie quarto loco sequitur veritas spiritus. Hac
+<lb ed="#P" n="120"/>in praesenti, de sacramentis naturalis legis dicta
+<lb ed="#P" n="121"/>sufficire putamus, quae tunc quidem sicut 
+supe<lb ed="#P" break="no" n="122"/>rius jam commemoratum est, ita fidei justiflcanti
+<lb ed="#P" n="123"/>juncta fuisse credimus, ut in eisesget exercitatio
+<lb ed="#P" n="124"/>devotionis, non necessitas obtinendae salutis. Sola
+<!-- 092.png.txt -->
+<pb ed="#P" n="174"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>enim fide ex dilectione operante, illi tunc 
+justifi<lb ed="#P" break="no" n="2"/>cabantur, qui per gratiam ad participationem 
+fu<lb ed="#P" break="no" n="3"/>turs redemptionis servabantur. Sed quia de 
+pri<lb ed="#P" break="no" n="4"/>mis illis sacramentis quibus devotio fidelium tunc
+<lb ed="#P" n="5"/>exercebatur, jam quaedam pro tempore diximus
+<lb ed="#P" n="6"/>etiam de operibus aliqua dicenda putamus.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g25113-Dd1e669">
+               <head xml:id="hsvhsv-g25113-Hd1e671">Capitulum 7</head>
+               <head xml:id="hsvhsv-g25113-Hd1e673" type="question-title">
+De tribus generibus operum.
+</head>
+               <p xml:id="hsvhsv-g25113-d1e676">
+                  <lb ed="#P" n="7"/>Cap VII. De tribus generibus operum.
+</p>
+               <p xml:id="hsvhsv-g25113-d1e681">
+                  <lb ed="#P" n="8"/>Tria sunt genera operum ; quaedam ita bona
+<lb ed="#P" n="9"/>sunt ; ut nunquam licite praeteriri possint : 
+quee<lb ed="#P" break="no" n="10"/>dam ita mala, ut nunquam licite possint commit
+<lb ed="#P" n="11"/>quidam autem media sunt, quae pro tempore et
+<lb ed="#P" n="12"/>loco agi possunt et praetermitti. Sola illa igitur
+<lb ed="#P" n="13"/>quae sic se habent ut nunquam licite fleri possint,
+<lb ed="#P" n="14"/>lex naturalis prohibuit ; illa vero quae nunquam
+<lb ed="#P" n="15"/>licite possunt praetermitti, sola praecepit, media
+<lb ed="#P" n="16"/>omnia ad utrumlibet relinquens. De prohibendis
+<lb ed="#P" n="17"/>unum praeceptum in corde hominis scripsit. Quod
+<lb ed="#P" n="18"/>tibi non vis fieri, alii non feceris (Tob. 1v). De
+<lb ed="#P" n="19"/>epraecipiendis similiter, unum : Quecumque 
+vul<lb ed="#P" break="no" n="20"/>tis ut vobis faciant. homines et vos similiter.
+<lb ed="#P" n="21"/>facite illis (Matth. vii) ; ut videlicet homo ex
+<lb ed="#P" n="22"/>sui consideratione disceret qualem se erga 
+proxi<lb ed="#P" break="no" n="23"/>mum exhibere deberet. Sed postea cum lex 
+subin<lb ed="#P" break="no" n="24"/>traret et disciplinam vivendi arctiorem 
+propone<lb ed="#P" break="no" n="25"/>ret ; ex his quae media fuerant, quaedam excepit ;
+<lb ed="#P" n="26"/>alia per praeceptionem, alia per prohibitionem in
+<lb ed="#P" n="27"/>alteram partem deflexit, ut, quemadmodum 
+pri<lb ed="#P" break="no" n="28"/>mo homini in paradiso Deus de concessione 
+na<lb ed="#P" break="no" n="29"/>turali unam pro praecepto discipline 
+prohibitio<lb ed="#P" break="no" n="30"/>nem exceperat, ita modo filiis ejus non in, una
+<lb ed="#P" n="31"/>veritate stantibus, sed per varios errores 
+dissi<lb ed="#P" break="no" n="32"/>patis ; non unum de concessione naturali 
+przcep<lb ed="#P" break="no" n="33"/>tum disciplin; quasi probandis, sed quasi 
+corri<lb ed="#P" break="no" n="34"/>gendis et reparandis multa formaret, ut quanto
+<lb ed="#P" n="35"/>magis se in mediis temperare discerent, tanto 
+le<lb ed="#P" break="no" n="36"/>vius inconcessa cavere valerent. Illic multa 
+con<lb ed="#P" break="no" n="37"/>cessa, pauca sunt prohibita ;hic multa prohibita,
+<lb ed="#P" n="38"/>pauca concesea. Illic dictum est homini, ut 
+delig<lb ed="#P" break="no" n="39"/>no scientie boni et mali non comederet, non quia
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="40"/>lignum malum erat, sed quia obedientia 
+proban<lb ed="#P" break="no" n="41"/>da erat. Hic dictum est ut carnem cum sanguine
+<lb ed="#P" n="42"/>non comederent, ut discerent horrere 
+crudelita<lb ed="#P" break="no" n="43"/>tem ; carnem porcinam non ederent, ut 
+detesta<lb ed="#P" break="no" n="44"/>rentur immunditiam ; in bove et asino non. 
+ara<lb ed="#P" break="no" n="45"/>rent, ut praedicationi noxiam agnoscerent 
+pigri<lb ed="#P" break="no" n="46"/>tiam et stultitiam ; et cetera similia, quae omnia
+<lb ed="#P" n="47"/>media erant. Illa vero quae sub lege naturali in
+<lb ed="#P" n="48"/>duobus praeceptis clausa fuerant, per scriptam
+<lb ed="#P" n="49"/>legem postea septem illis, quae in secunda tabula
+<lb ed="#P" n="50"/>proposita sunt praeceptis explicata suntet 
+distinc<lb ed="#P" break="no" n="51"/>ta, ex quibus primum erat: Honora patrem tuum
+<lb ed="#P" n="52"/>et matrem tuam, ut bene sit tibi, et sis longc
+<lb ed="#P" n="53"/>vus super terram (Exod. xx). Secundum: Non
+<lb ed="#P" n="54"/>occides ; tertium : Non. machaberis ; quartum :
+<lb ed="#P" n="55"/>Non furtum facies ; quintum ; Non falsum 
+tes<lb ed="#P" break="no" n="56"/>timonium dices ;sextum :Non concupisces 
+uxo<lb ed="#P" break="no" n="57"/>rem procimi tui ; septimum : Non. concupisces
+<lb ed="#P" n="58"/>rem proximi tui. In quibus et hoc non 
+negli<lb ed="#P" break="no" n="59"/>genter prietereundum est, quod ex his septem
+<lb ed="#P" n="60"/>unum solummodo secundum prreceptionem 
+da<lb ed="#P" break="no" n="61"/>tum est; sex reliqua secundum prohibitionem.
+<lb ed="#P" n="62"/>Primum namque peccatum hominis fuit 
+inobe<lb ed="#P" break="no" n="63"/>dientia ; et idcirco vita ista quae homini ad 
+poeni<lb ed="#P" break="no" n="64"/>tentiam conceditur, tota obedientia deputatur.
+<lb ed="#P" n="65"/>Quia igitur homo in malis agendis ex propria
+<lb ed="#P" n="66"/>concupiscentia in diversa distrahitur; in bonis
+<lb ed="#P" n="67"/>agendis sola obedientiae regula gubernatur. Ideo
+<lb ed="#P" n="68"/>in malis cavendis quae habet ex semetipso, et per
+<lb ed="#P" n="69"/>semetipsum facere potest, erat sigilatim 
+instruen<lb ed="#P" break="no" n="70"/>dus ;ad bona vero agenda ad obedientiam 
+solum<lb ed="#P" break="no" n="71"/>modo revocandus, ut ubi per sententiam alius
+<lb ed="#P" n="72"/>salubrius disceret quod in se agere debuisset.
+<lb ed="#P" n="73"/>Cum enim. jubetur homo patri et matri honorem
+<lb ed="#P" n="74"/>deferre, non hoc ad carnales parentes solum 
+re<lb ed="#P" break="no" n="75"/>ferendum est, sed potius hoc ei praecipitur, utqui
+<lb ed="#P" n="76"/>Deum aliquando in prwceptis suis contempsit,
+<lb ed="#P" n="77"/>nunc propter Deum homini superiori obedientiam
+<lb ed="#P" n="78"/>atque honorem exhibere non dedignetur.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

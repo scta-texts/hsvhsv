@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pars 3</title>
+            <author ref="#HughOfStVictor">Hugh of St. Victor</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Pars 3</title>
+               <date when="2023-03-25">March 25, 2023</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-bnhupl">Patrologia Latina, v. 176</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2023-03-25" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="211"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="hsvhsv-g35427"><!-- l2-p3 -->
+            <head xml:id="hsvhsv-g35427-Hd1e101">Pars 3</head>
+            <head xml:id="hsvhsv-g35427-Hd1e103" type="question-title">
+De ecclesiasticis ordinibus
+</head>
+            <p xml:id="hsvhsv-g35427-d1e106">
+               <cb ed="#P" n="c"/>
+               <lb ed="#P" n="40"/>PARS TERTIA.
+<lb ed="#P" n="41"/>DE ECCLESIASTICIS ORDINIBUS.
+</p>
+            <div xml:id="hsvhsv-g35427-Dd1e115">
+               <head xml:id="hsvhsv-g35427-Hd1e117">Capitulum 1</head>
+               <head xml:id="hsvhsv-g35427-Hd1e119" type="question-title">
+De potestate spirituali et ejus corona
+</head>
+               <p xml:id="hsvhsv-g35427-d1e122">
+                  <lb ed="#P" n="42"/>Caput primum. De potestate spirituali et ejus corona.
+</p>
+               <p xml:id="hsvhsv-g35427-d1e127">
+                  <lb ed="#P" n="43"/>Spiritualis potestas in clero ordinatur habens
+<lb ed="#P" n="44"/>gradus et ordines dignitatum differentes. Primum
+<lb ed="#P" n="45"/>signaculum clerici est corona, qua signatur ad
+<lb ed="#P" n="46"/>partem sortis ministerii divini; cui servire 
+re<lb ed="#P" break="no" n="47"/>gnare est. Corona quippe regale decus significat.
+<lb ed="#P" n="48"/>Sic dicit beatus Petrusapostolus: Vos estis genus
+<lb ed="#P" n="49"/>electum, regale sacerdotium (I Petr. 11). 
+Prop<lb ed="#P" break="no" n="50"/>ter hoc igitur coma capitis clerico in modum 
+co<lb ed="#P" break="no" n="51"/>rong tondetur, et ipsa eapitis summitas desuper
+<lb ed="#P" n="52"/>nudatur et revelatur, ut per hoc detur intelligi,
+<lb ed="#P" n="53"/>quod ad regiam in Christo potestatem assumitur;
+<lb ed="#P" n="54"/>et quod inter ipsum et Deum deinceps velamen
+<lb ed="#P" n="55"/>esse non debet, ut revelata facie, et. pura mente
+<lb ed="#P" n="56"/>Domini sui gloriam contempletur. Summum 
+ca<lb ed="#P" break="no" n="57"/>pitis summum est mentis. Denudatio capitis 
+illu<lb ed="#P" break="no" n="58"/>minationem significat mentis.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g35427-Dd1e165">
+               <head xml:id="hsvhsv-g35427-Hd1e167">Capitulum 2</head>
+               <head xml:id="hsvhsv-g35427-Hd1e169" type="question-title">
+De Clericis
+</head>
+               <p xml:id="hsvhsv-g35427-d1e172">
+                  <lb ed="#P" n="59"/>Cap. II. De Clericis.
+</p>
+               <p xml:id="hsvhsv-g35427-d1e177">
+                  <lb ed="#P" n="60"/>Clericus quippe secretorum Dei non ignarus
+<lb ed="#P" n="61"/>esse debet, quia nuntius ejus est ad populum.
+<lb ed="#P" n="62"/>Tondentur etiam capilli capitis usque ad 
+apertio<lb ed="#P" break="no" n="63"/>nem et revelationem sensuum, id est oculorum et.
+<lb ed="#P" n="64"/>aurium ut eum ab audiendo et intelligendo verba
+<lb ed="#P" n="65"/>Dei, terrenorum occupatio, quae percapillos 
+signifi<lb ed="#P" break="no" n="66"/>cantur, non impediat. Postquam autem clericus
+<lb ed="#P" n="67"/>factus est debet deinceps de stipendiis Ecclesi;
+<lb ed="#P" n="68"/>sustentari, et sub tutela et custodia spiritualium
+<lb ed="#P" n="69"/>magistrorum, scientia divina ecclesiastica 
+disci<lb ed="#P" break="no" n="70"/>plina erudiri, quatenus ad sacros ordines 
+minis<lb ed="#P" break="no" n="71"/>lerii divini cum tatio. poposcerit digne possit 
+ac<lb ed="#P" break="no" n="72"/>cedere. Nemo ad clerum assumendus est, nisi sub
+<lb ed="#P" n="73"/>titulo certo. Qui eiiim caput non habent acephali
+<lb ed="#P" n="74"/>sunt, non clerici.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g35427-Dd1e214">
+               <head xml:id="hsvhsv-g35427-Hd1e216">Capitulum 3</head>
+               <head xml:id="hsvhsv-g35427-Hd1e218" type="question-title">
+De tonsura Ecclesiastica
+</head>
+               <p xml:id="hsvhsv-g35427-d1e221">
+                  <lb ed="#P" n="75"/>Cap. III De tonsura Ecclesiastica.
+</p>
+               <p xml:id="hsvhsv-g35427-d1e226">
+                  <lb ed="#P" n="76"/>Tonsurae autem ecclesiastice usus a. Nazarmis
+<lb ed="#P" n="77"/>exortus esse putatur, qui prius crine servato, 
+de<lb ed="#P" break="no" n="78"/>nique ob vit:e continentiam caput radebant, et
+<lb ed="#P" n="79"/>capillos in igne sacrificii ponebant. Hinc ususab
+<lb ed="#P" n="80"/>apostolis introductus est, ut cui divinis cullibus
+<lb ed="#P" n="81"/>mancipati Deo consecrantur quasi Nazarwi, id
+<lb ed="#P" n="82"/>est sancti, crine posito inveniantur, sicut ad 
+Eze<lb ed="#P" break="no" n="83"/>chielem dicitur: Tw fili hominis, sume tibi 
+gla<lb ed="#P" break="no" n="84"/>dium aculum, et duc super caput iuum 
+etbar<lb ed="#P" break="no" n="85"/>bam (Ezech. v ; Act. xvur). Hoc etiam in Novo
+<lb ed="#P" n="86"/>'T'estamento Nazarseos illos Priscillam et Aquilam
+<lb ed="#P" n="87"/>in Actibus apostolorum primum fecisse legimus.
+<lb ed="#P" n="88"/>Paulum quoque apostolorum et quosdam 
+disci<lb ed="#P" break="no" n="89"/>pulorum Christi qui in hujus modi cultu 
+imi<lb ed="#P" break="no" n="90"/>tandi extiterunt, scilicet ut hoc signo vitia in
+<lb ed="#P" n="91"/>corde et opere pullaulantia praecidenda doceantur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g35427-Dd1e264">
+               <head xml:id="hsvhsv-g35427-Hd1e266">Capitulum 4</head>
+               <head xml:id="hsvhsv-g35427-Hd1e268" type="question-title">
+Quomodo ordines sacris in 
+monachis sint
+</head>
+               <p xml:id="hsvhsv-g35427-d1e271">
+                  <lb ed="#P" n="92"/>Cap. IV. Quomodo ordines sacris in 
+mona<lb ed="#P" break="no" n="93"/>chis sint.
+</p>
+               <p xml:id="hsvhsv-g35427-d1e278">
+                  <lb ed="#P" n="94"/>Quidem volunt coronam aliquando pro signo
+<lb ed="#P" n="95"/>accipiendam poenitentie, quemadmodum in 
+ordi<lb ed="#P" break="no" n="96"/>ne monachorum, quibus est caeteri ordines sacri
+<lb ed="#P" n="97"/>qui in clero sunt proprii, secundum indulgentiam
+<lb ed="#P" n="98"/>conceduntur. Non enim in populo praesse 
+pos<lb ed="#P" break="no" n="99"/>sunt, nec spiritualis dignitatisin Ecclesia curam
+<lb ed="#P" n="100"/>suscipere, donec ad clerum assumantur. 
+Propte<lb ed="#P" break="no" n="101"/>rea quod in illis et sacri signaculi, ad 
+indulgen<lb ed="#P" break="no" n="102"/>tiam est, non pro potestate praelationis in populo
+<lb ed="#P" n="103"/>Dei, sed ne in ipso quoque habitu pomitentime
+<lb ed="#P" n="104"/>quo se sponte propter Deum sequestraverunt, 
+aa<lb ed="#P" break="no" n="105"/>crosanctam corporis et sanguinis Christi 
+com<lb ed="#P" break="no" n="106"/>munionem vel habere non possint, vel extra ad.
+<lb ed="#P" n="107"/>impedimentum quietis wx requirere compellan-
+<!-- 130.png.txt -->
+<pb ed="#P" n="212"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>tur. Ut ergo intrinsecus quietius vivant, ordines A.
+<lb ed="#P" n="2"/>ministerii divini per indulgentiam ipsis 
+conce<lb ed="#P" break="no" n="3"/>duntur ; non ad exercendam praelationem in 
+po<lb ed="#P" break="no" n="4"/>pulo Dei, sed ad celebrandum intrinsecus 
+com<lb ed="#P" break="no" n="5"/>Tunionem sacramenti Dei, quod tamen principio
+<lb ed="#P" n="6"/>non ita fuisse dicunt. Monachi quippe et ermeum
+<lb ed="#P" n="7"/>habitantes olim presbyteros habuisse leguntur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g35427-Dd1e334">
+               <head xml:id="hsvhsv-g35427-Hd1e336">Capitulum 5</head>
+               <head xml:id="hsvhsv-g35427-Hd1e338" type="question-title"/>
+               <p xml:id="hsvhsv-g35427-d1e340">
+                  <lb ed="#P" n="8"/>Cap. V. De septem gradibus sacris.
+</p>
+               <p xml:id="hsvhsv-g35427-d1e345">
+                  <lb ed="#P" n="9"/>Primum igitur signaculum clerici corona est,
+<lb ed="#P" n="10"/>quo in partem ministerii sacri consignatur. 
+Se<lb ed="#P" break="no" n="11"/>quuntur deinde septem graduum promotiones, in
+<lb ed="#P" n="12"/>quibus per spiritualem potestatem altius semper
+<lb ed="#P" n="13"/>ad sacra tranctanda conscendit, primus gradus est.
+<lb ed="#P" n="14"/>ostiariorum ; secundus lectorum ;tertius 
+exorcis<lb ed="#P" break="no" n="15"/>tarum ; quartus acolytharum ; quintus 
+subdiaco<lb ed="#P" break="no" n="16"/>norum; sextus diaconorum ; septimus 
+sacerdo<lb ed="#P" break="no" n="17"/>tum. Hic gradus dispares in eodem ordine habet.
+<lb ed="#P" n="18"/>dignitates. Nam post sacerdotes altiores sunt
+<lb ed="#P" n="19"/>principes sacerdotum, id est episcopi. Supra quos
+<lb ed="#P" n="20"/>iterum sunt archiepiscopi; et supra illos qui 
+di<lb ed="#P" break="no" n="21"/>cuntur primates, supra quos quidam patriarchas
+<lb ed="#P" n="22"/>constituere volunt;alli'eosdem primates et 
+patriar<lb ed="#P" break="no" n="23"/>chas dicunt. Nos tamen quatuor tantum ex 
+an<lb ed="#P" break="no" n="24"/>tiquo Ecclesise usu patriarchas nominatos 
+inve<lb ed="#P" break="no" n="25"/>nimus. Primum Alexandrimum, secundum 
+Hie<lb ed="#P" break="no" n="26"/>rosolymitanum ; tertium Antiochenum ;quartum
+<lb ed="#P" n="27"/>Aquileiensem, qui post Grandensis dictus est,
+<lb ed="#P" n="28"/>nisifortesecu ndum proprietatem linguarum iidem
+<lb ed="#P" n="29"/>ipsi alibi patriarche; alibi primates appellati sint.
+<lb ed="#P" n="30"/>Post hos omnes sequitur summus pontifex quem
+<lb ed="#P" n="31"/>papam, id est patrum Patrem consuetudo 
+ecclesias<lb ed="#P" break="no" n="32"/>tica nominareinstituit. Hic estprincipalis et 
+maxi<lb ed="#P" break="no" n="33"/>1nus sedis apostolicae in Ecclesia Romana 
+succes<lb ed="#P" break="no" n="34"/>sor, unde et ipsum specialiter apostolicum sancta.
+<lb ed="#P" n="35"/>Ecclesia nominarecousuevit. Cui vice Petri 
+prin<lb ed="#P" break="no" n="36"/>cipis apostolorum praesidenti, omnis 
+ecclesiasti<lb ed="#P" break="no" n="37"/>cus ordo obtemperare debet, qui solus 
+preroga<lb ed="#P" break="no" n="38"/>tiva dignitatis claves habet ligandi omnia et 
+sol<lb ed="#P" break="no" n="39"/>vendi super terram. Isti ergo ordines sacri 
+diver<lb ed="#P" break="no" n="40"/>sis locis per orbem terrarum (quacunque sancte
+<lb ed="#P" n="41"/>Ecclesise corpus diffusum est) disponuntur ; non
+<lb ed="#P" n="42"/>solum voluntaria ordinatione spiritualium 
+Pa<lb ed="#P" break="no" n="43"/>trum, sed ex ipso quoque gentilitatis usu 
+conve<lb ed="#P" break="no" n="44"/>nienti ratione assumpta. In illis siquidem 
+civita<lb ed="#P" break="no" n="45"/>tibus ubi olim gentiles flamines suos constituere
+<lb ed="#P" n="46"/>consueverant; ibi nunc episcopi suntordinati. Ubi 
+<lb ed="#P" n="47"/>vero archiffamines dispositi fuerant, archiepiscopi
+<lb ed="#P" n="48"/>successerunt. Lege librum Clementis, illic 
+inve<lb ed="#P" break="no" n="49"/>nies quomodo beatus Petrus per diversa 
+orbister<lb ed="#P" break="no" n="50"/>rarum loca principes ecclesiarum disponi 
+insti<lb ed="#P" break="no" n="51"/>tuit. Septem ergo spiritualium officiorum gradus
+<lb ed="#P" n="52"/>proinde in sancta Ecclesia secundum septiformem
+<lb ed="#P" n="53"/>gratiam distributi sunt, quos Dominus Jesus
+<lb ed="#P" n="54"/>Christus ejusdem spriritus plenitudinem habens,
+<lb ed="#P" n="55"/>omnia in semetipso exhibuit; et corpori suo, id
+<lb ed="#P" n="56"/>est Ecclesise imitanda reliquit, cui ipsius spiritus
+<lb ed="#P" n="57"/>participationem concessit.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g35427-Dd1e455">
+               <head xml:id="hsvhsv-g35427-Hd1e457">Capitulum 6</head>
+               <head xml:id="hsvhsv-g35427-Hd1e459" type="question-title"/>
+               <p xml:id="hsvhsv-g35427-d1e461">
+                  <lb ed="#P" n="58"/>Cap. VI. De ostiariis.
+</p>
+               <p xml:id="hsvhsv-g35427-d1e466">
+                  <lb ed="#P" n="59"/>Inter hos septem gradus spiritualis officii 
+pri<lb ed="#P" break="no" n="60"/>mus est eorum quo ostiarii dicuntur, qui in 
+Ve<lb ed="#P" break="no" n="61"/>teri Testamento olim janitores vocabantur. Ad
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="62"/>officium ostiarii pertinent claves ecclesise, 
+utclau<lb ed="#P" break="no" n="63"/>dat et aperiat horis cempetentibus templum Dei,
+<lb ed="#P" n="64"/>et omnia quae sunt intus extraque custodiat, 
+fide<lb ed="#P" break="no" n="65"/>les reeipiat, excommunicatos et infideles ejuciat.
+<lb ed="#P" n="66"/>Ostiarius cum ordinatur postquam ab 
+archidia<lb ed="#P" break="no" n="67"/>cono instructus fuerit, qualiter in domo Dei 
+de<lb ed="#P" break="no" n="68"/>beat conversari, ad suggestionem archidiaconi
+<lb ed="#P" n="69"/>tradit ei episcopus claves Ecclesim de altario 
+di<lb ed="#P" break="no" n="70"/>cens ei: Sic age quasi redditurus Deo rationem
+<lb ed="#P" n="71"/>pro his rebus quae his clavibus recluduntur. Hoc
+<lb ed="#P" n="72"/>officium Dominus in sua persona suscepit, 
+quan<lb ed="#P" break="no" n="73"/>do flagello de funiculis facto vendentes et 
+emen<lb ed="#P" break="no" n="74"/>tes de templo ejecit. Ipse quippe ostiarius dicit:
+<lb ed="#P" n="75"/>Ego sum ostium. Per me si quis introierit 
+sal<lb ed="#P" break="no" n="76"/>vabitur, et. ingredietur, et. ingredietur et
+<lb ed="#P" n="77"/>pascua inveniet (Joan. x).
+</p>
+            </div>
+            <div xml:id="hsvhsv-g35427-Dd1e513">
+               <head xml:id="hsvhsv-g35427-Hd1e515">Capitulum 7</head>
+               <head xml:id="hsvhsv-g35427-Hd1e517" type="question-title"/>
+               <p xml:id="hsvhsv-g35427-d1e519">
+                  <lb ed="#P" n="78"/>Cap. VII. De lectoribus.
+</p>
+               <p xml:id="hsvhsv-g35427-d1e524">
+                  <lb ed="#P" n="79"/>Secundus gradus est lectorum, qui formam et
+<lb ed="#P" n="80"/>initium aprophetisaccepit. Sunt enim lectores qui
+<lb ed="#P" n="81"/>Verbum Dei annuntiant, quibus dicitur; Clama
+<lb ed="#P" n="82"/>ne cesses, quasi tuba exalta vocem tuam (Isai.
+<lb ed="#P" n="83"/>rv). Hi cum ordinantur primum de vita 
+ipso<lb ed="#P" break="no" n="84"/>rum, et fide, et ingenio, episcopus ad populum
+<lb ed="#P" n="85"/>Verbum facit ; deinde eis vidente populo ab 
+epis<lb ed="#P" break="no" n="86"/>copo codex traditur divinarum lectionum, et 
+dici<lb ed="#P" break="no" n="87"/>tur eis: Accipite et estote Verbi Dei relatores, 
+ha<lb ed="#P" break="no" n="88"/>bituri(si fideliter et utiliter impleveritis officium)
+<lb ed="#P" n="89"/>partem cum his qui verbum Dei ministraverunt.
+<lb ed="#P" n="90"/>Ex hoc ergo potestatem habent in Ecclesia coram
+<lb ed="#P" n="91"/>populo propheticas et apostolicas lectiones 
+reci<lb ed="#P" break="no" n="92"/>tandi. Hi quidem qui ad hunc gradum 
+promo<lb ed="#P" break="no" n="93"/>ventur litterarum scientia debent esse instructi
+<lb ed="#P" n="94"/>ut eorum quae legunt sensum intelligant ; in 
+pro<lb ed="#P" break="no" n="95"/>nuntiatione vim accentuum agnoscant, distincte
+<lb ed="#P" n="96"/>legant, ne confusione pronuntiationis intellectum
+<lb ed="#P" n="97"/>auditoribus tollant. Considerant quid sit indicave
+<lb ed="#P" n="98"/>legendum, quid sub interrogatione 
+pronuntian<lb ed="#P" break="no" n="99"/>dum, ubi sit in oratione distinctio, vel 
+me<lb ed="#P" break="no" n="100"/>dia distinctio, media facienda, quia et hec
+<lb ed="#P" n="101"/>male servata intellectum perturbant, et 
+gramma<lb ed="#P" break="no" n="102"/>ticorum typum gerentes ad irrisionem provocant.
+<lb ed="#P" n="103"/>Vox lectoris auribus et cordi consulere debet, non
+<lb ed="#P" n="104"/>oculis, ne motu vel gestu indisciplinato 
+specta<lb ed="#P" break="no" n="105"/>tores magis ex seipso faciat, quam auditores,
+<lb ed="#P" n="106"/>aeque effractum et femineum quam agrestem et
+<lb ed="#P" n="107"/>rusticum sonum devitans. Lectores enim olim
+<lb ed="#P" n="108"/>precones vel proclamatores vocabantur, quia in
+<lb ed="#P" n="109"/>populo vocem faciunt. Hoc officium Dominus in
+<lb ed="#P" n="110"/>propria persona ostendit, quando in medio 
+senio<lb ed="#P" break="no" n="111"/>rum librum Isais prophetae aperiens, distincte ad
+<lb ed="#P" n="112"/>intelligendum legit: Spiritus Domini super me
+<lb ed="#P" n="113"/>evangelizare pauperibus misit me (Luc. 1v ;
+<lb ed="#P" n="114"/>Isa Lxi). Ex quo lectoribus intelligi datur, quod
+<lb ed="#P" n="115"/>gratia spirituali clarere debent, qui populo 
+ver<lb ed="#P" break="no" n="116"/>bum Dei annuntiant.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g35427-Dd1e610">
+               <head xml:id="hsvhsv-g35427-Hd1e612">Capitulum 8</head>
+               <head xml:id="hsvhsv-g35427-Hd1e614" type="question-title"/>
+               <p xml:id="hsvhsv-g35427-d1e616">
+                  <lb ed="#P" n="117"/>Cap. VIII. De exorcistis.
+</p>
+               <p xml:id="hsvhsv-g35427-d1e621">
+                  <lb ed="#P" n="118"/>Tertio loco sequitur ordo exorcistarum, qui 
+su<lb ed="#P" break="no" n="119"/>per catechumenos faciunt sacramentum 
+apertio<lb ed="#P" break="no" n="120"/>nis, et habent spirituale imperium super spiritus
+<lb ed="#P" n="121"/>immundos, ut eos de corporibus obsessis ejiciant.
+<lb ed="#P" n="122"/>Debet autem habere spiritum mundum qui 
+spi<lb ed="#P" break="no" n="123"/>ritibus immundis imperat, ut vitaab officio non
+<!-- 131.png.txt -->
+<pb ed="#P" n="213"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>discordet, et malignum quem per acceptum 
+offi<lb ed="#P" break="no" n="2"/>cium expellit de corpore alieno, per munditiam
+<lb ed="#P" n="3"/>vitae expellat de corde suo. Hi cum ordinantur
+<lb ed="#P" n="4"/>accipiunt de manu episcopi librum 
+exorgismo<lb ed="#P" break="no" n="5"/>rum, et dicitur eis: Accipite et memorie 
+com<lb ed="#P" break="no" n="6"/>mendate, et habetote potestatem imponendi 
+ma<lb ed="#P" break="no" n="7"/>nus super energumenos, sive catechumenos.
+</p>
+               <p xml:id="hsvhsv-g35427-d1e658">
+                  <lb ed="#P" n="8"/>Exorcistae in ordine et ministerio Ecclesie 
+cons<lb ed="#P" break="no" n="9"/>tuti sunt secundum officia qui in templo 
+Salo<lb ed="#P" break="no" n="10"/>monis erant disposita. Quae posterius sunt ab 
+Es<lb ed="#P" break="no" n="11"/>dra dispertita. Leguntur enim sub esdra fuisse 
+ac<lb ed="#P" break="no" n="12"/>tores templi filii servorum Salomonis, qui actum
+<lb ed="#P" n="13"/>templi totius sub cura sua haberent; aut sacris
+<lb ed="#P" n="14"/>oblationibus deservirent. Et cum fuissent ex 
+or<lb ed="#P" break="no" n="15"/>dine in ministerio templi, longe tamen fuerunt
+<lb ed="#P" n="16"/>ab officio altaris Dei. Neque enim psalmistis, id  
+<lb ed="#P" n="17"/>est cantoribus, nec ostiariis, nec sacrarum servis
+<lb ed="#P" n="18"/>attingere licebat ad munera altaris, nisi 
+tantum<lb ed="#P" break="no" n="19"/>modo levitis. Quasi ergo actores quidam 
+spiritua<lb ed="#P" break="no" n="20"/>les templi Dei exorcistae sunt in populo Dei, qui
+<lb ed="#P" n="21"/>de substantia Domini sui sibi in donis 
+spriritua<lb ed="#P" break="no" n="22"/>libus tradita, in spiritualibus aedificiis dilapsa
+<lb ed="#P" n="23"/>restituant, et reparent dissipata. Exorcistas 
+si<lb ed="#P" break="no" n="24"/>gnificat Apostolus cum dicit: Nunquid omnes
+<lb ed="#P" n="25"/>donationes habent sanationum? M. Cor. xm.)
+<lb ed="#P" n="26"/>Hoc officio usus est Deus quando saliva sua 
+teti<lb ed="#P" break="no" n="27"/>git auresetlinguam surdi et muti, dicens: 
+Ephphe<lb ed="#P" break="no" n="28"/>ta, quod est adaperire (Marc. vr) ; hoc exemplo
+<lb ed="#P" n="29"/>nos docens spiritualiter aperire debere aures 
+prae<lb ed="#P" break="no" n="30"/>cordiorum hominum, ad intelligendum, et oraad
+<lb ed="#P" n="31"/>confitendum, ut, expulso dimone, Spiritus 
+sanc<lb ed="#P" break="no" n="32"/>tua vas euum recipiat Similiter hoc officium 
+exhi<lb ed="#P" break="no" n="33"/>buit, quando de Maria Magdalena septem 
+deeme<lb ed="#P" break="no" n="34"/>nia ejecit (Marc. xv1; Luc vii).
+</p>
+            </div>
+            <div xml:id="hsvhsv-g35427-Dd1e721">
+               <head xml:id="hsvhsv-g35427-Hd1e723">Capitulum 9</head>
+               <head xml:id="hsvhsv-g35427-Hd1e725" type="question-title"/>
+               <p xml:id="hsvhsv-g35427-d1e727">
+                  <lb ed="#P" n="35"/>Cap. IX. De acolythis.
+</p>
+               <p xml:id="hsvhsv-g35427-d1e732">
+                  <lb ed="#P" n="36"/>Quarto loco succedunt acolythi, qui Latine 
+di<lb ed="#P" break="no" n="37"/>cuntur ceroferarii, quia accensos cereos deferunt,
+<lb ed="#P" n="38"/>dum legitur evangelium, vel dum offertur 
+sacri<lb ed="#P" break="no" n="39"/>ficium. Non ut tenebras hujusmodi aeris 
+illumi<lb ed="#P" break="no" n="40"/>nent, sed ob hoc ut sicut visibile lumen manibus
+<lb ed="#P" n="41"/>gestant, ita opera lucis proximis ostendant, et
+<lb ed="#P" n="42"/>more lucis, errantibus viam in tenebris 
+palpan<lb ed="#P" break="no" n="43"/>tibus ducatum prabeant. Hi cum ordinantur 
+post<lb ed="#P" break="no" n="44"/>quam edocti fuerint ab episcopo qualiter in 
+offi<lb ed="#P" break="no" n="45"/>cio suo agere debeant, accipiunt ab archidiacono
+<lb ed="#P" n="46"/>ceroferarium, id est candelabrum cum cereo, ut p; 
+<lb ed="#P" n="47"/>sciant se ad accedenda luminaria mancipari. 
+Ac<lb ed="#P" break="no" n="48"/>cipiunt et urceolum vacuum ad infundendum 
+vi<lb ed="#P" break="no" n="49"/>num in calicem, quo consecrandus est sanguis
+<lb ed="#P" n="50"/>Christi, ut sitcommemoratio sanguinis de Christi
+<lb ed="#P" n="51"/>latere profluentis, et aqu: inde procedentis. Quae
+<lb ed="#P" n="52"/>duoideo in calice commiscentur, quia Chriati
+<lb ed="#P" n="53"/>sanguine sumus redempti, et aqua baptismatis a
+<lb ed="#P" n="54"/>peccatis abluti. Hoc officium se habere Dominus
+<lb ed="#P" n="55"/>in Evangelio testatur, dicens: Ego sum lwac
+<lb ed="#P" n="56"/>mundi qui sequitur me non ambulat in. 
+tene<lb ed="#P" break="no" n="57"/>bris, sed habebit lumen vita (Joan. viu.)
+</p>
+            </div>
+            <div xml:id="hsvhsv-g35427-Dd1e783">
+               <head xml:id="hsvhsv-g35427-Hd1e785">Capitulum 10</head>
+               <head xml:id="hsvhsv-g35427-Hd1e787" type="question-title"/>
+               <p xml:id="hsvhsv-g35427-d1e789">
+                  <lb ed="#P" n="58"/>Cap. X. De subdiaconis.
+</p>
+               <p xml:id="hsvhsv-g35427-d1e794">
+                  <lb ed="#P" n="59"/>Quinto loco est ordo subdiaconorum qui apud
+<lb ed="#P" n="60"/>Grseco8 v fiis vocantur. Tsti sunt qui in. 
+Eg<lb ed="#P" break="no" n="61"/>dra Nathanei, id est in humilitate Domino 
+ser<lb ed="#P" break="no" n="62"/>vientes appellantur, ex quorum ordine fuit ille
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>Nathanael, qui in Evangelio Salvatorem confiteri,
+<lb ed="#P" n="64"/>et ab ipso meruit collaudari, dicente Domino:
+<lb ed="#P" n="65"/>Ecce vere Israelita, inquodolus non est(Joan. 1).
+<lb ed="#P" n="66"/>Isti subserviunt levitis, et vasa corporis et 
+sen<lb ed="#P" break="no" n="67"/>guinis Christi ipsis ad altare deferunt, et iterum
+<lb ed="#P" n="68"/>referunt.
+</p>
+               <p xml:id="hsvhsv-g35427-d1e820">
+                  <lb ed="#P" n="69"/>De quibus quidem Patribus placuit, ut cul 
+sa<lb ed="#P" break="no" n="70"/>cra mysteria contrectant, legem observent 
+conti<lb ed="#P" break="no" n="71"/>nentiz, sicut scriptum est : Mundamini qui 
+fer<lb ed="#P" break="no" n="72"/>tis vasa Domini (Isa. Lx). Hi in templo 
+Do<lb ed="#P" break="no" n="73"/>mini oblationes suscipiunt a populis. Ad istorum
+<lb ed="#P" n="74"/>provisionem pertinet tantum de oblationibus 
+po<lb ed="#P" break="no" n="75"/>nere in altari, quantum sufficere possit populo
+<lb ed="#P" n="76"/>Dei. Similiter ipsi corporales pallas et 
+substrato<lb ed="#P" break="no" n="77"/>ria lavare, et aquam in baptisterium vergere 
+de<lb ed="#P" break="no" n="78"/>bent; urceum quoque et aquam manile et 
+ma<lb ed="#P" break="no" n="79"/>nutergium tenere, episcopo et presbytero, et 
+le<lb ed="#P" break="no" n="80"/>vitis, pro lavandis manibus ante altare aquam
+<lb ed="#P" n="81"/>prebere. Hi cum ordinantur sicut sacerdotes et
+<lb ed="#P" n="82"/>levite manus impositionem non accipiunt, sed
+<lb ed="#P" n="83"/>tantum calicem vacuum et patenam vacuam de
+<lb ed="#P" n="84"/>manu episcopi.
+</p>
+               <p xml:id="hsvhsv-g35427-d1e858">
+                  <lb ed="#P" n="85"/>De manu vero archidiaconi urceolum cim aqua
+<lb ed="#P" n="86"/>manile seu mantile, et manutergium, quibus
+<lb ed="#P" n="87"/>mundare debent manus sacerdos et levita 
+tracta<lb ed="#P" break="no" n="88"/>turi divina sacramenta. Hoc officio usus est. 
+Do<lb ed="#P" break="no" n="89"/>minus, quando facta coena cum discipulis linteo
+<lb ed="#P" n="90"/>se precinxit, et mittens aquam in pelvim pedes
+<lb ed="#P" n="91"/>discipulorum lavit, et linteo extersit (Joan xm).
+</p>
+            </div>
+            <div xml:id="hsvhsv-g35427-Dd1e877">
+               <head xml:id="hsvhsv-g35427-Hd1e879">Capitulum 11</head>
+               <head xml:id="hsvhsv-g35427-Hd1e881" type="question-title"/>
+               <p xml:id="hsvhsv-g35427-d1e883">
+                  <lb ed="#P" n="92"/>Cap. XI. De Diaconis.
+</p>
+               <p xml:id="hsvhsv-g35427-d1e888">
+                  <lb ed="#P" n="93"/>Diaconorum ordo sexto sequitur loco, non sine
+<lb ed="#P" n="94"/>aliquo senarii mysterio, in quo propter 
+perfectio<lb ed="#P" break="no" n="95"/>nem sui significatur operum perfectio. Hic ordo
+<lb ed="#P" n="96"/>in veteri Testamento a tribu Levi habuit 
+exor<lb ed="#P" break="no" n="97"/>dium. Pre;cepit enim Deus Moysi ut post 
+ordina<lb ed="#P" break="no" n="98"/>tionem Aaron et filiorum ejus, rursus tribus Levi
+<lb ed="#P" n="99"/>ad divini cultus ministeria ordinaretur, et 
+conse<lb ed="#P" break="no" n="100"/>craretur Domino, et servirent pro Israel coram
+<lb ed="#P" n="101"/>Aaron et fiilis ejus in tabernaculo Dei ; ipsique
+<lb ed="#P" n="102"/>gestarent arcam et tabernaculum, et omnia vasa
+<lb ed="#P" n="103"/>ejus, et in circuitu tabernaculi ipsi castra 
+cons<lb ed="#P" break="no" n="104"/>tituerent, et in transportando tabernaculo ipsi
+<lb ed="#P" n="105"/>deponerent, rursusque ipsi componerent. A 
+vi<lb ed="#P" break="no" n="106"/>ginti autem annis et supra jussi sunt servire in
+<lb ed="#P" n="107"/>tabernaculo. Quam regulam etiam sancti Patres
+<lb ed="#P" n="108"/>in Novo Testamento constituerunt, quoniam hae
+<lb ed="#P" n="109"/>aetas ad portanda onera robusta est, quod illi 
+or<lb ed="#P" break="no" n="110"/>dini a Moyse institutum est. Quod etiam in Novo
+<lb ed="#P" n="111"/>Testamento representatur, cum diaconis supra
+<lb ed="#P" n="112"/>sinistrum humerum stola ponitur, et casula in
+<lb ed="#P" n="113"/>diebus jejunii super eumdem humerum 
+compli<lb ed="#P" break="no" n="114"/>catur; quia quidquid laboris et sustinentie in
+<lb ed="#P" n="115"/>hac vita toleramus, tanquam insinistra portamus,
+<lb ed="#P" n="116"/>donec in dextera; hoc est, in sternitale requiem
+<lb ed="#P" n="117"/>habeamus. Hic ordo in Novo Testamento ab 
+apos<lb ed="#P" break="no" n="118"/>tolis initium sumpsit, quandosic legiturin Actibus
+<lb ed="#P" n="119"/>apostolorum. Apostoli septem viros boni testimo
+<lb ed="#P" n="120"/>nii plenos Spiritu sancto(Act. vi)adhoc officium
+<lb ed="#P" n="121"/>elegerunt: et oratione premissa manus eis 
+im<lb ed="#P" break="no" n="122"/>posuerunt (ibid.). Et exinde apostoli et eorum.
+<lb ed="#P" n="123"/>Suecessores decreverunt, ut in omni matrice 
+Ec<lb ed="#P" break="no" n="124"/>clesia septem diaconi circa Aram Christi subli-
+<!-- 132.png.txt -->
+<pb ed="#P" n="214"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>miori gradu, tanquam columns altaris assiste- A.
+<lb ed="#P" n="2"/>rent, etiam non sine aliquo septenarii mysterio.
+<lb ed="#P" n="3"/>In quo figuratur ut septiformis gratiae spiritu 
+ful<lb ed="#P" break="no" n="4"/>gentes, sancti gint corpore et spiritu. Hi 
+sunLsep<lb ed="#P" break="no" n="5"/>tem angeli in Apocalypsi tuba canentes(A poc. vir)
+<lb ed="#P" n="6"/>Hi sunt septem candelabra aurea (Apoc. 1). Hi
+<lb ed="#P" n="7"/>voces tonitruorum (Apoc. 1v). Ipsi enim clara 
+vo<lb ed="#P" break="no" n="8"/>ce in mundum preconis admonent cunctos,
+<lb ed="#P" n="9"/>Sive ad orandum, sive ad genua flectenda,
+<lb ed="#P" n="10"/>Sive ad psallendum, sive ad legendum, et 
+au<lb ed="#P" break="no" n="11"/>diendum verbum. Ipsi evangelizant, ipsi 
+sacra<lb ed="#P" break="no" n="12"/>menta Dei dispensant. Sine ipsis sacerdos nomen
+<lb ed="#P" n="13"/>habet, officium non habet. Nam sicut in 
+sacer<lb ed="#P" break="no" n="14"/>dote consecratio, ita in ministro dispensatio 
+sa<lb ed="#P" break="no" n="15"/>cramenti. Ipsis etiam sacerdotibus propter 
+pre<lb ed="#P" break="no" n="16"/>sumptionem non licet calicem domini in mensa 
+<lb ed="#P" n="17"/>tollere, nisi traditus eis fuerit a diacono. Levite
+<lb ed="#P" n="18"/>hostias super altare ponunt, ipsi mensam 
+Domi<lb ed="#P" break="no" n="19"/>ni componunt. Levitae operiunt arcam testamenti,
+<lb ed="#P" n="20"/>quia nonomnes videre debent outpossunt alta 
+mys<lb ed="#P" break="no" n="21"/>teriorum quaeoperiuntura levitis. Ipsialbis induti
+<lb ed="#P" n="22"/>vestibusassistuntaltari, utcandore vestis munditia
+<lb ed="#P" n="23"/>vite significetur, nitidique ad hostias et 
+imma<lb ed="#P" break="no" n="24"/>culati accedant. Tales enim Dominunf decet 
+ha<lb ed="#P" break="no" n="25"/>bere ministros, qui nullo carnis corrumpantur
+<lb ed="#P" n="26"/>contagio, sed perfecta mentis et corporis 
+castita<lb ed="#P" break="no" n="27"/>te splendeant. Quales enim diaconi ordinandi sint,
+<lb ed="#P" n="28"/>Apostolus plenissime docet scribens ad 
+Timothze<lb ed="#P" break="no" n="29"/>um(/ Tím. i). Nam cum praemisisset de 
+sacerdo<lb ed="#P" break="no" n="30"/>tum electione, continuo subjunxit : Diaconos 
+si<lb ed="#P" break="no" n="31"/>militer irreprehensibiles; hoc est, sine crimine :
+<lb ed="#P" n="32"/>sicut episcopos pudicos, hic est a libidine 
+conti<lb ed="#P" break="no" n="33"/>nentes : non bilingues, ne turbent habentes 
+pa<lb ed="#P" break="no" n="34"/>cem : non multo vino deditos, quiaubi ebrietas,
+<lb ed="#P" n="35"/>ibilibido et furor dominatur: non turpe 
+lu<lb ed="#P" break="no" n="36"/>crum sectantes, ne de coelesti militia lucra 
+ter<lb ed="#P" break="no" n="37"/>rena sectentur. Post hoc subjecit: Hi autem 
+pro<lb ed="#P" break="no" n="38"/>bentur primum ; et sic ministrent 
+nullumcri<lb ed="#P" break="no" n="39"/>men habentes. Et hi itaque sicut episcopi ante
+<lb ed="#P" n="40"/>ordinationem probari debent ; et si digni inventi
+<lb ed="#P" n="41"/>fuerint, sic demum ad sacrum ministerium 
+ad<lb ed="#P" break="no" n="42"/>mitti. Hi cum ordinantur, solus episcopus manus
+<lb ed="#P" n="43"/>es imponit, quia ad ministerium non ad 
+sacer<lb ed="#P" break="no" n="44"/>cerdotium applicantur, ponitur eis orarium, id
+<lb ed="#P" n="45"/>est stola super sinistrum humerum ab episcopo,
+<lb ed="#P" n="46"/>ut hoc agnoscant seaccepisse jugum Domini ;quo
+<lb ed="#P" n="47"/>omnia ad sinistram, idest, presentem vitam 
+perti<lb ed="#P" break="no" n="48"/>nentiaadversa fortiter tolerent, etdivino timori 
+sub<lb ed="#P" break="no" n="49"/>jiciant. Accipiunt et textum Evangeliorum de 
+ma<lb ed="#P" break="no" n="50"/>nu episcopi, per quem intelligant se esse praecones
+<lb ed="#P" n="51"/>Evangeli Christi. Nam sicut lectoribus Vetus
+<lb ed="#P" n="52"/>Testamentum, ita diaconisnovum praedicare pr:
+e<lb ed="#P" break="no" n="53"/>ceptum est ;prsecipue evangelium quod solis ipsis
+<lb ed="#P" n="54"/>in Ecclesia pronuntiare licet. Ad ipsos pertinet
+<lb ed="#P" n="55"/>assistere sacerdotibus et ministrare in omnibus
+<lb ed="#P" n="56"/>quie aguntur in sacramentis Christi, in baptismo
+<lb ed="#P" n="57"/>scilicet, in chrismate, in patena ct calice. 
+Oblatio<lb ed="#P" break="no" n="58"/>nes etiam inferre et disponere in altari, 
+compo<lb ed="#P" break="no" n="59"/>nereetiam mensam Domini atque vestire, 
+cru<lb ed="#P" break="no" n="60"/>cem ferre et predicare Evangelium et apostolum.
+<lb ed="#P" n="61"/>Ad ipsos quoque pertinet officium precum,
+<lb ed="#P" n="62"/>et recitatio nominum. Ipsi premonent aures ad
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>Dominum, ipsi hortantur orare. Ipsi clamant, et
+<lb ed="#P" n="64"/>pacem ipst annuntiant. Hoc officio usus est 
+Do<lb ed="#P" break="no" n="65"/>minus, quando post cenam proprio ore et 
+pro<lb ed="#P" break="no" n="66"/>priis manibus sacramenta confecta dispensavit,
+<lb ed="#P" n="67"/>et quando apostolos dormitantes ad orationem
+<lb ed="#P" n="68"/>incitavit, dicens: Vigilate et orate wt non 
+intre<lb ed="#P" break="no" n="69"/>tis in tentationem (Matth. xxvi).
+</p>
+            </div>
+            <div xml:id="hsvhsv-g35427-Dd1e1119">
+               <head xml:id="hsvhsv-g35427-Hd1e1121">Capitulum 12</head>
+               <head xml:id="hsvhsv-g35427-Hd1e1123" type="question-title"/>
+               <p xml:id="hsvhsv-g35427-d1e1125">
+                  <lb ed="#P" n="70"/>Cap. XII. De presbyteris.
+</p>
+               <p xml:id="hsvhsv-g35427-d1e1130">
+                  <lb ed="#P" n="71"/>Septimo loco subsequitur ordo presbyterorum,
+<lb ed="#P" n="72"/>qui in Veteri Testamento a filiis Aaron sumpsit
+<lb ed="#P" n="73"/>initium. Nam qui tunc secerdotes vocabantur,
+<lb ed="#P" n="74"/>hi sunt qui nunc appellantur presbyteri, et qui
+<lb ed="#P" n="75"/>tunc dicebantur, principes sacerdotum, nunc 
+epis<lb ed="#P" break="no" n="76"/>copi nominantur. Presbyteri autem interpretantur
+<lb ed="#P" n="77"/>seniores, quia seniores Graci presbyteros vocant.
+<lb ed="#P" n="78"/>Debentenim preshyteri senioresesse in populo Dei;
+<lb ed="#P" n="79"/>non tantum :etate corporis, quantum prudentia
+<lb ed="#P" n="80"/>morum et maturitate bonae conversiationis, sicut.
+<lb ed="#P" n="81"/>scriptum est: Senectus venerabilis est, non 
+diu<lb ed="#P" break="no" n="82"/>turna neque annorum numero computata. 
+Ca<lb ed="#P" break="no" n="83"/>ni enim sunt sensus hominis, et etas 
+senectu<lb ed="#P" break="no" n="84"/>tis vita immaculata (Sap. 1v). Distat autem hoc
+<lb ed="#P" n="85"/>tantum inter pontifices, et hujus temporis 
+sacer<lb ed="#P" break="no" n="86"/>dotes, quod solis pontificibus addita est 
+clerico<lb ed="#P" break="no" n="87"/>rum ordinatio. Basilicarum dedicatio, 
+sacrichris<lb ed="#P" break="no" n="88"/>matis consecratio, manus impositio, et 
+commu<lb ed="#P" break="no" n="89"/>nis super populum benedictio. In aliis autem 
+sa<lb ed="#P" break="no" n="90"/>cramentis sive scilicet catechizandi, sive 
+bapti<lb ed="#P" break="no" n="91"/>zandi, sive missam celebrandi, et 
+consecrandicor<lb ed="#P" break="no" n="92"/>poris sanguinis Christi sacramentum, sive in 
+Ec<lb ed="#P" break="no" n="93"/>clesia verbum faciendi, communis est utrisque
+<lb ed="#P" n="94"/>dispensatio. Summis ergosacerdotibus supradicta
+<lb ed="#P" n="95"/>ideirco singulariter reservata sunt ne eadem
+<lb ed="#P" n="96"/>prorsus auctoritas potestatis ab omnibus passim
+<lb ed="#P" n="97"/>vindicata, inferiores erga superpositos insolentes
+<lb ed="#P" n="98"/>redderet, et soluto obedientia: vinculo scandalum
+<lb ed="#P" n="99"/>generaret. Presbyteri successores et vicarii sunt
+<lb ed="#P" n="100"/>septuaginta discipulorum quiprecedebant 
+Domi<lb ed="#P" break="no" n="101"/>num Jesum in omnem civitatem et locum quo 
+ip<lb ed="#P" break="no" n="102"/>8e erat venturus (Luc. x). Ita quippe presbyteri
+<lb ed="#P" n="103"/>qui adjutores sunt episcoporum, rudes populo 
+ca<lb ed="#P" break="no" n="104"/>techizando initiant, baptizando unitati Ecclesie
+<lb ed="#P" n="105"/>incorporant, etin sacramentis usque ad manus
+<lb ed="#P" n="106"/>impositionem populo Dei ministrant. Episcopi
+<lb ed="#P" n="107"/>vero successores sunt apostolorum, qui ex 
+neces<lb ed="#P" break="no" n="108"/>sitate ad adjutorium et supplementum sui officii,
+<lb ed="#P" n="109"/>in tanta multitudine populorum regendorum 
+mi<lb ed="#P" break="no" n="110"/>nisterium sibi expetunt sacerdotum. Sicut Moyses
+<lb ed="#P" n="111"/>in eremo septuaginta viros elegit prudentes, 
+quo<lb ed="#P" break="no" n="112"/>rum consilio et auxilio multitudinem tantam 
+fa<lb ed="#P" break="no" n="113"/>cilius gubernaret. Sive inferioris sive superioris
+<lb ed="#P" n="114"/>sint ordinis sacerdotes, id est sive presbyteri sive
+<lb ed="#P" n="115"/>episcopi, vicem gerunt summi pontificis, dum 
+po<lb ed="#P" break="no" n="116"/>pulos delinquentes ad poenitentiam vocant, et
+<lb ed="#P" n="117"/>orationum suarum medicamento sanant. Unde
+<lb ed="#P" n="118"/>Apostolus dicit: Deus erat in Christo mundum
+<lb ed="#P" n="119"/>reconcilians sibi, et posuit in nobis verbum 
+re<lb ed="#P" break="no" n="120"/>conciliationis. Obsecramus ergo pro Christo
+<lb ed="#P" n="121"/>reconciliamini Deo (1I Cor. v). In hoc igitur 
+vi<lb ed="#P" break="no" n="122"/>ce mediatoris funguntur sacerdotes, quod Deum
+<lb ed="#P" n="123"/>pro peccatis populi exorant, et poenitentes 
+ab<lb ed="#P" break="no" n="124"/>solvendo reconciliant. Quapropter convenit ut
+<!-- 133.png.txt -->
+<pb ed="#P" n="215"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>tanquam boni mediatoresinter homines et Deum, 
+<lb ed="#P" n="2"/>et praecepta Dei ad populum deferant, veritatem
+<lb ed="#P" n="3"/>praedicando, et preces populi Deo offerant pro
+<lb ed="#P" n="4"/>peccatoribus intercedendo. Mediator autem, ut
+<lb ed="#P" n="5"/>ait Apostolus, unius non est (Galat. um), quia
+<lb ed="#P" n="6"/>discordes reconciliare non potest, qui utrinque
+<lb ed="#P" n="7"/>Societatis pace, et amiciti: vinculo concors non
+<lb ed="#P" n="8"/>est ; sed idcirco sacerdotes cum Deo pacem 
+habe<lb ed="#P" break="no" n="9"/>re per eminentiam sanctitagjs, et cum proximis
+<lb ed="#P" n="10"/>concordiam servare debent, per affectum 
+compas<lb ed="#P" break="no" n="11"/>siones. Quales ergo debeant esse presbyteri 
+Apos<lb ed="#P" break="no" n="12"/>tolus scribens ad Titum insinuat, dicens : Hujus
+<lb ed="#P" n="13"/>rei gratia reliqui te Creta, ut constituas per
+<lb ed="#P" n="14"/>civitates presbyteros quemadmodum tibi 
+dis<lb ed="#P" break="no" n="15"/>posui. Si quis sine crimine est, unius uxoris
+<lb ed="#P" n="16"/>vir habet filios fideles, non in accusatione 
+luxu<lb ed="#P" break="no" n="17"/>rim, aut non subditos. Oportet enim  
+episco<lb ed="#P" break="no" n="18"/>pum esse sine crimine (Tit 1). Qua sententia 
+os<lb ed="#P" break="no" n="19"/>tendit etiam presbyteros subepiscoporum nomine
+<lb ed="#P" n="20"/>taxari. Unde etad Timotheum de ordinatione 
+epis<lb ed="#P" break="no" n="21"/>copi et diaconi scribit depresbyteris tacens, quos
+<lb ed="#P" n="22"/>sub nemine episcoporum intelligendos reliquit.
+<lb ed="#P" n="23"/>Quapropter tales etiam in Ecclesia presbyteros
+<lb ed="#P" n="24"/>constituendos esse, sicut episcopos, et Apostolus
+<lb ed="#P" n="25"/>asserit et canones apostolicam auctoritatem 
+se<lb ed="#P" break="no" n="26"/>cuti testantur. Presbyteri cum ordinantur; 
+epis<lb ed="#P" break="no" n="27"/>copo eos benedicente, et manus super capita 
+eo<lb ed="#P" break="no" n="28"/>rum tenente, omnes presbyteri qui praesentessunt
+<lb ed="#P" n="29"/>manus juxtamanum episcopi super capita eorum
+<lb ed="#P" n="30"/>levant, et Spiritum sanctum super eos qui 
+ordi<lb ed="#P" break="no" n="31"/>nantur invocant. Unguntur presbyteris manus
+<lb ed="#P" n="32"/>sicut episcopis, ut cognoscant se hoc sacramento
+<lb ed="#P" n="33"/>gratiam consecranii accipere, et opera 
+misericor<lb ed="#P" break="no" n="34"/>die erga omnes pro viribus exercere debere. 
+Unc<lb ed="#P" break="no" n="35"/>lio capitis specialiter ad episcopum pertinet, ut
+<lb ed="#P" n="36"/>intelligat se vicarium illius esse de quo scriptum
+<lb ed="#P" n="37"/>est: Unzw te Deus, Deus twus oleo letitio
+<lb ed="#P" n="38"/>(Psal. xviv). Hi post invocationem sancti 
+Spiri<lb ed="#P" break="no" n="39"/>tus stolam super utrumque humerum accipiunt,
+<lb ed="#P" n="40"/>quae in modum sustentaculorum dextrum latus
+<lb ed="#P" n="41"/>munit et sinistrum, ut ex hoc intelligant se per
+<lb ed="#P" n="42"/>arma justitie a dextris et a sinistris esse 
+muni<lb ed="#P" break="no" n="43"/>tos, ut eos nec adversa frangant, nec prospera 
+ex<lb ed="#P" break="no" n="44"/>tollant. Accipiunt et calicem cum vino, et 
+pate<lb ed="#P" break="no" n="45"/>nam cum hostiis de manu episcopi, quatenus his
+<lb ed="#P" n="46"/>instrumentis potestatem se accepisse agnoscant,
+<lb ed="#P" n="47"/>placabiles Deo hostias offerendi. Ad ipsos perti
+<lb ed="#P" n="48"/>net sacramentum corporis et sanguinis Domini
+<lb ed="#P" n="49"/>in altario Dei conficere, orationes dicere, et 
+bene<lb ed="#P" break="no" n="50"/>dicere dona Dei. Hoc officio usus est Dominus 
+nos<lb ed="#P" break="no" n="51"/>ter Jesus Christus, quando post cenam panemet
+<lb ed="#P" n="52"/>vinum in corpus et sanguinem suum 
+commuta<lb ed="#P" break="no" n="53"/>vit, ut in memoriam suc passionis idem facerent
+<lb ed="#P" n="54"/>discipulos moriens instituit. Hoc quoque 
+excel<lb ed="#P" break="no" n="55"/>lenter officium implens exhibuit, quando ipse 
+sa<lb ed="#P" break="no" n="56"/>cerdos et hostia seipsum in arca crucis propter
+<lb ed="#P" n="57"/>peccata generis humani obtulit, et proprium 
+san<lb ed="#P" break="no" n="58"/>guinem sancta :eterna ingrediens coelestia et 
+ter<lb ed="#P" break="no" n="59"/>rena pacificavit. In quo apparet quanta sit 
+excel<lb ed="#P" break="no" n="60"/>lentia sacerdotalis officii, per quod quotidie 
+inal<lb ed="#P" break="no" n="61"/>tari passio Chisti celebratur, et reus quisque a
+<lb ed="#P" n="62"/>peccatis conversus Deo reconciliatur. Quibus om-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>nibusde sacerdotali officio breviter pertractatis 
+ad<lb ed="#P" break="no" n="64"/>monendi sunt Christi sacerdotes, quatenus sicut
+<lb ed="#P" n="65"/>excelunt ordinis dignitate, sic excellant vits
+<lb ed="#P" n="66"/>sanctitate, ut plebs eis commissa atque eorum
+<lb ed="#P" n="67"/>disciplinis edocta, gratanter eisobediat, et eorum
+<lb ed="#P" n="68"/>imitatione de die in diem proficiat.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g35427-Dd1e1407">
+               <head xml:id="hsvhsv-g35427-Hd1e1409">Capitulum 13</head>
+               <head xml:id="hsvhsv-g35427-Hd1e1411" type="question-title"/>
+               <p xml:id="hsvhsv-g35427-d1e1413">
+                  <lb ed="#P" n="69"/>Cap. XIII. De episcopis.
+</p>
+               <p xml:id="hsvhsv-g35427-d1e1418">
+                  <lb ed="#P" n="70"/>Sacri canones definiunt nullum in episcopum
+<lb ed="#P" n="71"/>eligendum, nisi qui prius in sacris ordinibus 
+re<lb ed="#P" break="no" n="72"/>ligiose fuerit conversatus. Sacros autem ordines
+<lb ed="#P" n="73"/>diaconatus et presbyteratus tantum. appellandos
+<lb ed="#P" n="74"/>censent; quia hos solos primitiva legitur Ecclesia
+<lb ed="#P" n="75"/>habuisse, et de his solis praceptum habemus
+<lb ed="#P" n="76"/>upostoli. Subdiaconos tamen quia et ipsi sacris
+<lb ed="#P" n="77"/>altaribus administrant, opportunitate exigente in
+<lb ed="#P" n="78"/>episcopos eligi concedunt. Sed rarissime et ipsum
+<lb ed="#P" n="79"/>non sine Romani pontificis sive metropolitani 
+li<lb ed="#P" break="no" n="80"/>centia; si tamen spectat: sit religionis, et 
+proba<lb ed="#P" break="no" n="81"/>bilis scientiz. Ad episcopum specialiter pertinet
+<lb ed="#P" n="82"/>basilicarum consecratio, unctio altaris, et confectio
+<lb ed="#P" n="83"/>chrismatis, manus impositio, et communis super
+<lb ed="#P" n="84"/>populum benedictio. Ipse predicta officia et 
+ordi<lb ed="#P" break="no" n="85"/>ues ecclesiasticos distribuit, ipse sacras virgines
+<lb ed="#P" n="86"/>benedicit. Dum enim praecessit unusquisque in
+<lb ed="#P" n="87"/>singulis, iste preordinator est in cunctis. Nullus
+<lb ed="#P" n="88"/>episcopus alium in episcopum sine metropolitani
+<lb ed="#P" n="89"/>consensu consecrare debet, nec metropolitanus
+<lb ed="#P" n="90"/>ordinare episcopum nisi tribus ad minimum 
+epis<lb ed="#P" break="no" n="91"/>copis praesentibus, aliis omnibus qui in eadem
+<lb ed="#P" n="92"/>provincia sunt episcopis assensum dantibus. Cum
+<lb ed="#P" n="93"/>vero ordinatur, duo episcopi ponunt et tenent
+<lb ed="#P" n="94"/>Evangeliorum codicem super caput, et super 
+ver<lb ed="#P" break="no" n="95"/>ticem ejus, et uno super eum fundente benedi- *
+<lb ed="#P" n="96"/>ctionem, reliqui omnes episcopi qui absunt 
+mani<lb ed="#P" break="no" n="97"/>bus suis caput ejus tangunt. Ungitur autem sacra
+<lb ed="#P" n="98"/>unctione caput ejus, quia omnis sanctificatio 
+con<lb ed="#P" break="no" n="99"/>stat in Spiritu sancto, cujus virtus invisibilis in
+<lb ed="#P" n="100"/>ipsa Chrismatis sancti unctione, et significatur,
+<lb ed="#P" n="101"/>et confertur. Ordinando autem pontifex manum
+<lb ed="#P" n="102"/>imponit. Evangelicam vero lectionem diaconus
+<lb ed="#P" n="103"/>legit; confirmationis autem epistolam notarius
+<lb ed="#P" n="104"/>scribit. Denique et ordinator et ordinatus in
+<lb ed="#P" n="105"/>ipsa ordinatione uterque missam celebrare debet.
+<lb ed="#P" n="106"/>Et hiec quidem forma consecrandis pontificibus a
+<lb ed="#P" n="107"/>sanctis Patribus tradita est.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g35427-Dd1e1504">
+               <head xml:id="hsvhsv-g35427-Hd1e1506">Capitulum 14</head>
+               <head xml:id="hsvhsv-g35427-Hd1e1508" type="question-title"/>
+               <p xml:id="hsvhsv-g35427-d1e1510">
+                  <lb ed="#P" n="108"/>Cap. XIV. De archiepiscopis.
+</p>
+               <p xml:id="hsvhsv-g35427-d1e1515">
+                  <lb ed="#P" n="109"/>Sed quando archiepiscopus electus ordinandus
+<lb ed="#P" n="110"/>fuerit, omnes ejusdem provincisae episcopiad sedem.
+<lb ed="#P" n="111"/>metropolitanam convenire debent, ut ab omnibus -
+<lb ed="#P" n="112"/>ipse ordinetur. Oportet enim ut ipse qui illis 
+om<lb ed="#P" break="no" n="113"/>nibus praesse debet, ab omnibus illis eligatur et
+<lb ed="#P" n="114"/>ordinetur, alioquin cassa judicatur consecratio.
+<lb ed="#P" n="115"/>Statutum est autem ut archiepiscopus intra tres
+<lb ed="#P" n="116"/>menses consecrationis sus ad fidem suam 
+expo<lb ed="#P" break="no" n="117"/>nendam et pallium suscipiendum ad apostolicam
+<lb ed="#P" n="118"/>sedem mittat, quod amplius habere episcopo 
+di<lb ed="#P" break="no" n="119"/>gnoscitur. Archiepiscopus enim episcopis praest,
+<lb ed="#P" n="120"/>et pallium portat.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g35427-Dd1e1546">
+               <head xml:id="hsvhsv-g35427-Hd1e1548">Capitulum 15</head>
+               <head xml:id="hsvhsv-g35427-Hd1e1550" type="question-title"/>
+               <p xml:id="hsvhsv-g35427-d1e1552">
+                  <lb ed="#P" n="121"/>Cap. XV. De summo pontifice.
+</p>
+               <p xml:id="hsvhsv-g35427-d1e1557">
+                  <lb ed="#P" n="122"/>Quia sedes apostolice cunctis in orbe terrarum
+<!-- 134.png.txt -->
+<pb ed="#P" n="216"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>praefertur Ecclesiis, atque supra se metropolitanum 
+<lb ed="#P" n="2"/>habere non potest : cardinales episcopi procul 
+du<lb ed="#P" break="no" n="3"/>bio metropolitani vice funguntur, qui videlicet
+<lb ed="#P" n="4"/>electum antistitem ad apostolici culminis apicem
+<lb ed="#P" n="5"/>provehunt. Facta autem electione si forte casus
+<lb ed="#P" n="6"/>vel violentia aliqua obstiterit, ut is qui electus
+<lb ed="#P" n="7"/>estin apostolica sede juxta consuefudinem 
+inthro<lb ed="#P" break="no" n="8"/>nizari non valeat; electus tamen quemadmodum
+<lb ed="#P" n="9"/>Statutum est, sicut papa, auctoritatem obtinere
+<lb ed="#P" n="10"/>debet regendi sanctam Romanam Ecclesiam et
+<lb ed="#P" n="11"/>disponendi facultates illius.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g35427-Dd1e1593">
+               <head xml:id="hsvhsv-g35427-Hd1e1595">Capitulum 16</head>
+               <head xml:id="hsvhsv-g35427-Hd1e1597" type="question-title"/>
+               <p xml:id="hsvhsv-g35427-d1e1599">
+                  <lb ed="#P" n="12"/>Cap. XVI. De cateris officiis quae sunt in clero.
+</p>
+               <p xml:id="hsvhsv-g35427-d1e1604">
+                  <lb ed="#P" n="13"/>Hi sunt ordines et. ministeria clericorum. Quae
+<lb ed="#P" n="14"/>tamen in auctoritatem pontificalem, in 
+archidia<lb ed="#P" break="no" n="15"/>coni curam, et primicerii ac thesaurarii 
+sollicitu<lb ed="#P" break="no" n="16"/>dinem dividuntur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g35427-Dd1e1616">
+               <head xml:id="hsvhsv-g35427-Hd1e1618">Capitulum 17</head>
+               <head xml:id="hsvhsv-g35427-Hd1e1620" type="question-title"/>
+               <p xml:id="hsvhsv-g35427-d1e1622">
+                  <lb ed="#P" n="17"/>Cap. XVII. De archidiaconis.
+</p>
+               <p xml:id="hsvhsv-g35427-d1e1627">
+                  <lb ed="#P" n="18"/>Archidiaconus imperat subdiaconis et levitis,
+<lb ed="#P" n="19"/>ad quem ista pertinent ministeria. Sollicitudo 
+pa<lb ed="#P" break="no" n="20"/>rochiarum et ordinatio, et jurgia ad ejus pertinent
+<lb ed="#P" n="21"/>curam. Pro reparandis dioesanis basilicis ipse
+<lb ed="#P" n="22"/>suggerit sacerdoti, ipse inquirit parochias cum
+<lb ed="#P" n="23"/>jussione episcopi, et ornamenta vel res 
+basilica<lb ed="#P" break="no" n="24"/>rum, vel parochiarum; gesta libertatum 
+eccle<lb ed="#P" break="no" n="25"/>siasticarum episcopo idem refert, collectam 
+pe<lb ed="#P" break="no" n="26"/>cuniam de communione ipse accipit et episcopo
+<lb ed="#P" n="27"/>defert, et cetera quaedam episcopalis 
+providen<lb ed="#P" break="no" n="28"/>tie ministeria sub episcopo quasi in partem
+<lb ed="#P" n="29"/>cure advocatus, in causis ecclesiasticis 
+exami<lb ed="#P" break="no" n="30"/>nandis dispensat.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g35427-Dd1e1659">
+               <head xml:id="hsvhsv-g35427-Hd1e1661">Capitulum 18</head>
+               <head xml:id="hsvhsv-g35427-Hd1e1663" type="question-title"/>
+               <p xml:id="hsvhsv-g35427-d1e1665">
+                  <lb ed="#P" n="31"/>Cap. XVIII. De primicerio.
+</p>
+               <p xml:id="hsvhsv-g35427-d1e1670">
+                  <lb ed="#P" n="32"/>Ad primicerium pertinent acolythi, exorcists,
+<lb ed="#P" n="33"/>lectores atque psalmistee, id est cantores. Signum
+<lb ed="#P" n="34"/>"quoque dandum pro officio clericorum, pro vitae
+<lb ed="#P" n="35"/>honestate, et officium cantandi peragendi sollicite:
+<lb ed="#P" n="36"/>lectiones, benedictiones, psalmos, laudes, 
+offerto<lb ed="#P" break="no" n="37"/>rium et responsoria : quis clericorum dicere 
+de<lb ed="#P" break="no" n="38"/>beat. Ordo quoque et modus psallendi in choro
+<lb ed="#P" n="39"/>pro solemnitate et tempore. Ordinatio quoque
+<lb ed="#P" n="40"/>proluminaribus deportandis, si quid etiam 
+ne<lb ed="#P" break="no" n="41"/>cessarium est pro reparatione basilicarum, quae
+<lb ed="#P" n="42"/>quales sunt in urbe, ipse denuntiat sacerdoti.
+<lb ed="#P" n="43"/>Epistolas episcopi pro diebus jejuniorum 
+paro<lb ed="#P" break="no" n="44"/>chianis per ostiarios dirigit. Clericos quos 
+delin<lb ed="#P" break="no" n="45"/>quere cognoscit, ipse distringit; quos vero 
+emen<lb ed="#P" break="no" n="46"/>dare non valet, eorum excessum ad agnitionem
+<lb ed="#P" n="47"/>episcopi defert. Basilicarios ipse constituit, et D
+<lb ed="#P" n="48"/>matriculas ipse disponit. Quando autem 
+primice<lb ed="#P" break="no" n="49"/>rius absens est, ea quae predicta sunt ille 
+exqui<lb ed="#P" break="no" n="50"/>rit, qui ei aut lege est proximus, aut eruditione
+<lb ed="#P" n="51"/>hie explendis certus.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g35427-Dd1e1717">
+               <head xml:id="hsvhsv-g35427-Hd1e1719">Capitulum 19</head>
+               <head xml:id="hsvhsv-g35427-Hd1e1721" type="question-title"/>
+               <p xml:id="hsvhsv-g35427-d1e1723">
+                  <lb ed="#P" n="52"/>Cap. XIX. De thesaurario.
+</p>
+               <p xml:id="hsvhsv-g35427-d1e1728">
+                  <lb ed="#P" n="53"/>Adthesaurarium pertinent ostiarii, basilicarum.
+<lb ed="#P" n="54"/>ordinatio, incensi preparatio, cura chrismatis
+<lb ed="#P" n="55"/>conficiendi, cura baptisterii ordinandi, preparatio
+<lb ed="#P" n="56"/>luminarium in sacrificio et sacrificiis.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g35427-Dd1e1740">
+               <head xml:id="hsvhsv-g35427-Hd1e1742">Capitulum 20</head>
+               <head xml:id="hsvhsv-g35427-Hd1e1744" type="question-title"/>
+               <p xml:id="hsvhsv-g35427-d1e1746">
+                  <lb ed="#P" n="57"/>Cap. XX. Quando et quomodo ordinationes
+<lb ed="#P" n="58"/>sint facienda.
+</p>
+               <p xml:id="hsvhsv-g35427-d1e1753">
+                  <lb ed="#P" n="59"/>Ordinationes autem sacras, scilicet. 
+presbyte<lb ed="#P" break="no" n="60"/>rorum et diaconorum non nisi certis temporibus
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="61"/>fiari debere sancti Patres decreverunt, id est 
+je<lb ed="#P" break="no" n="62"/>junio quarti mensis et septimi, et decimi, et initi
+<lb ed="#P" n="63"/>quadragesimalis ac median: quadragesim:e- die
+<lb ed="#P" n="64"/>Sabbati cirea vesperam jejunio celebrato. Quando
+<lb ed="#P" n="65"/>vero episcopus ordinationes facere disponit, 
+om<lb ed="#P" break="no" n="66"/>nes qui ad sacrum ordinem accedere volunt, feria
+<lb ed="#P" n="67"/>quarta ante ipsam ordinationem evocandi sunt ad
+<lb ed="#P" n="68"/>civitatem, una cum presbyteris qui eos 
+praesen<lb ed="#P" break="no" n="69"/>tare debent. Tunc ergo episcopus e latere suo 
+eli<lb ed="#P" break="no" n="70"/>gere debet sacerdotes, et alios prudentes viros,
+<lb ed="#P" n="71"/>gnaros legis divinz, et exercitatos 1n 
+ecclesiasti<lb ed="#P" break="no" n="72"/>cis sanctionibus, qui ordinandorum et vitam et
+<lb ed="#P" n="73"/>scientiam sine favoris gratia, aut numeris 
+cupi<lb ed="#P" break="no" n="74"/>ditate, secundum veritatem diligenter investigent,
+<lb ed="#P" n="75"/>ut sic per tres continuos dies diligenter examinati,
+<lb ed="#P" n="76"/>Sabbato tandem qui probati fuerint episcopo 
+con<lb ed="#P" break="no" n="77"/>secrandi praesententur; benedictiones vero 
+ponti<lb ed="#P" break="no" n="78"/>ficum diebus tantum Dominicis celebrandas esse
+<lb ed="#P" n="79"/>sacri canones sanxerunt.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g35427-Dd1e1805">
+               <head xml:id="hsvhsv-g35427-Hd1e1807">Capitulum 21</head>
+               <head xml:id="hsvhsv-g35427-Hd1e1809" type="question-title"/>
+               <p xml:id="hsvhsv-g35427-d1e1811">
+                  <lb ed="#P" n="80"/>Cap, XXI. Qua atate ordinandi sunt qui ordinantur.
+</p>
+               <p xml:id="hsvhsv-g35427-d1e1816">
+                  <lb ed="#P" n="81"/>(4) De state vero ordinandrum talem nobis
+<lb ed="#P" n="82"/>definitio sacre Scripturs discretionem reliquit.
+<lb ed="#P" n="83"/>Ut subdiaconus quidem' non ordinetur ante 
+quar<lb ed="#P" break="no" n="84"/>tuordecim annos; nec diaconusante viginti 
+quin<lb ed="#P" break="no" n="85"/>que, nec presbyter ante triginta, quatenus 
+dein<lb ed="#P" break="no" n="86"/>ceps si dignus inventus fuerit in episcopum eligi
+<lb ed="#P" n="87"/>possit.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g35427-Dd1e1835">
+               <head xml:id="hsvhsv-g35427-Hd1e1837">Capitulum 22</head>
+               <head xml:id="hsvhsv-g35427-Hd1e1839" type="question-title"/>
+               <p xml:id="hsvhsv-g35427-d1e1841">
+                  <lb ed="#P" n="88"/>Cap. XXII. Quod sine certo titulo ordinandi
+<lb ed="#P" n="89"/>non sunt sacerdotes.
+</p>
+               <p xml:id="hsvhsv-g35427-d1e1848">
+                  <lb ed="#P" n="90"/>Quod autem sine certo titulo presbyter aut 
+dia<lb ed="#P" break="no" n="91"/>conus ordinari non debeat, dicere quid refert, cum
+<lb ed="#P" n="92"/>etiam si perfectionem ecclesiasticc disciplinae 
+se<lb ed="#P" break="no" n="93"/>queremur aliterin clerum assumendus non esset.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g35427-Dd1e1860">
+               <head xml:id="hsvhsv-g35427-Hd1e1862">Capitulum 23</head>
+               <head xml:id="hsvhsv-g35427-Hd1e1864" type="question-title"/>
+               <p xml:id="hsvhsv-g35427-d1e1866">
+                  <lb ed="#P" n="94"/>Cap. XXIII. Quales sunt eligendi ad sacros
+<lb ed="#P" n="95"/>ordines et quales non.
+</p>
+               <p xml:id="hsvhsv-g35427-d1e1873">
+                  <lb ed="#P" n="96"/>De vita autem et conditione eorum qui ad 
+sa<lb ed="#P" break="no" n="97"/>cros ordines eliguntur multa nobis patres 
+docu<lb ed="#P" break="no" n="98"/>menta reliquerunt.
+</p>
+               <p xml:id="hsvhsv-g35427-d1e1882">
+                  <lb ed="#P" n="99"/>Nam quid a sacris ordinibus non impediat eos
+<lb ed="#P" n="100"/>qui probate fuerint conversationis placuit 
+defi<lb ed="#P" break="no" n="101"/>nire. Qui a medicorum incisione forte claudi effi
+<lb ed="#P" n="102"/>ciuntur, vel pro egritudine sive per violentiam.
+<lb ed="#P" n="103"/>absciduntur; et qui non sponte, sed casu aliquod
+<lb ed="#P" n="104"/>membrum sibi amputaverunt ; si tamen tale 
+fue<lb ed="#P" break="no" n="105"/>rit ut ab opere administrationis non impediat, et
+<lb ed="#P" n="106"/>laici qui non concubinam nec pellicem norunt,
+<lb ed="#P" n="107"/>nec bigami exstiterunt, et in caeteris sine crimine
+<lb ed="#P" n="108"/>vixerunt;liberi quoque qui a dominis suis ita
+<lb ed="#P" n="109"/>manumissi sunt, ut in eis nullum obsequii jus aut.
+<lb ed="#P" n="110"/>potestatem observaverint et sine crimine vixerint,
+<lb ed="#P" n="111"/>hos in clerum assumi posse sine contradictione
+<lb ed="#P" n="112"/>sanxerunt. Publice vero poenitentes, criminosos,
+<lb ed="#P" n="113"/>illiteratos, bigamos, repudiatarum maritos, ex
+<lb ed="#P" n="114"/>adulterio natos, ab hereticis baptizatos, et qui
+<lb ed="#P" n="115"/>seipsos absciderunt, a sacris ordinibus arcendos,
+<lb ed="#P" n="116"/>et energumenos in clerum non recipiendos. Sed
+<lb ed="#P" n="117"/>et filios presbyterorum ad sacros ordines non 
+ad<lb ed="#P" break="no" n="118"/>mittendos, nisí quos vel habitus religionis, vel
+<lb ed="#P" n="119"/>spiritualis vitae honestas commendat. Poenitentes
+<lb ed="#P" n="120"/>vero si necessitasexegeritinter ostiarios deputari,
+</p>
+               <p xml:id="hsvhsv-g35427-d1e1933">
+<!-- 135.png.txt -->
+                  <pb ed="#P" n="217"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>vel inter lectores, ita ut Evangelium vel 
+Episto<lb ed="#P" break="no" n="2"/>lam non legant. Si autem ordinatii sunt inter
+<lb ed="#P" n="3"/>subdiaconos haberi concedunt, ita ut manum non
+<lb ed="#P" n="4"/>imponant, nec sacra contingant. Poenitentes 
+au<lb ed="#P" break="no" n="5"/>tem dicimus eos qui post baptismum pro 
+homici<lb ed="#P" break="no" n="6"/>dio, aut pro diversis criminibus, aut gravissimis
+<lb ed="#P" n="7"/>peccatis, publicam gerentes poenitentiam sub 
+cili<lb ed="#P" break="no" n="8"/>cio, divino fuerintaltario reconciliati. Similiter
+<lb ed="#P" n="9"/>transmarinos et incognitos homines, sive clericos
+<lb ed="#P" n="10"/>aliarum ecclesiarum, neque ordinari neque 
+ordi<lb ed="#P" break="no" n="11"/>natos recipi concedunt, sine commendatitiis 
+litte<lb ed="#P" break="no" n="12"/>ris episcoporum suorum.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g35427-Dd1e1969">
+               <head xml:id="hsvhsv-g35427-Hd1e1971">Capitulum 24</head>
+               <head xml:id="hsvhsv-g35427-Hd1e1973" type="question-title"/>
+               <p xml:id="hsvhsv-g35427-d1e1975">
+                  <lb ed="#P" n="13"/>Cap. XXIV. Qua ratione mutatio possit feri
+<lb ed="#P" n="14"/>ordinatorum.
+</p>
+               <p xml:id="hsvhsv-g35427-d1e1982">
+                  <lb ed="#P" n="15"/>Mutatio episcoporum de suis locis ad. alia loca
+<lb ed="#P" n="16"/>nulla ratione debet fieri, nisi pro magna utilitate B 
+<lb ed="#P" n="17"/>vel necessitate cogente. Et hoc quidem non per
+<lb ed="#P" n="18"/>ipsos fleri oportet, sed consilio et invitatione coe-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="19"/>piscoporum, atque auctoritate Romani pontificis.
+<lb ed="#P" n="20"/>Mutatio similiter clericorum sive presbyterorum
+<lb ed="#P" n="21"/>non sine magna discretione fieri debet, cum 
+con<lb ed="#P" break="no" n="22"/>silio et auctoritate episcoporum suorum. Clericum
+<lb ed="#P" n="23"/>etiam in Ecclesiis duarum civitatum ascribi sacri
+<lb ed="#P" n="24"/>canones vetant. Presbyteros quoque relicta cura
+<lb ed="#P" n="25"/>Ecclesiarum suarum profectionem suscipere, sive
+<lb ed="#P" n="26"/>ad orationes sive quolibet, inconsulto episcopo
+<lb ed="#P" n="27"/>non oportere testantur. Determinant quoque quae
+<lb ed="#P" n="28"/>Sint quae necessario presbyteros scire oportet,
+<lb ed="#P" n="29"/>Scilicet librum sacramentorum, lectionarium, 
+bap<lb ed="#P" break="no" n="30"/>tisterium, compotum, canonem, ponitentialem,
+<lb ed="#P" n="31"/>psalterium, homilias, per circulum anni 
+Domini<lb ed="#P" break="no" n="32"/>cis diebus et singulis festivitatibus aptas, et
+<lb ed="#P" n="33"/>multa alia quae de vita etconversatione sacrorum
+<lb ed="#P" n="34"/>ordinum, vel rationabiliter dicta sunt, vel 
+neces<lb ed="#P" break="no" n="35"/>sario facienda.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

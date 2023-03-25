@@ -1,0 +1,1075 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pars 17</title>
+            <author ref="#HughOfStVictor">Hugh of St. Victor</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Pars 17</title>
+               <date when="2023-03-25">March 25, 2023</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-bnhupl">Patrologia Latina, v. 176</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2023-03-25" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="299"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="hsvhsv-g61485"><!-- l2-p17 -->
+            <head xml:id="hsvhsv-g61485-Hd1e101">Pars 17</head>
+            <head xml:id="hsvhsv-g61485-Hd1e103" type="question-title">
+De fine saeculi
+</head>
+            <p xml:id="hsvhsv-g61485-d1e106">
+<!-- 217.png.txt -->
+               <pb ed="#P" n="299"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>PARS SEPTIMA DECIMA.
+<lb ed="#P" n="2"/>DE FINE SAECULI.
+</p>
+            <div xml:id="hsvhsv-g61485-Dd1e119">
+               <head xml:id="hsvhsv-g61485-Hd1e121">Capitulum 1</head>
+               <head xml:id="hsvhsv-g61485-Hd1e123" type="question-title"/>
+               <p xml:id="hsvhsv-g61485-d1e125">
+                  <lb ed="#P" n="3"/>Cap. I. De tempore adventus Christi in 
+novis<lb ed="#P" break="no" n="4"/>simo Augustinus ad Esycium.
+</p>
+               <p xml:id="hsvhsv-g61485-d1e132">
+                  <lb ed="#P" n="5"/>De Salvatoris adventu qui exspectatur in fine,
+<lb ed="#P" n="6"/>tempora dinumerare non audeo, nec aliquem 
+pro<lb ed="#P" break="no" n="7"/>phetam de hac re numerum annorum existimo
+<lb ed="#P" n="8"/>prefinisse. Sed potius illud praevalere quod ipse
+<lb ed="#P" n="9"/>Dominus ait : Nemo potest cognoscere tempora
+<lb ed="#P" n="10"/>qua Pater poswit in sua potestate (Act. 1) 
+Tem<lb ed="#P" break="no" n="11"/>pora ergo computare hoc est xp» chronous ut
+<lb ed="#P" n="12"/>sciamus quando sit hujus seculi, vel adventus
+<lb ed="#P" n="13"/>Domini nihil aliud mihi videtur quam scire velle
+<lb ed="#P" n="14"/>quod ipse ait, scire neminem posse. Opportunitas
+<lb ed="#P" n="15"/>vero illius temporis profecto non erit, antequam
+<lb ed="#P" n="16"/>pridicetur Evangelium universo orbi in 
+testimo<lb ed="#P" break="no" n="17"/>niumomnibus gentibus. Apertissima enim de hac
+<lb ed="#P" n="18"/>re legitur sententia Salvatoris dicentis: Et 
+pre<lb ed="#P" break="no" n="19"/>dicabitur hoc Evangelium regni in universo 
+or<lb ed="#P" break="no" n="20"/>be in testimonium omnibus gentibus. Tunc 
+ve<lb ed="#P" break="no" n="21"/>niet finis (Matth. xxiv.) Tunc veniet quid est nisi
+<lb ed="#P" n="22"/>ante non veniet? Quanto postergo veniat incertum
+<lb ed="#P" n="23"/>nobis est. Ante tamen non esse venturum 
+dubi<lb ed="#P" break="no" n="24"/>tare utique non debemus. Si ergo latet, quando
+<lb ed="#P" n="25"/>Ecclesia fructificante atque crescente, universus
+<lb ed="#P" n="26"/>omnino a mari usque ad mare orbis implebitur,
+<lb ed="#P" n="27"/>procul dubio latet quando finis erit. Ante quippe
+<lb ed="#P" n="28"/>non erit, Tunc revelabitur ille iniquus, id est
+<lb ed="#P" n="29"/>Antichristus, quem Dominus Jesus Christus 
+in<lb ed="#P" break="no" n="30"/>ficiet spiritu oris sui (II Thess. u).
+</p>
+            </div>
+            <div xml:id="hsvhsv-g61485-Dd1e192">
+               <head xml:id="hsvhsv-g61485-Hd1e194">Capitulum 2</head>
+               <head xml:id="hsvhsv-g61485-Hd1e196" type="question-title">
+De ultima tribulatione
+</head>
+               <p xml:id="hsvhsv-g61485-d1e199">
+                  <lb ed="#P" n="31"/>Cap. II. De ultima tribulatione, Augustinus
+<lb ed="#P" n="32"/>de civitate Dei.
+</p>
+               <p xml:id="hsvhsv-g61485-d1e206">
+                  <lb ed="#P" n="33"/>Tunc solvetur Satanas de custodia sua et exi- (
+<lb ed="#P" n="34"/>bit ad seducendas nationes, quae sunt in quatuor
+<lb ed="#P" n="35"/>angulis terree : Gog et Magog, quorum 
+inferpre<lb ed="#P" break="no" n="36"/>tationem nominum esse comperimus : Gog tectum.
+<lb ed="#P" n="37"/>Magog de tecto ; tanquam domus et ipse qui 
+pro<lb ed="#P" break="no" n="38"/>cédit de domo. Gentes ergo sunt in quibus 
+dia<lb ed="#P" break="no" n="39"/>bolum velut in abysso superius intelligebamus
+<lb ed="#P" n="40"/>inclusum, et ipse de illis quodam modo sese 
+ef<lb ed="#P" break="no" n="41"/>ferens et. procedens, ut ilie sint tectum, ipse de
+<lb ed="#P" n="42"/>tecto.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g61485-Dd1e232">
+               <head xml:id="hsvhsv-g61485-Hd1e234">Capitulum 3</head>
+               <head xml:id="hsvhsv-g61485-Hd1e236" type="question-title">
+Quare modo diabolus ligatur
+</head>
+               <p xml:id="hsvhsv-g61485-d1e239">
+                  <lb ed="#P" n="43"/>Cap. III. Quare modo diabolus ligatur.
+</p>
+               <p xml:id="hsvhsv-g61485-d1e244">
+                  <lb ed="#P" n="44"/>Alligatio diaboli est non permitti exercere 
+to<lb ed="#P" break="no" n="45"/>tam tentationem quam potest vel vi, vel dolo ad
+<lb ed="#P" n="46"/>seducendos homines in partem suam cogendo
+<lb ed="#P" n="47"/>violenter, fraudulenterve fallendo. Quod si 
+per<lb ed="#P" break="no" n="48"/>mitteretur in tam longo tempore et tanta 
+infir<lb ed="#P" break="no" n="49"/>mitate multorum plurimos tales quales Deus 
+per<lb ed="#P" break="no" n="50"/>peti id non vult et fideles dejiceret et ne crederent
+<lb ed="#P" n="51"/>impediret, quod ne faceret alligatus est. Tunc
+<lb ed="#P" n="52"/>enim solvetur quando et breve tempus erit. Nam
+<lb ed="#P" n="53"/>tribus annis et sex mensibus legitur suis totis
+<lb ed="#P" n="54"/>suorumque viribus sxviturus, et tales erunt cum
+<lb ed="#P" n="55"/>quibus ei belligerandum est, ut vinci tanto ejus
+<lb ed="#P" n="56"/>impetu insidiisque non possint. Solvetur autem
+<lb ed="#P" n="57"/>Satanas in fine seculi ut quam fortem 
+adversa<lb ed="#P" break="no" n="58"/>rium Dei civites superaverit, cum ingenti gloria
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="59"/>sui redemptoris, adjutoris, liberatoris aspiciat.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g61485-Dd1e284">
+               <head xml:id="hsvhsv-g61485-Hd1e286">Capitulum 4</head>
+               <head xml:id="hsvhsv-g61485-Hd1e288" type="question-title"/>
+               <p xml:id="hsvhsv-g61485-d1e290">
+                  <lb ed="#P" n="60"/>Cap. IV. Quare in novissimo solvetur.
+</p>
+               <p xml:id="hsvhsv-g61485-d1e295">
+                  <lb ed="#P" n="61"/>Exibit autem, ut dictum est, Satanas in 
+aper<lb ed="#P" break="no" n="62"/>tam persecutionem, de latebris erumpet odiorum.
+<lb ed="#P" n="63"/>Hzc enim erit novissima persecutio novissimo
+<lb ed="#P" n="64"/>imminente judicio, quam sancta Ecclesia toto
+<lb ed="#P" n="65"/>terrarum orbe patietur, universa videlicet civitas
+<lb ed="#P" n="66"/>Christi ab universa civitate diaboli 
+quantacun<lb ed="#P" break="no" n="67"/>que erit, utraque super terram. Unde apostolus:
+<lb ed="#P" n="68"/>Refrigescet charitas multorum et abundabit
+<lb ed="#P" n="69"/>iniquitas (Matth. xxiv). Unde Daniel : Et erit,
+<lb ed="#P" n="70"/>inquit, tempus tribulationis qualis 0n fwit ex
+<lb ed="#P" n="71"/>quo nata est gens super terram, usque ad 
+tem<lb ed="#P" break="no" n="72"/>pus illud (Dan. xit).
+</p>
+            </div>
+            <div xml:id="hsvhsv-g61485-Dd1e325">
+               <head xml:id="hsvhsv-g61485-Hd1e327">Capitulum 5</head>
+               <head xml:id="hsvhsv-g61485-Hd1e329" type="question-title"/>
+               <p xml:id="hsvhsv-g61485-d1e331">
+                  <lb ed="#P" n="73"/>Cap. V Quanto tempore erit ultima tribulatio.
+</p>
+               <p xml:id="hsvhsv-g61485-d1e336">
+                  <lb ed="#P" n="74"/>Haec persecutio novissima futura ab 
+Antichris<lb ed="#P" break="no" n="75"/>to tribus annis et sex mensibus erit. Non enim
+<lb ed="#P" n="76"/>veniet ad vivos et mortuos judicandos Christus,
+<lb ed="#P" n="77"/>nisi prius venerit ad seducendos in anima 
+mor<lb ed="#P" break="no" n="78"/>tuos adversarius ejus Antichristus, quem 
+Domi<lb ed="#P" break="no" n="79"/>nus Jesus interficiet spiritu oris sui (II Thess.
+<lb ed="#P" n="80"/>II)
+</p>
+            </div>
+            <div xml:id="hsvhsv-g61485-Dd1e355">
+               <head xml:id="hsvhsv-g61485-Hd1e357">Capitulum 6</head>
+               <head xml:id="hsvhsv-g61485-Hd1e359" type="question-title"/>
+               <p xml:id="hsvhsv-g61485-d1e361">
+                  <lb ed="#P" n="81"/>Cap. VI. De adventu Elia et Henoch.
+</p>
+               <p xml:id="hsvhsv-g61485-d1e366">
+                  <lb ed="#P" n="82"/>Veniet tunc Elias Thesbites antequam veniat
+<lb ed="#P" n="83"/>dies Domini magnus et illustris, qui convertet
+<lb ed="#P" n="84"/>cor patris ad filium, e? cor hominis ad 
+proxi<lb ed="#P" break="no" n="85"/>mum suum ; ne forte veniens percutiam 
+ter<lb ed="#P" break="no" n="86"/>ram penitus (Mal. 1v). Per hunc Eliam magnum
+<lb ed="#P" n="87"/>mirabilemque prophetam et posita sibi lege 
+no<lb ed="#P" break="no" n="88"/>vissimo tempore ante judicium Judreos in 
+Chris<lb ed="#P" break="no" n="89"/>tum verum, id est in Christum nostrum esse 
+cre<lb ed="#P" break="no" n="90"/>dituros celeberrimum est, in sermonibus 
+cordi<lb ed="#P" break="no" n="91"/>busque fidelium. Ipse quippe ante adventum 
+ju<lb ed="#P" break="no" n="92"/>dicis Salvatoris non immerito speratur eese ven--
+<lb ed="#P" n="93"/>turus, qui etiam nunc vivere non immerito 
+cre<lb ed="#P" break="no" n="94"/>ditur. Curru namque igneo raptus est de rebus:
+<lb ed="#P" n="95"/>humanis, quod evidentissime sacra Scriptura.
+<lb ed="#P" n="96"/>testatur (IV Reg. r1). Cum venerit ergo 
+exponen<lb ed="#P" break="no" n="97"/>do legem spiritualiter quam nunc Judseí carnali
+<lb ed="#P" n="98"/>ter sapiunt, convertet cor patris ad filium, id est.
+<lb ed="#P" n="99"/>corda patrum ad filios. Sic enim cor patrum 
+con<lb ed="#P" break="no" n="100"/>vertetur ad filios cum intelligentia patrum 
+per<lb ed="#P" break="no" n="101"/>ducetur ad intelligentiam flliorum, et cor filiorum
+<lb ed="#P" n="102"/>ad patres eorum dum in id quod senserunt illi,
+<lb ed="#P" n="103"/>consentient et isti.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g61485-Dd1e417">
+               <head xml:id="hsvhsv-g61485-Hd1e419">Capitulum 7</head>
+               <head xml:id="hsvhsv-g61485-Hd1e421" type="question-title"/>
+               <p xml:id="hsvhsv-g61485-d1e423">
+                  <lb ed="#P" n="104"/>Cap. VII. De qualitate persono judicis. 
+Au<lb ed="#P" break="no" n="105"/>gustinus de Trinitate.
+</p>
+               <p xml:id="hsvhsv-g61485-d1e430">
+                  <lb ed="#P" n="106"/>Cum venerit Filius hominis in gloria sua. et
+<lb ed="#P" n="107"/>omnes angeli ejus cum eo, tunc 
+congregabun<lb ed="#P" break="no" n="108"/>tur ante eum omnes gentes (Matth. xxv). Et:
+<lb ed="#P" n="109"/>Judaei quippe qui in malitia perseverantes in illo
+<lb ed="#P" n="110"/>judicio puniendi sunt, sicut alibi scriptum est :.
+<lb ed="#P" n="111"/>Videbunt in quem pupugerunt (Zach. xu; Joan..
+<lb ed="#P" n="112"/>xix ; Apoc. 1). Cum enim boni et mali visuri sunt
+<lb ed="#P" n="113"/>judicem vivorum et mortuorum; procul dubio
+<lb ed="#P" n="114"/>cum videre mali non poterunt nisi secundum for-
+<!-- 218.png.txt -->
+<pb ed="#P" n="300"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>mam qua Filius hominis est. Sed tamen in 
+cla<lb ed="#P" break="no" n="2"/>ritate in qua judicabit non in humilitate in qua
+<lb ed="#P" n="3"/>judicatus est. Non enim Christus iterum in cruce
+<lb ed="#P" n="4"/>videndus est. Czeterum illam Dei formam in qua
+<lb ed="#P" n="5"/>sequalis est Patri, procul dubio impii non 
+vide<lb ed="#P" break="no" n="6"/>bunt. Non enim sunt mundicordes. Beati enim
+<lb ed="#P" n="7"/>mundicordes, quoniam ipsi Deum videbunt
+<lb ed="#P" n="8"/>(Matth. v). Alioquin si Filius Dei judex in forma
+<lb ed="#P" n="9"/>in qua squalis est Patri etiam impiis cum 
+judi<lb ed="#P" break="no" n="10"/>caturus est apparebit, quid est quod pro magno
+<lb ed="#P" n="11"/>dilectori suo pollicetur, dicens ego diligam ewm.
+<lb ed="#P" n="12"/>et ostendam meipsum illi ? (Joan. 1v). 
+Quaprop<lb ed="#P" break="no" n="13"/>ter Filius hominis judicaturus est ; nec tamen ex
+<lb ed="#P" n="14"/>humana potestate, sed ex ea qua Filius Dei est.
+<lb ed="#P" n="15"/>Et rursus Filius Dei judicaturus est, nec tamen
+<lb ed="#P" n="16"/>1n ea forma apparens in qua Deus est aequalis 
+<lb ed="#P" n="17"/>Patri, sed in ea qua Filius hominis est. Itaque
+<lb ed="#P" n="18"/>utrumque dici potest, et Filius hominis judicabit.
+<lb ed="#P" n="19"/>et non Filius hominis judicabit, quia Filius 
+ho<lb ed="#P" break="no" n="20"/>minis judicabit ut verum sit quod ait: Cum 
+ve<lb ed="#P" break="no" n="21"/>nerit Filius hominis tunc congregabuntur ante
+<lb ed="#P" n="22"/>eum omnes gentes. Et non Filius hominis 
+judi<lb ed="#P" break="no" n="23"/>cabit, ut verum sit quod ait: Ego non judico, et
+<lb ed="#P" n="24"/>ego non quaro gloriam meam; est qui querat
+<lb ed="#P" n="25"/>et judicet (Joan. vir). Nam secundum id quod
+<lb ed="#P" n="26"/>in judicio non forma Dei sed forma Filii hominis
+<lb ed="#P" n="27"/>apparebit ; nec ipse Pater judicabit. Secundum
+<lb ed="#P" n="28"/>hocenim dictum est: Pater non j udicium quem.
+<lb ed="#P" n="29"/>quam, sed omne judicium dedit Filio (Joan.
+<lb ed="#P" n="30"/>v). Secundum autem quod dictum est : dedit 
+Pa<lb ed="#P" break="no" n="31"/>ter Filio vitam habere in semetipso (ibid.) ;
+<lb ed="#P" n="32"/>non utique dicitur Pater non judicat quemquam.
+<lb ed="#P" n="33"/>Secundum hoc enim quod aequalem Pater genuit
+<lb ed="#P" n="34"/>Filium, judicat cum illo. Secundum hoc ergo 
+dic<lb ed="#P" break="no" n="35"/>tum est quod in judicio non forma Dei sed 
+for<lb ed="#P" break="no" n="36"/>ma Filii hominis apparebit ; non quia non 
+judi<lb ed="#P" break="no" n="37"/>cabit qui dedit omne judicium Filio, cum de ilio
+<lb ed="#P" n="38"/>dicat Filius: Et qui querat et judicet; sed ita
+<lb ed="#P" n="39"/>dictum est: Pater non judicat quemquam, sed
+<lb ed="#P" n="40"/>omne judicium dedit Filio; ac si diceretur : 
+Pa<lb ed="#P" break="no" n="41"/>trem nemo videbit in judicio vivorum et 
+mor<lb ed="#P" break="no" n="42"/>tuorum, sed omnes Filium ; quía et Filius 
+homi<lb ed="#P" break="no" n="43"/>nis est ut possit ab impiis videri, cum et illi 
+vi<lb ed="#P" break="no" n="44"/>debunt in quem pupugerunt. Omne igitur 
+judi<lb ed="#P" break="no" n="45"/>cium dedit Filio, quia judex in forma Filii 
+homi<lb ed="#P" break="no" n="46"/>nis apparebit, quae forma non est Patris sed 
+Fi<lb ed="#P" break="no" n="47"/>lii; nec in ea Filii in qua sequalis est Patri, sed
+<lb ed="#P" n="48"/>inqua minor est Patre, ut sitin judicio 
+cons<lb ed="#P" break="no" n="49"/>picuus bonis et malis. Quando autem 
+ju<lb ed="#P" break="no" n="50"/>dicem videbunt mali non eis videbitur 
+bo<lb ed="#P" break="no" n="51"/>nus, quia non ad eum corde gaudebunt,
+<lb ed="#P" n="52"/>sed tunc se plangent omnes tribus terre
+<lb ed="#P" n="53"/>(Matth. xxiv). In numero utique malorum 
+om<lb ed="#P" break="no" n="54"/>nium et infidelium ; visio illa Filii hominis nec
+<lb ed="#P" n="55"/>bonum erit impiis qui mittentur in ignem «
+eter<lb ed="#P" break="no" n="56"/>num, nec summum bonum erit justis. Adhuc
+<lb ed="#P" n="57"/>enim vocat eos ad regnum quod eis paratum est
+<lb ed="#P" n="58"/>ab initio mundi. Sicut enim illis dicet: Ite in
+<lb ed="#P" n="59"/>dgnem cternum (Matth. xxv); sic istis: Venite,
+<lb ed="#P" n="60"/>benedicti Patris mei, possidete paratum vobis
+<lb ed="#P" n="61"/>regnum. (ibid.) Et sicut ibunt illi in 
+combustio<lb ed="#P" break="no" n="62"/>nem tternam, eic Justi 1n vitam aeternam. Quid
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>est autem vita aeterna nisi ut cognoscant te,
+<lb ed="#P" n="64"/>inquit, unum Deum vivum et quem misisti
+<lb ed="#P" n="65"/>Jesum Christum ? (Joan. xvi). Sed jam in illa
+<lb ed="#P" n="66"/>claritate de qua dicit Patri: quam habuit apud
+<lb ed="#P" n="67"/>te priusquam mundus fieret (ibid). Tunc tradet
+<lb ed="#P" n="68"/>regnum Deo et Patri, ut intret servus bonus in
+<lb ed="#P" n="69"/>gaudium Domini sui.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g61485-Dd1e611">
+               <head xml:id="hsvhsv-g61485-Hd1e613">Capitulum 8</head>
+               <head xml:id="hsvhsv-g61485-Hd1e615" type="question-title"/>
+               <p xml:id="hsvhsv-g61485-d1e617">
+                  <lb ed="#P" n="70"/>Cap. VIII. De celeritate judicii, Augustinus ad
+<lb ed="#P" n="71"/>Consentium.
+</p>
+               <p xml:id="hsvhsv-g61485-d1e624">
+                  <lb ed="#P" n="72"/>In atomo dicit Apostolus, hoc est in puncto
+<lb ed="#P" n="73"/>temporis, quod dividi non potest. £n ictu oculi ;
+<lb ed="#P" n="74"/>hoc est in summa celeritate et in novissima 
+tu<lb ed="#P" break="no" n="75"/>ba, hoc est in novissimo signo quod dabitur, ut
+<lb ed="#P" n="76"/>ista compleantur. Canet enim, inquit, tuba et
+<lb ed="#P" n="77"/>mortui resurgent incorrupti et nos 
+commuta<lb ed="#P" break="no" n="78"/>bimur (I Cor. Xv). Ergo istam commutationem
+<lb ed="#P" n="79"/>in melius sine dubitatione oportet intelligi, quia
+<lb ed="#P" n="80"/>omnes et justi et injusti resurrecturi sunt. Sed
+<lb ed="#P" n="81"/>sicut Dominus id Evangelio loquitur: Qui bene
+<lb ed="#P" n="82"/>fecerunt in resurrectionem vite; qui male
+<lb ed="#P" n="83"/>egerunt in resurrectionem judicii (Joan. v) ;
+<lb ed="#P" n="84"/>judicium appellans pcenam sempiternam, sicut
+<lb ed="#P" n="85"/>alio loco : Qui non credit, inquit, jam 
+judica<lb ed="#P" break="no" n="86"/>tus est (Joan. 11). Proinde illi qui ad judicium
+<lb ed="#P" n="87"/>resurrecti sunt non commutabuntur in illam 
+in<lb ed="#P" break="no" n="88"/>corruptelam, qui nec doloris ponam vel 
+corrup<lb ed="#P" break="no" n="89"/>tionem pati potest. Illa namque fidelium est 
+at<lb ed="#P" break="no" n="90"/>que sanctorum. Isti vero perpetua damnatione
+<lb ed="#P" n="91"/>eruciabuntur : quia ignis eorum non 
+exstingue<lb ed="#P" break="no" n="92"/>tur, et vermis eorum non morietur (Isa. Lxvi)
+<lb ed="#P" n="93"/>Ac per hoc incorrupti quidem resurgent 
+integri<lb ed="#P" break="no" n="94"/>tate membrorum, sed tamen corrumpendi dolore
+<lb ed="#P" n="95"/>penarum cum audierint : Ite in ignem aeternum
+<lb ed="#P" n="96"/>quiparatus est diabolo et angelis ejus (Matth.
+<lb ed="#P" n="97"/>xxv). À quo auditu malo justus non timebit.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g61485-Dd1e685">
+               <head xml:id="hsvhsv-g61485-Hd1e687">Capitulum 9</head>
+               <head xml:id="hsvhsv-g61485-Hd1e689" type="question-title"/>
+               <p xml:id="hsvhsv-g61485-d1e691">
+                  <lb ed="#P" n="98"/>Cap. IX. De eodem.
+</p>
+               <p xml:id="hsvhsv-g61485-d1e696">
+                  <lb ed="#P" n="99"/>Et ut radius oculi nostri non citius pervenit
+<lb ed="#P" n="100"/>ad propinquiora, tardius ad longinquiora, sed
+<lb ed="#P" n="101"/>utraque intervalla parili celeritate contingit, ita
+<lb ed="#P" n="102"/>eum in ictu oculi, sicut Apostolus dicit (ICor.
+<lb ed="#P" n="103"/>xv), sit resurrectio mortuorum ; omnipotentis
+<lb ed="#P" n="104"/>Dei et ineffabili nutui tam facile est quaeque 
+re<lb ed="#P" break="no" n="105"/>centia, quam diuturno tempore dilapsa cadavera
+<lb ed="#P" n="106"/>suscitare.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g61485-Dd1e717">
+               <head xml:id="hsvhsv-g61485-Hd1e719">Capitulum 10</head>
+               <head xml:id="hsvhsv-g61485-Hd1e721" type="question-title"/>
+               <p xml:id="hsvhsv-g61485-d1e723">
+                  <lb ed="#P" n="107"/>Cap. X. De eodem.
+</p>
+               <p xml:id="hsvhsv-g61485-d1e728">
+                  <lb ed="#P" n="108"/>Erit judicium ipso inopinato Domini adventu
+<lb ed="#P" n="109"/>celerrimum, quod tardissimum putabatur ; quia
+<lb ed="#P" n="110"/>ipsas conscientias sine sermonis prolixitate con-.
+<lb ed="#P" n="111"/>vincet. In cogitationibas enim, sicut scriptum
+<lb ed="#P" n="112"/>est, impii interrogatio erit (Sap. 1). Et 
+Aposto<lb ed="#P" break="no" n="113"/>lus: Cogitationibus, inquit, accusantibus sive
+<lb ed="#P" n="114"/>ezcusantibus in die qua judicabit Deus occulta
+<lb ed="#P" n="115"/>hominum secundum Evangelium meum, per
+<lb ed="#P" n="116"/>Jesum Christum (Rom. n). Etlam sic Dominus
+<lb ed="#P" n="117"/>futurus est testis intelligendus velox cum sine
+<lb ed="#P" n="118"/>mora revocaturus est in memoriam, unde 
+con<lb ed="#P" break="no" n="119"/>vincat et puniat conscientiam.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g61485-Dd1e758">
+               <head xml:id="hsvhsv-g61485-Hd1e760">Capitulum 11</head>
+               <head xml:id="hsvhsv-g61485-Hd1e762" type="question-title"/>
+               <p xml:id="hsvhsv-g61485-d1e764">
+                  <lb ed="#P" n="120"/>Cap. XI. De ordine resurgendi.
+</p>
+               <p xml:id="hsvhsv-g61485-d1e769">
+                  <lb ed="#P" n="121"/>Propheta Isaias : Resurgent, inquit, mortui ;
+<lb ed="#P" n="122"/>et resurgent qui erant in sepulchris (Isa. XXVI).
+<lb ed="#P" n="123"/>Unde Apostolus : Ipse Dominus : in jussu et. in
+<lb ed="#P" n="124"/>voce archangeli et in tuba Dei descendet de
+<!-- 219.png.txt -->
+<pb ed="#P" n="301"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>alo et mortui qui in Christo sunt resurgent 
+<lb ed="#P" n="2"/>primi. Deinde nos viventes qui reliqui sumus
+<lb ed="#P" n="3"/>simul rapiemur cum illis in nubibus obviam
+<lb ed="#P" n="4"/>Christo in aera. Et ita semper cum Domino
+<lb ed="#P" n="5"/>erimus (I Thes. 1v). Hxc verba apostolica 
+resur<lb ed="#P" break="no" n="6"/>rectionem mortuorum futuram quando veniet
+<lb ed="#P" n="7"/>Christus utique ad vivos et mortuos judicandos
+<lb ed="#P" n="8"/>preclarissime ostendunt. Sed queri solet utrum
+<lb ed="#P" n="9"/>illi quos hic viventes invenlurus est Christus,
+<lb ed="#P" n="10"/>quorum personas in se atque illos qui tunc 
+se<lb ed="#P" break="no" n="11"/>cum vivebant transfigurabat Apostolus, nunquam
+<lb ed="#P" n="12"/>omnino morituri sint, an ipso temporis puncto
+<lb ed="#P" n="13"/>quo, cum resurgentibus rapientur in nubibus 
+ob<lb ed="#P" break="no" n="14"/>viam Christo in aera ad immortalitatem per 
+mor<lb ed="#P" break="no" n="15"/>tem mira celeritate transibunt. Si ergo sanctos
+<lb ed="#P" n="16"/>qui reperientur Christo veniente viventes, eique
+<lb ed="#P" n="17"/>in obviam rapientur crediderimus in eodem 
+rap<lb ed="#P" break="no" n="18"/>tu de mortalibus corporibus exituros; et ad 
+ea<lb ed="#P" break="no" n="19"/>dem moximmortalia redituros, nullas in verbis
+<lb ed="#P" n="20"/>Apostoli patiemur angustias, sive ubi dicit: Tw
+<lb ed="#P" n="21"/>quod seminas non vivificatur nisi prius 
+mo<lb ed="#P" break="no" n="22"/>riatur (I Cor. xv) : sive ubi dicit: Omnes 
+resur<lb ed="#P" break="no" n="23"/>gemus aut omnes dormiemus (ibid) ; quia nec 
+il<lb ed="#P" break="no" n="24"/>li per immortalitatem vivificabuntur, nisi 
+quam<lb ed="#P" break="no" n="25"/>libet paululum tamen ante moriantur ; ac per
+<lb ed="#P" n="26"/>hoc et à resurrectione non erunt alieni, quam
+<lb ed="#P" n="27"/>dormitione precedunt quamvis brevissima, non
+<lb ed="#P" n="28"/>tamen nulla.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g61485-Dd1e848">
+               <head xml:id="hsvhsv-g61485-Hd1e850">Capitulum 12</head>
+               <head xml:id="hsvhsv-g61485-Hd1e852" type="question-title"/>
+               <p xml:id="hsvhsv-g61485-d1e854">
+                  <lb ed="#P" n="29"/>Cap. XII. Quomodo intelligendum est quod
+<lb ed="#P" n="30"/>scriptum est : « Vívos et mortuos judicabit. »
+</p>
+               <p xml:id="hsvhsv-g61485-d1e861">
+                  <lb ed="#P" n="31"/>Duobus modis accipitur, quod vivos et 
+mor<lb ed="#P" break="no" n="32"/>tuos judicabit. Sive vivos intelligimus quos hic
+<lb ed="#P" n="33"/>nondum mortuos, sed adhuc in ista carne 
+viven<lb ed="#P" break="no" n="34"/>tes inventurus est ejus adventus ; mortuos autem
+<lb ed="#P" n="35"/>qui de corpore priusquam veniat, exierunt 
+velexi<lb ed="#P" break="no" n="36"/>turi sunt. Sive vivos justos et mortuos injustos,
+<lb ed="#P" n="37"/>quoniam judicabunt justi, judicabuntur injusti.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g61485-Dd1e880">
+               <head xml:id="hsvhsv-g61485-Hd1e882">Capitulum 13</head>
+               <head xml:id="hsvhsv-g61485-Hd1e884" type="question-title"/>
+               <p xml:id="hsvhsv-g61485-d1e886">
+                  <lb ed="#P" n="38"/>Cap. XIII. De resurrectione corporum, 
+quali<lb ed="#P" break="no" n="39"/>ter aut qualia. resurgent.
+</p>
+               <p xml:id="hsvhsv-g61485-d1e893">
+                  <lb ed="#P" n="40"/>Sunt nonnulli qui considerantes quod spiritus
+<lb ed="#P" n="41"/>a carne solvitur, quod caro in putredinem 
+verti<lb ed="#P" break="no" n="42"/>tur, quod putredo in pulverem redigitur, quod
+<lb ed="#P" n="43"/>pulvis in elementa solviturut nequaquam ab 
+hu<lb ed="#P" break="no" n="44"/>manis oculis videatur ; resurrectionem fleri posse
+<lb ed="#P" n="45"/>desperant. Et dum arida ossa inspiciunt, haec 
+ves<lb ed="#P" break="no" n="46"/>tiri carnibus rursumque ad vitam viridescere pos- r) 
+<lb ed="#P" n="47"/>se diffidunt, qui resurrectionis fidem ex 
+obedien<lb ed="#P" break="no" n="48"/>tia non tenent certe hanc tenere ex ratione 
+de<lb ed="#P" break="no" n="49"/>buerunt. Quid enim quotidie nisi resurrectionem
+<lb ed="#P" n="50"/>nostram in elementis mundus imitatur? Per 
+quo<lb ed="#P" break="no" n="51"/>tidiana quippe momenta lux ipsa temporalis 
+qua<lb ed="#P" break="no" n="52"/>8i moritur, dum supervenientibus noctis tenebris
+<lb ed="#P" n="53"/>ea qua aspiciebatur subtrahitur ; et quasi 
+quoti<lb ed="#P" break="no" n="54"/>die resurgit dum lux ablata oculis suppressa 
+ite<lb ed="#P" break="no" n="55"/>rum nocte reparatur. Per momenta quippe 
+tem<lb ed="#P" break="no" n="56"/>porum cernimus arbusta viriditatem foliorum
+<lb ed="#P" n="57"/>amittere; a fructuum prolatione cessare. Et ecce
+<lb ed="#P" n="58"/>quasi ex arescente subito ligno velut quadam 
+re<lb ed="#P" break="no" n="59"/>surrectione veniente, videmus folia erumpere,
+<lb ed="#P" n="60"/>fructus grandescere, et totam arborem redivivo
+<lb ed="#P" n="61"/>decore vestiri. Sed ecce resurrectionem audio, 
+ef<lb ed="#P" break="no" n="62"/>fectum tamen ipsius resurrectionis exquiro. Cre-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>do namque quod resurrecturus sum, sed volo ut
+<lb ed="#P" n="64"/>audiam qualis. Sciendum quippe mihi est utrum
+<lb ed="#P" n="65"/>in quodam alio subtili fortasse vel aerio, an in eo
+<lb ed="#P" n="66"/>quo maneo corpore surgam. Sed si in aerio 
+cor<lb ed="#P" break="no" n="67"/>pore resurrexo, jam non ero ego qui resurgo. Nam
+<lb ed="#P" n="68"/>quomodo est vera resurrectio, si vera non poterit
+<lb ed="#P" n="69"/>esse caro ? Aperta ergo ratio suggerit quod, si 
+ve<lb ed="#P" break="no" n="70"/>ra caro non fuerit, procul dubio resurrectio vera
+<lb ed="#P" n="71"/>non erit. Neque enim recta resurrectio dici 
+po<lb ed="#P" break="no" n="72"/>test, ubi non surgit quod ceciderit. Unde etiam
+<lb ed="#P" n="73"/>Redemptor noster dubitantibus de sua 
+resurrec<lb ed="#P" break="no" n="74"/>tione discipulis ostendit manus et latus ; 
+palpan<lb ed="#P" break="no" n="75"/>da ossa, et carnem prebuit, dicens: Palpate et
+<lb ed="#P" n="76"/>videte quia spiritus carnem et ossa non habet,
+<lb ed="#P" n="77"/>sicut me videtis habere (Luc. xxiv|. Jam vero
+<lb ed="#P" n="78"/>de resurrectione carnis, non sicut quidam 
+resur<lb ed="#P" break="no" n="79"/>rexerunt iterumque sunt mortui; sed in vitam
+<lb ed="#P" n="80"/>eternam sicut Christi ipsius resurrectio, 
+quemad<lb ed="#P" break="no" n="81"/>modum possum breviter disputare, et omnibus
+<lb ed="#P" n="82"/>questionibus quae de hac removeri solent 
+satis<lb ed="#P" break="no" n="83"/>facere non invenio. Resurrecturam tamen carnem
+<lb ed="#P" n="84"/>omnium quicunque nati sunt, nascuntur, et 
+mor<lb ed="#P" break="no" n="85"/>tui sunt, et morientur, nullo modo Christianus
+<lb ed="#P" n="86"/>debet dubitare. Unde prima occurrit de abortivis
+<lb ed="#P" n="87"/>fetibus quaestio, qui jam quidem nati sunt in 
+ute<lb ed="#P" break="no" n="88"/>ris matrum, sed nondum ita nati ut jam possint
+<lb ed="#P" n="89"/>renasci. Si resurrectos eos dixerimus qui jam 
+for<lb ed="#P" break="no" n="90"/>mati sunt utcunque tolerari potest quod dicitur.
+<lb ed="#P" n="91"/>Informes vero abortivos quis non proclivius 
+pe<lb ed="#P" break="no" n="92"/>rire arbitretur sicut semina quae concepta non
+<lb ed="#P" n="93"/>fuerint? Sed negare quis audeat et si affirmare
+<lb ed="#P" n="94"/>non audeat, id acturam resurrectionem, ut 
+quid<lb ed="#P" break="no" n="95"/>quid forme defuit impleatur, atque ita non si
+<lb ed="#P" n="96"/>perfectio quae accessura erat tempore 
+quemad<lb ed="#P" break="no" n="97"/>modum non erunt vitia quae accesserunt tempore,
+<lb ed="#P" n="98"/>ut neque in eo quod aptum et congruum dies 
+al<lb ed="#P" break="no" n="99"/>laturi fuerant, natura fraudetur, neque in eo
+<lb ed="#P" n="100"/>quod adversum et contrarium dies attulerit, 
+na<lb ed="#P" break="no" n="101"/>tura turpetur ; sed integrabitur quod nondum
+<lb ed="#P" n="102"/>erat, et integrum instaurabitur quod nondum
+<lb ed="#P" n="103"/>fuerat vitiatum.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g61485-Dd1e1037">
+               <head xml:id="hsvhsv-g61485-Hd1e1039">Capitulum 14</head>
+               <head xml:id="hsvhsv-g61485-Hd1e1041" type="question-title"/>
+               <p xml:id="hsvhsv-g61485-d1e1043">
+                  <lb ed="#P" n="104"/>Cap. XIV. De abortivis et monstris utrum 
+re<lb ed="#P" break="no" n="105"/>surgent et qualia.
+</p>
+               <p xml:id="hsvhsv-g61485-d1e1050">
+                  <lb ed="#P" n="106"/>Super hoc scrupulosissime quidem inter 
+doc<lb ed="#P" break="no" n="107"/>tissimos quzeri solet disputari potest, quod utrum
+<lb ed="#P" n="108"/>ab homine inveniri possit ignoro. Quando incipit
+<lb ed="#P" n="109"/>homo, in utero vivere utrum sit quaedam occulta
+<lb ed="#P" n="110"/>vita, quae nondum motibus viventis appareat.
+<lb ed="#P" n="111"/>Nam negare vixisse puerperia quae propterea
+<lb ed="#P" n="112"/>membratim exsecantur et ejiciuntur ex uteris prae
+<lb ed="#P" n="113"/>gnantium, ne matrem quoque (si mortua ibi 
+re<lb ed="#P" break="no" n="114"/>linquantur) occidant, impudentia nimia videtur.
+<lb ed="#P" n="115"/>Ex quo autem incipit homo vivere, ex illo utique
+<lb ed="#P" n="116"/>jam mori potest. Mortuus vero ubicunque mors
+<lb ed="#P" n="117"/>illi potuit evenire, quomodo ad resurrectionem
+<lb ed="#P" n="118"/>non pertineat mortuorum reperire non possum.
+<lb ed="#P" n="119"/>Neque enim monstra quae nascuntur et vivunt
+<lb ed="#P" n="120"/>quamlibet cito moriantur, aut resurrectüra 
+nega<lb ed="#P" break="no" n="121"/>buntur, aut vitiata resurrectura credenda sunt,
+<lb ed="#P" n="122"/>aut non potius correcta emendataque natura. 
+Ab<lb ed="#P" break="no" n="123"/>sit enim ut illum bimembrem qui nuper natus
+<lb ed="#P" n="124"/>est in oriente de quo fratres dilectissimi qui sum
+<!-- 220.png.txt -->
+<pb ed="#P" n="302"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>viderunt retulerunt ; beatus Hieronymus 
+presby<lb ed="#P" break="no" n="2"/>ter scriptum reliquit, absit, inquam, ut unum
+<lb ed="#P" n="3"/>duplicem hominem, ac non potius duos homines
+<lb ed="#P" n="4"/>quod futurum fuerat si gemini nascerentur, 
+re<lb ed="#P" break="no" n="5"/>surrecturos existimemus ! Ita et cetera quae 
+sin<lb ed="#P" break="no" n="6"/>guli quique partus vel, amplius vel minus aliquid
+<lb ed="#P" n="7"/>habendo quadam nimia deformitate monstra 
+di<lb ed="#P" break="no" n="8"/>cuntur, ad humane nature figuram resurrectione
+<lb ed="#P" n="9"/>revocabuntur, ita ut singula sua corpora 
+obti<lb ed="#P" break="no" n="10"/>neant, nullis cohzrentibus etiam quicunque 
+co<lb ed="#P" break="no" n="11"/>haerentia nata fuerant ; sed seorsum sibi singulis
+<lb ed="#P" n="12"/>sua membra gestantibus, quibus humani 
+corpo<lb ed="#P" break="no" n="13"/>ris complebitur integritas. Non perit Deo 
+terre<lb ed="#P" break="no" n="14"/>na materies de qua mortalium creatur caro, sed
+<lb ed="#P" n="15"/>in quemlibet pulverem cineremve solvatur in
+<lb ed="#P" n="16"/>quoslibet halitus aurasque diffugiat, in quam- 
+</p>
+               <p xml:id="hsvhsv-g61485-d1e1135">
+                  <lb ed="#P" n="17"/>cunque aliorum substantiam velin ipsa elementa
+<lb ed="#P" n="18"/>vertatur, in quorumcunque animalium vel 
+homi<lb ed="#P" break="no" n="19"/>num cibum cedat, carnemque mutetur ; illi 
+ani<lb ed="#P" break="no" n="20"/>mte humane puncto temporis redibit quae illam
+<lb ed="#P" n="21"/>primitus ut homo fleret, atque cresceret animavit.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g61485-Dd1e1150">
+               <head xml:id="hsvhsv-g61485-Hd1e1152">Capitulum 15</head>
+               <head xml:id="hsvhsv-g61485-Hd1e1154" type="question-title"/>
+               <p xml:id="hsvhsv-g61485-d1e1156">
+                  <lb ed="#P" n="22"/>Cap. XV. De modo resurrectionis.
+</p>
+               <p xml:id="hsvhsv-g61485-d1e1161">
+                  <lb ed="#P" n="23"/>Membrorum omnium reformatio non solum ex
+<lb ed="#P" n="24"/>terra verum etiam ex aliorum elementorum 
+se<lb ed="#P" break="no" n="25"/>cretissimo sinu, quo dilapsa cadavera recesserunt
+<lb ed="#P" n="26"/>in temporis puncto reddenda et redintegranda
+<lb ed="#P" n="27"/>promittitur. Ipsa itaque terrena materies quae
+<lb ed="#P" n="28"/>discedente anima fit cadaver ; non ita 
+resurrec<lb ed="#P" break="no" n="29"/>tione reparabitur, utea quae dilabuntur, et in
+<lb ed="#P" n="30"/>alias atque alias aliarum rerum species 
+formas<lb ed="#P" break="no" n="31"/>que vertuntur, quamvis ad corpus redeant unde
+<lb ed="#P" n="32"/>dilapsse sunt, ad easdem quoque corporis partes
+<lb ed="#P" n="33"/>ubi fuerunt redire necesse sit. Alioquin si 
+capil<lb ed="#P" break="no" n="34"/>lus redit, quod tam crebra tonsura detraxit, si
+<lb ed="#P" n="35"/>unguibus quod totius dempsit exsectio 
+immode<lb ed="#P" break="no" n="36"/>rata et indecens cogitantibus et ideo 
+resurrectio<lb ed="#P" break="no" n="37"/>nem carnis non credentibus occurrit informitas.
+<lb ed="#P" n="38"/>Sed, quemadmodum si statua cujuslibet 
+volubi<lb ed="#P" break="no" n="39"/>lis metalli, aut in igne liquesceret, aut 
+contere<lb ed="#P" break="no" n="40"/>retur in pulverem, aut confunderetur in massam
+<lb ed="#P" n="41"/>et eam velit artifex rursus ex illius mensure
+<lb ed="#P" n="42"/>quantitate reparare, nihil interesset ad ejus 
+inte<lb ed="#P" break="no" n="43"/>gritatem qu particula materie cuique membro
+<lb ed="#P" n="44"/>Statue redderetur, dum tamen totum ex quo
+<lb ed="#P" n="45"/>constituta fuerat restituta resumeret ; ita Deus
+<lb ed="#P" n="46"/>mirabiliter atque ineffabiliter artifex de toto quo
+<lb ed="#P" n="47"/>caro nostra constiterat eam mirabili et ineffabili
+<lb ed="#P" n="48"/>celeritate restituet. Nec aliquid attinebit ad ejus
+<lb ed="#P" n="49"/>rei integritatem, utrum capilli ad capillos redant,
+<lb ed="#P" n="50"/>an ungues ad ungues, an quidquid eorum 
+perie<lb ed="#P" break="no" n="51"/>rat mutetur in carnem, et in alias partescorporis
+<lb ed="#P" n="52"/>revocetur curante artificis providentia ne quid
+<lb ed="#P" n="53"/>indecens flat. Nec illud est consequens ut ideo 
+di<lb ed="#P" break="no" n="54"/>versa statura sit reviviscentium singulorum, quia
+<lb ed="#P" n="55"/>fuerat diversa viventium, aut macri cum eadem
+<lb ed="#P" n="56"/>macie, aut pingues cum eadem pinguedine 
+revi<lb ed="#P" break="no" n="57"/>viscant. Sed si hoc est in consilo Creatoris, ut in
+<lb ed="#P" n="58"/>effigie sua cujuscunque proprietas et 
+discernibi<lb ed="#P" break="no" n="59"/>lis similitudo servetur; in ezterisautem corporis
+<lb ed="#P" n="60"/>bonis wqualia cuncta reddantur, ita modificabitur
+<lb ed="#P" n="61"/>illa in unoquoque materies, ut nec aliquid ex ea
+<lb ed="#P" n="62"/>pereat; et quod alicui defuerit ille suppleat qui
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>de nihilo potuit quod voluit operari. Si autem in
+<lb ed="#P" n="64"/>corporibus resurgentium rationabilis inseequalitas
+<lb ed="#P" n="65"/>erit, sicut est vocum quibus impletur cantus,
+<lb ed="#P" n="66"/>hoc fiet cuique de materia corporis sui, quod et
+<lb ed="#P" n="67"/>hominem reddat angelicis cctibus et nihil 
+incon<lb ed="#P" break="no" n="68"/>venienseorum sensibusingerat. Indecorum quippe
+<lb ed="#P" n="69"/>aliquid ibi non erit ; sed quidquid futurum est
+<lb ed="#P" n="70"/>hoc decebit, quia nec futurum est si non decebit.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g61485-Dd1e1271">
+               <head xml:id="hsvhsv-g61485-Hd1e1273">Capitulum 16</head>
+               <head xml:id="hsvhsv-g61485-Hd1e1275" type="question-title"/>
+               <p xml:id="hsvhsv-g61485-d1e1277">
+                  <lb ed="#P" n="71"/>Cap. XVI. Exemplum supradictorum.
+</p>
+               <p xml:id="hsvhsv-g61485-d1e1282">
+                  <lb ed="#P" n="72"/>Si enim statuam potest artifex homo (quam
+<lb ed="#P" n="73"/>propter aliquam causam deformen fecerat) 
+con<lb ed="#P" break="no" n="74"/>flare et pulcherrimam reddere ita ut nihil 
+subs<lb ed="#P" break="no" n="75"/>tantis sed sola deformitas pereat, ac si quid in
+<lb ed="#P" n="76"/>illa forma priore indecenter exstabat, nec 
+parila<lb ed="#P" break="no" n="77"/>ti partium congruebat, non de toto unde fecerat
+<lb ed="#P" n="78"/>amputare atque separare, sed ita consperge 
+uni<lb ed="#P" break="no" n="79"/>versa atque miscere, ut nec feeditatem faciat nec
+<lb ed="#P" n="80"/>minuat quantitatem, quid de Omnipotente 
+sen<lb ed="#P" break="no" n="81"/>tiendum est ?
+</p>
+            </div>
+            <div xml:id="hsvhsv-g61485-Dd1e1307">
+               <head xml:id="hsvhsv-g61485-Hd1e1309">Capitulum 17</head>
+               <head xml:id="hsvhsv-g61485-Hd1e1311" type="question-title"/>
+               <p xml:id="hsvhsv-g61485-d1e1313">
+                  <lb ed="#P" n="82"/>Cap. XVII. Quod sanctorum corpora sine vitio
+<lb ed="#P" n="83"/>resurgent et incorruptibilia.
+</p>
+               <p xml:id="hsvhsv-g61485-d1e1320">
+                  <lb ed="#P" n="84"/>Resurgent igitur sanctorum corpora sine ullo
+<lb ed="#P" n="85"/>vitio, sine ulla deformitate, sicut sine ulla
+<lb ed="#P" n="86"/>corruptione, onere, difficultate. In quibus tanta
+<lb ed="#P" n="87"/>felicitas erit, propter quod et spiritualia dicta
+<lb ed="#P" n="88"/>sunt cum procul dubio corpora futura sint, non
+<lb ed="#P" n="89"/>spiritus. Sed sicut nunc animale corpus dicitur,
+<lb ed="#P" n="90"/>quod nunc corpus non anima est, ita tunc 
+spiri<lb ed="#P" break="no" n="91"/>tuale corpus erit, corpus tamen non spiritus erit.
+<lb ed="#P" n="92"/>Proinde quantum attinet ad corruptionem quae
+<lb ed="#P" n="93"/>nunc aggravat animam (Sap. xv), et vitia quibus
+<lb ed="#P" n="94"/>caro adversus spiritum concupiscit (Gal. v),
+<lb ed="#P" n="95"/>tunc non erit caro sed corpus, quia et coelestia
+<lb ed="#P" n="96"/>corpora perhibentur. Propter quod dictum est:
+<lb ed="#P" n="97"/>Cap. et sanguis regnum Dei non possidebunt
+<lb ed="#P" n="98"/>(I Cor. xv). Et tanquam exponens quid dixerit :
+<lb ed="#P" n="99"/>neque incorruptio, inquit, corruptionem 
+posside<lb ed="#P" break="no" n="100"/>bit (ibid.);quod prius dixit caro et sanguis, hoc 
+pos<lb ed="#P" break="no" n="101"/>terius dixit corruptio ; et quod prius dixitregnum
+<lb ed="#P" n="102"/>deihoc posterius incorruptionem. Quantum autem
+<lb ed="#P" n="103"/>attinet ad substantiam etiamtunc caro erit. 
+Prop<lb ed="#P" break="no" n="104"/>ter quod post resurrectionem corpus Christi 
+ca<lb ed="#P" break="no" n="105"/>ro appellatum est. Ideo ait Apostolus: 
+Semina<lb ed="#P" break="no" n="106"/>tur corpus animale, surget spirituale (ibid) ;
+<lb ed="#P" n="107"/>quoniam tanta erit concordia carnis et spiritus
+<lb ed="#P" n="108"/>vivificante spiritu sine sustentaculo alicujus 
+in<lb ed="#P" break="no" n="109"/>digentis subditam carnem, ut nihil nobis 
+repu<lb ed="#P" break="no" n="110"/>gnet ex nobis, sed sicut foris neminem, ita nec
+<lb ed="#P" n="111"/>intus nosmetipsos patiemur inimicos.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g61485-Dd1e1384">
+               <head xml:id="hsvhsv-g61485-Hd1e1386">Capitulum 18</head>
+               <head xml:id="hsvhsv-g61485-Hd1e1388" type="question-title"/>
+               <p xml:id="hsvhsv-g61485-d1e1390">
+                  <lb ed="#P" n="112"/>Cap. XVIII. Quod. infantes non $n ea statura.
+<lb ed="#P" n="113"/>resurgent qua mortui sunt.
+</p>
+               <p xml:id="hsvhsv-g61485-d1e1397">
+                  <lb ed="#P" n="114"/>Quid ergo dicturi sumus de infantibus, nisi
+<lb ed="#P" n="115"/>quod non in ea resurrecturi sunt corporis 
+exigui<lb ed="#P" break="no" n="116"/>tate, qua mortui. Sed quod eis tardius 
+accessu<lb ed="#P" break="no" n="117"/>rumerattempore hocsunt illo Dei operemiro atque
+<lb ed="#P" n="118"/>celerrimo recepturi ? In sententia quippe Domini
+<lb ed="#P" n="119"/>ubi ait : Capillus capitis vestri non peribit (Luc.
+<lb ed="#P" n="120"/>XX1 ; Act. XXvII), dictum est non defuturum esse
+<lb ed="#P" n="121"/>quod fuit; non autem negatum est adfuturum
+<lb ed="#P" n="122"/>quod defuit. Defuit autem infanti mortuo 
+perfec<lb ed="#P" break="no" n="123"/>ta quantitas sui corporis. Perfectio quippe 
+infan<lb ed="#P" break="no" n="124"/>ti deest utique perfectio magnitudinis corporalis,
+<!-- 221.png.txt -->
+<pb ed="#P" n="303"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>que cum accesserit jam statura longiore esse non 
+<lb ed="#P" n="2"/>possit. Hunc perfectionis modum sic habent 
+om<lb ed="#P" break="no" n="3"/>nes, ut cum illo concipiantur atque nascantur;
+<lb ed="#P" n="4"/>sed habent in ratione non in mode, sicut ipsa
+<lb ed="#P" n="5"/>membra omnia jam sunt latentia in semine cum.
+<lb ed="#P" n="6"/>etiam natis nonnulla adhuc desint, sicut dentes
+<lb ed="#P" n="7"/>aut si quid ejusmodi. In qua ratione 
+uniuscujus<lb ed="#P" break="no" n="8"/>que materie indita corporali jam quodammodo
+<lb ed="#P" n="9"/>ut ita dicam lineatum videtur esse quod nondum
+<lb ed="#P" n="10"/>est imo quod latet, sed accessu temporis erit, vel
+<lb ed="#P" n="11"/>potius apparebit. In hoc ergo infans jam aut 
+bre<lb ed="#P" break="no" n="12"/>vis aut longus est, qui longus brevisve futurus
+<lb ed="#P" n="13"/>est. Restat ergo ut suam recipiat quisque 
+mensu<lb ed="#P" break="no" n="14"/>ram, qualem habuit in juventute, etiam si senex
+<lb ed="#P" n="15"/>est mortuus, vel fuerat habiturus, si ante est 
+de<lb ed="#P" break="no" n="16"/>functus, ut nec ultra nec citra juvelinem formam
+<lb ed="#P" n="17"/>resurgant corpora mortuorum, sed in ea setate de
+<lb ed="#P" n="18"/>roboreusquead quam Christum pervenisse 
+cogno<lb ed="#P" break="no" n="19"/>vimus. Circa triginta quippe annos definierunt
+<lb ed="#P" n="20"/>esse etiam seculi hujus doctissimi homines 
+juven<lb ed="#P" break="no" n="21"/>tutem, qua cum fuerit spatio proprio terminata
+<lb ed="#P" n="22"/>inde jam hominem in detrimenta vergere 
+gravio<lb ed="#P" break="no" n="23"/>ris ac sensualisstatis ; et ideo non esse dictum
+<lb ed="#P" n="24"/>in mensuram corporis vel in mensuram stature,
+<lb ed="#P" n="25"/>sed in mensuram «tatis plenitudinis Christi
+<lb ed="#P" n="26"/>(Ephes. 1v).
+</p>
+            </div>
+            <div xml:id="hsvhsv-g61485-Dd1e1487">
+               <head xml:id="hsvhsv-g61485-Hd1e1489">Capitulum 19</head>
+               <head xml:id="hsvhsv-g61485-Hd1e1491" type="question-title"/>
+               <p xml:id="hsvhsv-g61485-d1e1493">
+                  <lb ed="#P" n="27"/>Cap. XIX. Quod omnes in eadem statura 
+resur<lb ed="#P" break="no" n="28"/>gent quam in perfecta vel juvenili etate
+<lb ed="#P" n="29"/>scilicet habuerunt vel habituri fuerunt.
+</p>
+               <p xml:id="hsvhsv-g61485-d1e1502">
+                  <lb ed="#P" n="30"/>Illud quod ait Apostolus ; Predestinatos 
+con<lb ed="#P" break="no" n="31"/>formes fieri imaginis Filii Dei (Rom. vin),
+<lb ed="#P" n="32"/>potest sic accipi, ut quemadmodum nobis ille
+<lb ed="#P" n="33"/>mortalitate, ita nos illi efficiamur immortalitate
+<lb ed="#P" n="34"/>conformes. Si autem in his verbis qua forma 
+re<lb ed="#P" break="no" n="35"/>surrectura sint corpora sumus admoniti, sicut illa
+<lb ed="#P" n="36"/>mensura, ita et ista conformatio non quantitatis
+<lb ed="#P" n="37"/>intelligenda est, sed statis. Resurgent itaque 
+om<lb ed="#P" break="no" n="38"/>nes tam magni corpore quam vel erant vel futuri
+<lb ed="#P" n="39"/>erant juvenili state. Si quae vero in eo corporis
+<lb ed="#P" n="40"/>modo in quo defunctus est, resurrecturum 
+unum<lb ed="#P" break="no" n="41"/>quemque contendit, non est cum illo laboriosa
+<lb ed="#P" n="42"/>contradictione pugnandum.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g61485-Dd1e1534">
+               <head xml:id="hsvhsv-g61485-Hd1e1536">Capitulum 20</head>
+               <head xml:id="hsvhsv-g61485-Hd1e1538" type="question-title"/>
+               <p xml:id="hsvhsv-g61485-d1e1540">
+                  <lb ed="#P" n="43"/>Cap. XX. Utrum reprobi cum vitiis surgent.
+</p>
+               <p xml:id="hsvhsv-g61485-d1e1545">
+                  <lb ed="#P" n="44"/>Quicunque vero ab illa perditionis massa quae
+<lb ed="#P" n="45"/>facta est per hominem primum non liberantur
+<lb ed="#P" n="46"/>per unum mediatorem Dei et hominum, resurgent
+<lb ed="#P" n="47"/>quidem etiam ipsi unusquisque cum sua carne,
+<lb ed="#P" n="48"/>sed ut cum diabolo et ejus angelis puniantur.
+<lb ed="#P" n="49"/>Utrum sane ipsi cum vitiis et deformitatibus
+<lb ed="#P" n="50"/>suorum corporum resurgant, quecunque in
+<lb ed="#P" n="51"/>eis deformia et vitiosa membra gestaverunt
+<lb ed="#P" n="52"/>inquirendo laborare quid opus est? Neque enim
+<lb ed="#P" n="53"/>fatigare nos debet incerta eorum vel habitudo
+<lb ed="#P" n="54"/>vel pulchritudo quorum erit certa et. sempiterna
+<lb ed="#P" n="55"/>damnatio. Nec moveat quomodo erit in eis corpus
+<lb ed="#P" n="56"/>incorruptibile, si dolore poterit, aut quomodo
+<lb ed="#P" n="57"/>corruptibile si non poterit. Non enim est vera 
+vi<lb ed="#P" break="no" n="58"/>ta nisi ubi feliciter vivitur, nec vera incorruptio
+<lb ed="#P" n="59"/>nisi ubi salus nullo dolore corrumpitur. Ubi 
+au<lb ed="#P" break="no" n="60"/>tem infelix mori non sinitur, etut ita dicam mors
+<lb ed="#P" n="61"/>ipsa non moritur; et ubi dolor perpetuus non 
+in<lb ed="#P" break="no" n="62"/>terimit, sed affligit ipsa corruptio et non finitur;
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>haec in Scripturis sanctis secunda mors (Apoc.
+<lb ed="#P" n="64"/>XX, xxi) dicitur. Nec prima tamen qua suum 
+cor<lb ed="#P" break="no" n="65"/>pus anima relinquere cogitur, nec secunda qua
+<lb ed="#P" n="66"/>poonale corpus anima relinquere non permittitur
+<lb ed="#P" n="67"/>homini accidisset, si nemo peccasset. Mitissima
+<lb ed="#P" n="68"/>sane omnium poena erit eorum, qui praeter 
+pec<lb ed="#P" break="no" n="69"/>catum quod originale traxerunt, nullum insuper
+<lb ed="#P" n="70"/>addiderunt, et in caeteris quae addiderunt tanto
+<lb ed="#P" n="71"/>quisque ibi tolerabiliorem habebit damnationem
+<lb ed="#P" n="72"/>quanto hic habebit minorem iniquitatem.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g61485-Dd1e1615">
+               <head xml:id="hsvhsv-g61485-Hd1e1617">Capitulum 21</head>
+               <head xml:id="hsvhsv-g61485-Hd1e1619" type="question-title"/>
+               <p xml:id="hsvhsv-g61485-d1e1621">
+                  <lb ed="#P" n="73"/>Cap. XXI. Quomodo terrena corpora in calo
+<lb ed="#P" n="74"/>manebunt.
+</p>
+               <p xml:id="hsvhsv-g61485-d1e1628">
+                  <lb ed="#P" n="75"/>Necesse est, aiunt quidam, ut terrena corpora
+<lb ed="#P" n="76"/>naturale pondus vel in terra teneat vel cogat ad
+<lb ed="#P" n="77"/>terram; et ideo in coelo esse non possunt. Primi
+<lb ed="#P" n="78"/>quidem illi homines in terra erant nemorosa 
+at<lb ed="#P" break="no" n="79"/>que frustuosa quae paradisi nomen obtinuit, et
+<lb ed="#P" n="80"/>de ponderibus elementorum sic argumentantur.
+<lb ed="#P" n="81"/>Quoniam scilicet a magistro Platone didicerunt :
+<lb ed="#P" n="82"/>mundi duo corpora maxima atque postrema 
+duo<lb ed="#P" break="no" n="83"/>bus mediis: aere scilicet et aqua esse copulata
+<lb ed="#P" n="84"/>atque conjuncta. Ac per hoc, inquiunt, quoniam
+<lb ed="#P" n="85"/>terra ab hinc sursum versus est prima secunda.
+<lb ed="#P" n="86"/>aqua super terram, tertius aer super aquam,
+<lb ed="#P" n="87"/>quartam super aerem coelum. Non potest esse 
+ter<lb ed="#P" break="no" n="88"/>renum corpus in cclo. Momentis enim propriis
+<lb ed="#P" n="89"/>ut ordinem suum teneant sua elementa librantur.
+<lb ed="#P" n="90"/>Ecce qualibus argumentis omnipotentie Dei 
+hu<lb ed="#P" break="no" n="91"/>mana contradicit infirmitas quam possidet vanitas.
+</p>
+               <p xml:id="hsvhsv-g61485-d1e1667">
+                  <lb ed="#P" n="92"/>Quid ergo faciunt in aere terrena tot corpora,
+<lb ed="#P" n="93"/>cum a terra sit aer tertius, nisi forte qui per 
+plu<lb ed="#P" break="no" n="94"/>marum ei pennarum levitatem donavit avium
+<lb ed="#P" n="95"/>terrenis corporibus ut portentur in aere, 
+immor<lb ed="#P" break="no" n="96"/>talibus factis corporibus hominum non poterit
+<lb ed="#P" n="97"/>donare virtutem qua in colo etiam possint 
+habi<lb ed="#P" break="no" n="98"/>tare: nam cum terrenorum corporum sicut onera
+<lb ed="#P" n="99"/>gestando sentire consuevinus, quanto major est
+<lb ed="#P" n="100"/>quantitas tanto major et gravitas; tamen membra
+<lb ed="#P" n="101"/>sus carnis leviora portat anima cum in sanitate
+<lb ed="#P" n="102"/>robusta sunt, quam in languore cum macra sunt.
+<lb ed="#P" n="103"/>Et cum aliis gestantibus onerosior sit salvis et
+<lb ed="#P" n="104"/>validus quam exilis et morbidus; ipse tamen ad
+<lb ed="#P" n="105"/>suum corpus movendum et portandum agilior est
+<lb ed="#P" n="106"/>cum in bona valetudine plus habet molis, quam
+<lb ed="#P" n="107"/>cum in peste vel fame minimum roboris. Tantum
+<lb ed="#P" n="108"/>valetetiam in habendis terrenis corporibus 
+quam<lb ed="#P" break="no" n="109"/>vis adhuc corruptibilibus atque mortalibus non
+<lb ed="#P" n="110"/>quantitatis pondus; sed temperationis modus. Et
+<lb ed="#P" n="111"/>quis verbis explicet quantum distat inter 
+presen<lb ed="#P" break="no" n="112"/>tem quam dicimus sanitatem et immortalitatem
+<lb ed="#P" n="113"/>futuram ? Non itaque redarguunt nostram fidem
+<lb ed="#P" n="114"/>philosophi de corporum ponderibus. Est enim sio
+<lb ed="#P" n="115"/>hinc sursum versus terra prima, aqua, secunda,
+<lb ed="#P" n="116"/>aer tertius, coelum quartum, ut super omnia sit
+<lb ed="#P" n="117"/>anim: natura. Nam et. Aristoteles quartum 
+cor<lb ed="#P" break="no" n="118"/>pus eam dixit esse, et Plato nullum. Si quintum
+<lb ed="#P" n="119"/>esset, certe superius esset caeteris. Cum vero 
+nul<lb ed="#P" break="no" n="120"/>lum est, multo magis superat omnia. In terreno
+<lb ed="#P" n="121"/>ergo quid facit corpore? in hac mole quid agit
+<lb ed="#P" n="122"/>subtilior omnibus? In hac pondere quid agit 
+le<lb ed="#P" break="no" n="123"/>vior omnibus; in hac tarditate quid agit celerior
+<lb ed="#P" n="124"/>omnibus? ane per hujus tam excellentis naturae
+<!-- 222.png.txt -->
+<pb ed="#P" n="304"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>meritum non poterit effici ut corpus ejus levetur
+<lb ed="#P" n="2"/>in coelum? Et cum valeat nunc natura corporum
+<lb ed="#P" n="3"/>- terrenorum deprimere animas deorsum aliquando
+<lb ed="#P" n="4"/>et anime levare sursum terrena corpora non 
+va<lb ed="#P" break="no" n="5"/>lebunt? Postremo si ita est elementorum ordo
+<lb ed="#P" n="6"/>dispositus, ut secundum Platonem duobus mediis,
+<lb ed="#P" n="7"/>id est aere et aqua; duo extrema, id est ignis et
+<lb ed="#P" n="8"/>terra jungantur, colique obtineant illi summum
+<lb ed="#P" n="9"/>locum; haec autem imum velut fundamentum
+<lb ed="#P" n="10"/>mundi, et ideo in colo non potest esse terra. Cur
+<lb ed="#P" n="11"/>est ignis in terra? Secundum hanc quippe ratione
+<lb ed="#P" n="12"/>ista duo elementa in locis propriis, imo ac summo
+<lb ed="#P" n="13"/>terra et ignis esse debuerunt, ut quemadmodum
+<lb ed="#P" n="14"/>nolunt in summo esse posse quod imi est, ita nec
+<lb ed="#P" n="15"/>in imo esse posset quod summi est. Sicut ergo
+<lb ed="#P" n="16"/>nullam putant vel esse vel futuram esse 
+particu<lb ed="#P" break="no" n="17"/>lam terre in colo, ita nullam paticulam 
+vi<lb ed="#P" break="no" n="18"/>dere debuimus ignis in terra. Nunc vero non
+<lb ed="#P" n="19"/>solum in terris, verum etiam sub terris ita est, ut.
+<lb ed="#P" n="20"/>eum eructent vertices montuum, praeter quod in
+<lb ed="#P" n="21"/>usibus hominum et esse ignem in terra et eum
+<lb ed="#P" n="22"/>nasci videmus de terra, quandoquidem et de 
+li<lb ed="#P" break="no" n="23"/>gnis et lapidibus nascitur, qui sunt corpora sine
+<lb ed="#P" n="24"/>dubitatione terrena. Cur ergo nolunt ut credamus
+<lb ed="#P" n="25"/>naturam corporum terrenorum aliquando 
+incor<lb ed="#P" break="no" n="26"/>ruptibilem facta colo convenientem futuram 
+si<lb ed="#P" break="no" n="27"/>cut nunc ignis corruptibilis his convenit terris?
+<lb ed="#P" n="28"/>Nihil igitur asserunt ex ponderibus atque ordine
+<lb ed="#P" n="29"/>elementorum unde omnipotenti Deo quo minus
+<lb ed="#P" n="30"/>faciat corpora nostra talia ut etiam in coelo 
+pos<lb ed="#P" break="no" n="31"/>Sint habitare, prescribant.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g61485-Dd1e1816">
+               <head xml:id="hsvhsv-g61485-Hd1e1818">Capitulum 22</head>
+               <head xml:id="hsvhsv-g61485-Hd1e1820" type="question-title"/>
+               <p xml:id="hsvhsv-g61485-d1e1822">
+                  <lb ed="#P" n="32"/>Cap. XXII. Quale sit futurum judicium.
+</p>
+               <p xml:id="hsvhsv-g61485-d1e1827">
+                  <lb ed="#P" n="33"/>Quaedam vis intelligenda est divina qua fiet ut
+<lb ed="#P" n="34"/>cuique opera sua vel bona vel mala cuncta in 
+me<lb ed="#P" break="no" n="35"/>moriam revocentur, et mentis intuitu mira 
+cele<lb ed="#P" break="no" n="36"/>ritate cernantur, ut accuset vel excuset scientia
+<lb ed="#P" n="37"/>conscientiam, atque ita simul et omnes et singuli
+<lb ed="#P" n="38"/>judicentur. Qus nimirum vis divina libri nomen
+<lb ed="#P" n="39"/>accepit. In ea quippe quodammodo legitur 
+quid<lb ed="#P" break="no" n="40"/>quid a faciente recolitur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g61485-Dd1e1848">
+               <head xml:id="hsvhsv-g61485-Hd1e1850">Capitulum 23</head>
+               <head xml:id="hsvhsv-g61485-Hd1e1852" type="question-title"/>
+               <p xml:id="hsvhsv-g61485-d1e1854">
+                  <lb ed="#P" n="41"/>Cap. XXIII. Quod Deus conscientia nostra teste
+<lb ed="#P" n="42"/>utetur ad judicandum nos.
+</p>
+               <p xml:id="hsvhsv-g61485-d1e1861">
+                  <lb ed="#P" n="43"/>Adveniente judice uniuscujusque censcientia
+<lb ed="#P" n="44"/>ad testimonium erit deducta. Tunc omnis ante
+<lb ed="#P" n="45"/>oculos culpa reducitur, et mens super gehennse
+<lb ed="#P" n="46"/>incendia suo gravius igne cruciatur.
+</p>
+               <p xml:id="hsvhsv-g61485-d1e1872">
+                  <lb ed="#P" n="47"/>Necesse est sepius cogitemus quales erimus in
+<lb ed="#P" n="48"/>die judicii purissimis angelorum conspectibus
+<lb ed="#P" n="49"/>offerendi, et sterno judici rationem de libris
+<lb ed="#P" n="50"/>conscientie reddituri. Remotis enim omnibus
+<lb ed="#P" n="51"/>probationibus, certum est in die illa ipsum ante
+<lb ed="#P" n="52"/>8e hominem constituendum, et ipsam sibi animam
+<lb ed="#P" n="53"/>in cordis speculo demonstrandam, et testes contra.
+<lb ed="#P" n="54"/>eam non de foris aliunde, sed intus de semetipsa
+<lb ed="#P" n="55"/>proferendos; adjicienda erunt non aliqua 
+peregri<lb ed="#P" break="no" n="56"/>na, sed nimium nota testimonia, id est opera sua.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g61485-Dd1e1897">
+               <head xml:id="hsvhsv-g61485-Hd1e1899">Capitulum 24</head>
+               <head xml:id="hsvhsv-g61485-Hd1e1901" type="question-title"/>
+               <p xml:id="hsvhsv-g61485-d1e1903">
+                  <lb ed="#P" n="57"/>Cap. XXIV. Qualiter Deus in praesenti judicet.
+</p>
+               <p xml:id="hsvhsv-g61485-d1e1908">
+                  <lb ed="#P" n="58"/>Judicat Deus hoc tempore non solum 
+universa<lb ed="#P" break="no" n="59"/>liter de genere hominum atque demonum, ut 
+mi<lb ed="#P" break="no" n="60"/>seri sint propter primorum meritum peccatorum,
+<lb ed="#P" n="61"/>sed etiam de singulorum operibus propriis quae
+<lb ed="#P" n="62"/>gerunt arbitrio voluntatis, Neacimus enim quo
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>judicio Dei bonus ille sit pauper; malus ille sit
+<lb ed="#P" n="64"/>dives. Iste gaudeat quem pro suis perditis 
+mori<lb ed="#P" break="no" n="65"/>bus cruciari debuisse persuadet ; exeat de judicio
+<lb ed="#P" n="66"/>non solum inultus verum etiam damnatus, 
+inno<lb ed="#P" break="no" n="67"/>cens aut iniquitate judicis pressus, aut falsis
+<lb ed="#P" n="68"/>obrutus testimoniis. Econtrario scelestus 
+adver<lb ed="#P" break="no" n="69"/>sarius ejus non solum impunitus; verum etiam
+<lb ed="#P" n="70"/>judicatus insultet, Impius optime valeat, pius 
+lan<lb ed="#P" break="no" n="71"/>guoribus tabescat, latrocinentur sanissimi 
+juve<lb ed="#P" break="no" n="72"/>nes; et qui nec verbo quemquam ledere 
+potue<lb ed="#P" break="no" n="73"/>runt, diversa morborum atrocitate affligantur.
+<lb ed="#P" n="74"/>Infantes utiles rebus humanis immatura morte
+<lb ed="#P" n="75"/>rapiantur, et qui videtur nec nasci debuisse
+<lb ed="#P" n="76"/>insuper diutissime vivat plenus criminibus, 
+subli<lb ed="#P" break="no" n="77"/>metur honoribus, et hominem sine querela 
+tene<lb ed="#P" break="no" n="78"/>brzig nobilitatis abscondant, et caetera hujusmodi.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g61485-Dd1e1959">
+               <head xml:id="hsvhsv-g61485-Hd1e1961">Capitulum 25</head>
+               <head xml:id="hsvhsv-g61485-Hd1e1963" type="question-title"/>
+               <p xml:id="hsvhsv-g61485-d1e1965">
+                  <lb ed="#P" n="79"/>Cap. XXV. De eodem
+</p>
+               <p xml:id="hsvhsv-g61485-d1e1970">
+                  <lb ed="#P" n="80"/>Nunc quando non solum in malo sunt boni, et
+<lb ed="#P" n="81"/>in bono mali quod videtur injustum, verum etiam
+<lb ed="#P" n="82"/>plerumque et malis mala eveniunt, et bonis bona
+<lb ed="#P" n="83"/>proveniunt; magis inscrutabilia sunt judicia
+<lb ed="#P" n="84"/>Dei et investigabiles vie ejus (Rom. x1). Cum
+<lb ed="#P" n="85"/>vero ad illud Dei judicium venerimus, quod 
+tem<lb ed="#P" break="no" n="86"/>pus jam prope dies judicii et aliquando dies 
+Do<lb ed="#P" break="no" n="87"/>mini nuncupatur, non solum quscunque tunc
+<lb ed="#P" n="88"/>judicabuntur verum etiam quaecunque ab initio
+<lb ed="#P" n="89"/>judicata, et quacunque usque ad illud tempus
+<lb ed="#P" n="90"/>judicanda sunt, apparebunt esse justissima. Ubi
+<lb ed="#P" n="91"/>hoc quoque manifestabitur, quam justo judicio
+<lb ed="#P" n="92"/>Dei fiat, ut nunc tam multa ac pene omnia justa
+<lb ed="#P" n="93"/>judicia Dei lateant sensus mentesque mortalium,
+<lb ed="#P" n="94"/>cum tamen in hac re piorum fidem non lateat
+<lb ed="#P" n="95"/>justum esse quod latet.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g61485-Dd1e2008">
+               <head xml:id="hsvhsv-g61485-Hd1e2010">Capitulum 26</head>
+               <head xml:id="hsvhsv-g61485-Hd1e2012" type="question-title"/>
+               <p xml:id="hsvhsv-g61485-d1e2014">
+                  <lb ed="#P" n="96"/>Cap. XXVI. De eodem.
+</p>
+               <p xml:id="hsvhsv-g61485-d1e2019">
+                  <lb ed="#P" n="97"/>Cum valde occulta sint divina judicia cur in
+<lb ed="#P" n="98"/>hac vita nonnunquam bonis male sit, et malis
+<lb ed="#P" n="99"/>bene, tunc occultiora sunt cum et bonis hic bene
+<lb ed="#P" n="100"/>est, et malis male. Nam cum bonis male est, et
+<lb ed="#P" n="101"/>malis bene, hoc fortasse deprehenditur quod et
+<lb ed="#P" n="102"/>boni si qua deliquerunt hic recipiunt, ut ab 
+seter<lb ed="#P" break="no" n="103"/>na plenius damnatione liberentur; et mali bona
+<lb ed="#P" n="104"/>quie pro hac vita faciunt hic inveniunt, ut ad sola.
+<lb ed="#P" n="105"/>in posterum tormenta pertrahantur. Unde et 
+ar<lb ed="#P" break="no" n="106"/>denti diviti in inferno dicitur. Momento, fili,
+<lb ed="#P" n="107"/>quia accepisti bona in vita tua, et Lazarus 
+si<lb ed="#P" break="no" n="108"/>militer mala (Luc. xvi). At cum bonis hic bene
+<lb ed="#P" n="109"/>est, et malis male, incertum valde fit utrum bona
+<lb ed="#P" n="110"/>idcirco boni accipiant, ut provocati ad aliquid
+<lb ed="#P" n="111"/>melius crescant, an justo judicio atque latenti
+<lb ed="#P" n="112"/>hic suorum operum remunerationem percipiant,
+<lb ed="#P" n="113"/>ut a praemiis vits sequentis inanescant. Et utrum.
+<lb ed="#P" n="114"/>malos idcirco adversa feriant, et ut ab seternis
+<lb ed="#P" n="115"/>suppliciis defendant, an hic eorum poena incipiat,
+<lb ed="#P" n="116"/>ut quandoque complenda ad ultima gehenns
+<lb ed="#P" n="117"/>tormenta perducat.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g61485-Dd1e2069">
+               <head xml:id="hsvhsv-g61485-Hd1e2071">Capitulum 27</head>
+               <head xml:id="hsvhsv-g61485-Hd1e2073" type="question-title"/>
+               <p xml:id="hsvhsv-g61485-d1e2075">
+                  <lb ed="#P" n="118"/>Cap. XXVII. De eodem.
+</p>
+               <p xml:id="hsvhsv-g61485-d1e2080">
+                  <lb ed="#P" n="119"/>Duobus modis in hac vita hominem judicat
+<lb ed="#P" n="120"/>Deus; quia aut per mala praesentia irrogare jam
+<lb ed="#P" n="121"/>tormenta sequentia incipit, aut tormenta 
+sequen<lb ed="#P" break="no" n="122"/>tia flagellis praesentibus exstinguit.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g61485-Dd1e2092">
+               <head xml:id="hsvhsv-g61485-Hd1e2094">Capitulum 28</head>
+               <head xml:id="hsvhsv-g61485-Hd1e2096" type="question-title"/>
+               <p xml:id="hsvhsv-g61485-d1e2098">
+<!-- 223.png.txt -->
+                  <pb ed="#P" n="305"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>Cap. XXVIII. Ubi erunt corporaliter sancti
+<lb ed="#P" n="2"/>quando mundus ardebit.
+</p>
+               <p xml:id="hsvhsv-g61485-d1e2111">
+                  <lb ed="#P" n="3"/>Quierat forsan aliquis si post factum judicium
+<lb ed="#P" n="4"/>iste mundus ardebit, antequam pro illo coelum
+<lb ed="#P" n="5"/>novum et terra nova reponatur, eo ipso tempore
+<lb ed="#P" n="6"/>conflagrationis ejus ubi erunt sancti, cum eos
+<lb ed="#P" n="7"/>habentes corpora in aliquo corporali loco esse
+<lb ed="#P" n="8"/>necesse sit? Possumus respondere futuros eos
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="9"/>esse in superioribus partibus quo ita non 
+ascen<lb ed="#P" break="no" n="10"/>det flamma illius incendii, quemadmodum nec
+<lb ed="#P" n="11"/>unda diluvii. Talia quippe illis inerunt corpora,
+<lb ed="#P" n="12"/>utillic sint ubi esse voluerint. Sed nec ignem
+<lb ed="#P" n="13"/>conflagrationis illius pertimescent immortaleg
+<lb ed="#P" n="14"/>atque incorruptibiles facti, sicut virorum trium
+<lb ed="#P" n="15"/>illorum corruptibilia corpora atque mortalia in
+<lb ed="#P" n="16"/>camino ardenti illae ea vivere potuerunt (Dan. ru).
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

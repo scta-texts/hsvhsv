@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pars 5</title>
+            <author ref="#HughOfStVictor">Hugh of St. Victor</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Pars 5</title>
+               <date when="2023-03-25">March 25, 2023</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-bnhupl">Patrologia Latina, v. 176</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2023-03-25" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="220"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="hsvhsv-g38270"><!-- l2-p5 -->
+            <head xml:id="hsvhsv-g38270-Hd1e101">Pars 5</head>
+            <head xml:id="hsvhsv-g38270-Hd1e103" type="question-title">
+De dedicatione ecclesiae
+</head>
+            <p xml:id="hsvhsv-g38270-d1e106">
+<!-- 138.png.txt -->
+               <pb ed="#P" n="220"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>PARS QUINTA.
+<lb ed="#P" n="2"/>DE DEDICATIONE ECCLESIAE
+</p>
+            <div xml:id="hsvhsv-g38270-Dd1e119">
+               <head xml:id="hsvhsv-g38270-Hd1e121">Capitulum 1</head>
+               <head xml:id="hsvhsv-g38270-Hd1e123" type="question-title">
+De dedicatione Ecclesiae
+</head>
+               <p xml:id="hsvhsv-g38270-d1e126">
+                  <cb ed="#P" n="b"/>
+                  <lb ed="#P" n="3"/>Cap. I. De dedicatione Ecclesiae.
+</p>
+               <p xml:id="hsvhsv-g38270-d1e133">
+                  <lb ed="#P" n="4"/>Post ordines quos in prima parte ecclesiasticae
+<lb ed="#P" n="5"/>administrationis posuimus ad sacramentorum
+<lb ed="#P" n="6"/>considerationem transimus. Et primum quidem
+<lb ed="#P" n="7"/>de sacramento dedicationis Ecclesiae, in qua 
+cas<lb ed="#P" break="no" n="8"/>tera omnia sacramenta celebrantur, loquendum
+<lb ed="#P" n="9"/>nobis videtur. Superius in ea quam generaliter
+<lb ed="#P" n="10"/>de sacramentis praimisimus tractatione, 
+distinxi<lb ed="#P" break="no" n="11"/>mus, sacramenta alia esse salutis, alia 
+adminis<lb ed="#P" break="no" n="12"/>trationis, alia exercitationis. Prima ad remedium ;
+<lb ed="#P" n="13"/>secunda ad officium; tertia ad exercitium. Et illa
+<lb ed="#P" n="14"/>quidem quae administrationis sive praeparationis
+<lb ed="#P" n="15"/>sunt ordinibus coherent, quoniam et ipsi ordine
+<lb ed="#P" n="16"/>sacramenta sunt, et quae circa ordines 
+consideran<lb ed="#P" break="no" n="17"/>tur, qualia sunt indumenta sacra et vasa, et cetera.
+<lb ed="#P" n="18"/>hujusmodi. Hzc omnia quia, ut dictum est, circa
+<lb ed="#P" n="19"/>ipsos ordines considerantur, divisim tractari non
+<lb ed="#P" n="20"/>debuerunt. Alia vero sacramenta omnia ad que
+<lb ed="#P" n="21"/>conficienda et sanctificanda universa hsc quasi
+<lb ed="#P" n="22"/>qusdam instrumenta premissa sunt, 
+subsequen<lb ed="#P" break="no" n="23"/>tertractari exposcunt. Et primum sicut dictum
+<lb ed="#P" n="24"/>est de dedicatione Ecclesim, quasi de primo 
+bap<lb ed="#P" break="no" n="25"/>tismate, quo ipsa quodammodo Ecclesia primum
+<lb ed="#P" n="26"/>baptizatur, ut in ea post modum homines ad 
+sa<lb ed="#P" break="no" n="27"/>lutem regenérandi baptizentur. Quasi enim 
+pri<lb ed="#P" break="no" n="28"/>mum sacramentum in baptismo cognoscitur, per
+<lb ed="#P" n="29"/>quod fideles omnes inter membra corporis 
+Chris<lb ed="#P" break="no" n="30"/>ti per regenerationis novte gratiam computantur.
+<lb ed="#P" n="31"/>Idcirco hoc primum tractandum occurrit. 
+Pri<lb ed="#P" break="no" n="32"/>mum in dedicatione figuratum Ecclesie, deinde
+<lb ed="#P" n="33"/>in sanctificatione anim: fidelis exhibitum. Quod
+<lb ed="#P" n="34"/>enim in hac domo orationis visibiliter per 
+figu<lb ed="#P" break="no" n="35"/>ram exprimitur, totum in anima fideli per 
+invi<lb ed="#P" break="no" n="36"/>Sibilem veritatem exhibetur. Ipsa enim verum
+<lb ed="#P" n="37"/>templum Dei est confoederatione virtutum, quasi
+<lb ed="#P" n="38"/>quadam structura lapidum spiritualium sedificata
+<lb ed="#P" n="39"/>ubi fides fundamentum facit, spes fabricam 
+eri<lb ed="#P" break="no" n="40"/>git, charitas consummationem imponit. Sed et
+<lb ed="#P" n="41"/>ipsa Ecclesia ex multitudine fidelium in unum
+<lb ed="#P" n="42"/>congregata : domus est Dei vivis lapidibus 
+cons<lb ed="#P" break="no" n="43"/>tructa, ubi Christus fundamentum angulare 
+po<lb ed="#P" break="no" n="44"/>situs est ; duos parietes Judaeorum et gentium in
+<lb ed="#P" n="45"/>una fide conjungens. Hujus itaque sacramenti
+<lb ed="#P" n="46"/>quod in dedicatione Ecclesi; exhibetur formam
+<lb ed="#P" n="47"/>primum proponimus, ut deinde mysticam 
+intelli<lb ed="#P" break="no" n="48"/>gentiam fidei quae in illo formatur exquiramus.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g38270-Dd1e234">
+               <head xml:id="hsvhsv-g38270-Hd1e236">Capitulum 2</head>
+               <head xml:id="hsvhsv-g38270-Hd1e238" type="question-title"/>
+               <p xml:id="hsvhsv-g38270-d1e240">
+                  <lb ed="#P" n="49"/>Cap. II. De his qua visibiliter aguntur in ea.
+</p>
+               <p xml:id="hsvhsv-g38270-d1e245">
+                  <lb ed="#P" n="50"/>Primum pontifex aquam benedicit, typicum
+<lb ed="#P" n="51"/>sal admiscens, deinde Ecclesiam ipsam 
+extrinse<lb ed="#P" break="no" n="52"/>cus ter gyrando aspergit, clero et populo 
+subse<lb ed="#P" break="no" n="53"/>quente. Interim vero in circuitu dedicandg 
+Ec<lb ed="#P" break="no" n="54"/>clesie intrinsecus duodecim accensa sunt 
+lumi<lb ed="#P" break="no" n="55"/>naria. Per singulas autem vices ad portam 
+basi<lb ed="#P" break="no" n="56"/>lic veniens (quam ob sacramenti figuram 
+clau<lb ed="#P" break="no" n="57"/>sam esseoportet) percutit virga pastorali 
+super<lb ed="#P" break="no" n="58"/>liminare ipsius, dicens: Tollite portas principes
+<cb ed="#P" n="c"/>
+                  <lb ed="#P" n="59"/>vestras, et elevamini porta cternales, et 
+in<lb ed="#P" break="no" n="60"/>troibit rex glorie (Psal. xxi). Cui diaconus
+<lb ed="#P" n="61"/>intus positus respondet: Quis est iste rex 
+glo<lb ed="#P" break="no" n="62"/>ric? (Ibid.) Pontifex autem: Dominus virtutum
+<lb ed="#P" n="63"/>ipse est rex gloria (ibid). Tertia demum vice 
+re<lb ed="#P" break="no" n="64"/>serato ostio intrat pontifex cum clero et populo,
+<lb ed="#P" n="65"/>dicens ter: Paae huic domui (Luc. x). Deinde
+<lb ed="#P" n="66"/>cum sacerdotibus et levitis et clericis ad. 
+oratio<lb ed="#P" break="no" n="67"/>nem prosternitur, pro sanctificatione ipsius 
+do<lb ed="#P" break="no" n="68"/>mus dedicandz. Postea consurgens ab oratione
+<lb ed="#P" n="69"/>nondum salutans populum dicendo : Dominus
+<lb ed="#P" n="70"/>vobiscum (Ruth. 11) ; tantummodo hortatur 
+cunc<lb ed="#P" break="no" n="71"/>tos ad orandum. His completis, incipit de sinistro
+<lb ed="#P" n="72"/>angulo basilice ab oriente per pavimentum 
+scri<lb ed="#P" break="no" n="73"/>bere alphabetum usque in dextrum angulum oc-
+<cb ed="#P" n="d"/>
+                  <lb ed="#P" n="74"/>cidentis, atque iterum a dextro angulo orientis
+<lb ed="#P" n="75"/>usque in sinistrum angulum occidentis. Dehinc
+<lb ed="#P" n="76"/>ad altiora conscendit ; et stans ante altare
+<lb ed="#P" n="77"/>Deum sibi in adjutorium invocat, dicens :
+<lb ed="#P" n="78"/>Deus in. adjutorium meum intende. Domine,
+<lb ed="#P" n="79"/>ad adjuvandum me festina (Psal. xix). 
+Glo<lb ed="#P" break="no" n="80"/>ria Patri. Sicut erat in principio, et nunc et
+<lb ed="#P" n="81"/>semper, etc., sime Alleluia. Post hoc aquam 
+be<lb ed="#P" break="no" n="82"/>nedicit, salem et cinerem admiscens, et faciens
+<lb ed="#P" n="83"/>ter signum crucis super ipsam, cui misture 
+vi<lb ed="#P" break="no" n="84"/>num etiam additur. Posthec tingit digitum in
+<lb ed="#P" n="85"/>aqua, et facit crucem per quatuor cornua altaris.
+<lb ed="#P" n="86"/>Inde venit ante altare, et circuiens aspergit illud
+<lb ed="#P" n="87"/>septem vicibus, aspersorio facto de hyssopo. 
+Cir<lb ed="#P" break="no" n="88"/>cuit dehinc totam Ecclesiam, intrinsecus 
+asper<lb ed="#P" break="no" n="89"/>gens parietes ipsius eadem aqua faciens hoc et
+<lb ed="#P" n="90"/>tertio. Interim vero cantatur psalmus : 
+Ecsur<lb ed="#P" break="no" n="91"/>gat Deus (Psal. . xvii), cum antiphona. 
+Canta<lb ed="#P" break="no" n="92"/>tur etiam antiphona : Qui habitat in adjutorio
+<lb ed="#P" n="93"/>Altissimi (Psal. xc). Circuit interim ipse 
+ponti<lb ed="#P" break="no" n="94"/>fex, transiens per mediam ecclesiam et cantans :
+<lb ed="#P" n="95"/>Domus mea, domus, etc.(Isa. v1 , Matth. xxi)Et
+<lb ed="#P" n="96"/>iterum : Narrabo nomen tuum fratribus meis;
+<lb ed="#P" n="97"/>in medio ecclesie laudabo te (Psal. xxi). His
+<lb ed="#P" n="98"/>autem paractis, pontifex se ad orationem confert,
+<lb ed="#P" n="99"/>petens ut omnes qui eamdem domum oraturi 
+in<lb ed="#P" break="no" n="100"/>traverint, exauditos se esse gaudeant. Completa
+<lb ed="#P" n="101"/>itaque expiatione, convertitur ad altare incipiens
+<lb ed="#P" n="102"/>antiphonam : Introibo ad altare Det (Psal. xLu) ;
+<lb ed="#P" n="103"/>cum ipso psalmo ; et quod reliquum est de aqua
+<lb ed="#P" n="104"/>Purificationis ad basim altaris effundit. Deinde
+<lb ed="#P" n="105"/>ipsum altare linteo extergitur, et pontifex 
+incen<lb ed="#P" break="no" n="106"/>sum defert super illud. Postea facit crucem in
+<lb ed="#P" n="107"/>medio altaris et per quatuor angulos ejus, de oleo
+<lb ed="#P" n="108"/>sanctificato. Deinde in circuitu ecclesi 
+duode<lb ed="#P" break="no" n="109"/>cim cruces chrismantur in parietibus, ab ipso
+<lb ed="#P" n="110"/>pontifice tres per singulos figurate. Reversus
+<lb ed="#P" n="111"/>deinde iterum ad altare accensum thus super 
+il<lb ed="#P" break="no" n="112"/>lud offert in modum crucis, et sic peracta 
+deni<lb ed="#P" break="no" n="113"/>que consecratione ipsum altare albis 
+velaminibus<lb ed="#P" break="no" n="114"/>operitur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g38270-Dd1e395">
+               <head xml:id="hsvhsv-g38270-Hd1e397">Capitulum 3</head>
+               <head xml:id="hsvhsv-g38270-Hd1e399" type="question-title"/>
+               <p xml:id="hsvhsv-g38270-d1e401">
+<!-- 139.png.txt -->
+                  <pb ed="#P" n="221"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>Cap. III. Quod sit mysterium supradictorum. 
+</p>
+               <p xml:id="hsvhsv-g38270-d1e412">
+                  <lb ed="#P" n="2"/>Multa in his omnibus latent profunda mysteria,
+<lb ed="#P" n="3"/>ex quibus pauca ad memoriam excitanda 
+attingi<lb ed="#P" break="no" n="4"/>mus. Domus dedicanda, anima sanctificanda est.
+<lb ed="#P" n="5"/>Aqua ponnitentia est, sordes abluens peccatorum.
+<lb ed="#P" n="6"/>Sal sermo divinus increpatione mordens et condiens
+<lb ed="#P" n="7"/>corde insipida. Trina aspersio trina mersio est 
+pu<lb ed="#P" break="no" n="8"/>rificandi per aquam. Duodecimluminaria apostoli
+<lb ed="#P" n="9"/>sunt, ecclesiam per quatuor mundi partes 
+illumi<lb ed="#P" break="no" n="10"/>nantes, et crucis mysterium per totum mundum 
+ef<lb ed="#P" break="no" n="11"/>ferentes. Pontifex Christus est, virga potestas. 
+Tri<lb ed="#P" break="no" n="12"/>na superliminaris percussio, coeli, terrae inferni
+<lb ed="#P" n="13"/>damnatio. Interrogatio inclusi, ignorantia 
+popu<lb ed="#P" break="no" n="14"/>bh; apertio ostii, sublatio peccati. Pontifex 
+ec<lb ed="#P" break="no" n="15"/>clesiam ingrediens pacem domui imprecatur ;
+<lb ed="#P" n="16"/>quia Christus mundum ingrediens pacem inter B datur. 
+<lb ed="#P" n="17"/>Deum et hominem fecit. Prostratus pro 
+sanctifi<lb ed="#P" break="no" n="18"/>catione domus orat, et. Christus humiliatus pro
+<lb ed="#P" n="19"/>discipulis et pro credituris omnibus Patrem 
+ora<lb ed="#P" break="no" n="20"/>bat, dicens: Pater, sanctifica eos in nomine
+<lb ed="#P" n="21"/>tuo (Joan. xvi). Surgens autem ab oratione 
+po<lb ed="#P" break="no" n="22"/>pulum non salutat, quoniam qui nondum 
+sancti<lb ed="#P" break="no" n="23"/>ficati sunt, applaudendum non est ipsis, sed
+<lb ed="#P" n="24"/>orandum pro ipsis. Descriptio alphabeti, simplex
+<lb ed="#P" n="25"/>doctrina fidei. Pavimentum, cor humanum. In
+<lb ed="#P" n="26"/>pavimento alphabetum describitur, quando 
+car<lb ed="#P" break="no" n="27"/>nalis et rudis populus prima ac simplici doctrina
+<lb ed="#P" n="28"/>fidei initiatur. Ductus a sinistro angulo orientis
+<lb ed="#P" n="29"/>in dextrum occidentis, et item a dextro angulo
+<lb ed="#P" n="30"/>orientis in sinistrum occidentis, formam crucis
+<lb ed="#P" n="31"/>exprimit, quae mentibus hominum per fidem 
+Evan<lb ed="#P" break="no" n="32"/>gelicoe praedicationis imprimitur ; et quía primum
+<lb ed="#P" n="33"/>fides in Judieis fuit, et postea ad gentes transivit,
+<lb ed="#P" n="34"/>et rursum in fine plenitudo gentium intraverit ;
+<lb ed="#P" n="35"/>tunc omnis Israel salvus erit (Rom x1). 
+Utrius<lb ed="#P" break="no" n="36"/>que ergo populi collectionem hi duo versus 
+si<lb ed="#P" break="no" n="37"/>gnificant in crucis effigie compacti ; hoc est quod
+<lb ed="#P" n="38"/>Jacob filios Joseph benedicens, cancellatis 
+mani<lb ed="#P" break="no" n="39"/>pus formam crucis exprimens ; dextram manum
+<lb ed="#P" n="40"/>super caput Ephraim, etsinistram super caput 
+Ma<lb ed="#P" break="no" n="41"/>nasse posuit ; quia priori dopuloabjecto, junior ad
+<lb ed="#P" n="42"/>dexteram collocatus est (Gen. xLvit1). Cambuca 
+si<lb ed="#P" break="no" n="43"/>ve virga pastoralisqua Scriptura figuratur, 
+minis<lb ed="#P" break="no" n="44"/>terium significat doctorum, quorum studio et
+<lb ed="#P" n="45"/>pradicatione et conversio gentium facta est, et
+<lb ed="#P" n="46"/>perficienda est Judaeorum. Quod stans ante 
+alta<lb ed="#P" break="no" n="47"/>re, Deum in adjutorium vocat, significat eos qui
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="48"/>percepta fidei cognitione, se ad bona opera et ad
+<lb ed="#P" n="49"/>luctam contra invisibiles hostes accingunt ; et
+<lb ed="#P" n="50"/>quia de suis viribus minime praesumunt, 
+divi<lb ed="#P" break="no" n="51"/>num auxilium sibi adesse deposcunt. In quo quia
+<lb ed="#P" n="52"/>certantium labor exprimitur, quasi inter
+<lb ed="#P" n="53"/>suspiria et gemitus nondum A/leluia nominatur.
+<lb ed="#P" n="54"/>Post hiec aqua benedicitur cum sale et cinere, 
+ad<lb ed="#P" break="no" n="55"/>dito vino aqua misto. Aqua populus est, sal 
+doc<lb ed="#P" break="no" n="56"/>trina; cinis passionis Christi memoria ; vinum
+<lb ed="#P" n="57"/>aqua mistum Christus Deus et homo. Vinum 
+di<lb ed="#P" break="no" n="58"/>vinitas, aqua mortalitas. Sic enim populus 
+sanc<lb ed="#P" break="no" n="59"/>tificatur doctrina fidei et memoria passionis
+<lb ed="#P" n="60"/>Christi : unitus capiti suo Deo et homini. Post
+<lb ed="#P" n="61"/>hec Ecclesia intus aqua sanctificata aspergitur,
+<lb ed="#P" n="62"/>ut et intus et exterius anima sanctificanda 
+osten<lb ed="#P" break="no" n="63"/>datur Aspersorium hissopy humilitatem Christi
+<lb ed="#P" n="64"/>significat, qua aspersa sancla mundatur 
+Eccle<lb ed="#P" break="no" n="65"/>sia. Circuit pontifex altare, et ecclesiam totam
+<lb ed="#P" n="66"/>aspergendo, quasi omnes lustrando, et curam
+<lb ed="#P" n="67"/>imponendo omnibus verbo et exemplo 
+commu<lb ed="#P" break="no" n="68"/>nem se prebens universis. Propter quod etiam
+<lb ed="#P" n="69"/>opus oratione consummat, orans ut exaudiantur
+<lb ed="#P" n="70"/>ibi justa petentes ; quoniam opus hominis sine
+<lb ed="#P" n="71"/>divino adjutorio esse potest, fructuosum esse non
+<lb ed="#P" n="72"/>potest. Novissime completa expiatione pontifex
+<lb ed="#P" n="73"/>ad altare convertitur, quod reliquum est de aqua
+<lb ed="#P" n="74"/>purificationis ad basim ejus effundens, quasi
+<lb ed="#P" n="75"/>committens Deo quod super est vires suas 
+exce<lb ed="#P" break="no" n="76"/>dens in perfectione sacri ministerii. Dehinc 
+lin<lb ed="#P" break="no" n="77"/>teo altare extergitur. Altare Christus est super
+<lb ed="#P" n="78"/>C quem offerimus Patri nostre devotionis munus.
+<lb ed="#P" n="79"/>Linteum caro ejus, tunsionibus passionis ad 
+can<lb ed="#P" break="no" n="80"/>dorem incorruptionis perducta. Incensum, 
+ora<lb ed="#P" break="no" n="81"/>tiones sanctorum significat. Oleum autem gratiam
+<lb ed="#P" n="82"/>sancti Spiritus demonstrat, cujus plenitudo in 
+ca<lb ed="#P" break="no" n="83"/>pite precessit, dehinc participatio ad membra 
+de<lb ed="#P" break="no" n="84"/>fluxit. Propter hoc a sacrato altari duodecim 
+cru<lb ed="#P" break="no" n="85"/>ces parietibus chrismantur, quia spiritualis 
+gra<lb ed="#P" break="no" n="86"/>tia a Christo in apostolos descendit, ut crucis
+<lb ed="#P" n="87"/>mysterium per quatuor mundi partes cum fide
+<lb ed="#P" n="88"/>Trinitatis [praedicarent. Candidum velamen quo
+<lb ed="#P" n="89"/>post consecrationem altare operitur, gloriam 
+in<lb ed="#P" break="no" n="90"/>corruptionis designat, qua post passionem 
+con<lb ed="#P" break="no" n="91"/>sumpta mortalitate Jesu humanitas induta est,
+<lb ed="#P" n="92"/>sicut scriptum est: Conscidisti saccum meum,
+<lb ed="#P" n="93"/>et letitia me circumdedisti (Psal. xxix).
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

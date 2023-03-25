@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pars 4</title>
+            <author ref="#HughOfStVictor">Hugh of St. Victor</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Pars 4</title>
+               <date when="2023-03-25">March 25, 2023</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-bnhupl">Patrologia Latina, v. 176</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2023-03-25" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="117"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="hsvhsv-g10027"><!-- l1-p4 -->
+            <head xml:id="hsvhsv-g10027-Hd1e101">Pars 4</head>
+            <head xml:id="hsvhsv-g10027-Hd1e103" type="question-title">
+De voluntate Dei quae aeterna est et una
+</head>
+            <p xml:id="hsvhsv-g10027-d1e106">
+               <cb ed="#P" n="c"/>
+               <lb ed="#P" n="88"/>PARS QUARTA.
+<lb ed="#P" n="89"/>DE VOLUNTATE DEI QUAE AEETERNA EST ET UNA
+<lb ed="#P" n="90"/>ET DE SIGNIS VOLUNTATIS EJUS
+</p>
+            <p xml:id="hsvhsv-g10027-d1e117">
+               <lb ed="#P" n="91"/>Quae quidem temporalia sunt et secundum figuram voluntatis dicuntur, qui signa
+<lb ed="#P" n="92"/>sunt voluntatis.
+</p>
+            <div xml:id="hsvhsv-g10027-Dd1e124">
+               <head xml:id="hsvhsv-g10027-Hd1e126">Capitulum 1</head>
+               <head xml:id="hsvhsv-g10027-Hd1e128" type="question-title">
+De voluntate igitur Dei, quod iusta est
+</head>
+               <p xml:id="hsvhsv-g10027-d1e131">
+                  <cb ed="#P" n="d"/>
+                  <lb ed="#P" n="93"/>Cap. I. De voluntate igitur Dei, quod justa est. 
+</p>
+               <p xml:id="hsvhsv-g10027-d1e138">
+                  <cb ed="#P" n="e"/>
+                  <lb ed="#P" n="94"/>Prima rerum omnium causa est voluntas 
+Crea<lb ed="#P" break="no" n="95"/>loris quam nulla praecedens causa movit quia 
+z<lb ed="#P" break="no" n="96"/>lerna est ; nec subsequens aliqua confirmat, 
+quo<lb ed="#P" break="no" n="97"/>niam, ex semetipsa justa est. Neque enim idcirco
+<lb ed="#P" n="98"/>juste voluit, quia futurum justum fuit quod vo-
+<cb ed="#P" n="f"/>
+                  <lb ed="#P" n="99"/>luit sed quod voluit, idcirco justum fuit, quia
+<lb ed="#P" n="100"/>ipse voluit. Suum enim ac proprium voluntatis
+<lb ed="#P" n="101"/>ejus est esse justum quod est, et exeo quod in ea
+<lb ed="#P" n="102"/>justum est quod ex ea justum est. Quoniam 
+se<lb ed="#P" break="no" n="103"/>cundum eam justum est quod justum est quod
+<lb ed="#P" n="104"/>utique justum non esset, si secundum eam non
+<!-- 036.png.txt -->
+<pb ed="#P" n="118"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>esset. Cum ergo quaeritur quare justum est quod
+<lb ed="#P" n="2"/>justum est, convenientissime respondetur : 
+quo<lb ed="#P" break="no" n="3"/>niam secundum voluntatem Dei est, qui justa
+<lb ed="#P" n="4"/>est, Cum vero quaritur quare voluntas Dei 
+jus<lb ed="#P" break="no" n="5"/>ta est, hoc sanius respondetur: quoniam 
+pri<lb ed="#P" break="no" n="6"/>mi causae causa nulla est cui ex se est esse
+<lb ed="#P" n="7"/>quod est. H:ec. autem sola est unde ortum est
+<lb ed="#P" n="8"/>quidquid est ; et ipsa non est orta, sed cterna.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10027-Dd1e195">
+               <head xml:id="hsvhsv-g10027-Hd1e197">Capitulum 2</head>
+               <head xml:id="hsvhsv-g10027-Hd1e199" type="question-title"/>
+               <p xml:id="hsvhsv-g10027-d1e201">
+                  <lb ed="#P" n="9"/>Cap. II Quod modis Scriptura voluntatem. Dei accipiat.
+</p>
+               <p xml:id="hsvhsv-g10027-d1e206">
+                  <lb ed="#P" n="10"/>Hic non pra:tereundum nobisest, quod sacra 
+Scri<lb ed="#P" break="no" n="11"/>ptura devoluntate Dei diversis quibusdhm modis
+<lb ed="#P" n="12"/>loqui consuevit; et non est voluntas diversa, sed 
+lo<lb ed="#P" break="no" n="13"/>cutio diversa estde voluntate quz: non est diversa.
+<lb ed="#P" n="14"/>Nam voluntas Dei in sacro eloquio aliquando 
+acci<lb ed="#P" break="no" n="15"/>pitur illa qua» vere est in ipso, et idem cum ipso, et
+<lb ed="#P" n="16"/>corterna ipsi. Aliquando vero secundum 
+quam<lb ed="#P" break="no" n="17"/>dam dicendi figuram voluntas ejus vocatur quae 
+se<lb ed="#P" break="no" n="18"/>cundum proprietatem non est voluntas ejus, ed 
+si<lb ed="#P" break="no" n="19"/>gnum voluntatis ejus. Et dicitur ipsum signum vo*
+<lb ed="#P" n="20"/>luntatisvoluntas, cum voluntas non sit sed. Signum
+<lb ed="#P" n="21"/>tantum. Quemadmodum et signa ir ira dicuntur;
+<lb ed="#P" n="22"/>et dilectionis signa dilectio appellantur. Et dicitur
+<lb ed="#P" n="23"/>iratus Deus et non est ira aliqua in eo. Sed signa
+<lb ed="#P" n="24"/>tantum, quiae foris sunt. quibus iratus ostenditur,
+<lb ed="#P" n="25"/>ira ipsius nominantur. Et est figura dicendi 
+secun<lb ed="#P" break="no" n="26"/>dum quam non est falsum quod dicitur sed quod
+<lb ed="#P" n="27"/>dicitur similitudinis respectu obumbratur. Et 
+se<lb ed="#P" break="no" n="28"/>eundum istos modos figurarum quasi divers: 
+vo<lb ed="#P" break="no" n="29"/>luntates Deoattribuuntur, quia diversa sunt illa
+<lb ed="#P" n="30"/>qua per figuram dicuntur veluntas ejus, cum ea
+<lb ed="#P" n="31"/>quie secundum proprietatem dicitur una sit 
+volun<lb ed="#P" break="no" n="32"/>tasipsius.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10027-Dd1e259">
+               <head xml:id="hsvhsv-g10027-Hd1e261">Capitulum 3</head>
+               <head xml:id="hsvhsv-g10027-Hd1e263" type="question-title"/>
+               <p xml:id="hsvhsv-g10027-d1e265">
+                  <lb ed="#P" n="33"/>Cap. III Prima voluntas Dei beneplacitum
+<lb ed="#P" n="34"/>dicitur.
+</p>
+               <p xml:id="hsvhsv-g10027-d1e272">
+                  <lb ed="#P" n="35"/>Igitur quae et primum et principaliter voluntas
+<lb ed="#P" n="36"/>Dei dicitur, est illa quae vere est. voluntas ejus. Et
+<lb ed="#P" n="37"/>hec est una nec multiplicitatem recipit, nec 
+muta<lb ed="#P" break="no" n="38"/>bilitatem.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10027-Dd1e284">
+               <head xml:id="hsvhsv-g10027-Hd1e286">Capitulum 4</head>
+               <head xml:id="hsvhsv-g10027-Hd1e288" type="question-title"/>
+               <p xml:id="hsvhsv-g10027-d1e290">
+                  <lb ed="#P" n="39"/>Cap. IV. Secunda operatio; tertia permissio.
+</p>
+               <p xml:id="hsvhsv-g10027-d1e295">
+                  <lb ed="#P" n="40"/>Deinde sequuntur duae voluntates, et duo quce
+<lb ed="#P" n="41"/>dicuntur voluntates. Et hicduo de Deo dicuntur, et.
+<lb ed="#P" n="42"/>Dei voluntates dicuntur, quia sigria sunt voluntatis
+<lb ed="#P" n="43"/>ejus. Harum voluntatem una permittens vocatur,
+<lb ed="#P" n="44"/>altera faciens, hoc est permissio et operatio : quia
+<lb ed="#P" n="45"/>permissio ejus dicitur voluntas ejus, et operatio
+<lb ed="#P" n="46"/>ejus dicitur voluntas ejus, quoniam secundum 
+vo<lb ed="#P" break="no" n="47"/>luntatem ejus fiunt et signa sunt voluntatis ejus.
+<lb ed="#P" n="48"/>Etsunt duo ista quasi consequentia voluntatis
+<lb ed="#P" n="49"/>summbee, et quasi explicatio ejus et effectus illius et.
+<lb ed="#P" n="50"/>paria illi, non tamen costerna. Quidquid enim in
+<lb ed="#P" n="51"/>illa semper est. in istis aliquando et quidquid in
+<lb ed="#P" n="52"/>istis aliquando non est in illa nunquam est.
+<lb ed="#P" n="53"/>Omne enim quod est in illa. semper est, et 
+om<lb ed="#P" break="no" n="54"/>ne quod est in istis aliquando est ; quia, nec
+<lb ed="#P" n="55"/>aliquid est praeter ejus voluntatem, nec aliquid
+<lb ed="#P" n="56"/>fieri potest extra operationem ipsius sive 
+permis<lb ed="#P" break="no" n="57"/>sionem. Et sequuntur duo unam et una in 
+ambo<lb ed="#P" break="no" n="58"/>businvenitur, quoniam nec nolens operatur, nec
+<lb ed="#P" n="59"/>permittitnisi volens. Et cumfit aliquid, dicitur hoc
+<lb ed="#P" n="60"/>voluntas Dei, quia voluntate Dei factum est, ut hoc
+<lb ed="#P" n="61"/>fieret vel permissum. Et voluntate fecit quod fecit
+<lb ed="#P" n="62"/>et bene fecitet bonum fecit quod fecit. Et volunta-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>rie permisit : etiam si illud bonum non fuitquod
+<lb ed="#P" n="64"/>permisit.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10027-Dd1e355">
+               <head xml:id="hsvhsv-g10027-Hd1e357">Capitulum 5</head>
+               <head xml:id="hsvhsv-g10027-Hd1e359" type="question-title"/>
+               <p xml:id="hsvhsv-g10027-d1e361">
+                  <cb ed="#P" n="c"/>
+                  <lb ed="#P" n="65"/>Cap. V. Quod Deus bona fecit mala permisit.
+</p>
+               <p xml:id="hsvhsv-g10027-d1e368">
+                  <cb ed="#P" n="d"/>
+                  <lb ed="#P" n="66"/>Bona enim fecit et benefecit, et mala permisit et.
+<lb ed="#P" n="67"/>non fecit. Et bene fecit, quoniam utrumque bonum
+<lb ed="#P" n="68"/>fuit. Et idcirco utrumque voluit, quia utrumque 
+bo<lb ed="#P" break="no" n="69"/>num fuit. Et fuerunt bona bona, et mala mala, nee
+<lb ed="#P" n="70"/>bona fuerunt mala, nec mala bona; sed bonum fuit.
+<lb ed="#P" n="71"/>esse etbona etmala. Et voluit utrumque esse Deus,
+<lb ed="#P" n="72"/>quia utrumque bonum esso fuit; et non 
+utrum<lb ed="#P" break="no" n="73"/>que bonum fuit, quia malum bonum non fuit. Et
+<lb ed="#P" n="74"/>idcirco non voluit Deus malum, cum voluit ut 
+es<lb ed="#P" break="no" n="75"/>set et malum. Quod tamen non fecit in eo quod 
+fe<lb ed="#P" break="no" n="76"/>cit bonum, sed permisit ut esset, quia bonum fuit
+<lb ed="#P" n="77"/>quod voluit. Neque id bonum malum fuit, sed ex
+<lb ed="#P" n="78"/>p malo bonum fuit; neque malum bonum fecit, sed.
+<lb ed="#P" n="79"/>ex malo bonum fecit. Qui malis ct bonis uti novit
+<lb ed="#P" n="80"/>ad bonum.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10027-Dd1e406">
+               <head xml:id="hsvhsv-g10027-Hd1e408">Capitulum 6</head>
+               <head xml:id="hsvhsv-g10027-Hd1e410" type="question-title"/>
+               <p xml:id="hsvhsv-g10027-d1e412">
+                  <cb ed="#P" n="e"/>
+                  <lb ed="#P" n="81"/>Cap. VI. Quare Deus mala permisit.
+</p>
+               <p xml:id="hsvhsv-g10027-d1e419">
+                  <lb ed="#P" n="82"/>Fuitque majus bonum esse bonum ex bono et
+<lb ed="#P" n="83"/>malo quam ex solo bono ; pro quo voluit summum
+<lb ed="#P" n="84"/>bonum ut esset hic bonum, et quod voluit fuit 
+bo<lb ed="#P" break="no" n="85"/>num. Sicut ergo :eternae sapientie illius ignotum
+<lb ed="#P" n="86"/>esse non potuit omne quod futurum fuit, sic 
+com<lb ed="#P" break="no" n="87"/>terns voluntati ejus displicere non potuit omne
+<lb ed="#P" n="88"/>quod fuit. Et vidit totum quod futurum fuit, et
+<lb ed="#P" n="89"/>bonum esse hoctotum utesset totum, et. voluit ut.
+<lb ed="#P" n="90"/>esset totum, quia bonum fuit ut esset totum. Et 
+vi<lb ed="#P" break="no" n="91"/>dit mala quae erant procul futura cum bonis 
+prius<lb ed="#P" break="no" n="92"/>quam erantet consideravit, quod his malis 
+adjunc<lb ed="#P" break="no" n="93"/>(tis bona commendarentur, et pulchriora flerent
+<lb ed="#P" n="94"/>comparatione malorum, et bona essent mala inter
+<lb ed="#P" n="95"/>bona quz» non erant bona. Quoniam ex eis 
+orna<lb ed="#P" break="no" n="96"/>rentur bona et commendarentur, et amplius 
+bo<lb ed="#P" break="no" n="97"/>num acciperent ad decorem et pulchritudinem 
+uni<lb ed="#P" break="no" n="98"/>versorum. Etrespexit cuncta in ordinesuo : et 
+vi<lb ed="#P" break="no" n="99"/>dit bonaibi, et quo bona sibi bona fuerunt, et 
+vo<lb ed="#P" break="no" n="100"/>luit sicesse omnia ut bonum fuit, quia ita bonum
+<lb ed="#P" n="101"/>fuit ut vidit et voluit quod futurum fuit. Et 
+pensa<lb ed="#P" break="no" n="102"/>vit aequo judicio universa, quae viditin complacito
+<lb ed="#P" n="103"/>uno quo bonum fuit et justum totum esse, et nihil
+<lb ed="#P" n="104"/>aliud esse ; et voluit totum esse et aliud non esse.
+<lb ed="#P" n="105"/>Et hac voluntate postea fecit ut bona essent quae
+<lb ed="#P" n="106"/>esse bonum erat, sicut viderat et voluerat. Et 
+per<lb ed="#P" break="no" n="107"/>misit ut mala essent quae esse bonum erat, quae
+<lb ed="#P" n="108"/>cum bonis futura essepr:eviderat, et ut essent cum
+<lb ed="#P" n="109"/>bonis voluerat quia bonum erat. Et crat quidem
+<lb ed="#P" n="110"/>voluntas ejus zeterna et de bonis et de malis qu;e
+<lb ed="#P" n="111"/>voluit ut essent; sed non erat notum hominibus 
+do<lb ed="#P" break="no" n="112"/>nec complerentur et fierent, de quibus bonis 
+etma<lb ed="#P" break="no" n="113"/>lis voluntas ejus erat ut essent.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10027-Dd1e492">
+               <head xml:id="hsvhsv-g10027-Hd1e494">Capitulum 7</head>
+               <head xml:id="hsvhsv-g10027-Hd1e496" type="question-title"/>
+               <p xml:id="hsvhsv-g10027-d1e498">
+                  <lb ed="#P" n="114"/>Cap. VII. Quare operatio Dei et permissio 
+vo<lb ed="#P" break="no" n="115"/>luntas ejus dicuntur.
+</p>
+               <p xml:id="hsvhsv-g10027-d1e505">
+                  <lb ed="#P" n="116"/>Cum autem fecit bonum et permisit malum, 
+ap<lb ed="#P" break="no" n="117"/>paruit nobis voluntas ejus de illo, quoniam esse
+<lb ed="#P" n="118"/>vult quod facit vel permittit ut sit ; et non incipit.
+<lb ed="#P" n="119"/>tunccum illo quod fit voluntas ejus quae :eterna.
+<lb ed="#P" n="120"/>est, sed ostenditur ex illo quanto fit qua occulta
+<lb ed="#P" n="121"/>est. Et ideo ipsum quod fit dicitur voluntas ejus,
+<lb ed="#P" n="122"/>quia signum est voluntatis ejus. Et apparet quasi
+<lb ed="#P" n="123"/>alia etalia voluntas, quia signa sunt alia et alia
+<lb ed="#P" n="124"/>unius voluntatis.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10027-Dd1e529">
+               <head xml:id="hsvhsv-g10027-Hd1e531">Capitulum 8</head>
+               <head xml:id="hsvhsv-g10027-Hd1e533" type="question-title"/>
+               <p xml:id="hsvhsv-g10027-d1e535">
+<!-- 037.png.txt -->
+                  <pb ed="#P" n="119"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>Cap. VIII. Quod duplex sit discretio voluntatis Dei in.  
+<lb ed="#P" n="2"/>beneplacito ejus et in signo beneplaciti ejus.
+</p>
+               <p xml:id="hsvhsv-g10027-d1e548">
+                  <lb ed="#P" n="3"/>Et exit inde nobis discretio cognoscendae 
+volun<lb ed="#P" break="no" n="4"/>tatis divinae in beneplacito ojus et in signo 
+bene<lb ed="#P" break="no" n="5"/>placiti ipsius, et dicimus quod beneplacitum ejus
+<lb ed="#P" n="6"/>est voluntas cjus. Et signum beneplaciti ejus 
+vo<lb ed="#P" break="no" n="7"/>camus voluntatem ejus. Et verum est utrumque
+<lb ed="#P" n="8"/>et utrumque vere dicitur; sed beneplacitum ejus
+<lb ed="#P" n="9"/>:lernum est, nec potest non esse quidquid in illo
+<lb ed="#P" n="10"/>est, et quidquid in illo non est, esse non potest.
+<lb ed="#P" n="11"/>Nec contra ipsum, nec extra ipsum, nec sine ipso
+<lb ed="#P" n="12"/>aliquid est, in omni quod est. Et constat. ipsum
+<lb ed="#P" n="13"/>et ratum est; nec cassari potest aliquando quod in
+<lb ed="#P" n="14"/>ipso est, Omnia quecunque voluit. fecit (Psal.
+<lb ed="#P" n="15"/>cxur), in hoc probatum est, quia non cassatur 
+vo<lb ed="#P" break="no" n="16"/>luntas ejus. Et volunti ejus quis resistit? (Rom.
+<lb ed="#P" n="17"/>1x). In hoe probatum est quod non impeditur 
+be<lb ed="#P" break="no" n="18"/>neplacitum ipsius. Ita consonat rerum effectibus
+<lb ed="#P" n="19"/>beneplacitum ipsius : et ipsi effectus rerum non
+<lb ed="#P" n="20"/>discordant ab illo. Fit enim omne quod vult, et
+<lb ed="#P" n="21"/>omne quod non vult non fit, et omne quod vult
+<lb ed="#P" n="22"/>semper vultut fiat, quod non semper est aliquando
+<lb ed="#P" n="23"/>quod vult. Et hoc beneplacitum universale quod
+<lb ed="#P" n="24"/>aeternum est, et omnia quae fiunt temporibus suis
+<lb ed="#P" n="25"/>pariter simplici nutu justitig suae approbat ut ad
+<lb ed="#P" n="26"/>effectum procedant et fiant; perficitur et 
+oonsum<lb ed="#P" break="no" n="27"/>matur, et manifestatur duobus his quae 
+subse<lb ed="#P" break="no" n="28"/>quuntur in tempore permissione el operatione 
+di<lb ed="#P" break="no" n="29"/>vina, quae et ipsa rerum omnium qug effectum 
+ca<lb ed="#P" break="no" n="30"/>piunt vel subsistuntuniversitatem complectuntur,
+<lb ed="#P" n="31"/>etrespondentilli quod unum estinutroque, etindis- (i
+<lb ed="#P" n="32"/>simile ad dissimiliaomnia beneplacitum Creatoris.
+<lb ed="#P" n="33"/>Et proptereaetiam ipsa duo voluntates dicuntur. Et.
+<lb ed="#P" n="34"/>est voluntas Dei beneplacitum ejus, et voluntas
+<lb ed="#P" n="35"/>ejus operatio ejus, et voluntas ejus permissio ejus.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10027-Dd1e623">
+               <head xml:id="hsvhsv-g10027-Hd1e625">Capitulum 9</head>
+               <head xml:id="hsvhsv-g10027-Hd1e627" type="question-title"/>
+               <p xml:id="hsvhsv-g10027-d1e629">
+                  <lb ed="#P" n="36"/>Cap. IX. Quarta est in praeceptione; quinta in
+<lb ed="#P" n="37"/>prohibitione.
+</p>
+               <p xml:id="hsvhsv-g10027-d1e636">
+                  <lb ed="#P" n="38"/>Et sequitur adhuc praeceptum ejus et prohibitio
+<lb ed="#P" n="39"/>ejus, et dicitur utrumque voluntas ejus. Quia
+<lb ed="#P" n="40"/>cum quid fieri praecipit monstrat se velle ut flat ;
+<lb ed="#P" n="41"/>etcum quid fieri prohibet monstrat se velle ut
+<lb ed="#P" n="42"/>non fiat. Et idcirco dicuntur haec similiter 
+volun<lb ed="#P" break="no" n="43"/>las ejus; quia signa quidam sunt voluntatis
+<lb ed="#P" n="44"/>ejus, sicut operatio ejus et permissio ejus. Sed
+<lb ed="#P" n="45"/>dissimiiter et alio quodammodo significantia 
+vo<lb ed="#P" break="no" n="46"/>luntatem ejus et signa ex parte.
+</p>
+               <p xml:id="hsvhsv-g10027-d1e658">
+                  <lb ed="#P" n="47"/>Cap. X. Quod. non sunt. similia. signa aeterni
+<lb ed="#P" n="48"/>beneplaciti praceptio et prohibitio, sicut 
+ope<lb ed="#P" break="no" n="49"/>ratio et permissio.
+</p>
+               <p xml:id="hsvhsv-g10027-d1e668">
+                  <lb ed="#P" n="50"/>Non enim sicut operatio ejus et permissio ejus,
+<lb ed="#P" n="51"/>per omnia tenduntur, quia sine illis non fit 
+ali<lb ed="#P" break="no" n="52"/>quid, sic et. praeceptum ejus et prohibitio ejus.
+<lb ed="#P" n="53"/>Sed ad rationalem creaturam diriguntur hic duo
+<lb ed="#P" n="54"/>tantum, quae sola capax est praecepti et. 
+prohibi<lb ed="#P" break="no" n="55"/>lionis cauta secundum insitam rationem ad
+<lb ed="#P" n="56"/>utrumque. Itaque signa sunt ex parte hrec quie
+<lb ed="#P" n="57"/>non pertinent ad omnia neque universaliter 
+sum<lb ed="#P" break="no" n="58"/>mam voluntatem etquzin ea sunt omnia educunt
+<lb ed="#P" n="59"/>ad manifestationem, sicut operatio et permissio;
+<lb ed="#P" n="60"/>sed ea tantum quae ad ipsos spectant quibus flunt.
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="61"/>haec, hoc est praeceptum et prohibitio significant,
+<lb ed="#P" n="62"/>quoniam haec sunt. in summa voluntate et 
+bene<lb ed="#P" break="no" n="63"/>placito zwterno. Neque similia signa sunt heme,
+<lb ed="#P" n="64"/>quemadmodum operatio et. permissio ejus certa
+<lb ed="#P" n="65"/>sunt et vera signa beneplaciti zterni. Haec autem,
+<lb ed="#P" n="66"/>videlicet praeceptum et prohibitio, non omnino
+<lb ed="#P" n="67"/>certum faciunt quid sit in beneplacito :eterno, 
+do<lb ed="#P" break="no" n="68"/>nec operatione vel permissione probetur cum 
+fac<lb ed="#P" break="no" n="69"/>tum fuerit. Tunc enim certum est cum hoc fecerit.
+<lb ed="#P" n="70"/>Deus, sive permiserit ut fiat, et factum fuerit :
+<lb ed="#P" n="71"/>quod in beneplacito zterno ita fuit ut esset ut 
+fa<lb ed="#P" break="no" n="72"/>ctum est, secundum quod voluntarie fecit sive
+<lb ed="#P" n="73"/>permisit ut fieret quod factum est ; quoniam 
+bo<lb ed="#P" break="no" n="74"/>num ita est esse, ut est. Cum autem praeceptum
+<lb ed="#P" n="75"/>fuerit vel prohibitum aliquid, nondum constat
+<lb ed="#P" n="76"/>adhuc quid de ipso definitum sit in beneplacito,
+<lb ed="#P" n="77"/>eterno, donec illud rerum effectus educat in 
+evi<lb ed="#P" break="no" n="78"/>dentiam sive operatione, sive permisionne, ut 
+bo<lb ed="#P" break="no" n="79"/>num est esse et beneplacitum quod futurum est
+<lb ed="#P" n="80"/>antequam est. Preceptum autem et prohibitio 
+in<lb ed="#P" break="no" n="81"/>nuunt tantum quod ita est in voluntate jubentis
+<lb ed="#P" n="82"/>ut fiat, sive non fiat. Et demonstrationem faciunt
+<lb ed="#P" n="83"/>quod justum est et pium non aliud credere illum
+<lb ed="#P" n="84"/>cui fit etiam si aliud est in illo a quo fit. Et 
+prae<lb ed="#P" break="no" n="85"/>cipitur sxpe ut fiatquod futurum non est, nec fiet.
+<lb ed="#P" n="86"/>Et prohibetur ut non fiat quod futurum est, et flet,
+<lb ed="#P" n="87"/>et non est in beneplacitonisi hoc solum ut sit quod.
+<lb ed="#P" n="88"/>fiet; quoniam bonum estita esse et non aliudquam
+<lb ed="#P" n="89"/>fiet sive operatione Dei quod bonum est, sive 
+per<lb ed="#P" break="no" n="90"/>missione quod malum est; quod *otum esse, 
+bo<lb ed="#P" break="no" n="91"/>num est. Et non respondet prxceptum ejus et pro*
+<lb ed="#P" n="92"/>hibitio ejus beneplacito ejus, sicut operatio ejus
+<lb ed="#P" n="93"/>et permissio ejus; sed procedunt ex adverso et
+<lb ed="#P" n="94"/>dissimiliter ordinantur, et non consentiunt 
+ali<lb ed="#P" break="no" n="95"/>quoties secundum id quod futurum est, et fiet.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10027-Dd1e773">
+               <head xml:id="hsvhsv-g10027-Hd1e775">Capitulum 11</head>
+               <head xml:id="hsvhsv-g10027-Hd1e777" type="question-title"/>
+               <p xml:id="hsvhsv-g10027-d1e779">
+                  <lb ed="#P" n="96"/>Cap. XI. Quomodo fallere videtur Deus prace-.
+<lb ed="#P" n="97"/>ptione vel prohibitione aliud innuens quam
+<lb ed="#P" n="98"/>sit in beneplacito suo.
+</p>
+               <p xml:id="hsvhsv-g10027-d1e788">
+                  <lb ed="#P" n="99"/>Videntur autem praecepta Dei fallaci; obnoxia,
+<lb ed="#P" n="100"/>et mentiri de veritate, cum aliud significant de
+<lb ed="#P" n="101"/>voluntate ejus, et affirmant nobis aliena quedam
+<lb ed="#P" n="102"/>etextranea; et quae conducta non sunt neque
+<lb ed="#P" n="103"/>constant secundum beneplacitum illius quod 
+ra<lb ed="#P" break="no" n="104"/>tum est de his omnibus quae flent. Et. graviter
+<lb ed="#P" n="105"/>colluctatur conscientia humana in duobus adver
+<lb ed="#P" n="106"/>santibus quae non conveniunt, vel quare praecepit
+<lb ed="#P" n="107"/>Deus quod noluit, vel quare factum nonest quod
+<lb ed="#P" n="108"/>voluit. Si enim veritas est in prrcepte, videtur
+<lb ed="#P" n="109"/>omnino voluisse quod jussit; et si omnipotentia
+<lb ed="#P" n="110"/>est in beneplacito, videtur factum esse quod 
+vo<lb ed="#P" break="no" n="111"/>luit. Non est autem factum quod jussit, et factum
+<lb ed="#P" n="112"/>est quod prohibuit. Quid ergo consequitur ad htec
+<lb ed="#P" n="113"/>misi vel noluisse id quod prrecepit, vel non 
+po<lb ed="#P" break="no" n="114"/>tuisse quod voluit? Quod enim factum est ab eo
+<lb ed="#P" n="115"/>factum est, et si factum non est tamen permissum
+<lb ed="#P" n="116"/>est, et si factum est, voluntarie factum est, et. si
+<lb ed="#P" n="117"/>permissum est voluntarie permissum est; quia
+<lb ed="#P" n="118"/>neque ad faciendum contra voluntatem suam 
+com<lb ed="#P" break="no" n="119"/>pelli potuit, nequead permittendumsine voluntate
+<lb ed="#P" n="120"/>cogi. Igitur quod factum est voluntate ejus factum
+<lb ed="#P" n="121"/>est, etiam si propter voluntatem ejus factum non.
+<!-- 038.png.txt -->
+<pb ed="#P" n="120"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>est; quoníam alia factum est voluntate, qu; 
+vo<lb ed="#P" break="no" n="2"/>luntati ejus amica non est. Tamen omnino voluit
+<lb ed="#P" n="3"/>quod factum est quoniam bonum est sic esse 
+fa<lb ed="#P" break="no" n="4"/>ctum ut factum est; et sic esse, ut est. Quare
+<lb ed="#P" n="5"/>ergo praecepit ut aliter esset et. prohibuit ne sic
+<lb ed="#P" n="6"/>esset, cum bonum sit ita esse, et ita futurum fuit
+<lb ed="#P" n="7"/>priusquam fuit et beneplacitum, quia bonum fuit,
+<lb ed="#P" n="8"/>ita esse, et aliter non esse.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10027-Dd1e865">
+               <head xml:id="hsvhsv-g10027-Hd1e867">Capitulum 12</head>
+               <head xml:id="hsvhsv-g10027-Hd1e869" type="question-title"/>
+               <p xml:id="hsvhsv-g10027-d1e871">
+                  <lb ed="#P" n="9"/>Cap. XII. Utrumque durum sonare vel quod
+<lb ed="#P" n="10"/>Deus praecipiat qua fieri nolit, vel quod qua
+<lb ed="#P" n="11"/>nolit fieri permittat.
+</p>
+               <p xml:id="hsvhsv-g10027-d1e880">
+                  <lb ed="#P" n="12"/>Tali quaestione coarctamur et ducimur in 
+am<lb ed="#P" break="no" n="13"/>biguum, ut non facile audeamus hoc vel hoc 
+ali<lb ed="#P" break="no" n="14"/>quid affirmare, vel quod Deus fleri praecepit quod
+<lb ed="#P" n="15"/>noluit, vel quod quae noluit, fieri permisit. Et 
+ta<lb ed="#P" break="no" n="16"/>men e duobus unum facilius approbamus, quod
+<lb ed="#P" n="17"/>voluit quod praecepit bonum, quam malum quod
+<lb ed="#P" n="18"/>permisit, cum tamen quod praecipit factum non
+<lb ed="#P" n="19"/>sit bonum, sed malum quod permisit. Leve enim
+<lb ed="#P" n="20"/>est et sine conscientie scrupulo dicitur : Deus
+<lb ed="#P" n="21"/>vult bonum, et cum dicitur, bene sonat : Deus
+<lb ed="#P" n="22"/>vult bonum. Si vero dicitur : Deus vult. malum,
+<lb ed="#P" n="23"/>grave est auditu et non facile recipit hoc pia mens
+<lb ed="#P" n="24"/>de bono quod malum vult. Videtur enim hoc 
+so<lb ed="#P" break="no" n="25"/>lum dici cum dicitur Deus vult malum, quia 
+bo<lb ed="#P" break="no" n="26"/>nus malum diligit et approbat quod pravum est,
+<lb ed="#P" n="27"/>€t amicam sibi reputat iniquitatem, et gaudet
+<lb ed="#P" n="28"/>quasi de consimili et bonum putat quod malum
+<lb ed="#P" n="29"/>est; et ideo refutat hoc mens pia; non quia quod
+<lb ed="#P" n="30"/>dicitur non bene dicitur, sed quia quod bene 
+dici<lb ed="#P" break="no" n="31"/>tur non bene intelligitur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10027-Dd1e927">
+               <head xml:id="hsvhsv-g10027-Hd1e929">Capitulum 13</head>
+               <head xml:id="hsvhsv-g10027-Hd1e931" type="question-title"/>
+               <p xml:id="hsvhsv-g10027-d1e933">
+                  <lb ed="#P" n="32"/>Cap. XIII. Quod Deus non vult mala, quamvis
+<lb ed="#P" n="33"/>velit ut mala sint, quia hoc bonum est.
+</p>
+               <p xml:id="hsvhsv-g10027-d1e940">
+                  <lb ed="#P" n="34"/>Non enim hoc solum dicitur sed in eo quod 
+di<lb ed="#P" break="no" n="35"/>citur aliquid intelligitur quod non dicitur, 
+quo<lb ed="#P" break="no" n="36"/>niam malum esse vult et malum non vult. Quod
+<lb ed="#P" n="37"/>si hoc solum intelligendum est, in eo quod dicitur,
+<lb ed="#P" n="38"/>vult Deus malum dicendum omnino non est, 
+quo<lb ed="#P" break="no" n="39"/>niam non approbat illud prorsus, neque existimat
+<lb ed="#P" n="40"/>bonum; sed contrarium judicat sibi bono malum,
+<lb ed="#P" n="41"/>et a suo alienum, et non desiderat illud quasi 
+con<lb ed="#P" break="no" n="42"/>veniens, et concordiam habens cum eo quod ipse
+<lb ed="#P" n="43"/>est, et cum eo quod ab ipso est, et cum eo quod
+<lb ed="#P" n="44"/>simile sibi est; sed extraneum et longinquum et
+<lb ed="#P" n="45"/>in omni dissimilitudine constitutum. Et tamen
+<lb ed="#P" n="46"/>vult esse malum, et in eo non nisi bonum vult,
+<lb ed="#P" n="47"/>quia bonum est malum esse; et non vult ipsum
+<lb ed="#P" n="48"/>malum, quid bonum non est ipsum. malum. Sed
+<lb ed="#P" n="49"/>vult bonum tantum; et diligit et delectatur in eo,
+<lb ed="#P" n="50"/>quasi in suo cognato et amico et proximo. Et
+<lb ed="#P" n="51"/>propter hoc bene sonat et libenter accipitur cum.
+<lb ed="#P" n="52"/>dicitur Deus vult bonum, quia illud tantum 
+dili<lb ed="#P" break="no" n="53"/>git et non malum cum quo sibi participatio nulla
+<lb ed="#P" n="54"/>est, neque similitudo, sine his quae sunt. ab ipso
+<lb ed="#P" n="55"/>et quae habent similitudinem cum ipso. Itaque
+<lb ed="#P" n="56"/>vult Deus bonum, et non vult Deus malum; et
+<lb ed="#P" n="57"/>vult omne bonum, et omne malum non vult. Et
+<lb ed="#P" n="58"/>hoc totum suscipimus et approbamus et dicimus :
+<lb ed="#P" n="59"/>quod verum est hoc totum, quoniam diligit quod
+<lb ed="#P" n="60"/>suum est totum : et non diligit nisi quod suum
+<lb ed="#P" n="61"/>est, neque odit nisi quod guum non est; et totum
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="62"/>suum diligit, et odit totum non suum. Et ideo vo
+<lb ed="#P" n="63"/>luit bonum quod praecepit, et non voluit malum
+<lb ed="#P" n="64"/>quod permisit, quia suum sui bonum et de suo,
+<lb ed="#P" n="65"/>et amicum sibi et de suo, et. dilexit suum et 
+ap<lb ed="#P" break="no" n="66"/>probavit, et concupivit ad se et amavit in se 
+desi<lb ed="#P" break="no" n="67"/>derio aeterno. Et malum quod suum non fuit in
+<lb ed="#P" n="68"/>8e non dilexit, neque ad se concupivit; sed 
+repro<lb ed="#P" break="no" n="69"/>bavit et renuit animo dilectionis : et non suscepit.
+<lb ed="#P" n="70"/>in se consensu charitatis, ut locum ei daret in
+<lb ed="#P" n="71"/>beneplacitis suis.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10027-Dd1e1028">
+               <head xml:id="hsvhsv-g10027-Hd1e1030">Capitulum 14</head>
+               <head xml:id="hsvhsv-g10027-Hd1e1032" type="question-title"/>
+               <p xml:id="hsvhsv-g10027-d1e1034">
+                  <lb ed="#P" n="72"/>Cap. XIV. Quod semper impletur voluntas Dei.
+</p>
+               <p xml:id="hsvhsv-g10027-d1e1039">
+                  <lb ed="#P" n="73"/>Sed dicis mihi : Ergo si bonum voluit imo quia.
+<lb ed="#P" n="74"/>voluit bonum quod praecepit, et malum quod 
+per<lb ed="#P" break="no" n="75"/>misit non voluit, factum est quod noluit et quod
+<lb ed="#P" n="76"/>voluit factum non est; quoniam factum non est,
+<lb ed="#P" n="77"/>quod praecepit, sed quod prohibuit factum est,
+<lb ed="#P" n="78"/>quod permisit. Itaque factum non est quod voluit,
+<lb ed="#P" n="79"/>sed quod noluit factum est. Imo factum est quod
+<lb ed="#P" n="80"/>voluit et non factum est nisi quod voluit, quia sio
+<lb ed="#P" n="81"/>voluit, fieri, et sic esse ut factum est, quia bonum
+<lb ed="#P" n="82"/>erat sic fieri et sic esse ut factum est, et non aliter
+<lb ed="#P" n="83"/>esse. Et sic esse bonum erat etiam ineo quod bonum
+<lb ed="#P" n="84"/>non erat. Et ipsum quod bonum non erat non 
+vo<lb ed="#P" break="no" n="85"/>luit, sed esse ipsum voluit quoniam id bonum
+<lb ed="#P" n="86"/>erat. Et cum factum est, id factum est quod 
+vo<lb ed="#P" break="no" n="87"/>luit; quoniam bonum erat, et hoc voluit. Tamen
+<lb ed="#P" n="88"/>dicis : minus habuit voluntas ejus et minus 
+ade<lb ed="#P" break="no" n="89"/>pta est et minus impleta, et imperfecta remansit;
+<lb ed="#P" n="90"/>quia factum non est bonum quod voluit : et quod
+<lb ed="#P" n="91"/>noluit malum factum est. Non ergo consideras
+<lb ed="#P" n="92"/>quod sicut malum non habet quod factum est quod
+<lb ed="#P" n="93"/>noluit; ita neque bono caret, quod factum non
+<lb ed="#P" n="94"/>est quod voluit. Quod enim vult et diligit habet;
+<lb ed="#P" n="95"/>et quod non vult et odit non habet. Et quod vult
+<lb ed="#P" n="96"/>esse adipiscitur quia fit; et quod vult non esse
+<lb ed="#P" n="97"/>similiter, quia non fit. Et nunquam cassa est 
+vo<lb ed="#P" break="no" n="98"/>luntas ejus ut non fiat quod vult, neque infirma
+<lb ed="#P" n="99"/>aliquando ut fiat quod non vult.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10027-Dd1e1102">
+               <head xml:id="hsvhsv-g10027-Hd1e1104">Capitulum 15</head>
+               <head xml:id="hsvhsv-g10027-Hd1e1106" type="question-title"/>
+               <p xml:id="hsvhsv-g10027-d1e1108">
+                  <lb ed="#P" n="100"/>Cap. XV. Quomodo mali excusabiles non sint
+<lb ed="#P" n="101"/>quamvis per eos voluntas Dei impleatur.
+</p>
+               <p xml:id="hsvhsv-g10027-d1e1115">
+                  <lb ed="#P" n="102"/>Sed fortassis iterum mali excusabiles videantur
+<lb ed="#P" n="103"/>cum mala faciunt, quoniam voluntas Dei 
+imple<lb ed="#P" break="no" n="104"/>tur etiam in malis quae faciunt. Sed voluntate
+<lb ed="#P" n="105"/>sua mali judicantur, quia Dei voluntati contrarii
+<lb ed="#P" n="106"/>sunt. Non quidem voluntati ejus resistendo ut
+<lb ed="#P" n="107"/>fiat quod non vult quia non possunt; sed resistere
+<lb ed="#P" n="108"/>volendo quia mali sunt. Et ipsa mala voluntas
+<lb ed="#P" n="109"/>culpa est qua aliud volunt; facultas autem justa,
+<lb ed="#P" n="110"/>qua aliud non possunt. Et cum volunt quod Deus
+<lb ed="#P" n="111"/>vult, non ideo boni sunt, quia non propter hoc
+<lb ed="#P" n="112"/>volunt quia Deus vult. Et quod volunt ipsum
+<lb ed="#P" n="113"/>Deus non vult, quoniam malum volunt et malum
+<lb ed="#P" n="114"/>Deus non vult. Approbant enim et diligunt quod.
+<lb ed="#P" n="115"/>Deus odit; ac per hoc Deo contrarii sunt et mali,
+<lb ed="#P" n="116"/>et peccatores, et rei. Non quidem faciendo quod
+<lb ed="#P" n="117"/>Deus juste fieri noluit, sed amando et approbando
+<lb ed="#P" n="118"/>quod Deus non diligit. Non igitur in eo quia fit
+<lb ed="#P" n="119"/>quod fit voluntatem Dei impediunt; sed in ipso
+<lb ed="#P" n="120"/>quod fit a dilectione Dei recedunt. Et mali sunt
+<lb ed="#P" n="121"/>non efficiendo contrarium ipsius voluntati, sed
+<lb ed="#P" n="122"/>amando contrarium ipsius dilectioni. Et sic qui-
+<!-- 039.png.txt -->
+<pb ed="#P" n="121"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>dem voluntas Dei semper impletur, et non excu- A
+<lb ed="#P" n="2"/>santur mali propterea quoniam in eis et per eos
+<lb ed="#P" n="3"/>voluntas Dei impletur. Quoniam non sua 
+volun<lb ed="#P" break="no" n="4"/>tate ad implendam Dei voluntatem diriguntur,
+<lb ed="#P" n="5"/>sed occulta ipsius dispositione qua aliud non
+<lb ed="#P" n="6"/>possunt ad implendam voluntatem ejus 
+condueun<lb ed="#P" break="no" n="7"/>tur. Sed dicis iterum : Si Deus voluit ita esse 
+to<lb ed="#P" break="no" n="8"/>tum ut factum est quoniam bonum est ita esse 
+to<lb ed="#P" break="no" n="9"/>tum, et non aliter esse quam factum est; cur ergo
+<lb ed="#P" n="10"/>praecepit quod factum non est et prohibuit quod
+<lb ed="#P" n="11"/>factum est, cum bonum sit utrumque, et factum
+<lb ed="#P" n="12"/>non esse quod factum non est, et factum esse
+<lb ed="#P" n="13"/>quod factum est? Quare non potius praecepituthoc
+<lb ed="#P" n="14"/>fieret solum quod esse bonum erat; et ut hoc 
+sp<lb ed="#P" break="no" n="15"/>lum non fieret quod non esse bonum erat similiter?
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10027-Dd1e1203">
+               <head xml:id="hsvhsv-g10027-Hd1e1205">Capitulum 16</head>
+               <head xml:id="hsvhsv-g10027-Hd1e1207" type="question-title"/>
+               <p xml:id="hsvhsv-g10027-d1e1209">
+                  <lb ed="#P" n="16"/>Cap. XVI. Quare praecipit Deus omne quod praecipit.
+</p>
+               <p xml:id="hsvhsv-g10027-d1e1214">
+                  <lb ed="#P" n="17"/>Sed hicaltius modum et causam praecepti 
+consi<lb ed="#P" break="no" n="18"/>derare oportet et prohibitionis, secundum eumdem
+<lb ed="#P" n="19"/>modum. Omne enim praeceptum vel prohibitio aut
+<lb ed="#P" n="20"/>propter ipsum fit cui fit; aut propter ipsum a quo
+<lb ed="#P" n="21"/>fit;aut propter alium pro quo fit. Tota autem
+<lb ed="#P" n="22"/>praecepti utilitas et bonum sive in eo quod 
+fa<lb ed="#P" break="no" n="23"/>ciendum prrecipitur sive in eo quod cavendum
+<lb ed="#P" n="24"/>mandatur, ad eum solum refertur pro quo fit :
+<lb ed="#P" n="25"/>sive idem sit ille, sive alius abeo cui fit, vel abeo
+<lb ed="#P" n="26"/>a quo fit. Finis autem mandati fructus est et 
+uti<lb ed="#P" break="no" n="27"/>litas et causa et bonum quod consequitur post
+<lb ed="#P" n="28"/>consummationem praecepti. Et hoc bonum ad
+<lb ed="#P" n="29"/>eum tantum refertur pro quo fit praeceptum ; et
+<lb ed="#P" n="30"/>illius bonum debet esse impletio praecepti.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10027-Dd1e1248">
+               <head xml:id="hsvhsv-g10027-Hd1e1250">Capitulum 17</head>
+               <head xml:id="hsvhsv-g10027-Hd1e1252" type="question-title"/>
+               <p xml:id="hsvhsv-g10027-d1e1254">
+                  <lb ed="#P" n="31"/>Cap. XVII. Omne quod bonum dicitur vel 
+se<lb ed="#P" break="no" n="32"/>cundum se, vel ad aliquid bonum est.
+</p>
+               <p xml:id="hsvhsv-g10027-d1e1261">
+                  <lb ed="#P" n="33"/>Iterum considerandum est, quod omne quod bo:
+<lb ed="#P" n="34"/>num dicitur, aut secundum se bonum dicitur, aut
+<lb ed="#P" n="35"/>ad aliquid. Quod secundum se bonum dicitur
+<lb ed="#P" n="36"/>substantialiter bonum dicitur, quia ipsum bonum
+<lb ed="#P" n="37"/>est. Quod vero ad aliquid et non secundum se 
+bo<lb ed="#P" break="no" n="38"/>num dicitur, non substantialiter bonum dicitur
+<lb ed="#P" n="39"/>quia ipsum bonum non est, aed accidentaliter et
+<lb ed="#P" n="40"/>denominative, quoniam ex ipso bonum est. 
+Quod<lb ed="#P" break="no" n="41"/>dam ergo bonum, bonum est, quoniam ipsum
+<lb ed="#P" n="42"/>bonum est. Aliud autem bonum est, quia alicui
+<lb ed="#P" n="43"/>bonufn est, et ipsum bonum non est. Quod ergo
+<lb ed="#P" n="44"/>bonum est et sibi bonum est et alii bonum est in D
+<lb ed="#P" n="45"/>loto bonum est. Quod autem bonum est et sibi 
+bo<lb ed="#P" break="no" n="46"/>num est et alteri bonum non est, ex partebonum
+<lb ed="#P" n="47"/>est, sicut quod bonum est et alteri bonum est et sibi
+<lb ed="#P" n="48"/>bonum non est, ex parte bonum est.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10027-Dd1e1299">
+               <head xml:id="hsvhsv-g10027-Hd1e1301">Capitulum 18</head>
+               <head xml:id="hsvhsv-g10027-Hd1e1303" type="question-title"/>
+               <p xml:id="hsvhsv-g10027-d1e1305">
+                  <lb ed="#P" n="49"/>Cap. XVIII. Quod secundum se bonum dicitur et 
+univer<lb ed="#P" break="no" n="50"/>saliter dicitur vere et summe bonum esse.
+</p>
+               <p xml:id="hsvhsv-g10027-d1e1312">
+                  <lb ed="#P" n="51"/>Est adhuc aliud bonum et excelsius bonis aliis
+<lb ed="#P" n="52"/>quod et vere honum est, quia in se bonum est, et
+<lb ed="#P" n="53"/>universaliter bonum est, quia ad omnia bonum
+<lb ed="#P" n="54"/>$81, et omnium bonum est. Quod enim in sebonum
+<lb ed="#P" n="55"/>est vere bonum est, et quod omnium bonum est
+<lb ed="#P" n="56"/>wniversale bonum est. Et omne bonum ipsum est,
+<lb ed="#P" n="57"/>quoniam omnium bonum ipsum est, nec extra 
+ip<lb ed="#P" break="no" n="58"/>sum bonum est. Quod autem ad se bonum non est
+<lb ed="#P" n="59"/>mon vere bonum eet nec verum bonum est, sed
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="60"/>bonum tantum dicitnr, non quia ipsum bonum
+<lb ed="#P" n="61"/>est, sed quia ex ipso bonum est et prodest.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10027-Dd1e1342">
+               <head xml:id="hsvhsv-g10027-Hd1e1344">Capitulum 19</head>
+               <head xml:id="hsvhsv-g10027-Hd1e1346" type="question-title"/>
+               <p xml:id="hsvhsv-g10027-d1e1348">
+                  <lb ed="#P" n="62"/>Cap. XIX. De tribus generibus boni.
+</p>
+               <p xml:id="hsvhsv-g10027-d1e1353">
+                  <lb ed="#P" n="63"/>Bonum ergo summum est quod ipsum bonum
+<lb ed="#P" n="64"/>est, et ad omne bonum, bonum est. Medium vero
+<lb ed="#P" n="65"/>bonum est quod ipsum bonum est, et ad aliquid
+<lb ed="#P" n="66"/>bonum est. Bonum autem infimum et quari 
+ex<lb ed="#P" break="no" n="67"/>trarum et denominative solum et conductum et
+<lb ed="#P" n="68"/>non proprium bonum; quod ad aliquid bonum
+<lb ed="#P" n="69"/>est, et ipsum bonum non est. Quod enim ipsum
+<lb ed="#P" n="70"/>est bonum non est, sed quod ex ipso est bonum
+<lb ed="#P" n="71"/>est. Et idcirco secundum aliquem modum et ipsum.
+<lb ed="#P" n="72"/>bonum est, quoniam ex ipso bonum est et prodest.
+<lb ed="#P" n="73"/>Et ex ipso bonum est esse etiam quod ipsum 
+bo<lb ed="#P" break="no" n="74"/>num non est, quia nisi esset ipsum quod bonum
+<lb ed="#P" n="75"/>non est, esset quod ex ipso bonum est. Neque
+<lb ed="#P" n="76"/>idcirco prestant mala quoniam et ipsis bonum
+<lb ed="#P" n="77"/>est; sed servint. praestanti et lnrgienti, quia per
+<lb ed="#P" n="78"/>ipsa non ex ipsis est.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10027-Dd1e1391">
+               <head xml:id="hsvhsv-g10027-Hd1e1393">Capitulum 20</head>
+               <head xml:id="hsvhsv-g10027-Hd1e1395" type="question-title"/>
+               <p xml:id="hsvhsv-g10027-d1e1397">
+                  <lb ed="#P" n="79"/>Cap. XX. Majus bonum esse illud quo majus
+<lb ed="#P" n="80"/>bonum est.
+</p>
+               <p xml:id="hsvhsv-g10027-d1e1404">
+                  <lb ed="#P" n="81"/>Cum autem concurrunt duo ad unum quod est.
+<lb ed="#P" n="82"/>bonum et alicui non est bonum, et quod bonum
+<lb ed="#P" n="83"/>non est et alicui bonum est et utrumque esse non
+<lb ed="#P" n="84"/>potest, sed e duobus alterum solum esse necesse
+<lb ed="#P" n="85"/>est; majus bonum est hoc esse quod bonum est
+<lb ed="#P" n="86"/>alicui etiam si ipsum bonum non est, quam quod
+<lb ed="#P" n="87"/>est bonum solum et alicui bonum non est. Ex eo
+<lb ed="#P" n="88"/>enim quod bonum non est et alicui bonum est,
+<lb ed="#P" n="89"/>illud etiam sequi necesse est quod bonum est et
+<lb ed="#P" n="90"/>alicui bonum est : quod majus omnino bonum est
+<lb ed="#P" n="91"/>quam quod solum bonum est et alicui non bonum
+<lb ed="#P" n="92"/>est. Non enim bonum esset quod bonum non est
+<lb ed="#P" n="93"/>et alicui bonum est, nisi ex eo esset quod bonum
+<lb ed="#P" n="94"/>est ct alicui bonum est. Itaque quod bonum est,
+<lb ed="#P" n="95"/>quoniam ipsum bonum est, bonum non est, 
+quo<lb ed="#P" break="no" n="96"/>niam alicui quoniam ex ipso bonum non est; et quod.
+<lb ed="#P" n="97"/>bonumnon est, quoniam ipsum bonum non est, 
+bo<lb ed="#P" break="no" n="98"/>numestalicui quoniam ex ipsobonum est. 
+Etcon<lb ed="#P" break="no" n="99"/>tingit hoc aliquando, et in finesuoomniajudicantur
+<lb ed="#P" n="100"/>sive bonasint sive mala. Quoniam Scriptura 
+mani<lb ed="#P" break="no" n="101"/>feste ostendit quod bonum unum et bonum ipsum
+<lb ed="#P" n="102"/>aliis est odor vite in vitam ; aliis odot mortis
+<lb ed="#P" n="103"/>£n mortem (II Cor. 11); quoniam ex bono malum
+<lb ed="#P" n="104"/>et ex malo bonum, et bonum malis ad malum, et
+<lb ed="#P" n="105"/>malum bonis ad bonum. Et quod bonum in toto
+<lb ed="#P" n="106"/>est majus est quam quod in parte est solum : et
+<lb ed="#P" n="107"/>hoc probatur in hunc modum. Omne enim 
+univer<lb ed="#P" break="no" n="108"/>sale bonum, majus est quam id quod in parte
+<lb ed="#P" n="109"/>constat; et quod conducit magis et expedit, majus
+<lb ed="#P" n="110"/>ipsum merito nominatur. Nunc autem 
+congrege<lb ed="#P" break="no" n="111"/>musin unum colligamus quae dicta sunt, quoniam
+<lb ed="#P" n="112"/>impletio omnis mandati bonum illi est propter
+<lb ed="#P" n="113"/>quem factum est ipsum mandatum. Et quoniam
+<lb ed="#P" n="114"/>omne bonum aut per se bonum est aut ad aliquid;
+<lb ed="#P" n="115"/>et quod per se bonum non estet alicui bonum est,
+<lb ed="#P" n="116"/>majus est bonum quam quod per se solum est et
+<lb ed="#P" n="117"/>alicui bonum non est; et quod magis conducit et.
+<lb ed="#P" n="118"/>expedit, jure semper majus sestimatur bonum;
+<lb ed="#P" n="119"/>quoniam in fructu suo est omne bonum, et est
+<lb ed="#P" n="120"/>tantum omne quantum est bonum.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10027-Dd1e1495">
+               <head xml:id="hsvhsv-g10027-Hd1e1497">Capitulum 21</head>
+               <head xml:id="hsvhsv-g10027-Hd1e1499" type="question-title"/>
+               <p xml:id="hsvhsv-g10027-d1e1501">
+<!-- 040.png.txt -->
+                  <pb ed="#P" n="122"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>Cap. XXI. Quod Deus propter se, id est pro
+<lb ed="#P" n="2"/>utilitate sua vel commodo, nihil pracipit.
+</p>
+               <p xml:id="hsvhsv-g10027-d1e1514">
+                  <lb ed="#P" n="3"/>Nunc ergo videamus omne quod praecipit Deus,
+<lb ed="#P" n="4"/>utrum propter se pr:ecipit, an. propter illum cui
+<lb ed="#P" n="5"/>praecipit. Si propter se prwcipit ad bonum ejus
+<lb ed="#P" n="6"/>est quod procipit, et bonum illi est praecepti sui
+<lb ed="#P" n="7"/>impletio. Sed. quomodo praecipit propter se qui
+<lb ed="#P" n="8"/>profectu non indiget in 8e, neque bono alieno 
+ad<lb ed="#P" break="no" n="9"/>juvari potest, qui melior esse non potest? Clamat
+<lb ed="#P" n="10"/>hoc Scriptura, et perfector mandati in Scriptura :
+<lb ed="#P" n="11"/>Deus meus es tu, quoniam bonorum morum
+<lb ed="#P" n="12"/>non eges (Psal. xv). Ergo propter se non praecipit
+<lb ed="#P" n="13"/>Deus quod praeipit; sed propter illum cui 
+prz<lb ed="#P" break="no" n="14"/>cipit, quoniam bonum est illi quod praecipitur cui
+<lb ed="#P" n="15"/>bonum praecipitur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10027-Dd1e1546">
+               <head xml:id="hsvhsv-g10027-Hd1e1548">Capitulum 22</head>
+               <head xml:id="hsvhsv-g10027-Hd1e1550" type="question-title"/>
+               <p xml:id="hsvhsv-g10027-d1e1552">
+                  <lb ed="#P" n="16"/>Cap. XXII. Quod Deus hoc unicuique pracipere
+<lb ed="#P" n="17"/>habet, quod bonum est ipsi cui pracipit ;
+<lb ed="#P" n="18"/>etiam si bonum omnium non est.
+</p>
+               <p xml:id="hsvhsv-g10027-d1e1561">
+                  <lb ed="#P" n="19"/>Quoniam ergo propter illum mandatum fit cui
+<lb ed="#P" n="20"/>fit, ipsum mandatum ; bonum ipsius esse debet
+<lb ed="#P" n="21"/>cui mandatur mandatum. Neque aliud mandari
+<lb ed="#P" n="22"/>debet nisi quod bonum illi est cui mandatur 
+man<lb ed="#P" break="no" n="23"/>datum. Frustra enim mandatum fieret, si illi 
+pro<lb ed="#P" break="no" n="24"/>pter quem fieret bonum non esset; maxime cum a
+<lb ed="#P" n="25"/>bono niandatum esset qui nihil praeter bonum
+<lb ed="#P" n="26"/>mandare deberet. Neque enim Creature suc Deus
+<lb ed="#P" n="27"/>auctor mali esse debet, neque causationem illius
+<lb ed="#P" n="28"/>assumere sibi quasi docendo corruperit quod 
+crea<lb ed="#P" break="no" n="29"/>verat incorruptum. Non itaque habet aliud illi
+<lb ed="#P" n="30"/>praeipere nisi solum quod bonum est illi; a quo
+<lb ed="#P" n="31"/>habetillatotum quod bonum habet, et quod malum
+<lb ed="#P" n="32"/>habet nihil. Quoniam igitur Creator nulli creature
+<lb ed="#P" n="33"/>suse auctor mali esse potest : hoc solum illi 
+prseci<lb ed="#P" break="no" n="34"/>pere habet quod bonum est illi, ut sincera sit ejus
+<lb ed="#P" n="35"/>instruclio, quemadmodum conditio incorrupta
+<lb ed="#P" n="36"/>fuit.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10027-Dd1e1604">
+               <head xml:id="hsvhsv-g10027-Hd1e1606">Capitulum 23</head>
+               <head xml:id="hsvhsv-g10027-Hd1e1608" type="question-title"/>
+               <p xml:id="hsvhsv-g10027-d1e1610">
+                  <lb ed="#P" n="37"/>Cap. XXIII. Quod bonum universitatis Deus impedire
+<lb ed="#P" n="38"/>non habet etiam si illud alicui bonum non est.
+</p>
+               <p xml:id="hsvhsv-g10027-d1e1617">
+                  <lb ed="#P" n="39"/>Contingit autem quod bonum est alicujus, 
+bo<lb ed="#P" break="no" n="40"/>num esse illius, et non esse bonum ad omnia; et
+<lb ed="#P" n="41"/>iterum quod malum est. alicujus malum esse 
+il<lb ed="#P" break="no" n="42"/>lius; et bonum omnium esse, quoniam ex eo 
+bo<lb ed="#P" break="no" n="43"/>num est omnium. Et quod bonum est et alicui
+<lb ed="#P" n="44"/>bonum est, minus esse bonum quam quod malum
+<lb ed="#P" n="45"/>est et alicui malum est; quoniam ex eo ipso majus
+<lb ed="#P" n="46"/>bonum est: ex quo omnium bonum est. Et majus
+<lb ed="#P" n="47"/>bonum est esse illud a quo majus bonum est,
+<lb ed="#P" n="48"/>etiam cum illud alicui bonum non est; quoniam.
+<lb ed="#P" n="49"/>in toto bonum est. Non debet autem in 
+compen<lb ed="#P" break="no" n="50"/>satione minoris boni impediri quod majus est 
+bo<lb ed="#P" break="no" n="51"/>num abillo qui optimus est. Et diximus quod
+<lb ed="#P" n="52"/>majus bonum est esse bonum ex malo et bono,
+<lb ed="#P" n="53"/>quam ex s80lo bono. Permitti itaque mala 
+de<lb ed="#P" break="no" n="54"/>buerunt ut essent, quoniam ut essent id bonum
+<lb ed="#P" n="55"/>erat ex quibus bonum futurum erat. Precepit
+<lb ed="#P" n="56"/>itaque Deus quod bonum erat singulis et permisit
+<lb ed="#P" n="57"/>quod bonum erat universis. Quoniam et majus
+<lb ed="#P" n="58"/>erat bonum universitatis quod impedire non 
+de<lb ed="#P" break="no" n="59"/>buit, et non bonum erat quod malum erat alicui,
+<lb ed="#P" n="60"/>cujus auctor esse non potuit. Et ideo praecepit
+<lb ed="#P" n="61"/>unicuique quod bonum erat, et quod illi bonum
+<cb ed="#P" n="b"/>
+                  <!-- corrupt/cliped on the right side of the column -->
+                  <lb ed="#P" n="62"/>erat; et praecipiendo illud significavit se velle
+<lb ed="#P" n="63"/>et sunt signa voluntatis ejus praecepta ejus
+<lb ed="#P" n="64"/>cantur voluntas ejus, quia signa sunt volu:
+<lb ed="#P" n="65"/>ejus. Quoniam vult et approbat et diligit et
+<lb ed="#P" n="66"/>sibi judicat bona quae praecipit, et mala quz
+<lb ed="#P" n="67"/>hibet odit et detestatur; eL noninvenit concor
+<lb ed="#P" n="68"/>et amicitiam in illis, et vult tamen ipsu esse
+<lb ed="#P" n="69"/>quee non vult, propter majus bonum quod e
+<lb ed="#P" n="70"/>est, quod magis vult. Sed non pertinet ad n«
+<lb ed="#P" n="71"/>que exigitur a nobis nisi quod nostrum est et
+<lb ed="#P" n="72"/>bonum nostrum est, tantum ut faciamus et 
+<lb ed="#P" n="73"/>bemus et diligamus in nobis, sicut et Deus «
+<lb ed="#P" n="74"/>et approbat bonum nostrum in nobis; ut ei
+<lb ed="#P" n="75"/>les simus diligendo et faciendo bona, sicut e
+<lb ed="#P" n="76"/>bona tantnm diligit et facit. Et. cum praec
+</p>
+               <p xml:id="hsvhsv-g10027-d1e1706">
+                  <lb ed="#P" n="77"/>B nobis quod bonum nostrum est, significant:
+<lb ed="#P" n="78"/>bis quod Deus hoc vult; et pertinet ad n
+<lb ed="#P" n="79"/>sentire et ita credere quod Deus hoc vult
+<lb ed="#P" n="80"/>praecipit nobis ut faciamus. Et non fittame
+<lb ed="#P" n="81"/>tantum quod ipse vult fleri, sive faciamu
+<lb ed="#P" n="82"/>non faciamus quod praecepit nobis. Et si fa
+<lb ed="#P" n="83"/>bonum, voluit hoc Deus; et voluit quia fact
+<lb ed="#P" n="84"/>hic, et approbat quod factum est et quod fr
+<lb ed="#P" n="85"/>est; vult quod factum est et bonum est.
+<lb ed="#P" n="86"/>facimus malum vult quod non facimus bo:
+<lb ed="#P" n="87"/>et approbat illud quoniam bonum est, et nc
+<lb ed="#P" n="88"/>probat illud quoniam bonum est, et non apr
+<lb ed="#P" n="89"/>malum quod facimus quoniam malum est;
+<lb ed="#P" n="90"/>men vult quod factum est quia factum est,
+<lb ed="#P" n="91"/>niam id bonum est quod factum est, et vul
+<lb ed="#P" n="92"/>quod bonum est. Et constat omnipotens vol
+<lb ed="#P" n="93"/>ejus certa et firma in beneplacito suo, appr
+<lb ed="#P" n="94"/>bona et permittens mala propter bona, qu
+<lb ed="#P" n="95"/>potest impediri ut non fiat quod in ipea est, :
+<lb ed="#P" n="96"/>infirmari aliquando ut fiat quod in ipsa noi
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10027-Dd1e1753">
+               <head xml:id="hsvhsv-g10027-Hd1e1755">Capitulum 24</head>
+               <head xml:id="hsvhsv-g10027-Hd1e1757" type="question-title"/>
+               <p xml:id="hsvhsv-g10027-d1e1759">
+                  <lb ed="#P" n="97"/>Cap. XXIV. Quod operatio et permissio Dei.
+<lb ed="#P" n="98"/>sunt quid esse bonum sit, etiam si illud bi
+<lb ed="#P" n="99"/>non sit;praceptioet prohibitiosigna suni
+<lb ed="#P" n="100"/>bonum sit, etiam si illud esse bonum nc
+</p>
+               <p xml:id="hsvhsv-g10027-d1e1770">
+                  <lb ed="#P" n="101"/>Et sequuntur post ipsam signa ejus, perr
+<lb ed="#P" n="102"/>ejus et operatio ejus; et ostendunt quodinil
+</p>
+               <p xml:id="hsvhsv-g10027-d1e1777">
+                  <lb ed="#P" n="103"/>quoniam in ipsis idem est. Et adduntur pra
+<lb ed="#P" n="104"/>et prohibitiones, et sunt ipsa quoque signa
+<lb ed="#P" n="105"/>monstrationes voluntatis summe et com
+<lb ed="#P" n="106"/>seterni per approbationem et dilectionem;
+<lb ed="#P" n="107"/>similia quidem signa prioribus, sed demons!
+<lb ed="#P" n="108"/>nestantum et significationes approbationis e
+<lb ed="#P" n="109"/>placiti in eo quod bonum sit;et nonin e
+<lb ed="#P" n="110"/>esse bonum sit, sive bonum ipsum siven
+<lb ed="#P" n="111"/>sit. Et ideo significant ipsa non hoc quidem
+<lb ed="#P" n="112"/>in summa sit voluntate, ut flat, sed quid ir
+<lb ed="#P" n="113"/>placito et approbatione sit si flat; et tamen u
+<lb ed="#P" n="114"/>que voluntatis esse et hoc bonum esse eti
+<lb ed="#P" n="115"/>non fiat : illud autem sic bonum esse ut fia
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10027-Dd1e1809">
+               <head xml:id="hsvhsv-g10027-Hd1e1811">Capitulum 25</head>
+               <head xml:id="hsvhsv-g10027-Hd1e1813" type="question-title"/>
+               <p xml:id="hsvhsv-g10027-d1e1815">
+                  <lb ed="#P" n="116"/>Cap. XXV. Beneplacitum Dei esse alique
+<lb ed="#P" n="117"/>ad rem; aliquando ad actum rei.
+</p>
+               <p xml:id="hsvhsv-g10027-d1e1822">
+                  <lb ed="#P" n="118"/>Quicunque ergo distinctionem. facere vol
+<lb ed="#P" n="119"/>loquens de voluntate Dei, hoc dicere potest
+<lb ed="#P" n="120"/>genter considerandum est quomodo quidem
+<lb ed="#P" n="121"/>in alio hoc vult quod ipsum est; in alio aute
+<lb ed="#P" n="122"/>lum hoc, quia ipsum est. Et in eo quidem
+</p>
+               <p xml:id="hsvhsv-g10027-d1e1835">
+<!-- 041.png.txt -->
+                  <pb ed="#P" n="123"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>vult ipsum quod est rem approbat; in eo vero quo 
+<lb ed="#P" n="2"/>vult ipsum, quia est actum roi. In eo autem quo
+<lb ed="#P" n="3"/>approbat rem et non actum rei, vult aliquid et 
+non<lb ed="#P" break="no" n="4"/>dum adhuc esse vult quod vult. In eo vero quod
+<lb ed="#P" n="5"/>approbat actum rei et non ipsam rem aliquid esse
+<lb ed="#P" n="6"/>vult, et nondum tamen ipsum vult quod esse vult.
+<lb ed="#P" n="7"/>Neque enim bonum est esse omne quod ipsum 
+bo<lb ed="#P" break="no" n="8"/>num est; quemadmodum aliquando quod malum
+<lb ed="#P" n="9"/>est esse ipsum malum non est. Et non vult Deus
+<lb ed="#P" n="10"/>nisi quod bonum est, etiam cum ipsum esse 
+bo<lb ed="#P" break="no" n="11"/>num non est. Et non vult esse nisi quod esse 
+bo<lb ed="#P" break="no" n="12"/>numest, etiam cum ipsum bonum non est. Etcum
+<lb ed="#P" n="13"/>vult aliquid quia bonum est, et ipsum esse non
+<lb ed="#P" n="14"/>vult quia bonum non est, perficitur voluntas ejus
+<lb ed="#P" n="15"/>et non remanet sine effectu, etiam cum res non
+<lb ed="#P" n="16"/>perficitur, quia sic vult et bonum est quod vult. B 
+<lb ed="#P" n="17"/>Et cum non vult aliquid, quia malum est ; et 
+ip<lb ed="#P" break="no" n="18"/>sum esse vult, quia bonum est : perfizitur 
+volun<lb ed="#P" break="no" n="19"/>tas cum res perficitur, quia sic vult et bonum est.
+<lb ed="#P" n="20"/>quod vult. Et simper impletur voluntas ejus ; et
+<lb ed="#P" n="21"/>nunquam cassum est beneplacitum illius, quia
+<lb ed="#P" n="22"/>bonum est simper quod vultet est semper ut vult.
+<lb ed="#P" n="23"/>Et haec sunt quinque proposita, beneplacitum, et
+<lb ed="#P" n="24"/>permissio, operatio, et prieceptio et prohibitio. Et
+<lb ed="#P" n="25"/>distinguitur beneplacitum in eo quo res 
+appro<lb ed="#P" break="no" n="26"/>batur, et in eo quo approbatur actus rei. Et 
+dis<lb ed="#P" break="no" n="27"/>tinguitur operatio in eo quod operatur, et in eo
+<lb ed="#P" n="28"/>quod cooperatur ; quia alia facit Deus operando
+<lb ed="#P" n="29"/>quie solus facit, alia cooperando quae solus non
+<lb ed="#P" n="30"/>facit. Et distinguitur prwceptio in eam quae fit
+<lb ed="#P" n="31"/>extrinsecus per sermonem, et in eam quae fit 
+in<lb ed="#P" break="no" n="32"/>trinsecus per inspirationem. Et constat in his
+<lb ed="#P" n="33"/>omnibus quod de voluntate Dei dicendum fuerat,
+<lb ed="#P" n="34"/>quod est beneplacitum ejus et signum beneplaciti
+<lb ed="#P" n="35"/>ipsius. Propter quod et multa dicuntur 
+volunta<lb ed="#P" break="no" n="36"/>tes ejus cum sit una voluntas ipsius, quia sunt
+<lb ed="#P" n="37"/>multa signa voluntatis ipsius. Sicut scriptum est:
+<lb ed="#P" n="38"/>Magna sunt opera Domini ezquisita in omnes
+<lb ed="#P" n="39"/>voluntates ejus (Psal. cx) ; propter eoa. quae ex
+<lb ed="#P" n="40"/>ipsa et secundum ipsa sunt multa. Hic de 
+volun<lb ed="#P" break="no" n="41"/>tate Dei diximus, quoniam ipsa est. prima causa
+<lb ed="#P" n="42"/>rerum omnium sicut nobis propositum fuerat, et
+<lb ed="#P" n="43"/>secundum intelligentiam prosecuti sumus. Et
+<lb ed="#P" n="44"/>sunt alia multa fortassis quae comprehendi non
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="45"/>possunt et fugiunt. ab intelligentia et sermone
+<lb ed="#P" n="46"/>nostro.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g10027-Dd1e1947">
+               <head xml:id="hsvhsv-g10027-Hd1e1949">Capitulum 26</head>
+               <head xml:id="hsvhsv-g10027-Hd1e1951" type="question-title"/>
+               <p xml:id="hsvhsv-g10027-d1e1953">
+                  <lb ed="#P" n="47"/>Cap. XXVL. De rerum ordine in primis et
+<lb ed="#P" n="48"/>secundis et tertiis.
+</p>
+               <p xml:id="hsvhsv-g10027-d1e1960">
+                  <lb ed="#P" n="49"/>Sic igitur constat rerum ordo, ut post prima
+<lb ed="#P" n="50"/>posteriora sequantur. Prima omnium rerum est
+<lb ed="#P" n="51"/>voluntas Creatoris, quoniam ex ipsa sunt omnia.
+<lb ed="#P" n="52"/>Post ipsam sequuntur qui. sunt ex ipsa. Prima
+<lb ed="#P" n="53"/>sunt quae sunt in ea; secunda sunt quae ex ea sunt,
+<lb ed="#P" n="54"/>Quae in ea sunt aeterna sunt, nec gradum habent.
+<lb ed="#P" n="55"/>nec successionem, quoniam in unitate consistunt
+<lb ed="#P" n="56"/>et in aeternitate non transeunt. Quae ex ea sunt
+<lb ed="#P" n="57"/>creata sunt per eam, quae causam sumpserunt ex
+<lb ed="#P" n="58"/>ipsa non substantiam in ipsa; quia divina natura
+<lb ed="#P" n="59"/>substantialiter ex se non genuit quae causaliter
+<lb ed="#P" n="60"/>creavit; quia non potest naturaliter idem esse qui
+<lb ed="#P" n="61"/>fecit et quod factum est. Qui. igitur facta sunt
+<lb ed="#P" n="62"/>unum non sunt, et in his quaedam prima sunt,
+<lb ed="#P" n="63"/>quiedam secunda; non prima ad prima sed ad
+<lb ed="#P" n="64"/>secunda prima. Qu; enim ad prima ante se 
+se<lb ed="#P" break="no" n="65"/>cunda sunt ad secunda, a se sunt prima; et 
+se<lb ed="#P" break="no" n="66"/>cunda ab ipsis ; tertia sunt ad prima. Quae in
+<lb ed="#P" n="67"/>voluntate Dei aeterna et invisibilia sunt, prima
+<lb ed="#P" n="68"/>omnium sunt. Qui ex voluntate Dei temporalia
+<lb ed="#P" n="69"/>et invisibilia sunt secunda sunt post prima, qum
+<lb ed="#P" n="70"/>temporalia et visibilia tertia post secunda. Et in
+<lb ed="#P" n="71"/>ipsis visibilibus quz» rationalia sunt propinquiora
+<lb ed="#P" n="72"/>sunt invisibilibus, quia in ipso invisibilia sunt.
+<lb ed="#P" n="73"/>que rationalia sunt. Ponuntur ergo primo loco
+<lb ed="#P" n="74"/>causae primordiales et invisibiles et increata
+<lb ed="#P" n="75"/>creandorum omnium in mente divina. Secundo
+<lb ed="#P" n="76"/>loco angelica natura invisibilis quidern sed creata.
+<lb ed="#P" n="77"/>Tertio loco humana visibilis et creata, secundum
+<lb ed="#P" n="78"/>aliquid invisibilis et secundum aliquid visibilis,
+<lb ed="#P" n="79"/>Quarto loco creatura corporea in toto visibilis et in
+<lb ed="#P" n="80"/>toto temporalis. Post primas ergo causas increatas
+<lb ed="#P" n="81"/>et invisibiles exibit consideratio, et procedet ad
+<lb ed="#P" n="82"/>angelicam naturam rationalem et invisibilem,
+<lb ed="#P" n="83"/>Deinde ad humanam visibilem et rationalem, de
+<lb ed="#P" n="84"/>qua propositum primum fuit ut consummetur.
+<lb ed="#P" n="85"/>Nam de visibilibus quidem quae postrema sunt
+<lb ed="#P" n="86"/>idcirco primam propositionem fecimus, ut de his
+<lb ed="#P" n="87"/>quae patent ad latentium cognitionem humanam
+<lb ed="#P" n="88"/>T»entem commodius duceremus.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

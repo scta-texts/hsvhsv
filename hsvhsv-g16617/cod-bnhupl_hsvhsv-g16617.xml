@@ -1,0 +1,1531 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pars 7</title>
+            <author ref="#HughOfStVictor">Hugh of St. Victor</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Pars 7</title>
+               <date when="2023-03-25">March 25, 2023</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-bnhupl">Patrologia Latina, v. 176</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2023-03-25" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="144"/>
+            <cb ed="#P" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="hsvhsv-g16617"><!-- l1-p7 -->
+            <head xml:id="hsvhsv-g16617-Hd1e101">Pars 7</head>
+            <head xml:id="hsvhsv-g16617-Hd1e103" type="question-title">
+De lapsu primi hominis
+</head>
+            <p xml:id="hsvhsv-g16617-d1e106">
+               <cb ed="#P" n="c"/>
+               <lb ed="#P" n="18"/>PARS SEPTIMA.
+<lb ed="#P" n="19"/>DE LAPSU PRIMI HOMINIS.
+</p>
+            <div xml:id="hsvhsv-g16617-Dd1e115">
+               <head xml:id="hsvhsv-g16617-Hd1e117">Capitulum 1</head>
+               <head xml:id="hsvhsv-g16617-Hd1e119" type="question-title">
+Quomodo invidia diaboli lapsus est
+</head>
+               <p xml:id="hsvhsv-g16617-d1e122">
+                  <cb ed="#P" n="d"/>
+                  <lb ed="#P" n="20"/>Cap. I. Quomodo invidia diaboli lapsus est.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e129">
+                  <lb ed="#P" n="21"/>Domino igitur mundi homine providentia divina
+<lb ed="#P" n="22"/>in loco deliciarum quas! in parte potiori constituto,
+<lb ed="#P" n="23"/>et ad conservanda bona quae habebat eadem Dei
+<lb ed="#P" n="24"/>providentia rationi humane adjuncta munito,
+<lb ed="#P" n="25"/>atque ad illa bona qui habiturus erat quaerenda
+<lb ed="#P" n="26"/>et obtinenda praecepto obedientie cum gratia
+<lb ed="#P" n="27"/>operante instructo; vidit diabolus et invidit quod
+<lb ed="#P" n="28"/>homo illuc per obedientiam ascenderet, unde ipse
+<lb ed="#P" n="29"/>per superbiam corruisset.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e152">
+               <head xml:id="hsvhsv-g16617-Hd1e154">Capitulum 2</head>
+               <head xml:id="hsvhsv-g16617-Hd1e156" type="question-title">
+Quare diabolus in forma aliena venit
+</head>
+               <p xml:id="hsvhsv-g16617-d1e159">
+                  <lb ed="#P" n="30"/>Cap. II. Quare diabolus in forma aliena venit.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e164">
+                  <lb ed="#P" n="31"/>Quia vero per violentiam nocere non potuit ad
+<lb ed="#P" n="32"/>fraudem se convertit, ut dolo hominem 
+supplan<lb ed="#P" break="no" n="33"/>teret quem virtute superare non posset. Ne autem
+<lb ed="#P" n="34"/>fraus illius omnino nulla esset, si nimis 
+manifes<lb ed="#P" break="no" n="35"/>taretur; in propria forma venire non debuit, ne
+<lb ed="#P" n="36"/>manifestecognosceretur, et nullatemus reciperetur
+<lb ed="#P" n="37"/>Iterum nenimis violenta esset ejus fraus si prorsus
+<lb ed="#P" n="38"/>occultoraturet homo simul (si Deus eum tali fraude
+<lb ed="#P" n="39"/>quae caveri non posset decipi permitteret) injuriam.
+<lb ed="#P" n="40"/>pati videretur, in aliena quidem forma venire 
+per<lb ed="#P" break="no" n="41"/>missus est; sed tali in qua ejus malitia prorsus
+<lb ed="#P" n="42"/>non celaretur. Ut igitur in propria forma non 
+ve<lb ed="#P" break="no" n="43"/>niret sua voluntate factum est, ut autem aliam
+<lb ed="#P" n="44"/>formam nisi talem quae malitie sug conveniret
+<lb ed="#P" n="45"/>habere non posset, divinaordinatione dispositum.
+<lb ed="#P" n="46"/>Venit ergo ad hominem in serpente callidus hostis,
+<lb ed="#P" n="47"/>quifortassis si permissus fuisset in forma columbze
+<lb ed="#P" n="48"/>venire maluisset. Sed hoc vas Spiritus sanctus
+<lb ed="#P" n="49"/>sibi reservavit, quia profecto dignum non erat ut
+<lb ed="#P" n="50"/>spiritus malignus illam formam homini odiosam
+<lb ed="#P" n="51"/>faceretjin qua postmodum eidem Spiritus sanctus
+<lb ed="#P" n="52"/>apparere debuisset.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e216">
+               <head xml:id="hsvhsv-g16617-Hd1e218">Capitulum 3</head>
+               <head xml:id="hsvhsv-g16617-Hd1e220" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e222">
+                  <lb ed="#P" n="53"/>Cap. III. Quare prius ad feminam venit.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e227">
+                  <lb ed="#P" n="54"/>Libet considerare quam timenda fuerit in 
+prin<lb ed="#P" break="no" n="55"/>cipio ad tentandam virtutem hominis hujus hostis
+<lb ed="#P" n="56"/>malitia. Quasi enim parum de suis viribus 
+prz<lb ed="#P" break="no" n="57"/>sumens humanam naturam in eam partem ubi
+<lb ed="#P" n="58"/>debilior videbatur aggressus est, ut si forte illic
+<lb ed="#P" n="59"/>aliquatenus praevalere potuisset, postmodum cum
+<lb ed="#P" n="60"/>majorifiducia ad alteram quae robustior fuit pul-
+<cb ed="#P" n="e"/>
+                  <lb ed="#P" n="61"/>sandam aut posterius subvertendam accederet.
+<lb ed="#P" n="62"/>Sciens ergo quod verum esset (quamvis adhuc
+<lb ed="#P" n="63"/>dictum non esset (Va? soli, quia cum ceciderit
+<lb ed="#P" n="64"/>non habet sublevantem (Eccle. 1v). Et si 
+quis<lb ed="#P" break="no" n="65"/>piam prevaluerit adversus unum duo resistunt
+<lb ed="#P" n="66"/>ei; primum diligenter solitariam feminam 
+explo<lb ed="#P" break="no" n="67"/>ravit, et inveniens; in ea primum omnem suse
+<lb ed="#P" n="68"/>tentationis conatum experiri disposuit.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e265">
+               <head xml:id="hsvhsv-g16617-Hd1e267">Capitulum 4</head>
+               <head xml:id="hsvhsv-g16617-Hd1e269" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e271">
+                  <lb ed="#P" n="69"/>Cap. IV, Quare ab interrogatione exorsus est.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e276">
+                  <lb ed="#P" n="70"/>Considerate quanta est confusio et timiditas 
+ne<lb ed="#P" break="no" n="71"/>quitie in conspectu virtutis. Stans coram et coram
+<lb ed="#P" n="72"/>femina hostis superbus ex sola malitia cogitata
+<lb ed="#P" n="73"/>nondum dicta confunditur; et quasi se jam prius
+<lb ed="#P" n="74"/>quametiam loquereturdeprehensum metuens, non
+<lb ed="#P" n="75"/>audet exire in verba persuasionis, donec animum.
+<lb ed="#P" n="76"/>tentande interrogatione praesentiat. Cur, inquit,
+<lb ed="#P" n="77"/>pracepit Deus vobis ut non comederetis de omni
+<lb ed="#P" n="78"/>ligno paradisi? Cui respondit mulier: De fructu
+<lb ed="#P" n="79"/>lignorum qua sunt in paradiso vescimur; de
+<lb ed="#P" n="80"/>fructu autem ligni quod est in medio paradisi
+<lb ed="#P" n="81"/>pracepit nobis Deus ne comederemus et ne 
+tan<lb ed="#P" break="no" n="82"/>geremus illud, ne forte moriamur. Dixit autem
+<lb ed="#P" n="83"/>serpens ad mulierem: Nequaquam morte 
+mo<lb ed="#P" break="no" n="84"/>riemini (Gen. 11). Considerate incrementa 
+per<lb ed="#P" break="no" n="85"/>ditionis. Primum dixerat Deus: In quocunque die
+<lb ed="#P" n="86"/>comederis eae eo, morte morieris (Gen. i).
+<lb ed="#P" n="87"/>Deinde mulier dixit: Ne forte moriamur (Gen.
+<lb ed="#P" n="88"/>1r). Novissime serpens dixit: Neguaquam morte
+<lb ed="#P" n="89"/>moriemini (ibid.). Deus affirmavit; mulier 
+dubi<lb ed="#P" break="no" n="90"/>tavit; diabolus negavit. Nequaquam autem 
+diabo<lb ed="#P" break="no" n="91"/>lus coram muliere verba Dei negare 
+presumpsis<lb ed="#P" break="no" n="92"/>Set, si non prius ipsam mulierem dubitantem
+<lb ed="#P" n="93"/>invenisset. Quae ergo dubitavit ab affirmante 
+re<lb ed="#P" break="no" n="94"/>cessit, et neganti appropinquavit. Ipsa igitur
+<lb ed="#P" n="95"/>secundum aliquid inchoavit malitiam, quae 
+ten<lb ed="#P" break="no" n="96"/>tatoris inique persuasionis dedit audaciam.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e338">
+               <head xml:id="hsvhsv-g16617-Hd1e340">Capitulum 5</head>
+               <head xml:id="hsvhsv-g16617-Hd1e342" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e344">
+                  <lb ed="#P" n="97"/>Cap. V. Quod non soliviro praeceptum datum sit.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e349">
+                  <lb ed="#P" n="98"/>Sane hic considerandum quod non 
+quemadmo<lb ed="#P" break="no" n="99"/>dum superius videtur soli viro praeceptum datum
+<lb ed="#P" n="100"/>sit. Ipsa enim mulier hictestatur sibi quoque 
+man<lb ed="#P" break="no" n="101"/>datum, ut lignum scientiae boni et mali non tange--
+<lb ed="#P" n="102"/>ret. Scilicet voluit Scriptura ostendere quod mulier
+<!-- 063.png.txt -->
+<pb ed="#P" n="145"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>que viro subjecta fuit divinum mandatum non
+<lb ed="#P" n="2"/>nisi mediante viro accipere debuit, ut sermo Dei
+<lb ed="#P" n="3"/>primum quasi immediate ad virum fieret, deinde
+<lb ed="#P" n="4"/>mediante viro ad mulierem quoque, quae subjecta.
+<lb ed="#P" n="5"/>viro fuit et consilio viri instituenda perveniret.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e381">
+               <head xml:id="hsvhsv-g16617-Hd1e383">Capitulum 6</head>
+               <head xml:id="hsvhsv-g16617-Hd1e385" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e387">
+                  <lb ed="#P" n="6"/>Cap. VI. De modo tentationis.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e392">
+                  <lb ed="#P" n="7"/>Hoc autem diligenter considerandum quam 
+cal<lb ed="#P" break="no" n="8"/>lide hostis primum quod mulier timuit malum
+<lb ed="#P" n="9"/>negando removit, ac deinde quod ipse intendit 
+ma<lb ed="#P" break="no" n="10"/>lum libere persuasit. Novissime autem ad ipsam
+<lb ed="#P" n="11"/>persuasionem fulciendam promissionem adjunxit,
+<lb ed="#P" n="12"/>et ut eadem persuasio citius reciperetur 
+promis<lb ed="#P" break="no" n="13"/>Sionem duplicavit. Qui enim unam tantum 
+comes<lb ed="#P" break="no" n="14"/>tionem suasit, per una duo reponens in premio
+<lb ed="#P" n="15"/>similitudinem Dei scientiamque boni et mali 
+spo<lb ed="#P" break="no" n="16"/>pondit. In persuationeigiturcibi hominem tentavit
+<lb ed="#P" n="17"/>gula. In promissione divinitatis et cognitionis vana
+<lb ed="#P" n="18"/>gloria et avaritia. Immoderata namque edendi
+<lb ed="#P" n="19"/>concupiscentia, gula est. Desiderium autem 
+inor<lb ed="#P" break="no" n="20"/>dinatum excellendi, vana gloria. Nimius vero
+<lb ed="#P" n="21"/>appetitus habendi vel possidendi avaritia.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e428">
+               <head xml:id="hsvhsv-g16617-Hd1e430">Capitulum 7</head>
+               <head xml:id="hsvhsv-g16617-Hd1e432" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e434">
+                  <lb ed="#P" n="22"/>Cap. VII. Qua mala fuerunt in originali peccato.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e439">
+                  <lb ed="#P" n="23"/>In originali igitur peccato tria vitia fuerunt,
+<lb ed="#P" n="24"/>inobedientis dus, et peccatum unum. Tria vitia
+<lb ed="#P" n="25"/>fuerunt: superbia, avaritia, gula; duc in 
+obedien<lb ed="#P" break="no" n="26"/>tis: una in priecepto nature, altera in praecepto
+<lb ed="#P" n="27"/>discipline. Et haec omnia quia in uno actu sunt
+<lb ed="#P" n="28"/>completa, unum peccatum dicuntur. In vitiis prima
+<lb ed="#P" n="29"/>fuit superbia, secunda avaritia, tertia gula. In
+<lb ed="#P" n="30"/>superbia et avaritia, inobedientia fuit de praecepto
+<lb ed="#P" n="31"/>nature; in gula sola, inobedientia fuit de praecepto
+<lb ed="#P" n="32"/>discipline. Nusquam enim legitur Deus 
+prohi<lb ed="#P" break="no" n="33"/>buisse homini ne similitudinem divinitatis, vel
+<lb ed="#P" n="34"/>scientiam boni et mali concupisceret. Quia tamen
+<lb ed="#P" n="35"/>inordinate hocconcupiscens, contra suam rationem
+<lb ed="#P" n="36"/>fecit, quodammodo naturalis pr:ecepti 
+praevarica<lb ed="#P" break="no" n="37"/>tor exstitit. De sololigno scienti: boni et mali
+<lb ed="#P" n="38"/>legimus quod prohibuit Deus homini ne illud 
+con<lb ed="#P" break="no" n="39"/>tingeret ; et idcirco dum mulier illud appetendo
+<lb ed="#P" n="40"/>tetigit, de praecepto reatum discipline 
+inobe<lb ed="#P" break="no" n="41"/>dientige incurrit.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e484">
+               <head xml:id="hsvhsv-g16617-Hd1e486">Capitulum 8</head>
+               <head xml:id="hsvhsv-g16617-Hd1e488" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e490">
+                  <lb ed="#P" n="42"/>Cap. VIII. Quod. mulier. delectatione 
+promis<lb ed="#P" break="no" n="43"/>sionis persuasioni assensum dedit.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e497">
+                  <lb ed="#P" n="44"/>Idcirco autem superbiam et avaritiam in 
+origi<lb ed="#P" break="no" n="45"/>nali peceato priusquam guli vitium mentem 
+ho<lb ed="#P" break="no" n="46"/>Tinis deceptam obtinuisse dicimus ; quia nisi
+<lb ed="#P" n="47"/>prius mulier id quod promittebatur appetivisset
+<lb ed="#P" n="48"/>nequaquam postmodum in eo quod suadebatur
+<lb ed="#P" n="49"/>assensum praebuisset. Sed, quia prius perverse
+<lb ed="#P" n="50"/>delectata est in promissione, postmodum stultum
+<lb ed="#P" n="51"/>assensum prsbuit in persuasione. Primum enim
+<lb ed="#P" n="52"/>promissam excellentiam per superbiam appetit;
+<lb ed="#P" n="53"/>deinde promissam abundantiam (et qualis talem
+<lb ed="#P" n="54"/>excellentiam decebat) per avaritiam concupivit.
+<lb ed="#P" n="55"/>Postremo ut hsc duo pro voto obtinere mereretur
+<lb ed="#P" n="56"/>cibum vetitum gul» vitio corrupta gustare 
+con<lb ed="#P" break="no" n="57"/>sensit. Primum quidem consensit propteralia qua
+<lb ed="#P" n="58"/>dilexit ; postmodum respiciens et concupiscibile
+<lb ed="#P" n="59"/>videns tantum in concupiscentiam exarsit;ut jam
+<lb ed="#P" n="60"/>etiam si premium nullum esset propter se tamen
+<lb ed="#P" n="61"/>placeret quod vidit. Primum igitur quasi conducta.
+<lb ed="#P" n="62"/>pretio est ad consensum, postea propria delecta-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>tione attracta descendit ad actum. In superbia et.
+<lb ed="#P" n="64"/>avaritia pretii cupiditate allecta se vendidit; in
+<lb ed="#P" n="65"/>gula autem postea delectata libenter jam gratis
+<lb ed="#P" n="66"/>servire coepit. Nam cum amore promissionis prius
+<lb ed="#P" n="67"/>mens stulta flecteretur: Vidit, inquit Scriptura,
+<lb ed="#P" n="68"/>mulier lignum quod. esset. pulchrum visu et
+<lb ed="#P" n="69"/>ad vescendum suave, et tulit de fructu ejus et
+<lb ed="#P" n="70"/>comedit (Gen. 1m).
+</p>
+               <p xml:id="hsvhsv-g16617-d1e560">
+                  <lb ed="#P" n="71"/>Primum per superbiam et avaritiam videre
+<lb ed="#P" n="72"/>consensit, postea in visu speciem agnovit, deinde
+<lb ed="#P" n="73"/>in specie suavitatem apprehendit. Per suavitatem
+<lb ed="#P" n="74"/>autemin concupiscentiam, gulie exarsit, novissime
+<lb ed="#P" n="75"/>per concupiscentiam devicta accepit et comedit,
+<lb ed="#P" n="76"/>Sic igitur primum pro pretio ad serviendum 
+pec<lb ed="#P" break="no" n="77"/>cato se vendidit, postea propria delectatione evicta
+<lb ed="#P" n="78"/>libenter jam gratis etiam coepit servire. Ita 
+non<lb ed="#P" break="no" n="79"/>nunquam mens justa in sua perfectione primum
+<lb ed="#P" n="80"/>quodam proposito premio ad serviendum Deo
+<lb ed="#P" n="81"/>excitatur; deindein amorem bonitatis cum 
+excres<lb ed="#P" break="no" n="82"/>cere ccperit in ejus servitute sola voluntaria
+<lb ed="#P" n="83"/>delectatione tenetur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e593">
+               <head xml:id="hsvhsv-g16617-Hd1e595">Capitulum 9</head>
+               <head xml:id="hsvhsv-g16617-Hd1e597" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e599">
+                  <lb ed="#P" n="84"/>Cap. IX. De duobus generibus tentationum.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e604">
+                  <lb ed="#P" n="85"/>Porro sciendum est duo esse tentationum 
+ge<lb ed="#P" break="no" n="86"/>nera, unum exterius, alterum interius. Exterior
+<lb ed="#P" n="87"/>tentatio est quando nobis extrinsecus malum sive
+<lb ed="#P" n="88"/>visibiliter sive invisibiliter faciendum suggeritur.
+<lb ed="#P" n="89"/>Interior tentatio est quando ex motu pravae 
+delec<lb ed="#P" break="no" n="90"/>tationis intus animus ad peccandum sollicitatur.
+<lb ed="#P" n="91"/>Hiec autem tentatio difficilius vincitur, quia 
+in<lb ed="#P" break="no" n="92"/>terius oppugnans de nostrocontranos roboratur.
+<lb ed="#P" n="93"/>Propterea diabolus veniam non meruit, quia sine
+<lb ed="#P" n="94"/>ulla tentatione peccavit. Homo vero quia sola 
+ex<lb ed="#P" break="no" n="95"/>teriori tentatione pulsatus cecidit, tanto gravius
+<lb ed="#P" n="96"/>plectendus erat, quanto leviori impulsu prostratus
+<lb ed="#P" n="97"/>fuerat; et tamen, quia aliquam (quamvis modicam)
+<lb ed="#P" n="98"/>ad cadendum occasionem habuit, idcirco hunc
+<lb ed="#P" n="99"/>tandem ad veniam Dei gratia erexit. Nos vero
+<lb ed="#P" n="100"/>quanto graviorem in peccando tentationis 
+violen<lb ed="#P" break="no" n="101"/>tiam patimur, tanto leviori piaculo ad gratiam
+<lb ed="#P" n="102"/>amissam renovamur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e647">
+               <head xml:id="hsvhsv-g16617-Hd1e649">Capitulum 10</head>
+               <head xml:id="hsvhsv-g16617-Hd1e651" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e653">
+                  <lb ed="#P" n="103"/>Cap. X. Uter plus peccavit Adam an Eva.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e658">
+                  <lb ed="#P" n="104"/>Quaerunt etiam quidem, uter plus peccaverit
+<lb ed="#P" n="105"/>Adam an Eva. Sed sicut dicit Apostolus : Mulier
+<lb ed="#P" n="106"/>seducta est, non vir (I Tim. 11). Eva quippe 
+se<lb ed="#P" break="no" n="107"/>D ducta est, quia verum esse credit quod diabolus
+<lb ed="#P" n="108"/>dixit. Et idcirco non solum inordinate 
+similitudi<lb ed="#P" break="no" n="109"/>nem Dei cum scientia boni et mali appetiit, sed
+<lb ed="#P" n="110"/>intantam prolapsa perversitatem verisimiliter 
+pu<lb ed="#P" break="no" n="111"/>tatur, ut Deum ex invidia lignum scientie boni
+<lb ed="#P" n="112"/>et mali homini vetuisse crederet, ne ipse homo ex
+<lb ed="#P" n="113"/>eo gustando ad zqualitatem ipsius proficere 
+po<lb ed="#P" break="no" n="114"/>tuisset. Hzc est enim illa perversa similitudo quae
+<lb ed="#P" n="115"/>creature non convenit, quae ex imitatione non
+<lb ed="#P" n="116"/>quieritur, sed ex eomparatione. Hanc ergo mulier
+<lb ed="#P" n="117"/>in superbiam elata appetiit; et ne hanc habere
+<lb ed="#P" n="118"/>potuisset, ipsum Creatoreminvidia tactum lignum
+<lb ed="#P" n="119"/>hoc vetuisse putavit. Voluntaria ergo malitia se
+<lb ed="#P" n="120"/>eontra creatorem suum erexit; perverse contra
+<lb ed="#P" n="121"/>ipsum volendo, et impie de ipso sentiendo. Adam
+<lb ed="#P" n="122"/>vero non est seductus, quia quod diabolus 
+pro<lb ed="#P" break="no" n="123"/>misit falsum esse sciebat. Neque idcirco pomum
+<!-- 064.png.txt -->
+<pb ed="#P" n="146"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>vetitum comedit, quasi per illa comestionem Deo 
+<lb ed="#P" n="2"/>parificari se posse crederet, vel etiam parificari
+<lb ed="#P" n="3"/>vellet; sed tantum ne mulieris animum quae aibi
+<lb ed="#P" n="4"/>per affectum dilectionis sociata fuerat, ejus 
+peti<lb ed="#P" break="no" n="5"/>tioni et voluntati resistendo contristaret. Maxime
+<lb ed="#P" n="6"/>quia putavit se et mulieri morem gerere; et 
+po<lb ed="#P" break="no" n="7"/>Stea per poenitentiam et venie postulationem
+<lb ed="#P" n="8"/>Creatori posse placere. Vere igitur dictum est quia
+<lb ed="#P" n="9"/>minus peccavit qui de poenitentia et misericordia
+<lb ed="#P" n="10"/>cogitavit; peccavit tamen quia peccanti consensit
+<lb ed="#P" n="11"/>et peccantem non correxit. Et idcirco quae in 
+pec<lb ed="#P" break="no" n="12"/>cato originali est culpa (quamvis dissimiliter! ad
+<lb ed="#P" n="13"/>atrumque tamen tota redundat; in illam quidem
+<lb ed="#P" n="14"/>quia peccavit in istam, quia peccanti consensit et.
+<lb ed="#P" n="15"/>peccatem illius consentiendo suum fecit. Et hoc
+<lb ed="#P" n="16"/>quidem modo prius homo a diabolo seductus est p
+<lb ed="#P" n="17"/>ut peccaret. Si autem interius considerare 
+volue<lb ed="#P" break="no" n="18"/>rimus quomodo peceatum in eum venit, quid aut
+<lb ed="#P" n="19"/>etiam fit ipsum peccatum quod naturam bonam
+<lb ed="#P" n="20"/>vitiat, et tollit pulchritudinem et integritatem 
+il<lb ed="#P" break="no" n="21"/>lius, quaedam de interioris hominis qualitate quae
+<lb ed="#P" n="22"/>ad hanc considerationem necessaria videantur in
+<lb ed="#P" n="23"/>medium proponere oportet.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e761">
+               <head xml:id="hsvhsv-g16617-Hd1e763">Capitulum 11</head>
+               <head xml:id="hsvhsv-g16617-Hd1e765" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e767">
+                  <lb ed="#P" n="24"/>CAP. XI. De appetitu justi et appetitu commodi.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e772">
+                  <lb ed="#P" n="25"/>Duo quaedam posuerat Deus in homine a 
+prin<lb ed="#P" break="no" n="26"/>cipio, quibus natura illius tota regeretur et 
+con<lb ed="#P" break="no" n="27"/>duceretur ad consummationem finis sui. Duo hic
+<lb ed="#P" n="28"/>erant, appetitus justi et appetitus commodi. Unum,
+<lb ed="#P" n="29"/>idest appetitum justi dederat, ut. inesset ad 
+vo<lb ed="#P" break="no" n="30"/>luntatem. Alterum, id est appetitum commodi 
+de<lb ed="#P" break="no" n="31"/>derat ut inesset secundum necessitatem. Unum
+<lb ed="#P" n="32"/>voluntarium, alterum necessarium. Appetitum
+<lb ed="#P" n="33"/>justi propterea voluntarium esse voluit, ut in eo
+<lb ed="#P" n="34"/>promereretur homo sive bonum, ei videlicet eum.
+<lb ed="#P" n="35"/>retineret cum posset deserere, sive malum, si eum
+<lb ed="#P" n="36"/>desereret cum posset retinere. Appetitum autem
+<lb ed="#P" n="37"/>commodi propterea necessarium voluit esse Deus,
+<lb ed="#P" n="38"/>quatenus in eo remuneraretur homo sive ad 
+po<lb ed="#P" break="no" n="39"/>nam, si alterum, id est appetitum justi desereret,
+<lb ed="#P" n="40"/>ad gloriam, si eumdem appetitum, scilicet justi,
+<lb ed="#P" n="41"/>retineret. In appetitu justi Deus meritum hominis
+<lb ed="#P" n="42"/>constituit; in appetitu vero commodi praenium.
+<lb ed="#P" n="43"/>Propterea appetitum justi solum voluntati 
+homi<lb ed="#P" break="no" n="44"/>nis subjecit, quia nisi in voluntate et libero 
+arbi<lb ed="#P" break="no" n="45"/>trio meritum esse non potuit. Post hos duos 
+appe<lb ed="#P" break="no" n="46"/>titusduoeffectus illorum subsequebantur :justum
+<lb ed="#P" n="47"/>et commodum, diesimiliter tamen et ordine 
+contra<lb ed="#P" break="no" n="48"/>rio. Appetitus quippe justi sive affectus 
+separabi<lb ed="#P" break="no" n="49"/>lis est, quia secundum voluntatem inest; sed 
+effec<lb ed="#P" break="no" n="50"/>tus illius, id est justum sive justitia inseparabilis
+<lb ed="#P" n="51"/>b illo est, quia appetitus justi sine jitstitia esse
+<lb ed="#P" n="52"/>non potest. Ipsam enim justitiam appetere, 
+secun<lb ed="#P" break="no" n="53"/>dum aliquid justitiam habere est. Affectus ergo
+<lb ed="#P" n="54"/>justi a voluntate separari potest, sed effectus ejug,
+<lb ed="#P" n="55"/>id est justitia, ab affectu ipso separari non potest.
+<lb ed="#P" n="56"/>Rursum appetitus commodi inseparabilis est, quia.
+<lb ed="#P" n="57"/>secundum necessitatem inest, et a voluntate 
+ra<lb ed="#P" break="no" n="58"/>tionali nunquam separari potest. Effectus autem
+<lb ed="#P" n="59"/>ejus, id est commodum, ab eo separabilis est; quia
+<lb ed="#P" n="60"/>desiderari commodum, cum non habetur, potest.
+<lb ed="#P" n="61"/>Et in hoc summa constat poena cum creatura, poena
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="62"/>addicta, neque commodum suum fastidire potest
+<lb ed="#P" n="63"/>propter immutabilem naturam, nec habere potest
+<lb ed="#P" n="64"/>propter irremissibilem culpam. Propterea igitur
+<lb ed="#P" n="65"/>Deus affectum justitie homini separabilem dedit,
+<lb ed="#P" n="66"/>et ipsi affectui cum inesset, effectum suum, hoc
+<lb ed="#P" n="67"/>est, justitiam inseparabiliter adesse instituit. 
+Affec<lb ed="#P" break="no" n="68"/>tum commodi inseparabilem tribuit, et effectum
+<lb ed="#P" n="69"/>illius, hoc est commodum, non sque 
+inseparabi<lb ed="#P" break="no" n="70"/>liter adesse praecepit quatenus homo, vel illo solo,
+<lb ed="#P" n="71"/>scilicet appetitu justi amisso, hujus et illius 
+effec<lb ed="#P" break="no" n="72"/>tum perderet, vel, illo solo retento, unius et 
+al<lb ed="#P" break="no" n="73"/>terius effectum retineret. Sed homo solum quod
+<lb ed="#P" n="74"/>potuit fecit; et quia appetitum justi sponte 
+dere<lb ed="#P" break="no" n="75"/>liquit, idcirco merito et justitiam et commodum
+<lb ed="#P" n="76"/>perdidit, solum appetitum commodi ad 
+augmen<lb ed="#P" break="no" n="77"/>tum infelicitatis retinens. Sicut enim augmentum
+<lb ed="#P" n="78"/>gloriae fuisset in justitia perseveranti non posse
+<lb ed="#P" n="79"/>ab amore et desiderio habiti boni tepescere, ita
+<lb ed="#P" n="80"/>cumulus miseri: est ab appetitu boni non posse
+<lb ed="#P" n="81"/>esse (quamvis illud adipisci nequeat) cohibere. .
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e901">
+               <head xml:id="hsvhsv-g16617-Hd1e903">Capitulum 12</head>
+               <head xml:id="hsvhsv-g16617-Hd1e905" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e907">
+                  <lb ed="#P" n="82"/>Cap. XII. Utrum homo volens an nolens 
+appe<lb ed="#P" break="no" n="83"/>titum justi perdidit.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e914">
+                  <lb ed="#P" n="84"/>Sed mirum videtur si homo prius appetitum 
+ju<lb ed="#P" break="no" n="85"/>stitie habuit, quomodo postmodum illum amieit.
+<lb ed="#P" n="86"/>Utrum videlicet nolens an nolens illum deseruit.
+<lb ed="#P" n="87"/>Si enim nolens deseruit, vel potius si nolens 
+per<lb ed="#P" break="no" n="88"/>didit necessitatem passus est, iniquitetem non
+<lb ed="#P" n="89"/>fecit. Neque violentia patientis culpa dicenda est,
+<lb ed="#P" n="90"/>Bed inferentis. Si autem voluntas in eo 
+prewces<lb ed="#P" break="no" n="91"/>Bisse dicitur, quia justitiae affectum spontanea
+<lb ed="#P" n="92"/>quadam deliberatione abjecit ; jam ipsa desertio
+<lb ed="#P" n="93"/>justitis primum peccatum fuisse negatur, quia
+<lb ed="#P" n="94"/>voluntas mala illam praecessit per quam facta est.
+<lb ed="#P" n="95"/>Nec potest inveniri unde voluntas talis homini
+<lb ed="#P" n="96"/>advenerit, qua vellet bonum quod habuit deserere,
+<lb ed="#P" n="97"/>quoniam neque a semetipso velle habere potuit,
+<lb ed="#P" n="98"/>neque a Deo quidquam prater commodum et 
+ju<lb ed="#P" break="no" n="99"/>stum velle accepit. Sed considerandum est quod,
+<lb ed="#P" n="100"/>cum justum appetere nihil aliud sit quam 
+justi<lb ed="#P" break="no" n="101"/>tiam velle, appetitum justi deserere idem est quod
+<lb ed="#P" n="102"/>justitiam velle desinere : qui autem velle desinit,
+<lb ed="#P" n="103"/>non volendo velle desinit, sed a voluntate 
+cessan<lb ed="#P" break="no" n="104"/>do, quod quemadmodum ille qui aliquid facere
+<lb ed="#P" n="105"/>desinit; non faciendo desinit, sed cessando et
+<lb ed="#P" n="106"/>quiescendo ab eo quod facit. Quia ergo homo 
+ap<lb ed="#P" break="no" n="107"/>petitum justi deserens non velle cospit quod prius
+<lb ed="#P" n="108"/>noluit, sed tantummodo quod prius voluit velle
+<lb ed="#P" n="109"/>desiit, non necesse est ut hoc aut volens aut 
+no<lb ed="#P" break="no" n="110"/>lens fecisse dicatur. Voluit tamen aliquid, quod,
+<lb ed="#P" n="111"/>quia cum isto velle non potuit, desiit istud velle
+<lb ed="#P" n="112"/>quod voluit. Nec imo illud voluit, quia istud velle
+<lb ed="#P" n="113"/>desiit; sed potius ideo istud velle desiit, quia illud
+<lb ed="#P" n="114"/>voluit. Peccatum tamen et iniquitas ejus 
+propte<lb ed="#P" break="no" n="115"/>rea non ex eo pendet, quia illud voluit, sed. quia
+<lb ed="#P" n="116"/>istud velle desiit, quoniam si hoc velle non 
+desi<lb ed="#P" break="no" n="117"/>neret, sive illud sive aliud volendo nunquam 
+pec<lb ed="#P" break="no" n="118"/>care potuisset? Quid autem illud fuisse dicetur
+<lb ed="#P" n="119"/>quod volendo justum velle desiit, nisi quod 
+ali<lb ed="#P" break="no" n="120"/>quid extra mensuram voluit in qua sola justitia
+<lb ed="#P" n="121"/>fuit? Quidquid enim extra mensuram est, justum
+<lb ed="#P" n="122"/>esse non potest. Sed qua fuit ista mensura in
+<!-- 065.png.txt -->
+<pb ed="#P" n="147"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>qua voluntas hominis esse debuerat, ut bona À
+<lb ed="#P" n="2"/>esset et malum in ea non esset, hoc diligenter
+<lb ed="#P" n="3"/>considerare oportet.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e1015">
+               <head xml:id="hsvhsv-g16617-Hd1e1017">Capitulum 13</head>
+               <head xml:id="hsvhsv-g16617-Hd1e1019" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e1021">
+                  <lb ed="#P" n="4"/>Cap. XIII. Quod justitia sit mensura.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e1026">
+                  <lb ed="#P" n="5"/>Duo bona preparaverat Deus homini, unum 
+tem<lb ed="#P" break="no" n="6"/>porale, alterum aeternum, ut temporali uteretur et
+<lb ed="#P" n="7"/>seterno frueretur. Sed quia bonis uti vel frui 
+lau<lb ed="#P" break="no" n="8"/>dabile non est, nisi bene utaris et fruaris: definita
+<lb ed="#P" n="9"/>est homini mensura secundum quam bonis suis
+<lb ed="#P" n="10"/>temporalibus bene uteretur:eternis bene frueretur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e1043">
+               <head xml:id="hsvhsv-g16617-Hd1e1045">Capitulum 14</head>
+               <head xml:id="hsvhsv-g16617-Hd1e1047" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e1049">
+                  <lb ed="#P" n="11"/>Cap. XIV. De mensura inferioris boni.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e1054">
+                  <lb ed="#P" n="12"/>Modus autem mensure in usu inferioris boni
+<lb ed="#P" n="13"/>quadripertitus constabat. Primo, ut uteretur his
+<lb ed="#P" n="14"/>tantum quibus uti deberet ; secundo, ut qualiter
+<lb ed="#P" n="15"/>deberet ; tertio, ut quantum ; quarto ut quando,
+<lb ed="#P" n="16"/>horum quodcunque homo praeteriret, mensuram
+<lb ed="#P" n="17"/>amitteret.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e1072">
+               <head xml:id="hsvhsv-g16617-Hd1e1074">Capitulum 15</head>
+               <head xml:id="hsvhsv-g16617-Hd1e1076" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e1078">
+                  <lb ed="#P" n="18"/>Cap. XV. De mensura boni superioris.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e1083">
+                  <lb ed="#P" n="19"/>Motus autem mensure in fructu superioris 
+bo<lb ed="#P" break="no" n="20"/>ni bipertitus tantum inveniebatur. Primo, ut 
+sci<lb ed="#P" break="no" n="21"/>ret homo qualiter illo bono frui deberet. 
+Secun<lb ed="#P" break="no" n="22"/>do, ut etiam quando eum illo bono frui 
+conveni<lb ed="#P" break="no" n="23"/>ret agnosceret. Nam quo bono ibi fruendum 
+es<lb ed="#P" break="no" n="24"/>set idcirco querendum non erat; quoniam non
+<lb ed="#P" n="25"/>nisi bonum unum solum ibi erat. Similiter et
+<lb ed="#P" n="26"/>quantum illo bono fruendum esset omnino 
+quae<lb ed="#P" break="no" n="27"/>rendum non erat: cum sine dubitatione 
+consta<lb ed="#P" break="no" n="28"/>ret, quia quanto magis illo frueretur quis tanto
+<lb ed="#P" n="29"/>utique felicior esset. Illic nutem solum mensura
+<lb ed="#P" n="30"/>quantitatis quzrendaest ; ubi parum aut nimium
+<lb ed="#P" n="31"/>esse potest, Fructus autem hujus boni ita se ha- (;
+<lb ed="#P" n="32"/>bet utin eo qui minus possidet plenum sit ; et
+<lb ed="#P" n="33"/>qui amplius, non sit superfluum. In hoc ergo 
+80<lb ed="#P" break="no" n="34"/>lo mensura constabat ut agnosceretur qualiter
+<lb ed="#P" n="35"/>illo bono frui deberet, ne inordinate illud (non
+<lb ed="#P" n="36"/>quidem ad imitationem sicut creature convenit ;
+<lb ed="#P" n="37"/>sed ad :equalitatem quod creature possibilitatem
+<lb ed="#P" n="38"/>transcendit) possidere concupisceret. Similiter ut
+<lb ed="#P" n="39"/>attenderet ne illud ante tempus praecipere 
+festi<lb ed="#P" break="no" n="40"/>zaret ; cum illud priusquam obedientiam 
+consum<lb ed="#P" break="no" n="41"/>Tasset accipere non deberet. Sicut igitur in his
+<lb ed="#P" n="42"/>bonis commodum hominis constitutum erat, sic
+<lb ed="#P" n="43"/>in mensura utendi vel fruendi bonis his justitia.
+<lb ed="#P" n="44"/>ejus esse debuerat. Et. quemadmodum voluntas
+<lb ed="#P" n="45"/>ei data fuerat, qua bona sua et in bonis suis
+<lb ed="#P" n="46"/>tommodum suum appeteret ; ita et voluntati jus
+<lb ed="#P" n="47"/>insitum fuerat ut ipsaei mensura secundum quam
+<lb ed="#P" n="48"/>eisdem bonis suis uti vel frui debuerat non 
+dis<lb ed="#P" break="no" n="49"/>pliceret. In eo igitur quod bona sua amavit ; 
+con<lb ed="#P" break="no" n="50"/>sideramus appetitum commodi. In eo autem quod
+<lb ed="#P" n="51"/>mensuram commodi in bonis suis dilexit: 
+intel<lb ed="#P" break="no" n="52"/>ligimus appetitum justi. Si ergo mensuram 
+sem<lb ed="#P" break="no" n="53"/>* per homo dilexisset, justi appetitum non amisset.
+<lb ed="#P" n="54"/>Mensuram autem semper dilexisset, si extra 
+men<lb ed="#P" break="no" n="55"/>suram nihil voluisset. Ex quo autem extra 
+men<lb ed="#P" break="no" n="56"/>suram aliquid velle ceepit, mensuram velle 
+cessa<lb ed="#P" break="no" n="57"/>vit. Postquam autem cessavit velle mensuram,
+<lb ed="#P" n="58"/>destitit amare justitiam. Et in ipso justitiam 
+per<lb ed="#P" break="no" n="59"/>didit, quo ipsum justitie amorem amisit. Sicut
+<lb ed="#P" n="60"/>enim justitia amatori suo non deesse potest, ita.
+<lb ed="#P" n="61"/>illi à quo non amatur nullatenus adesse potest.
+<lb ed="#P" n="62"/>In hoc igitur injustitia hominis fuit, quod appe-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>titum suum extra nensuram extendit et 
+secun<lb ed="#P" break="no" n="64"/>dum qualitatem, cum creatori suo pariflcari 
+vo<lb ed="#P" break="no" n="65"/>luit, et secundum tempus, cum ante meritum 
+pro<lb ed="#P" break="no" n="66"/>mium preripere festinavit. Cum igitur summnm
+<lb ed="#P" n="67"/>bonum appetiit, bonum appetiit, sed bene non 
+ap<lb ed="#P" break="no" n="68"/>petiit, quia illud et immoderate et intempestive
+<lb ed="#P" n="69"/>apprehendere concupivit.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e1199">
+               <head xml:id="hsvhsv-g16617-Hd1e1201">Capitulum 16</head>
+               <head xml:id="hsvhsv-g16617-Hd1e1203" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e1205">
+                  <lb ed="#P" n="70"/>Cap. XVI. Quodnam malum fuit in homine.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e1210">
+                  <lb ed="#P" n="71"/>Videte ergo quod ibi fuit malum. Nam bonum
+<lb ed="#P" n="72"/>quod appetebatur malum non fuit, et voluntas qua
+<lb ed="#P" n="73"/>appetebatur similiter in quantum voluntas fuit ;
+<lb ed="#P" n="74"/>et in quantum ad bonum fuit malum non fuit, sed
+<lb ed="#P" n="75"/>quod sinemensura appetebatur hoc solum malum
+<lb ed="#P" n="76"/>fuit. Ergo voluntati hominis nec hoc malum est
+<lb ed="#P" n="77"/>quod voluntas est, quia aliquid est, et omne quod
+<lb ed="#P" n="78"/>aliquid est, bonum est, nec hoc malum est ad
+<lb ed="#P" n="79"/>quod est, quia similiter aliquid est, et omne quod
+<lb ed="#P" n="80"/>aliquid est bonum est, sod quod sine mensura est,
+<lb ed="#P" n="81"/>hoc malum est. Hocenim esse non est aliquid esse,
+<lb ed="#P" n="82"/>sed est aliquid non esse quod esse deberet. Et
+<lb ed="#P" n="83"/>ideo malum nihil est cum id quod esse deberet
+<lb ed="#P" n="84"/>non est. Hoc ergo malum, id est non esse : quod
+<lb ed="#P" n="85"/>esse deberetcum alibi vel poena sit vel ad penam
+<lb ed="#P" n="86"/>sit, in rationali voluntate culpa est, quia quoties
+<lb ed="#P" n="87"/>in ipsa est, ex ipsa et per ipsam est. Ex ipsa quia
+<lb ed="#P" n="88"/>libero, per ipsam quia arbitrio ipsius factum est.
+<lb ed="#P" n="89"/>In quo a similitudine Dei quadam perversa 
+imi<lb ed="#P" break="no" n="90"/>tatione recedit, ex quo et per quem et in quo est
+<lb ed="#P" n="91"/>omne quod est, quia cum prava efficitur ; ex ipsa.
+<lb ed="#P" n="92"/>et per ipsam et in ipsa hoc solum est quod nihil
+<lb ed="#P" n="93"/>est. Et hoc illi peccatum est et injustitia et culpa,
+<lb ed="#P" n="94"/>ex qua turpis apparet et reprehensibilia et digna
+<lb ed="#P" n="95"/>reprobatione, quia non habet formam suam , nec
+<lb ed="#P" n="96"/>decorem nec pulchritudinem pro qua amari 
+de<lb ed="#P" break="no" n="97"/>buisset et adduci ad gloriam.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e1272">
+               <head xml:id="hsvhsv-g16617-Hd1e1274">Capitulum 17</head>
+               <head xml:id="hsvhsv-g16617-Hd1e1276" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e1278">
+                  <lb ed="#P" n="98"/>Cap. XVII. Quod homo, quia in appetitu justi
+<lb ed="#P" n="99"/>peccavit, in appetitu commodi punitus est.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e1285">
+                  <lb ed="#P" n="100"/>Quia ergo homo appetitum justi deserens 
+pec<lb ed="#P" break="no" n="101"/>cavit, in retento appetitu commodi punitus est.
+<lb ed="#P" n="102"/>Nam et ille propterea sic datus est ut 
+inseparabi<lb ed="#P" break="no" n="103"/>liter rationali voluntati adesset, quatenus in eo
+<lb ed="#P" n="104"/>vel puniretur si a justitia recederet, vel 
+remune<lb ed="#P" break="no" n="105"/>raretur si in justitia permaneret, cum utique 
+poe<lb ed="#P" break="no" n="106"/>nam omnino pati non posset : si commodum 
+nul<lb ed="#P" break="no" n="107"/>lum appeteret. Incommodum quippe nihil aliud
+<lb ed="#P" n="108"/>esse constat, nisi quod voluntati suc sive 
+appe<lb ed="#P" break="no" n="109"/>titui contrarium esse probatur. Quia igitur homo
+<lb ed="#P" n="110"/>appetitum justitio deseruit; appetitus commodi
+<lb ed="#P" n="111"/>solusjlli a4 ponam remansit. In quo quidem 
+du<lb ed="#P" break="no" n="112"/>pliciter punitur, sive cum ab iis quae ordinate 
+ap<lb ed="#P" break="no" n="113"/>petit restringitur, sive cum ad alia commoda
+<lb ed="#P" n="114"/>qua: ordinate appeti non possunt appetenda 
+re<lb ed="#P" break="no" n="115"/>laxatur. In altero est poena, in altero pona,
+<lb ed="#P" n="116"/>et culpa. Mensura autem superioris appetitus
+<lb ed="#P" n="117"/>in libero arbitrio posita fuerat. Mensura 
+ve<lb ed="#P" break="no" n="118"/>roinferioris appetitus concessa in dono. 
+Qua<lb ed="#P" break="no" n="119"/>propter illam tenere velle, virtutis fuisset ; istam
+<lb ed="#P" n="120"/>autem retinerc posse, felicitatis. Unde sicut culpa
+<lb ed="#P" n="121"/>fuit illam non tenuisse, ita poena facta est illum
+<lb ed="#P" n="122"/>amisisse. In qua tamen pcena etiam culpa fuit,
+<lb ed="#P" n="123"/>quia et hoc quoque mensuram non tenere coutee.
+<!-- 066.png.txt -->
+<pb ed="#P" n="148"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>injustitiam fuit. Haec autem culpa praecedentis
+<lb ed="#P" n="2"/>culpe poa fuit, quia nisi spiritus in appetitu
+<lb ed="#P" n="3"/>suo mensuram deseruisset, caro subjecta spiritui
+<lb ed="#P" n="4"/>adversus ipsum spiritum in suo appetitu 
+termi<lb ed="#P" break="no" n="5"/>num mensure non transiret.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e1358">
+               <head xml:id="hsvhsv-g16617-Hd1e1360">Capitulum 18</head>
+               <head xml:id="hsvhsv-g16617-Hd1e1362" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e1364">
+                  <lb ed="#P" n="6"/>Cap. XVIII. Quare. inferior appetitus 
+mensu<lb ed="#P" break="no" n="7"/>ram non tenet.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e1371">
+                  <lb ed="#P" n="8"/>Deus etenim primi hominis corpus sanum et 
+in<lb ed="#P" break="no" n="9"/>tegrum condiderat. Sanum, quia nihil illi ineratad
+<lb ed="#P" n="10"/>corruptionem. Integrum, quia nihil ei deerat ad
+<lb ed="#P" n="11"/>perfectionem. Sed in utroque talem conditionem
+<lb ed="#P" n="12"/>posuerat, ut nec integritas nec sanitas sine 
+ad<lb ed="#P" break="no" n="13"/>miniculo posset conservari. Itaque in rebus 
+crea<lb ed="#P" break="no" n="14"/>tie forinsecus quiedam ordinavit, quae ad 
+conser<lb ed="#P" break="no" n="15"/>vandam atque tuendam incolumitatem sive 
+inte<lb ed="#P" break="no" n="16"/>gritatem ejus valere potuissent.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e1394">
+               <head xml:id="hsvhsv-g16617-Hd1e1396">Capitulum 19</head>
+               <head xml:id="hsvhsv-g16617-Hd1e1398" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e1400">
+                  <lb ed="#P" n="17"/>Cap. XIX. Quod spiritui curacarnis injuncta est
+</p>
+               <p xml:id="hsvhsv-g16617-d1e1405">
+                  <lb ed="#P" n="18"/>Horum autem providendorum curam et officium
+<lb ed="#P" n="19"/>spiritui qui corpori praesidebat injunxit. Nam
+<lb ed="#P" n="20"/>sicut Deus praesidebat spiritui, ita spiritus 
+pre<lb ed="#P" break="no" n="21"/>Sidebat carni, et ipsa caro jumentum spiritus
+<lb ed="#P" n="22"/>erat. Propterea adsessorem pertinebat ut 
+jumen<lb ed="#P" break="no" n="23"/>tosuo pabulum provideret ne deficeret: et hoc
+<lb ed="#P" n="24"/>solum fortassis tunc sufficere potuisset. Nam
+<lb ed="#P" n="25"/>Todo praeter pabulum, et freno et calcaribus opus
+<lb ed="#P" n="26"/>habet. Freno quidem ut ferventem, et priecipitem
+<lb ed="#P" n="27"/>a malo cohibeat ; calcaribus antem ut ad bonum
+<lb ed="#P" n="28"/>faciendum excitet pigrum. Tunc ergo solum 
+pa<lb ed="#P" break="no" n="29"/>bulum ministrans sine freno et calcaribus 
+suavi<lb ed="#P" break="no" n="30"/>ter portaretur ; et si forte frenum ibi esset quo per
+<lb ed="#P" n="31"/>8e nescia incédere regeretur ; neque pungi tamen
+<lb ed="#P" n="32"/>opus haberet quia non esset pigra ; nec cohiberi,
+<lb ed="#P" n="33"/>quia non esset impetuosa. Quia ergo spiritus ses
+<lb ed="#P" n="34"/>Bor erat, injunctum est ei officium ut jumento
+<lb ed="#P" n="35"/>suo pabulum provideret. Ne ergo in illo 
+exsequen<lb ed="#P" break="no" n="36"/>do (si sola presceptione non etiam amore impleret)
+<lb ed="#P" n="37"/>servili conditione premeretur; dedit ei Deus 
+af<lb ed="#P" break="no" n="38"/>fectum quo corpus suum amaret, ut sicut ejus
+<lb ed="#P" n="39"/>integritatem et sanitatem diligeret, sic etiam 
+om<lb ed="#P" break="no" n="40"/>nia quae ad illam servandam valerent libenter
+<lb ed="#P" n="41"/>provideret. Rursum ne vel in illis querendis 
+la<lb ed="#P" break="no" n="42"/>bor esset vel in sumendis periculum ; indigentiam
+<lb ed="#P" n="43"/>simul et appetitum carnalem certa mensura 
+tem<lb ed="#P" break="no" n="44"/>peravit, quatenusei ad fomentum et pauca sufficere
+<lb ed="#P" n="45"/>potuissent, et ad satietatem modica. Itaque 
+pro<lb ed="#P" break="no" n="46"/>videntia carnis non tam labor quam 
+oblectamen<lb ed="#P" break="no" n="47"/>tum et exercitatio futura foret, si homo justitiam
+<lb ed="#P" n="48"/>tenuisset. Sed, quia spiritus supra se elatus 
+ap<lb ed="#P" break="no" n="49"/>petitum suum intra mensuram cohibere noluit,
+<lb ed="#P" n="50"/>idcirco ad laborem et miseriam illius factum est
+<lb ed="#P" n="51"/>ut jam in appetitu carnis sue mensuram tenere
+<lb ed="#P" n="52"/>non posset. Propter peccatum enim spiritus 
+pu<lb ed="#P" break="no" n="53"/>niendum fregit Deus mortalitate integritatem
+<lb ed="#P" n="54"/>corporis humani ; et ob hoc pluribus jam 
+fomen<lb ed="#P" break="no" n="55"/>tis indiget quam prius tam ad reparandam 
+inco<lb ed="#P" break="no" n="56"/>lumitatem quantum periit quam ad 
+conservan<lb ed="#P" break="no" n="57"/>dam, quantum remansit Hinc illa dira necessitas
+<lb ed="#P" n="58"/>giguitur, ut extra ordinem primae dispositionis
+<lb ed="#P" n="59"/>necessario appetitum extendat, quatenus scilicet
+<lb ed="#P" n="60"/>non solum naturam custodiat, sed etiam ut ipsius
+<lb ed="#P" n="61"/>naturse vitium et corruptionem expellat. Spiritus
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="62"/>enim sicut naturaliter datum est ei commodum
+<lb ed="#P" n="63"/>carnis sus diligere, sic naturaliter etiam habet
+<lb ed="#P" n="64"/>ut ejus incommodum non possit amare.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e1513">
+               <head xml:id="hsvhsv-g16617-Hd1e1515">Capitulum 20</head>
+               <head xml:id="hsvhsv-g16617-Hd1e1517" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e1519">
+                  <lb ed="#P" n="65"/>Cap. XX. Quod necesitas concupiscendi non
+<lb ed="#P" n="66"/>excusat, quia a voluntate venit.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e1526">
+                  <lb ed="#P" n="67"/>Sciendum vero est quod hiec necessitas 
+concu<lb ed="#P" break="no" n="68"/>piscendi non ideo culpa non est, quia necessitas
+<lb ed="#P" n="69"/>est; quia ut esset haec necessitas, non necessitas
+<lb ed="#P" n="70"/>causa fuit sed voluntas. Sed quid dicemus? Si
+<lb ed="#P" n="71"/>hoc naturaliter habet homo ut incommodum 
+su<lb ed="#P" break="no" n="72"/>um amare non possit neque commodum suum
+<lb ed="#P" n="73"/>fastidire. Ergo quidquid appetit commodum illi
+<lb ed="#P" n="74"/>estet nonappetit nisi commodum suum unquam.
+<lb ed="#P" n="75"/>Quod si verum est, quare reprehenditur 
+aliquan<lb ed="#P" break="no" n="76"/>do accusatur pro eo quod appetit, cum non
+<lb ed="#P" n="77"/>appetat unquam nisi commodum suum et hoc ei
+<lb ed="#P" n="78"/>appetere naturaliter datum sit intantum ut ipsa
+<lb ed="#P" n="79"/>natura in eo quod facta. est immobiliter 
+consis<lb ed="#P" break="no" n="80"/>tente: aliud omnino praeter commodum suum
+<lb ed="#P" n="81"/>appetere non possit.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e1563">
+               <head xml:id="hsvhsv-g16617-Hd1e1565">Capitulum 21</head>
+               <head xml:id="hsvhsv-g16617-Hd1e1567" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e1569">
+                  <lb ed="#P" n="82"/>Cap. XXI. Quod commodum et ordinatum 
+ap<lb ed="#P" break="no" n="83"/>petendum est.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e1576">
+                  <lb ed="#P" n="84"/>Sed aliud est id quod aliquo modo commodum
+<lb ed="#P" n="85"/>est appetere eo modo quo commodum non est, 
+at<lb ed="#P" break="no" n="86"/>que id aliud quod commodum est desiderare eo
+<lb ed="#P" n="87"/>modo quo commodum est. Omne enim quod 
+com<lb ed="#P" break="no" n="88"/>modum est, aliquo modo commodum est ; et 
+si<lb ed="#P" break="no" n="89"/>militer omne quod incommodum est, aliquo modo
+<lb ed="#P" n="90"/>incommodum est, et non universaliter. Qui ergo
+<lb ed="#P" n="91"/>appetit quod aliquo modo commundum est et
+<lb ed="#P" n="92"/>non appetit eo modo quo commodum est, tamen
+<lb ed="#P" n="93"/>putans commodum esse eo modo quo appetit ; 
+is<lb ed="#P" break="no" n="94"/>te non nisi commodum appetit, quamvis 
+commo<lb ed="#P" break="no" n="95"/>dum non sit illud quod appetit, quia propter 
+com<lb ed="#P" break="no" n="96"/>modum appetit quod appetit ; et putat 
+commo<lb ed="#P" break="no" n="97"/>dum suum esse in illo quod appetit. Non ergo 
+de<lb ed="#P" break="no" n="98"/>cipitur in eo quod commodum suum appetit ;
+<lb ed="#P" n="99"/>quia scit commodum suum esse quod appetit, sed
+<lb ed="#P" n="100"/>decipitur in eo quod commodum suum esse 
+pu<lb ed="#P" break="no" n="101"/>tat ubi non est: in illo videlicet quod propter
+<lb ed="#P" n="102"/>commodum suum appetit. Qui autem appetit
+<lb ed="#P" n="103"/>quod commodum est, et eo modo appetit quo
+<lb ed="#P" n="104"/>commodum est, ordinatum tamen non est; non
+<lb ed="#P" n="105"/>in eo malum constat quod appetit quod 
+commo<lb ed="#P" break="no" n="106"/>dum est, sed in eo quod ordinatum non est. Sicut
+<lb ed="#P" n="107"/>enim datum illi est quod commodum est, 
+appe<lb ed="#P" break="no" n="108"/>tere, ita etiam prohibitum est illi appetere quod
+<lb ed="#P" n="109"/>inordinatum est. Cum ergo in unum concurrunt
+<lb ed="#P" n="110"/>quod aliquomodo commodum est et quod 
+ordina<lb ed="#P" break="no" n="111"/>tum non est, si appetitus est ad commodum in
+<lb ed="#P" n="112"/>affectu (quia hoc nature est insitum) refrenandus
+<lb ed="#P" n="113"/>est tamen ab effectu propter debituin rationis cui
+<lb ed="#P" n="114"/>ad inordinata ire non est concessum. In hoc enim
+<lb ed="#P" n="115"/>pulchritudo apparet et dignitas rationis quod 
+af<lb ed="#P" break="no" n="116"/>fectum suum ab inordinatis cohibet. Quoniam
+<lb ed="#P" n="117"/>idcirco plura commoda esse debuerunt, a quibus
+<lb ed="#P" n="118"/>dum ratio prosidens affectum quantum in se erat
+<lb ed="#P" n="119"/>effluentem restringeret, quanta foret dignitas et
+<lb ed="#P" n="120"/>excellentia illius appareret.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e1660">
+               <head xml:id="hsvhsv-g16617-Hd1e1662">Capitulum 22</head>
+               <head xml:id="hsvhsv-g16617-Hd1e1664" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e1666">
+<!-- 067.png.txt -->
+                  <pb ed="#P" n="149"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>Cap. XXII. Quod nihil appetitur nisi commodum.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e1677">
+                  <lb ed="#P" n="2"/>Si ergo dicimus quod nihil omnino natura 
+ap<lb ed="#P" break="no" n="3"/>petere potest praeter commodum, non ideo falsum
+<lb ed="#P" n="4"/>existimandum est quod quaedam appetit in 
+qui<lb ed="#P" break="no" n="5"/>bus commodum ejus non est quando decipitur,
+<lb ed="#P" n="6"/>veletiam quod quaedam appetit in quibus aliquod
+<lb ed="#P" n="7"/>commodum est, sed ordinatum non est quando
+<lb ed="#P" n="8"/>prevaricatur. Videmus quod aliquando infirmus
+<lb ed="#P" n="9"/>potionem appetit velsectionem ; non tamen 
+ama<lb ed="#P" break="no" n="10"/>ritudinem appetit vel dolorem, sed sanitatem. Et
+<lb ed="#P" n="11"/>sunt quaedam dulcia quae appetuntur et male 
+ap<lb ed="#P" break="no" n="12"/>petuntur, quia inordinata sunt, nec tamen mala
+<lb ed="#P" n="13"/>sunt quia dulcia sunt, sed quia inordinata sunt.
+<lb ed="#P" n="14"/>Et rursum sunt quaedam amara quae appetuntur
+<lb ed="#P" n="15"/>et bene appetuntur, quia ordinata sunt, nec 
+ta<lb ed="#P" break="no" n="16"/>men bona sunt; quia amara sunt, sed quia 
+ordi<lb ed="#P" break="no" n="17"/>nata eunt. Et fit nonunquam ut ea qui dulcia
+<lb ed="#P" n="18"/>sunt aliquid in se boni habeant, et multum mali
+<lb ed="#P" n="19"/>generant ex se ; et sic bonum parvum in illis et
+<lb ed="#P" n="20"/>magnum malum exillis. Et rursum fit ut ea quie
+<lb ed="#P" n="21"/>sunt amara aliquid mali habeant in se, et 
+mul<lb ed="#P" break="no" n="22"/>tum boni generent ex se; et sic parvum in illis
+<lb ed="#P" n="23"/>malum, et bonum magnum ex illis. Et propterea
+<lb ed="#P" n="24"/>imprudentes qui praesentia vident futura non 
+prie<lb ed="#P" break="no" n="25"/>vident ; parva mala fugiunt et magna incurrunt;
+<lb ed="#P" n="26"/>et parvasimiliter boua eligunt et magna perdunt.
+<lb ed="#P" n="27"/>Et in omnibus tamen non nisi commodum 
+appe<lb ed="#P" break="no" n="28"/>titur, quando ordinate quidem bene, quando vero
+<lb ed="#P" n="29"/>inordinate male. Nec tamen idcirco male quia
+<lb ed="#P" n="30"/>commodum, sed ideo male quia inordinatum.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e1743">
+               <head xml:id="hsvhsv-g16617-Hd1e1745">Capitulum 23</head>
+               <head xml:id="hsvhsv-g16617-Hd1e1747" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e1749">
+                  <lb ed="#P" n="31"/>Cap. XXIII. Quomodo necessitas eae volunlate venit.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e1754">
+                  <lb ed="#P" n="32"/>Si autem excusabilis videtur homo pro eo quod
+<lb ed="#P" n="33"/>natura infirmitate mortalitatis corrupta affectum
+<lb ed="#P" n="34"/>suum jam ex necessitate ultra mensuram 
+effluen<lb ed="#P" break="no" n="35"/>tem per se cohibere non potest, 
+consideran<lb ed="#P" break="no" n="36"/>dum est quod non potest excusare illa 
+ne<lb ed="#P" break="no" n="37"/>cessitas quam pr:ecedens operata est voluntas.
+<lb ed="#P" n="38"/>Culpa enim voluntaria ponam meruit; pona
+<lb ed="#P" n="39"/>autem operata est infirmitatem : infirmitas vero
+<lb ed="#P" n="40"/>induxit necessitatem. Et idcirco quia 
+necessita<lb ed="#P" break="no" n="41"/>tem operata est voluntas, voluntatem ipsam 
+ex<lb ed="#P" break="no" n="42"/>cusare non potest necessitas. Transgressionem
+<lb ed="#P" n="43"/>ergo superioris appetitus quae solum fuit culpa,
+<lb ed="#P" n="44"/>subsecuta est transgressio inferioris quae est et
+<lb ed="#P" n="45"/>pena et culpa. In spiritu solo culpa : in carnejet
+<lb ed="#P" n="46"/>pena, et culpa. Concupiscentia spiritus inordinata, D
+<lb ed="#P" n="47"/>culpa : concupiscentia carnis poa et culpa ; 
+poe<lb ed="#P" break="no" n="48"/>napraecedentisculpa»et culpa subsequentis poenze.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e1794">
+               <head xml:id="hsvhsv-g16617-Hd1e1796">Capitulum 24</head>
+               <head xml:id="hsvhsv-g16617-Hd1e1798" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e1800">
+                  <lb ed="#P" n="49"/>Cap. XXIV. Quid generati trahimus et quid
+<lb ed="#P" n="50"/>regcnerati amittimus.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e1807">
+                  <lb ed="#P" n="51"/>Quando igitur caro mortalis per coitum ad 
+ge<lb ed="#P" break="no" n="52"/>nerandam prolem seminatur in concupiscentia, ad
+<lb ed="#P" n="53"/>nascituram prolem in carne per concupiscentiam.
+<lb ed="#P" n="54"/>iransit poena et culpa. Quando vero per 
+sacra<lb ed="#P" break="no" n="55"/>mentum redemptionis regenerantur qui generati
+<lb ed="#P" n="56"/>sunt in pena et culpa ; emundandis per spiritum
+<lb ed="#P" n="57"/>regenerationis in ipso originali vitio tollitur non
+<lb ed="#P" n="58"/>pena, sed culpa. Culpa quippe idcirco tollitur ut
+<lb ed="#P" n="59"/>justificentur, pona vera idcirco remanet ut 
+exer<lb ed="#P" break="no" n="60"/>ceantur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e1832">
+               <head xml:id="hsvhsv-g16617-Hd1e1834">Capitulum 25</head>
+               <head xml:id="hsvhsv-g16617-Hd1e1836" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e1838">
+                  <lb ed="#P" n="61"/>Cap. XXV. De originali peccato.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e1843">
+                  <lb ed="#P" n="62"/>De originali peccato multe ac difficiles oboriun-
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>tur quisestiones, quae utrum credendo melius quam.
+<lb ed="#P" n="64"/>discutiendo (si tamen discussionem aliquam 
+ad<lb ed="#P" break="no" n="65"/>mittunt qui plenam solutionem habere non 
+pos<lb ed="#P" break="no" n="66"/>sunt) traetentur ignoro. Primum quaeritur quid
+<lb ed="#P" n="67"/>sit originale peccatum, deinde quomodo a 
+pa<lb ed="#P" break="no" n="68"/>tribus, praecipue ab iis in quibus per 
+sacramen<lb ed="#P" break="no" n="69"/>tum regenerationis solutum est in filios, 
+traduca<lb ed="#P" break="no" n="70"/>tur, utrum per solam animam, an per solam 
+car<lb ed="#P" break="no" n="71"/>nem, an per animam simul et carnem. Et si per
+<lb ed="#P" n="72"/>solam animam, utrum per creationem, an per
+<lb ed="#P" n="73"/>traductionem. Si autem per solam carnem quare
+<lb ed="#P" n="74"/>in animam redundat quod non est ex anima.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e1877">
+               <head xml:id="hsvhsv-g16617-Hd1e1879">Capitulum 26</head>
+               <head xml:id="hsvhsv-g16617-Hd1e1881" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e1883">
+                  <lb ed="#P" n="75"/>Cap. XXVI. Quot modis originale peccatum dicatur.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e1888">
+                  <lb ed="#P" n="76"/>Originale peccatum dupliciter intelligi potest,
+<lb ed="#P" n="77"/>sive videlicet prima illa inobedientia hominis qua
+<lb ed="#P" n="78"/>prima omnium peccatorum fuit et subsequentium
+<lb ed="#P" n="79"/>origo omnium exstitit, sive vitium illud cum
+<lb ed="#P" n="80"/>quo ab illo traducto universi oriuntur, qui ab illo
+<lb ed="#P" n="81"/>percarnis propagationem traducuntur. Hoc autem
+<lb ed="#P" n="82"/>vitium originis humana duplici corruptione 
+na<lb ed="#P" break="no" n="83"/>turam inficit ; ignorantia scilicet mentem, et 
+con<lb ed="#P" break="no" n="84"/>cupiscentia carnem. Haec duo mala in primo 
+qui<lb ed="#P" break="no" n="85"/>dem parente poena fuerunt precedentis culpa: et.
+<lb ed="#P" n="86"/>culpa actualis; in nobis autem culpa 
+subsequen<lb ed="#P" break="no" n="87"/>tis ponae et culpa simul et poena originalis. 
+Quan<lb ed="#P" break="no" n="88"/>do ergo originale peccatum quantum ad prinum
+<lb ed="#P" n="89"/>hominem dicimus, intelligimus primam culpam
+<lb ed="#P" n="90"/>inobedientiae illius quae illi quidem originalis 
+di<lb ed="#P" break="no" n="91"/>citur ; non quod ab illa vel cum illa originem 
+ac<lb ed="#P" break="no" n="92"/>ceperit natura illius, sed quod ex illa quasi 
+pri<lb ed="#P" break="no" n="93"/>ma omnium postmodum orta sint, et exierint
+<lb ed="#P" n="94"/>subsequentia omnia mala illius. Quia autem in
+<lb ed="#P" n="95"/>ill a prima origine nullum peccatum 
+descen<lb ed="#P" break="no" n="96"/>dit, illud etiam peccatum quod in illo originale
+<lb ed="#P" n="97"/>dicitur actuale illius fuit. Quia profecto qui 
+nas<lb ed="#P" break="no" n="98"/>cendo peccatum non traxit, peccatum non habuit
+<lb ed="#P" n="99"/>nisi quod agendo perpetravit.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e1943">
+                  <lb ed="#P" n="100"/>Cap. XXVIL Quod primo homini actuale fuit,
+<lb ed="#P" n="101"/>hoc nobis est originale.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e1951">
+                  <lb ed="#P" n="102"/>Nos autem qui ab illo nascendo originem 
+tra<lb ed="#P" break="no" n="103"/>ximus, quod illi actuale fuit, originale habemus,
+<lb ed="#P" n="104"/>quiu in nos per solam nativitatem descendit quod
+<lb ed="#P" n="105"/>in illo per actionem fuit. Natura enim nostra 
+cor<lb ed="#P" break="no" n="106"/>ruptionem quam in illo per ipsius actionem 
+con<lb ed="#P" break="no" n="107"/>cepit, per nostram solum ad nos nativitatem 
+tra<lb ed="#P" break="no" n="108"/>duxit. Et ideo nos nascendo peccatum concipimus
+<lb ed="#P" n="109"/>quod ille non nascendo sed agendo habuit, a quo
+<lb ed="#P" n="110"/>per nativitatem venimus. In illo quippe spiritus
+<lb ed="#P" n="111"/>per superbiam contra Creatorem tumens 
+obedien<lb ed="#P" break="no" n="112"/>tiam non tenuit ; et idcirco creato ad ulciscendam
+<lb ed="#P" n="113"/>injuriam suam spiritum quidem ignorantia, 
+car<lb ed="#P" break="no" n="114"/>nem vero concupiscentia damnavit, ut in se 
+bo<lb ed="#P" break="no" n="115"/>num agendum non videat; in carne autem sua
+<lb ed="#P" n="116"/>malum agere concupiscat. Hzc duo vitia ad 
+pu<lb ed="#P" break="no" n="117"/>niendiam superbiam hominis juste in ipso 
+confir<lb ed="#P" break="no" n="118"/>mantur. Ignorantia quidem, dum ab animo 
+sub<lb ed="#P" break="no" n="119"/>trahitur lumen veritatis; concupiscentia vero,
+<lb ed="#P" n="120"/>dum caro percutitur poena mortalitatis. Hanc 
+igi<lb ed="#P" break="no" n="121"/>tur originalem corruptionem natura primum 
+vi<lb ed="#P" break="no" n="122"/>tiata ad posteritatem traduxit ; ignorantiam ani-
+<!-- 068.png.txt -->
+<pb ed="#P" n="150"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>mae, carni vero concupiscentiam ad 
+corruptio<lb ed="#P" break="no" n="2"/>nem ministrans.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e2012">
+               <head xml:id="hsvhsv-g16617-Hd1e2014">Capitulum 28</head>
+               <head xml:id="hsvhsv-g16617-Hd1e2016" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e2018">
+                  <lb ed="#P" n="3"/>Cap. XXVIII. Quid sit originale peccatum.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e2023">
+                  <lb ed="#P" n="4"/>Si ergo quaeritur quid sit originale peccatum
+<lb ed="#P" n="5"/>in nobis intelligitur corruptio sive vitium quod
+<lb ed="#P" n="6"/>nascendo trahimus per ignorantiam in mente,
+<lb ed="#P" n="7"/>per concupiscentiam in carne.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e2035">
+               <head xml:id="hsvhsv-g16617-Hd1e2037">Capitulum 29</head>
+               <head xml:id="hsvhsv-g16617-Hd1e2039" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e2041">
+                  <lb ed="#P" n="8"/>Cap. XXIX. Quomodo originale peccatum a
+<lb ed="#P" n="9"/>patribus in filios transeat.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e2048">
+                  <lb ed="#P" n="10"/>Postquam igitur demonstratum est quid sit 
+ori<lb ed="#P" break="no" n="11"/>ginale peccatum, consequens est ut etiam 
+inves<lb ed="#P" break="no" n="12"/>tigemus qualiter a patribus traducatur ad filios,
+<lb ed="#P" n="13"/>id est utrum secundum solam animam, an 
+secun<lb ed="#P" break="no" n="14"/>dum solam carnem, an secundum utrumque. 
+Qui<lb ed="#P" break="no" n="15"/>dam originale peccatum non solum per carnem
+<lb ed="#P" n="16"/>sed etiam per animam a patribus in filios 
+descen<lb ed="#P" break="no" n="17"/>dere putaverunt, quoniam non solum carnem sed
+<lb ed="#P" n="18"/>animam quoque ex traduce materi esse 
+credide<lb ed="#P" break="no" n="19"/>runt. Sicut enim in generatione prolis de carne
+<lb ed="#P" n="20"/>paterna substantialiter caro trahitur, ita de 
+gi<lb ed="#P" break="no" n="21"/>gnentis anima, anima geniti essentialiter deduci
+<lb ed="#P" n="22"/>ab istis existimatur, propter quod sicut de 
+cor<lb ed="#P" break="no" n="23"/>rupta carne caro corrupta seminatur, ita et de
+<lb ed="#P" n="24"/>anima peccatrice anima peccatrix corruptione 
+ori<lb ed="#P" break="no" n="25"/>ginali infecta, trahitur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e2086">
+               <head xml:id="hsvhsv-g16617-Hd1e2088">Capitulum 30</head>
+               <head xml:id="hsvhsv-g16617-Hd1e2090" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e2092">
+                  <lb ed="#P" n="26"/>Cap. XXX. Quod anima non sit ex traduce.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e2097">
+                  <lb ed="#P" n="27"/>Hic autem quidam doctorum multas hinc inde
+<lb ed="#P" n="28"/>rationes et auctoritates opposuisse inveniuntur,
+<lb ed="#P" n="29"/>quibus non animam sed solam carnem ex 
+tradu<lb ed="#P" break="no" n="30"/>ce esse astruere conati sunt. Et hac quidem ratio
+<lb ed="#P" n="31"/>prima est quod spirituali nature non convenit,
+<lb ed="#P" n="32"/>neque ex materia esse, quoniam essentialiter 
+sim<lb ed="#P" break="no" n="33"/>plex est sed neque materiam esse, quoniam in
+<lb ed="#P" n="34"/>unitatissuae simplicitate individue semper 
+consis<lb ed="#P" break="no" n="35"/>tens augeri vel multiplicari omnino non potest.
+<lb ed="#P" n="36"/>Simplex enim natura propagationem non facit,
+<lb ed="#P" n="37"/>ubi ad illud quod propagandum est ex eo a quo
+<lb ed="#P" n="38"/>propagandum est pars sumi non potest nisi 
+to<lb ed="#P" break="no" n="39"/>tum transierit. Quod ergo unum est inter duo si
+<lb ed="#P" n="40"/>totum transierit, nihil ex eo remanet illi a quo
+<lb ed="#P" n="41"/>est. Si autem totum permanet nihil confertur illi
+<lb ed="#P" n="42"/>ad quod est. Si igitur anima ex anima gignitur
+<lb ed="#P" n="43"/>Sicut caro ex carne, dicant quomodo simplex illa
+<lb ed="#P" n="44"/>substantia aut tota in gignente remaneat si in
+<lb ed="#P" n="45"/>genitum transierit, aut tota in genitum transeat
+<lb ed="#P" n="46"/>si in gignente remanserit. Nisi forte omnes
+<lb ed="#P" n="47"/>animas consubstantiales dicere velint, et illam
+<lb ed="#P" n="48"/>naturam simplicem in propagatione flliorum 
+per<lb ed="#P" break="no" n="49"/>sonaliter quidem multiplicari, sed essentialiter
+<lb ed="#P" n="50"/>non dividi. Non attendentes quanta inconvenientia
+<lb ed="#P" n="51"/>hanc insertionem sequantur si una et eadem 
+es<lb ed="#P" break="no" n="52"/>sentia simul beatitudini et damnationi, glori» et
+<lb ed="#P" n="53"/>pena addicta credatur. Postremo dum dicat 
+auc<lb ed="#P" break="no" n="54"/>toritas: Revertatur pulvis in terram de qua
+<lb ed="#P" n="55"/>sumptus est ; et spiritus redeat ad Dominum
+<lb ed="#P" n="56"/>qui fecit illum (Eccl. xxit) ; manifeste 
+ostendi<lb ed="#P" break="no" n="57"/>tur quod non spiritus de spiritu, sed caro de carne
+<lb ed="#P" n="58"/>materialiter traducatur. Quamvis enim 
+nos<lb ed="#P" break="no" n="59"/>tra corpora primo loco materialiter de terra
+<lb ed="#P" n="60"/>sumpta non sint ; idcirco tamen non 
+in<lb ed="#P" break="no" n="61"/>convenienter de terra sumpta esse dicuntur,
+<lb ed="#P" n="62"/>quia primi hominis corpus a quo nostra corpora
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>materialiter de materia descenderunt de terra per
+<lb ed="#P" n="64"/>materiam sumptum est. Quod licet sub eodem 
+in<lb ed="#P" break="no" n="65"/>tellectu de spiritibus quoque nostris etiam si ex
+<lb ed="#P" n="66"/>traduce esse crederentur posset dici, quod a Deo
+<lb ed="#P" n="67"/>dati sunt in eo quod a Domino datus est primus
+<lb ed="#P" n="68"/>ille spiritus à quo per materiam descenderunt.
+<lb ed="#P" n="69"/>Tamen in hoc probabilius constat animas ex 
+tra<lb ed="#P" break="no" n="70"/>duce non esse, quod sicut in primo homine 
+cor<lb ed="#P" break="no" n="71"/>pus de terra sumptum ; spiritus vero a Deo datus
+<lb ed="#P" n="72"/>legitur, ita et ratio expostulat ut in sequentibus
+<lb ed="#P" n="73"/>quoque hominibus caro quidem de carne 
+descen<lb ed="#P" break="no" n="74"/>dere, spiritus autem a Domino venire credatur.
+<lb ed="#P" n="75"/>Verumtamen cum spiritum rationale m a Domino
+<lb ed="#P" n="76"/>datum sive inspiratum legimus, nequaquam eum
+<lb ed="#P" n="77"/>quasi materialiter de divina essentia sive 
+subs<lb ed="#P" break="no" n="78"/>tantia sumptum credere debemus. Sed quod 
+cor<lb ed="#P" break="no" n="79"/>pus per materiam de terra venit; spiritus autem
+<lb ed="#P" n="80"/>sine praejacente materia per solam Cireatoris 
+po<lb ed="#P" break="no" n="81"/>tentiam esse accepit. Sicut corpus ab illo est ex
+<lb ed="#P" n="82"/>quo materiam traxit, sic spiritus ab illo est per
+<lb ed="#P" n="83"/>quem et a quo esse incoppit. Per illum videlicet
+<lb ed="#P" n="84"/>cum fecit, ab illo autem cum dedit. Dicit autem
+<lb ed="#P" n="85"/>rursum Psalmista : Qui finzit sigillatim corda
+<lb ed="#P" n="86"/>eorum (Psal. xxxit). Corda quippe, id eat 
+ratio<lb ed="#P" break="no" n="87"/>nales spiritus sive animus Deus sigillatim fingere
+<lb ed="#P" n="88"/>dicitur ; quia ea (non alia ex aliis quemadmodum
+<lb ed="#P" n="89"/>in corporali natura apparet, sed singula per se)de
+<lb ed="#P" n="90"/>nihilo creare perhibetur. Propterea cum in lege
+<lb ed="#P" n="91"/>scriptum sit : Si quispercusserit mulierem 
+pra<lb ed="#P" break="no" n="92"/>gnantem et illa abortivum fecerit, si non fue.
+<lb ed="#P" n="93"/>Crit formatum, reddat animam pro anima
+<lb ed="#P" n="94"/>(Exod. xxr.); aperte declaratur quod cum caro
+<lb ed="#P" n="95"/>ex carne seminatur, anima similiter ex anima non
+<lb ed="#P" n="96"/>trahitur. Si enim cum carne anima seminatur,
+<lb ed="#P" n="97"/>quare in ab ortivo et non formato anima pro 
+ani<lb ed="#P" break="no" n="98"/>ma non redderetur ? Cum ergo in abortivo 
+tan<lb ed="#P" break="no" n="99"/>tum formato anima pro anima reddi jubetur, quid
+<lb ed="#P" n="100"/>nisi in eo quod necdum formatum est animam
+<lb ed="#P" n="101"/>adhuc non esse ostenditur ? Ut videlicet 
+quemad<lb ed="#P" break="no" n="102"/>modum in primo homine prius corpus formatum
+<lb ed="#P" n="103"/>deinde animam infusam legimus; ita etiam in
+<lb ed="#P" n="104"/>subsequentibus omnibus prius in vulva corpus
+<lb ed="#P" n="105"/>humanum formari, deinde animam infundi 
+cre<lb ed="#P" break="no" n="106"/>damus. Quod si cui forte mirum videatur 
+quomo<lb ed="#P" break="no" n="107"/>do paternum semen in vulva ante animationem
+<lb ed="#P" n="108"/>vel crescere possit vel vegetari vel etiam usque ad
+<lb ed="#P" n="109"/>ipsam humani corporis effgiem promoveri; 
+vi<lb ed="#P" break="no" n="110"/>deat quomodo arbusta et plante et germina 
+uni<lb ed="#P" break="no" n="111"/>versa ejusmodi animam non habentia sola 
+viri<lb ed="#P" break="no" n="112"/>ditate vegetantur et crescunt, et motu suo in 
+for<lb ed="#P" break="no" n="113"/>mam proprio generi convenientem producantur.
+<lb ed="#P" n="114"/>His igitur et hujuscemodi rationibus probabile
+<lb ed="#P" n="115"/>factum est, animas ex traduce non esse; sed 
+no<lb ed="#P" break="no" n="116"/>vas de nihilo creatas novis quotidie corporibus
+<lb ed="#P" n="117"/>de paterno semine sunt, et rursum in. vulva 
+for<lb ed="#P" break="no" n="118"/>matis ad vivificationem infundi. In quibus tamen
+<lb ed="#P" n="119"/>omnibus nulla unquam ratio sive auctoritas in
+<lb ed="#P" n="120"/>tantum prevalere potuit ut dubietatem tolleret
+<lb ed="#P" n="121"/>quaestionis, excepto eo solo quod fides catholica
+<lb ed="#P" n="122"/>magis credendum elegit animas quotidie 
+corpori<lb ed="#P" break="no" n="123"/>bus vivificandis sociandas de nihilo fieri quam
+<lb ed="#P" n="124"/>secundum corporis naturam et carnis humanae
+<!-- 069.png.txt -->
+<pb ed="#P" n="151"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>proprietatem de traduce propagari. Si autem 
+ani<lb ed="#P" break="no" n="2"/>mae ex traduce esse ducerentur, non tanta 
+quzes<lb ed="#P" break="no" n="3"/>tio esset, quia manifestior justitia esset in eo quod
+<lb ed="#P" n="4"/>peccatum originale a patribus in filios transire
+<lb ed="#P" n="5"/>dicitur. Sed nos si occulta Dei judicia ratione
+<lb ed="#P" n="6"/>comprehendere non possumus, tamen pro 
+solven<lb ed="#P" break="no" n="7"/>dis dubiis dubia alia asserere non debemus. 
+Quie<lb ed="#P" break="no" n="8"/>ritur tamen si animae ex traduce non sunt, 
+quo<lb ed="#P" break="no" n="9"/>modo peccato parentum filii obnoxii efficiuntur ?
+<lb ed="#P" n="10"/>Quod enim in parente peccatum est per illam 
+uti<lb ed="#P" break="no" n="11"/>que naturam solam in filium descendit, quae sola
+<lb ed="#P" n="12"/>per generationem a patre in filium transit. Si 
+er<lb ed="#P" break="no" n="13"/>go sola caro seminatur, per solam utique carnem
+<lb ed="#P" n="14"/>peccatum originale traducitur. Quod si verum.
+<lb ed="#P" n="15"/>est duo nobis querenda occurrunt. Unum scilicet
+<lb ed="#P" n="16"/>quomodo per solam carnem sine anima peccatum p, 
+<lb ed="#P" n="17"/>a patre in filium transeat, alterum quomodo 
+ani<lb ed="#P" break="no" n="18"/>maillius peccati quod per solam carnem et in sola
+<lb ed="#P" n="19"/>carne descendit, particeps flat. Nam caro 
+sineani<lb ed="#P" break="no" n="20"/>ma quomodo peccatut habere potest, quae sine
+<lb ed="#P" n="21"/>anima peccare omnino non potest? Si ergo in 
+car<lb ed="#P" break="no" n="22"/>ne sine anima peccatum non fuit, quomodo per
+<lb ed="#P" n="23"/>carnem aut incarne ad animam peccatum 
+transi<lb ed="#P" break="no" n="24"/>re potuit? Quod enim aliquando in carne non fuit,
+<lb ed="#P" n="25"/>ex carne illud postmodum anima non accepit.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e2376">
+               <head xml:id="hsvhsv-g16617-Hd1e2378">Capitulum 31</head>
+               <head xml:id="hsvhsv-g16617-Hd1e2380" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e2382">
+                  <lb ed="#P" n="26"/>Cap. XXXI. Quomodo per carnem peccatum
+<lb ed="#P" n="27"/>transit ad animam.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e2389">
+                  <lb ed="#P" n="28"/>Duo vitia humana natura a prima sui 
+corrup<lb ed="#P" break="no" n="29"/>tione concepit, a quibus subsequentium omnium
+<lb ed="#P" n="30"/>malorum propago postmodum pullulavit. Haec
+<lb ed="#P" n="31"/>autem erant ignorantia boni etconeupiscentia 
+ma<lb ed="#P" break="no" n="32"/>li, quorum unum, id est ignorantia, mentem 
+infe<lb ed="#P" break="no" n="33"/>cit ; alterum, id est concupiscentia, carnem 
+macu<lb ed="#P" break="no" n="34"/>lavit. Ignorantia poena fuit elationis, 
+concupis<lb ed="#P" break="no" n="35"/>centia effectus mortalitatis. Ita quatuor mala in
+<lb ed="#P" n="36"/>homine apparent : superbia, ignorantia, 
+mortali<lb ed="#P" break="no" n="37"/>tas, concupiscentia. Superbia mentisculpatantum;
+<lb ed="#P" n="38"/>mortalitas carnis pcenatantum ; ignorantia culpa
+<lb ed="#P" n="39"/>et poena in mente; concupiscentia poena et culpa
+<lb ed="#P" n="40"/>in carne. Propter elationem animus obscuratus
+<lb ed="#P" n="41"/>est per ignorantiam, propter mortalitatem caro
+<lb ed="#P" n="42"/>emollita per concupiscentiam. Quia enim animus
+<lb ed="#P" n="43"/>per elationem contra Deum tumuit, ignorantia
+<lb ed="#P" n="44"/>percuesus lumen veritatis amisit. Quia vero caro
+<lb ed="#P" n="45"/>mortalitate percussa est, ipsa sui languoris 
+infirmi<lb ed="#P" break="no" n="46"/>tate dissoluta extra mensuram primae 
+dispositio<lb ed="#P" break="no" n="47"/>nis desideria sua extendit. Hzc est enim ipsa quae
+<lb ed="#P" n="48"/>carnis concupiscentia vocatur, naturalis scilicet
+<lb ed="#P" n="49"/>appetitus sive affectus ordinem transgrediens et
+<lb ed="#P" n="50"/>mensuram transcendens. Ordinem transgrediens,
+<lb ed="#P" n="51"/>quando movetur ad ea qui non debet ; mensuram
+<lb ed="#P" n="52"/>transcendens, quando movetur aliter quam debet.
+<lb ed="#P" n="53"/>Ordinem enim appetitus transgreditur, quandoea
+<lb ed="#P" n="54"/>appetimus qui appetere non debemus. 
+Mensu<lb ed="#P" break="no" n="55"/>ram autem appetitus non tenet, quando etiam ea
+<lb ed="#P" n="56"/>quie appetenda sunt aliter appetimus quam debe.
+<lb ed="#P" n="57"/>mus. Sic igitur ex culpa prima et poena ultima
+<lb ed="#P" n="58"/>duo media orta sunt, culpa et poena. Ignorantia
+<lb ed="#P" n="59"/>boni, culpa et poena in mente ; concupiscentia 
+ma<lb ed="#P" break="no" n="60"/>li, culpa et poena in carne. In quibus peccati 
+ori<lb ed="#P" break="no" n="61"/>ginalis radix consistit. Quia igitur caro humanaa.
+<lb ed="#P" n="62"/>parentibus cum mortalitate seminatur, in eo ipso
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="63"/>quod seminata subjacet mortalitati vivificata 
+post<lb ed="#P" break="no" n="64"/>modum carnalis concupiscenti: subjecta 
+inveni<lb ed="#P" break="no" n="65"/>tür necessitati, quia ipsa mortalitatis infirmitas
+<lb ed="#P" n="66"/>causa est quam consequitur concupiscendi 
+neces<lb ed="#P" break="no" n="67"/>sitas. Caro igitur qui in concupiscentia 
+semina<lb ed="#P" break="no" n="68"/>tur cum mortalitate concipitur, cum necessitate
+<lb ed="#P" n="69"/>concupiscendi nascitur. Ineoa quo 
+seminaturcul<lb ed="#P" break="no" n="70"/>pam habet et actum culpz. In eo quod seminatur
+<lb ed="#P" n="71"/>nec culpam habet, nec actum culpa, sed causam.
+<lb ed="#P" n="72"/>In eoquodnascitur causam culpeeet culpam habet,
+<lb ed="#P" n="73"/>sed actum non habet. Causa culpz» corruptio 
+mor<lb ed="#P" break="no" n="74"/>talitatis est, culpa concupiscentia est. Actus 
+cul<lb ed="#P" break="no" n="75"/>pse concupiscere est, causa culp;radix est. Culpa
+<lb ed="#P" n="76"/>ipsa arbor, actusculpee fructus. In eoitaque quod
+<lb ed="#P" n="77"/>seminatur, corruptio mortalitatis est. In eo autem
+<lb ed="#P" n="78"/>quod nascitur, vitium concupiscenti est. In eo
+<lb ed="#P" n="79"/>autem quod movetur per concupiscentiam, actus
+<lb ed="#P" n="80"/>qui a motu voluntatis inchoatur, motu operis 
+per<lb ed="#P" break="no" n="81"/>fieitur. Non itaque nascentes propterea sine vitio
+<lb ed="#P" n="82"/>esseexistimentur, quia non concupiscunt, quoniam
+<lb ed="#P" n="83"/>radicitus vitium concupiscenti; in ipsis est, per
+<lb ed="#P" n="84"/>quod postea cum operantur concupiscunt.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e2518">
+               <head xml:id="hsvhsv-g16617-Hd1e2520">Capitulum 32</head>
+               <head xml:id="hsvhsv-g16617-Hd1e2522" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e2524">
+                  <lb ed="#P" n="85"/>Cap. XXXII. Quomodo ignorantia vitium sit.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e2529">
+                  <lb ed="#P" n="86"/>Ignorantia autem non propterea vitium est in
+<lb ed="#P" n="87"/>eis quia cum nascuntur veritatem nonagnoscunt
+<lb ed="#P" n="88"/>quando non debent ; sed, quia tunc cum 
+nascun<lb ed="#P" break="no" n="89"/>tur vitium in eis est, quo postea impediuptur ne
+<lb ed="#P" n="90"/>veritatem agnoscant quando debent. Nasci 
+quip<lb ed="#P" break="no" n="91"/>pe sine cognitione natura est, non culpa. Sed in
+<lb ed="#P" n="92"/>eo vitio nasci quo postea a cognitione veritatis
+<lb ed="#P" n="93"/>impediantur, culpa est non natura. Hoc autem 
+vi<lb ed="#P" break="no" n="94"/>tium in corruptione carnis est et in corruptione
+<lb ed="#P" n="95"/>sensus carnalis, qui sensuscarnalissi integritatém
+<lb ed="#P" n="96"/>suam haberet provectus et exercitetus, judicium
+<lb ed="#P" n="97"/>veritatis per ea quae foris viderentur admonitus,
+<lb ed="#P" n="98"/>Sine laboreconciperet. Quia veroex carne corrupta
+<lb ed="#P" n="99"/>integritate sua privatus est, puram sine 
+confusio<lb ed="#P" break="no" n="100"/>ne erroris veritatem haurire non potest.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e2565">
+               <head xml:id="hsvhsv-g16617-Hd1e2567">Capitulum 33</head>
+               <head xml:id="hsvhsv-g16617-Hd1e2569" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e2571">
+                  <lb ed="#P" n="101"/>Cap. XXXIII. Quod angeli facti sunt ut intus
+<lb ed="#P" n="102"/>erudirentur, homines foris.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e2578">
+                  <lb ed="#P" n="103"/>Angeli quippe quia perfecti facti sunt ab intus
+<lb ed="#P" n="104"/>eruditi sunt ; homines autem excepto duntaxat
+<lb ed="#P" n="105"/>primo illo, quisicut suo modo perfectus factusest,
+<lb ed="#P" n="106"/>ita et ipse quoque ab intus eruditus est, quia per .
+<lb ed="#P" n="107"/>intervalla temporum ad cognitionem promoveri
+<lb ed="#P" n="108"/>debuerunt, per species rerum temporalium et 
+vi<lb ed="#P" break="no" n="109"/>8ibilium foris ad cognitionem veritatis excitandi
+<lb ed="#P" n="110"/>et erudiendi fuerunt. Quae tamen excitatio et 
+eru<lb ed="#P" break="no" n="111"/>ditio naturaliter et sine labore homini adesset, si
+<lb ed="#P" n="112"/>sensus hominis in carne mortali per peccatum
+<lb ed="#P" n="113"/>corruptus non fuisset ut tunc plenum ac 
+perfec<lb ed="#P" break="no" n="114"/>tum constaret, quod ait Apostolus: Invisibilia
+<lb ed="#P" n="115"/>ejus a creatura mundi per ea qua facta sunt.
+<lb ed="#P" n="116"/>4ntellecta conspiciuntur (Rom. 1).
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e2613">
+               <head xml:id="hsvhsv-g16617-Hd1e2615">Capitulum 34</head>
+               <head xml:id="hsvhsv-g16617-Hd1e2617" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e2619">
+                  <lb ed="#P" n="117"/>Cap. XXXIV. Unde concupiscentia nascitur et
+<lb ed="#P" n="118"/>unde ignorantia.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e2626">
+                  <lb ed="#P" n="119"/>In carne igitur mortali ex eeneualitate 
+corrup<lb ed="#P" break="no" n="120"/>ta nascitur vitium concupiscontie, ex sensu 
+cor<lb ed="#P" break="no" n="121"/>rupto vitium ignorantis. Ibiquia appetitus 
+quze<lb ed="#P" break="no" n="122"/>rends necessitatis ultra mensuram se extamsN.,
+<!-- 070.png.txt -->
+<pb ed="#P" n="152"/>
+                  <cb ed="#P" n="a"/>
+                  <lb ed="#P" n="1"/>hic autem quia instrumentum concipiend:e 
+veri<lb ed="#P" break="no" n="2"/>tatis ab integritatis vigore deficit. Hoc autem
+<lb ed="#P" n="3"/>difficultatem questionis maximam adducit, quod
+<lb ed="#P" n="4"/>originale peccatum, non nisi in solo carnalis 
+cor<lb ed="#P" break="no" n="5"/>ruptionis vitio assignari videmur, quod tamen
+<lb ed="#P" n="6"/>usque ad participationem anim: extendi necesse
+<lb ed="#P" n="7"/>est confiteamur.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e2660">
+               <head xml:id="hsvhsv-g16617-Hd1e2662">Capitulum 35</head>
+               <head xml:id="hsvhsv-g16617-Hd1e2664" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e2666">
+                  <lb ed="#P" n="8"/>Cap. XXXV. Quomodo anima peccati 
+origina<lb ed="#P" break="no" n="9"/>lis particeps fiat.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e2673">
+                  <lb ed="#P" n="10"/>Quomodo autem anima qui munda acsine 
+vi<lb ed="#P" break="no" n="11"/>tio creatur, particeps fiat illius vitii quod per 
+so<lb ed="#P" break="no" n="12"/>lam carnem adducitur, dignum inquisitione 
+es<lb ed="#P" break="no" n="13"/>set, si aliqua. hoc diligentia investigari posset.
+<lb ed="#P" n="14"/>Nunc autem quia scientie human: expositum
+<lb ed="#P" n="15"/>non est ad cognitionem ; fide a nobis credendum
+<lb ed="#P" n="16"/>est, non curiositateinquirendum. Nam si dicimus
+<lb ed="#P" n="17"/>animam quando corpori commiscetur voluntate
+<lb ed="#P" n="18"/>quadam ad delectationem culpae inclinari; jam
+<lb ed="#P" n="19"/>non originali tantum sed actuali quoque peccato
+<lb ed="#P" n="20"/>obnoxiam esse demonstramus. Si vero necessitate
+<lb ed="#P" n="21"/>aliquaad consortium corporis et ad contagiumvitii
+<lb ed="#P" n="22"/>corporalisdetrusam confitemur, ex ipsa necessitate
+<lb ed="#P" n="23"/>2 reatuabsolutam esse ostendimus. Quod enim om*
+<lb ed="#P" n="24"/>nino necessitatis est, imputabilenon est; quod 
+au<lb ed="#P" break="no" n="25"/>tem voluntatis est non originale est, sed proprium
+<lb ed="#P" n="26"/>est. Constat igitur quod anima rationalis corpori
+<lb ed="#P" n="27"/>humano infusa nec voluntate corrumpitur ne 
+pec<lb ed="#P" break="no" n="28"/>catum sit actuale, nec necessitate corrumpitur ne
+<lb ed="#P" n="29"/>vitium sit non imputabile. Non itaque malum illi
+<lb ed="#P" n="30"/>est aut mala voluntas quia nondum velle accepit,
+<lb ed="#P" n="31"/>aut opus malum quia nondum adhucbene vel 
+ma<lb ed="#P" break="no" n="32"/>le agere potuit ; sed malum illi est quia talis est.
+<lb ed="#P" n="33"/>quae nisi per gratiam adjuvetur, neque 
+cognitio<lb ed="#P" break="no" n="34"/>nem veritatis accipere, neque concupiscentiae 
+car<lb ed="#P" break="no" n="35"/>nis sus resistere possit. Hoc autem illi inest non
+<lb ed="#P" n="36"/>de integritate conditionis, sed de societate carnis
+<lb ed="#P" n="37"/>corruptibilis. Quae videlicet corruptio quia a 
+pri<lb ed="#P" break="no" n="38"/>mo parentein omnem posteritatem per carnis 
+pro<lb ed="#P" break="no" n="39"/>pagationem traducitur, originalis peccati 
+macu<lb ed="#P" break="no" n="40"/>lam in vitio ignorantiae et concupiscenti» ad 
+uni<lb ed="#P" break="no" n="41"/>versos dilatatur. Quod siquaritur qua justitia 
+ani<lb ed="#P" break="no" n="42"/>mae imputantur quae neque ex creatione accepit,
+<lb ed="#P" n="43"/>neque ex voluntate perpetravit; sed ex sola 
+car<lb ed="#P" break="no" n="44"/>nis societate contraxit, quam tamen societatem
+<lb ed="#P" n="45"/>non ipsa suo arbitrio vindicavit, sed in praecepto
+<lb ed="#P" n="46"/>etdispositione creatorissui suscepit. Nos tandem
+<lb ed="#P" n="47"/>id quod verum est profiteri oportet, justitiam 
+di<lb ed="#P" break="no" n="48"/>vinam in hoc irreprehensibilem quidem esse, sed
+<lb ed="#P" n="49"/>comprehensibilem non esse.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e2763">
+               <head xml:id="hsvhsv-g16617-Hd1e2765">Capitulum 36</head>
+               <head xml:id="hsvhsv-g16617-Hd1e2767" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e2769">
+                  <lb ed="#P" n="50"/>Cap. XXXVI. Ratio quorumdam de animabus
+<lb ed="#P" n="51"/>incorporandis.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e2776">
+                  <lb ed="#P" n="52"/>Nam ii qui dicunt Deum a principio 
+proposuis<lb ed="#P" break="no" n="53"/>8e animas corporibus vivificandis sociare, et 
+cor<lb ed="#P" break="no" n="54"/>porum quidem generandorum homini officium 
+in<lb ed="#P" break="no" n="55"/>junxisse, animarum autem creandarum 
+potesta<lb ed="#P" break="no" n="56"/>tem sibi retuinisse, ut homo justus 
+corporamun<lb ed="#P" break="no" n="57"/>da generaret : Deus autem justusanimas mundas
+<lb ed="#P" n="58"/>crearet et corporibus sociaret. Et si homo opus
+<lb ed="#P" n="59"/>suum corrupit, Deus propositum suum mutare
+<lb ed="#P" n="60"/>non debuit. Proptereaque Deus secundum 
+propo<lb ed="#P" break="no" n="61"/>situm bonum animas mundae crearet et corporibus
+<cb ed="#P" n="b"/>
+                  <lb ed="#P" n="62"/>sociaret, dum in quibus corruptionem inveniunt
+<lb ed="#P" n="63"/>et corruptionem trahunt non hoc ex Deo esse qui
+<lb ed="#P" n="64"/>sine corruptione illas facit; sed ex homine qui
+<lb ed="#P" n="65"/>corporum naturam corrupit. Quiergo hoc dicunt
+<lb ed="#P" n="66"/>rationem divinae justitite non exponunt ; quia, 
+ai<lb ed="#P" break="no" n="67"/>cutad divinam bonitatem non pertinuit ut eas 
+ma<lb ed="#P" break="no" n="68"/>las faceret, sic nec convenire videbatur ut 
+propo<lb ed="#P" break="no" n="69"/>neret illic collocare ubi malas fieri necesse esset.
+<lb ed="#P" n="70"/>Non igitur magnopere insistendum estut ratione
+<lb ed="#P" n="71"/>investigetur; quod fide magis quam ratione 
+scru<lb ed="#P" break="no" n="72"/>tiri oportet.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e2827">
+               <head xml:id="hsvhsv-g16617-Hd1e2829">Capitulum 37</head>
+               <head xml:id="hsvhsv-g16617-Hd1e2831" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e2833">
+                  <lb ed="#P" n="73"/>Cap. XXXVII. Quomodo a patribus justis 
+pec<lb ed="#P" break="no" n="74"/>catores filii nascuntur.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e2840">
+                  <lb ed="#P" n="75"/>Quaeritur tamen quomodo originale peccatum
+<lb ed="#P" n="76"/>contrahunt, qui generantur ab iis qui originalis
+<lb ed="#P" n="77"/>peccati, sive per sacramenta fidei, sive sola fide
+<lb ed="#P" n="78"/>remissionem acceperunt. Quomodo enim a 
+patri<lb ed="#P" break="no" n="79"/>bus in filios transire potest, quod in ipsis 
+patri<lb ed="#P" break="no" n="80"/>busnon est ?Sed sciendum est quod originale 
+pec<lb ed="#P" break="no" n="81"/>catum quod a patribus per carnis generationem
+<lb ed="#P" n="82"/>traducitur ad filios, quamvis in his qui gignunt
+<lb ed="#P" n="83"/>quantum ad culpam remissum sit, quantum ad
+<lb ed="#P" n="84"/>ponam tamen permansit. Quantum ad culpam,
+<lb ed="#P" n="85"/>remissum, quia non imputatur, quantum ad 
+pa<lb ed="#P" break="no" n="86"/>nam, retentum, quia non tollitur ; Hoc enim est
+<lb ed="#P" n="87"/>quod ait apostolus Jam nihil damnationis est
+<lb ed="#P" n="88"/>his qui sunt in Christo Jesu (Rom. vin). Ut 
+vi<lb ed="#P" break="no" n="89"/>delicetostenderet, quia his quisunt renati in 
+Chris<lb ed="#P" break="no" n="90"/>to Jesu, quamvis infirmitas originalis 
+corruptio<lb ed="#P" break="no" n="91"/>nis non tollitur, interveniente tamen 
+regeneratio<lb ed="#P" break="no" n="92"/>nis sacramento ad damnationem non imputatur.
+<lb ed="#P" n="93"/>Quibus fomes quidem peccati inesse potest, sed
+<lb ed="#P" n="94"/>peccatum dominari non potest quandiu 
+liberta<lb ed="#P" break="no" n="95"/>tem suam custodiunt, et spiritum adoptionis 
+vo<lb ed="#P" break="no" n="96"/>luntarie peccando non amittunt. Liberatis enim
+<lb ed="#P" n="97"/>a servitute peccati sub corruptione quidem 
+mor<lb ed="#P" break="no" n="98"/>talitatis necessitate tenemur, sed dominio peccati
+<lb ed="#P" n="99"/>non nisi ex voluntate subjicimur. Propter quod
+<lb ed="#P" n="100"/>idem Apostolus dicit: Non regnet peccatum in
+<lb ed="#P" n="101"/>vestro mortali corpore (Rom. v1). Corpus quidem
+<lb ed="#P" n="102"/>nostrum necessitate mortali in ipsa. corruptionis
+<lb ed="#P" n="103"/>radice fomitem peccati portat; sed ubi spiritus
+<lb ed="#P" n="104"/>libertatis est, peccatum ipsum ad regnandum 
+sur<lb ed="#P" break="no" n="105"/>gere non potest. Sic itaque originale peccatum.
+<lb ed="#P" n="106"/>quodin parentibus per regenerationem deletum
+<lb ed="#P" n="107"/>est quantum ad culpam, quia tamen ad. poenam
+<lb ed="#P" n="108"/>remanet ;ad eos qui generantur transiens non 
+so<lb ed="#P" break="no" n="109"/>lum ad ponam constat , sed etiam imputatur ad.
+<lb ed="#P" n="110"/>culpam, donec percepto lavacro generationis in
+<lb ed="#P" n="111"/>ipsis quoque culpa. deleatur, etiamsi poena 
+rema<lb ed="#P" break="no" n="112"/>neat.
+</p>
+            </div>
+            <div xml:id="hsvhsv-g16617-Dd1e2926">
+               <head xml:id="hsvhsv-g16617-Hd1e2928">Capitulum 38</head>
+               <head xml:id="hsvhsv-g16617-Hd1e2930" type="question-title"/>
+               <p xml:id="hsvhsv-g16617-d1e2932">
+                  <lb ed="#P" n="113"/>Cap. XXVIII. Utrum omnia peccata 
+praceden<lb ed="#P" break="no" n="114"/>tium patrum ad filios transeant.
+</p>
+               <p xml:id="hsvhsv-g16617-d1e2939">
+                  <lb ed="#P" n="115"/>Queritur autem utrum omnia peccata 
+prsece<lb ed="#P" break="no" n="116"/>dentium patrum ad filios transeant, sicut illud 
+pri<lb ed="#P" break="no" n="117"/>mi parentis delictum in omnes qui ex ipso nati
+<lb ed="#P" n="118"/>sunt redundasse videmus ? Quod si verum est,
+<lb ed="#P" n="119"/>quanto posteriores tanto utique sunt 
+miserabi<lb ed="#P" break="no" n="120"/>liores. Nec iqua videtur conditio ut tempus 
+prae<lb ed="#P" break="no" n="121"/>"judicet veritati, nisi forle matura quanto magis
+<lb ed="#P" n="122"/>corrumpitur, tanto deterior seminatur. Cum enim
+<lb ed="#P" n="123"/>dicat Scriptura : Reddam peccatum patrum in
+<!-- 071.png.txt -->
+<pb ed="#P" n="153"/>
+                  <!-- left off -->
+                  <lb ed="#P" n="1"/>filios usque in tertiam et quartam 
+generatio<lb ed="#P" break="no" n="2"/>nem (Exod. xx) ; manifeste ostenditur quod a 
+fi<lb ed="#P" break="no" n="3"/>liis peccata patrum requirantur. Sed quare usque
+<lb ed="#P" n="4"/>in tertiam et quartam generationem et non 
+us<lb ed="#P" break="no" n="5"/>quequaque, non facile est demonstrari nisi forte
+<lb ed="#P" n="6"/>eaquae per justitiam in omnes generationes 
+exqui<lb ed="#P" break="no" n="7"/>ripotuerunt; per misericordiam in tertia et quarta
+<lb ed="#P" n="8"/>generatione terminantur, ne forte judicium 
+im<lb ed="#P" break="no" n="9"/>portabile fieret, si cuncta praecedentium peccata in
+<lb ed="#P" n="10"/>subsequentibus ultio divina puniret. Quod autem
+<lb ed="#P" n="11"/>in alio loco dicitur : Filius non portabit 
+iniqui<lb ed="#P" break="no" n="12"/>" tatem patris et pater non portabit iniquitatem
+<lb ed="#P" n="13"/>filii (Ezech. xvin) ; de illa veraciter iniquitate,
+<lb ed="#P" n="14"/>intelligitur, quam personaliter discreti et. 
+essen<lb ed="#P" break="no" n="15"/>tialiter et ab invicem divisi pater et filius 
+operan<lb ed="#P" break="no" n="16"/>tur. Ex quo enim filius a patreet pater a filio est
+<lb ed="#P" n="17"/>alius in persona effectus, sicut uterque proprio
+<lb ed="#P" n="18"/>arbitrio operari habet, sic quod alter facit 
+dein<lb ed="#P" break="no" n="19"/>ceps alteri imputari non debet. Quod autem 
+dic<lb ed="#P" break="no" n="20"/>tum est: Reddam peccata patrum in filios, de illis
+<lb ed="#P" n="21"/>peccatis intelligi oportet quae patres commiserunt
+<lb ed="#P" n="22"/>priusquam de ipsis nascerentur ii ad quos 
+pecca<lb ed="#P" break="no" n="23"/>ta eorum redundare debuerunt. Quare ergo usque
+<lb ed="#P" n="24"/>in quartam generationem, nisi quia vel per 
+mise<lb ed="#P" break="no" n="25"/>ricordiam rigor justitiee temperatur, vel per 
+ter<lb ed="#P" break="no" n="26"/>tiam et quartam generationem omnis generatio
+<lb ed="#P" n="27"/>intelligitur, vel(quod magis probable videtur) eous
+<lb ed="#P" n="28"/>que peccata patrum in filiis puniri dicuntur, quo
+<lb ed="#P" n="29"/>ipsi filii eorumdum patrum peccata videntes imi-
+<cb ed="#P" n="a"/>
+                  <lb ed="#P" n="30"/>tantur. Ut intelligamus nunquam filios in 
+pecca<lb ed="#P" break="no" n="31"/>tis parentum fieri participes, nisi prius fuerint
+<lb ed="#P" n="32"/>peccando effecti imitatores, ut suo quisque 
+pecca<lb ed="#P" break="no" n="33"/>to non alieno damnetur, dum alienum suum facit
+<lb ed="#P" n="34"/>quod amando et sequendo imitatur. Sic enim 
+ge<lb ed="#P" break="no" n="35"/>neraliter dictum convenientius intelligitur. Filius
+<lb ed="#P" n="36"/>non portabit iniquitatem patris et pater non
+<lb ed="#P" n="37"/>portabit iniquitatem filii; ut nunquam 
+pecca<lb ed="#P" break="no" n="38"/>ia aliena noceant nisiiis qui ea. peceando 
+imi<lb ed="#P" break="no" n="39"/>tantur. Cum enim contra id quod dictum fuerat :
+<lb ed="#P" n="40"/>Patres comederunt uvam acerbam et dentes
+<lb ed="#P" n="41"/>filiorum obstupescunt (Ezech. xvit), oppositum
+<lb ed="#P" n="42"/>sit : Filius non portabit iniquitatem patris, et 
+pa<lb ed="#P" break="no" n="43"/>ter non portabit iniquitatem fili. Anima quc
+<lb ed="#P" n="44"/>pecaverit ipsa morietur (ibid.). Necesse est ut
+<lb ed="#P" n="45"/>si in priori sententia praecedentium patrum 
+pec<lb ed="#P" break="no" n="46"/>cata ad subsequentes filios transire significatum
+<lb ed="#P" n="47"/>accipimus, in subsequenti assertione suo 
+quem<lb ed="#P" break="no" n="48"/>que peccato teneri, neque praecedentia peccata
+<lb ed="#P" n="49"/>patrum ad subsequentes filios redundare 
+intelli<lb ed="#P" break="no" n="50"/>gamus. Quod si verum est, constat quod peccata
+<lb ed="#P" n="51"/>patrum actualia ad filios non transeunt, sed 
+ori<lb ed="#P" break="no" n="52"/>ginale solum, quod ceteris omnibus tanto majus
+<lb ed="#P" n="53"/>fuit quanto magis pre cxteris omnibus naturam
+<lb ed="#P" n="54"/>ipsam mutare potuit. Quod quidem in eadem
+<lb ed="#P" n="55"/>corruptione seminatur ad posteritatem pertransit,
+<lb ed="#P" n="56"/>qua in prima radice sua naturam humanam 
+cor<lb ed="#P" break="no" n="57"/>ruptam infecit.
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
