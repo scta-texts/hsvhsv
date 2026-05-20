@@ -70,7 +70,7 @@
             <lb ed="#P" n="49"/>etiam cum parvo merito beati erunt.
           </p>
           <p xml:id="hsvhsv-g59007-d1e128">
-            <lb ed="#P" n="50"/>Scriptura dicit : <quote source="http://scta.info/resource/ap14_13@8-13">Beati mortui qui in Domino
+            <lb ed="#P" n="50"/>Scriptura dicit : <quote xml:id="hsvhsv-g59007-Qd1e134" source="http://scta.info/resource/ap14_13@8-13">Beati mortui qui in Domino
             <lb ed="#P" n="51"/>moriuntur</quote> (Apoc. xiv). In Domino moriuntur
             <lb ed="#P" n="52"/>qui in carne quidem morientes in Domino tamen
             <lb ed="#P" n="53"/>viventes inveniuntur. Quid est in Domino? In 
@@ -90,7 +90,7 @@
             <lb ed="#P" n="67"/>quantumvis parvi sint. Ex quo nati sunt ex Deo,
             <lb ed="#P" n="68"/>filii sunt Dei. Putas quod magnos filios suos Deus
             <lb ed="#P" n="69"/>salvabit, et parvos condemnabit? Scriptura mihi
-            <lb ed="#P" n="70"/>dicit : <quote source="http://scta.info/resource/ps138_16@1-11">Imperfectum meum viderunt oculi tui,
+            <lb ed="#P" n="70"/>dicit : <quote xml:id="hsvhsv-g59007-Qd1e180" source="http://scta.info/resource/ps138_16@1-11">Imperfectum meum viderunt oculi tui,
             <lb ed="#P" n="71"/>et in libro tuo omnes scribentur</quote> (Psalm.
             <lb ed="#P" n="72"/>cxxvii1). Si omnes, ergo et parvi et magni. Quid
             <lb ed="#P" n="73"/>eat, oculi tui viderunt? Approbaverunt. Quid est,
@@ -610,14 +610,14 @@
             <lb ed="#P" n="55"/>damnandorum consistant ? De tormentis quippe
             <lb ed="#P" n="56"/>impiorum scriptum est : Transeunt a frigoribus
             <lb ed="#P" n="57"/>nivium ad calores ignium (Job. xxiv). Et iterum.
-            <lb ed="#P" n="58"/>alibi: <quote source="http://scta.info/resource/is66_24@12-20">Vermis eorum non morietur, et ignis
+            <lb ed="#P" n="58"/>alibi: <quote xml:id="hsvhsv-g59007-Qd1e1296" source="http://scta.info/resource/is66_24@12-20">Vermis eorum non morietur, et ignis
             <lb ed="#P" n="59"/>eorum non ecstingwetur</quote> (Isa. Lxvi). Nam si
             <lb ed="#P" n="60"/>vermem quis ad solam compunctionem 
             conscien<lb ed="#P" break="no" n="61"/>iim peccatricis referri velit, et ob hoc quidem
             <lb ed="#P" n="62"/>ignem corporalem, vermem autem non corporalem,
             <cb ed="#P" n="b"/>
             <lb ed="#P" n="63"/>sed spiritualem intelligendum putet, quid est quod
-            <lb ed="#P" n="64"/>alibi scriptum est: <quote source="http://scta.info/resource/sir7_19@6-11">Vindicta carnis impii ignis et
+            <lb ed="#P" n="64"/>alibi scriptum est: <quote xml:id="hsvhsv-g59007-Qd1e1314" source="http://scta.info/resource/sir7_19@6-11">Vindicta carnis impii ignis et
             <lb ed="#P" n="65"/>vermis</quote> ? (Eccli. vir.) Si enim propterea ignis 
             cor<lb ed="#P" break="no" n="66"/>poraliscreditur, quia vindicta carnis est, quare non
             <lb ed="#P" n="67"/>similiter vermis corporalis dicitur, quia in 
@@ -885,7 +885,7 @@
             <lb ed="#P" n="56"/>secundum Christum, quis ei dubitet in 
             funda<lb ed="#P" break="no" n="57"/>mento esse Christum ? Si vero secundum hoc se
             <lb ed="#P" n="58"/>culum, si carnaliter, si in morbo concupiscentiae
-            <lb ed="#P" n="59"/><quote source="http://scta.info/resource/Ith4_5@5-10">sicut et gentes quae ignorant Deum</quote>, etiam hoc
+            <lb ed="#P" n="59"/><quote xml:id="hsvhsv-g59007-Qd1e1883" source="http://scta.info/resource/Ith4_5@5-10">sicut et gentes quae ignorant Deum</quote>, etiam hoc
             <lb ed="#P" n="60"/>secundum veniam concedit Apostolus; imo per
             <lb ed="#P" n="61"/>Apostolum Christus. Potest ergo et iste in 
             fun<lb ed="#P" break="no" n="62"/>damento habere Christum. Si enim nihil ei talis
@@ -895,7 +895,7 @@
             <lb ed="#P" n="65"/>fundamentum, propter hoc salvus erit per ignem;
             <lb ed="#P" n="66"/>delicias quippe hujus mundi amoresque terrenos
             <lb ed="#P" n="67"/>propter conjugalem quidem copulam non 
-            dam<lb ed="#P" break="no" n="68"/>nabiles, tribulationis ignis exurit. <quote source="http://scta.info/resource/mt10_37@1-24">Qui amat
+            dam<lb ed="#P" break="no" n="68"/>nabiles, tribulationis ignis exurit. <quote xml:id="hsvhsv-g59007-Qd1e1908" source="http://scta.info/resource/mt10_37@1-24">Qui amat
             pa<lb ed="#P" break="no" n="69"/>trem aut matrem aut filiun, aut filiam super
             <lb ed="#P" n="70"/>me, ait Dominus non est me dignus</quote> (Matth. x).
             <lb ed="#P" n="71"/>Verum qui has necessitudines sic amat 
@@ -922,11 +922,11 @@
             <lb ed="#P" n="92"/>quod quisque cogitat quae sunt Dei quomodo 
             pla<lb ed="#P" break="no" n="93"/>ceat Deo (I Cor. vit). quod superedificavit, 
             mer<lb ed="#P" break="no" n="94"/>cedem accipiet (I Cor. ur), id est unde 
-            cogi<lb ed="#P" break="no" n="95"/>tavit, hoc sumet. <quote source="http://scta.info/resource/Icor3_15@1-6">Si cujus opus arserit,
+            cogi<lb ed="#P" break="no" n="95"/>tavit, hoc sumet. <quote xml:id="hsvhsv-g59007-Qd1e1969" source="http://scta.info/resource/Icor3_15@1-6">Si cujus opus arserit,
             dam<lb ed="#P" break="no" n="96"/>num patietur</quote> (ibid.) ; quoniam quod dilexerat
-            <lb ed="#P" n="97"/>non habebit: <quote source="http://scta.info/resource/Icor3_15@7-9">Ipse autem salvus erit</quote> (ibid.);
+            <lb ed="#P" n="97"/>non habebit: <quote xml:id="hsvhsv-g59007-Qd1e1976" source="http://scta.info/resource/Icor3_15@7-9">Ipse autem salvus erit</quote> (ibid.);
             <lb ed="#P" n="98"/>quia nulla eum tribulatio ab illius fundamenti
-            <lb ed="#P" n="99"/>stabilitate semovit. <quote source="http://scta.info/resource/Icor3_15@10-15">Si tamen quasi per ignem</quote>
+            <lb ed="#P" n="99"/>stabilitate semovit. <quote xml:id="hsvhsv-g59007-Qd1e1984" source="http://scta.info/resource/Icor3_15@10-15">Si tamen quasi per ignem</quote>
             <lb ed="#P" n="100"/>(ibid.) Quod enim sine illiciente amore non 
             ha<lb ed="#P" break="no" n="101"/>buit sine urente dolore non perdit. Ecce, 
             quan<lb ed="#P" break="no" n="102"/>tum mihi videtur, inventus est ignis, qui nullum
@@ -956,7 +956,7 @@
             <cb ed="#P" n="a"/>
             <lb ed="#P" n="1"/>Quod ergo de sempiterno supplicio damnatorum per 
             <lb ed="#P" n="2"/>suum prophetam Dominus dixit fiet omnino flet:
-            <lb ed="#P" n="3"/><quote source="http://scta.info/resource/is66_24@12-20">Vermis eorum non morietur ; et ignis eorum
+            <lb ed="#P" n="3"/><quote xml:id="hsvhsv-g59007-Qd1e2052" source="http://scta.info/resource/is66_24@12-20">Vermis eorum non morietur ; et ignis eorum
             <lb ed="#P" n="4"/>non ezxstinguetur</quote> (Isa. . xvi). Utrumque horum
             <lb ed="#P" n="5"/>scilicet ignem atque vermem volunt quidam ad
             <lb ed="#P" n="6"/>animae ponas non ad corporis pertinere quia
@@ -974,7 +974,7 @@
             <lb ed="#P" n="18"/>Potuit brevius dici vindicta impii. Cur ergo 
             dic<lb ed="#P" break="no" n="19"/>tum est carnis impii nisi quia utrumque, id est.
             <lb ed="#P" n="20"/>vermis et ignis pcena erit carnis? Quomodo ergo
-            <lb ed="#P" n="21"/>verum est, inquiunt, quod ait Christus noster: <quote source="http://scta.info/resource/mc4_24@7-13">In
+            <lb ed="#P" n="21"/>verum est, inquiunt, quod ait Christus noster: <quote xml:id="hsvhsv-g59007-Qd1e2094" source="http://scta.info/resource/mc4_24@7-13">In
             <lb ed="#P" n="22"/>qua mensura mensi fueritis in eadem
             reme<lb ed="#P" break="no" n="23"/>tietur vobis</quote> (Marc. 1v) ; si temporale peccatum
             <lb ed="#P" n="24"/>supplicio punitur :terno?Necattendunt non 
@@ -1018,7 +1018,7 @@
             <lb ed="#P" n="54"/>hic neglexerit cum obierit apud Deum promereri
             <lb ed="#P" n="55"/>Non igitur illa quz» pro defunctis frequentat. 
             Ec<lb ed="#P" break="no" n="56"/>clesia commendandis, illi apostolice sententis
-            <lb ed="#P" n="57"/>sunt adversa qua dictum est: <quote source="http://scta.info/resource/IIcor5_10@1-19">Omnes enim
+            <lb ed="#P" n="57"/>sunt adversa qua dictum est: <quote xml:id="hsvhsv-g59007-Qd1e2189" source="http://scta.info/resource/IIcor5_10@1-19">Omnes enim
             as<lb ed="#P" break="no" n="58"/>tabimus ante tribunal Christi ut referat
             unus<lb ed="#P" break="no" n="59"/>quisque secundum ea. qu per corpus gessit,
             <lb ed="#P" n="60"/>sive bonum sive malum</quote> (II Cor. v) quia hoc

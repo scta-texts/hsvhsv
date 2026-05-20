@@ -84,7 +84,7 @@
             <lb ed="#P" n="12"/>omnia de nihilo.
           </p>
           <p xml:id="hsvhsv-g10044-d1e156">
-            <lb ed="#P" n="13"/><quote source="http://scta.info/resource/gen1_1@1-7">In principio creavit Deus coelum et terram</quote>
+            <lb ed="#P" n="13"/><quote xml:id="hsvhsv-g10044-Qd1e161" source="http://scta.info/resource/gen1_1@1-7">In principio creavit Deus coelum et terram</quote>
             <lb ed="#P" n="14"/>(Gen. 1. Quod creatum est de nihilo factum est.
             <lb ed="#P" n="15"/>Nam quod de aliquo factum est, factum quidem
             <lb ed="#P" n="16"/>est sed creatum non est; quia de nihilo factum
@@ -150,7 +150,7 @@
             <lb ed="#P" n="65"/>suum opus per intervalla temporum ad 
             perfec<lb ed="#P" break="no" n="66"/>tionem promovere, quodque etiam quaedam 
             Scrip<lb ed="#P" break="no" n="67"/>turarum loca, quodammodo idem  asserentia
-            <lb ed="#P" n="68"/>inveniuntur. Ut est illud: <quote source="http://scta.info/resource/sir18_1@1-7">Qui vivit in aeternum,
+            <lb ed="#P" n="68"/>inveniuntur. Ut est illud: <quote xml:id="hsvhsv-g10044-Qd1e300" source="http://scta.info/resource/sir18_1@1-7">Qui vivit in aeternum,
             <lb ed="#P" n="69"/>creavit omnia simul</quote> (Eccli. xvii). Ipsa quoque
             <lb ed="#P" n="70"/>Geneseos scriptura (unde prima ad nos hujus rei
             <lb ed="#P" n="71"/>manavit agnitio) sic ambigue de operatione sex
@@ -349,8 +349,8 @@
             crearen<lb ed="#P" break="no" n="108"/>tur super faciem abyssi fuisse testatur. Talis
             <lb ed="#P" n="109"/>mundi facies in principio priusquam formam 
             re<lb ed="#P" break="no" n="110"/>ciperet aut dispositionem, per Scripturam 
-            signi<lb ed="#P" break="no" n="111"/>ficatur cum dicitur: <quote source="http://scta.info/resource/gen1_1@1-7">In principio creavit Deus
-            <lb ed="#P" n="112"/>ealum et terram.</quote> <quote source="http://scta.info/resource/gen1_2@1-6">Terra autem erat inanis et
+            signi<lb ed="#P" break="no" n="111"/>ficatur cum dicitur: <quote xml:id="hsvhsv-g10044-Qd1e698" source="http://scta.info/resource/gen1_1@1-7">In principio creavit Deus
+            <lb ed="#P" n="112"/>ealum et terram.</quote> <quote xml:id="hsvhsv-g10044-Qd1e703" source="http://scta.info/resource/gen1_2@1-6">Terra autem erat inanis et
             <lb ed="#P" n="113"/>vacua</quote> (Gen. 1);sive, ut alia translatio habet,
             <lb ed="#P" n="114"/>« incomposita, » et tenebra erant super faciem
             <lb ed="#P" n="115"/>abyssi (ibid.). Per coelum namque et terram, 
@@ -528,7 +528,7 @@
             <lb ed="#P" n="23"/>potius de ipsa (quae prius creata erat de nihilo)
             <lb ed="#P" n="24"/>materia formata intelligat. Etiam si aliquando
             <lb ed="#P" n="25"/>verbum creationis positum reperit, ut est ibi :
-            <lb ed="#P" n="26"/><quote source="http://scta.info/resource/gen1_21@1-10">Creavit Deus cete grandia, et omnem animam
+            <lb ed="#P" n="26"/><quote xml:id="hsvhsv-g10044-Qd1e1083" source="http://scta.info/resource/gen1_21@1-10">Creavit Deus cete grandia, et omnem animam
             <lb ed="#P" n="27"/>viventem atque motabilem</quote> (Gen. 1); non ad 
             ma<lb ed="#P" break="no" n="28"/>teriam qua esse coperunt, sed ad formam qua
             <lb ed="#P" n="29"/>hoc quod sunt esse coeperunt, referendum esse
@@ -550,7 +550,7 @@
             pri<lb ed="#P" break="no" n="34"/>mum fecit lucem, ut cetera omnia postmodum 
             fa<lb ed="#P" break="no" n="35"/>ceret in luce. Significavit enim nobis se non amare
             <lb ed="#P" n="36"/>opera quis in tenebris fiunt, quoniam mala sunt.
-            <lb ed="#P" n="37"/><quote source="http://scta.info/resource/io3_20@1-17 http://scta.info/resource/io3_21@1-16">Quia omnis qui male agit odit lucem ; et non
+            <lb ed="#P" n="37"/><quote xml:id="hsvhsv-g10044-Qd1e1123" source="http://scta.info/resource/io3_20@1-17 http://scta.info/resource/io3_21@1-16">Quia omnis qui male agit odit lucem ; et non
             <lb ed="#P" n="38"/>venit ad lucem, ut non arguantur opera ejus,
             <lb ed="#P" n="39"/>quia mala sunt. Qui autem facit veritatem
             <lb ed="#P" n="40"/>venit ad lucem ; ut manifestentur opera sua,
@@ -620,7 +620,7 @@
             <lb ed="#P" n="93"/>fuerunt, mox autem luce apparente super 
             ter<lb ed="#P" break="no" n="94"/>ram plenus dies, propterea quod a perfecto opus
             <lb ed="#P" n="95"/>Dei inchoari debuisset, ideo dixisse Scripturam :
-            <lb ed="#P" n="96"/><quote source="http://scta.info/resource/gen1_5@7-13">Factum est vespere et mane dies unus</quote> (Gen. I)
+            <lb ed="#P" n="96"/><quote xml:id="hsvhsv-g10044-Qd1e1272" source="http://scta.info/resource/gen1_5@7-13">Factum est vespere et mane dies unus</quote> (Gen. I)
             <lb ed="#P" n="97"/>'Non enim dixit Factum est mane et vespere;sed:
             <lb ed="#P" n="98"/>Factum est, inquit, vespere et mane dies unus.
             <lb ed="#P" n="99"/>Quia, sicut diximus, primus dies mane preceé-
@@ -705,7 +705,7 @@
           <p xml:id="hsvhsv-g10044-d1e1404">
             <lb ed="#P" n="30"/>Ergo nemo dicat quomodo ante factum solem
             <lb ed="#P" n="31"/>dies esse potuit; quia antequam sol fieret lux
-            <lb ed="#P" n="32"/>erat: <quote source="http://scta.info/resource/gen1_4@2-12 http://scta.info/resource/gen1_5@1-13">Et vidit Deus lucem quod esset bonum et
+            <lb ed="#P" n="32"/>erat: <quote xml:id="hsvhsv-g10044-Qd1e1440" source="http://scta.info/resource/gen1_4@2-12 http://scta.info/resource/gen1_5@1-13">Et vidit Deus lucem quod esset bonum et
             <lb ed="#P" n="33"/>vocavit lucem diem, et tenebras noctem</quote> (Gen. 1)
             <lb ed="#P" n="34"/>Etipsa lux tres illos primos dies faciebat 
             ante<lb ed="#P" break="no" n="35"/>quam sol fieret etilluminaret mundum. Sed quid
@@ -742,7 +742,7 @@
             Post<lb ed="#P" break="no" n="56"/>quam autem ordinata fuerint omnia ejus, et 
             se<lb ed="#P" break="no" n="57"/>cundum exemplar rationis formamque sapientiae
             <lb ed="#P" n="58"/>disposita, tunc statim incipiet ei lucere sol 
-            jus<lb ed="#P" break="no" n="59"/>titiae; quia sic in repromissione dictum est : <quote source="http://scta.info/resource/mt5_8@1-7">Beati
+            jus<lb ed="#P" break="no" n="59"/>titiae; quia sic in repromissione dictum est : <quote xml:id="hsvhsv-g10044-Qd1e1516" source="http://scta.info/resource/mt5_8@1-7">Beati
             <lb ed="#P" n="60"/>mundo corde ; quoniam ipsi Deum videbunt</quote>
             <lb ed="#P" n="61"/>(Matth. v). Prius ergo in rationali illo mundo
             <lb ed="#P" n="62"/>cordis humani creatur lux, et illuminatur 
@@ -896,7 +896,7 @@
             <lb ed="#P" n="69"/>vidit : haec ipsa lux est qua et nos videre oportet.
             <lb ed="#P" n="70"/>omnem lucem an bona est; nec poterimus judicare
             <lb ed="#P" n="71"/>vero de lucean bona est, donec ista luce illuminati.
-            <lb ed="#P" n="72"/>fuerimus, qua» vere bona est : <quote source="http://scta.info/resource/Icor2_15@1-9">Spiritualis enim
+            <lb ed="#P" n="72"/>fuerimus, qua» vere bona est : <quote xml:id="hsvhsv-g10044-Qd1e1848" source="http://scta.info/resource/Icor2_15@1-9">Spiritualis enim
             <lb ed="#P" n="73"/>dijudécat omnia, et ipse a nemine judicatur</quote>
             <lb ed="#P" n="74"/>Q Cor. n). Et si Spiritus Dei vere in nobis 
             habi<lb ed="#P" break="no" n="75"/>tat, non nos poterunt decipere spiritus erroris,
@@ -918,7 +918,7 @@
             <lb ed="#P" n="91"/>pratendunt; et in ipsis quoque virtutibus non
             <lb ed="#P" n="92"/>solum quae bona sint, sed etiam quae sint potiora
             <lb ed="#P" n="93"/>probemus. Spritualis enim judicabat omnia, et
-            <lb ed="#P" n="94"/>ipse à nemine judicatur; quia <quote source="http://scta.info/resource/Icor2_10@8-14">Spiritus. omnia.
+            <lb ed="#P" n="94"/>ipse à nemine judicatur; quia <quote xml:id="hsvhsv-g10044-Qd1e1899" source="http://scta.info/resource/Icor2_10@8-14">Spiritus. omnia.
             <lb ed="#P" n="95"/>scrutatur, etiam profunda Dei</quote> (ibid.); et unctio
             <lb ed="#P" n="96"/>ejus docet nos de omnibus (I Joan. 11).
           </p>
@@ -1225,7 +1225,7 @@
             <lb ed="#P" n="57"/>Cap. XXII. Quomodo terra germina produxit.
           </p>
           <p xml:id="hsvhsv-g10044-d1e2445">
-            <lb ed="#P" n="58"/>Dixit ergo Deus <quote source="http://scta.info/resource/gen1_11@3-29">ut produceret terra herbam
+            <lb ed="#P" n="58"/>Dixit ergo Deus <quote xml:id="hsvhsv-g10044-Qd1e2500" source="http://scta.info/resource/gen1_11@3-29">ut produceret terra herbam
             <lb ed="#P" n="59"/>viventem et facientem semen, lignumque
             po<lb ed="#P" break="no" n="60"/>miferum faciens fructum in genere suo, cujus
             <lb ed="#P" n="61"/>semen, in semetipso esset super terram : et
@@ -1264,7 +1264,7 @@
             <lb ed="#P" n="85"/>non congregantur neque eis locus unus tribuitur,
             <lb ed="#P" n="86"/>sed relinquuntur diffusm atque expansem, quasi
             <lb ed="#P" n="87"/>aquae coarctari nolint vel colligi. Quid putas hoo
-            <lb ed="#P" n="88"/>Sibi vult nisi quod <quote source="http://scta.info/resource/rom5_5@6-19">Charitas Dei diffusa est in
+            <lb ed="#P" n="88"/>Sibi vult nisi quod <quote xml:id="hsvhsv-g10044-Qd1e2583" source="http://scta.info/resource/rom5_5@6-19">Charitas Dei diffusa est in
             <lb ed="#P" n="89"/>cordibus nostris per Spiritum sanctum qui
             da<lb ed="#P" break="no" n="90"/>tus est nobis</quote>? (Rom. v). Etiste sunt super 
             coeles<lb ed="#P" break="no" n="91"/>tes aquae; quia adhuc emcellentiorem, inquit
@@ -1272,7 +1272,7 @@
             <lb ed="#P" n="93"/>lingua. hominum loquar et angelorum; si 
             ha<lb ed="#P" break="no" n="94"/>buero omnem prophetiam ; si novero mysteria.
             <lb ed="#P" n="95"/>omnia, quid est? nihil prodest si charitatem non.
-            <lb ed="#P" n="96"/>habeam (I Cor. xin). <quote source="http://scta.info/resource/phil4_7@1-13">Paz, ait, Dei quc
+            <lb ed="#P" n="96"/>habeam (I Cor. xin). <quote xml:id="hsvhsv-g10044-Qd1e2603" source="http://scta.info/resource/phil4_7@1-13">Paz, ait, Dei quc
             ezsupe<lb ed="#P" break="no" n="97"/>rat omnem sensum custodiat corda vestra et
             <lb ed="#P" n="98"/>intelligentias vestras</quote> (Philipp. 1v). Jam 
             quodam<lb ed="#P" break="no" n="99"/>modo videmus quare aquae ille qua supra coelum
